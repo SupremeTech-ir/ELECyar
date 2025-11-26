@@ -11,6 +11,7 @@ OUTPUT_DIR = "scraped_data"
 MIN_DELAY = 3  # حداقل وقفه بین درخواست‌ها (ثانیه)
 MAX_DELAY = 8  # حداکثر وقفه بین درخواست‌ها (ثانیه)
 MAX_PAGES = None  # تعداد صفحات مورد نظر (None = همه صفحات)
+SCRAPED_URLS_FILE = "scraped_urls.txt"  # فایل ذخیره URLهای اسکرپ شده
 
 # دسته‌بندی‌ها و کلمات کلیدی مرتبط
 CATEGORIES = {
@@ -53,6 +54,18 @@ CATEGORIES = {
 visited_urls = set()
 scraped_count = 0
 category_counts = {cat: 0 for cat in CATEGORIES.keys()}
+
+def load_scraped_urls(filepath: str) -> set:
+    """بارگذاری لیست URLهای قبلاً اسکرپ شده"""
+    if os.path.exists(filepath):
+        with open(filepath, "r", encoding="utf-8") as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def save_scraped_url(filepath: str, url: str):
+    """ذخیره URL اسکرپ شده در فایل"""
+    with open(filepath, "a", encoding="utf-8") as f:
+        f.write(f"{url}\n")
 
 def detect_category(title: str) -> str:
     """تشخیص دسته‌بندی بر اساس عنوان"""
@@ -127,7 +140,7 @@ async def get_all_links(page, base_url: str):
     
     return links
 
-async def scrape_page(page, url: str, output_dir: str):
+async def scrape_page(page, url: str, output_dir: str, scraped_urls_file: str):
     """اسکرِیپ یک صفحه و ذخیره اطلاعات"""
     global scraped_count, category_counts
     
@@ -151,6 +164,9 @@ async def scrape_page(page, url: str, output_dir: str):
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(content)
         
+        # ذخیره URL در فایل URLهای اسکرپ شده
+        save_scraped_url(scraped_urls_file, url)
+        
         category_counts[category] += 1
         scraped_count += 1
         print(f"✓ ذخیره شد در [{category}]: {filename} (تعداد کل: {scraped_count})")
@@ -169,6 +185,16 @@ async def scrape_domain(base_url: str, output_dir: str, min_delay: int, max_dela
     full_output_dir = os.path.join(script_dir, output_dir)
     os.makedirs(full_output_dir, exist_ok=True)
     
+    # مسیر فایل URLهای اسکرپ شده
+    scraped_urls_file = os.path.join(script_dir, SCRAPED_URLS_FILE)
+    
+    # بارگذاری URLهای قبلاً اسکرپ شده
+    already_scraped = load_scraped_urls(scraped_urls_file)
+    visited_urls.update(already_scraped)
+    
+    if already_scraped:
+        print(f"🔄 تعداد {len(already_scraped)} URL قبلاً اسکرپ شده است و نادیده گرفته می‌شوند.\n")
+    
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(headless=True)
         page = await browser.new_page()
@@ -186,7 +212,7 @@ async def scrape_domain(base_url: str, output_dir: str, min_delay: int, max_dela
             visited_urls.add(current_url)
             
             # اسکرِیپ صفحه
-            success = await scrape_page(page, current_url, full_output_dir)
+            success = await scrape_page(page, current_url, full_output_dir, scraped_urls_file)
             
             if success:
                 # استخراج لینک‌های جدید
@@ -208,6 +234,7 @@ async def scrape_domain(base_url: str, output_dir: str, min_delay: int, max_dela
             if count > 0:
                 print(f"  {category}: {count} محصول")
         print(f"\nمسیر ذخیره: {full_output_dir}")
+        print(f"فایل URLهای اسکرپ شده: {scraped_urls_file}")
         print(f"{'='*80}")
 
 if __name__ == "__main__":
