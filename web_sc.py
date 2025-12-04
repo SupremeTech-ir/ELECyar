@@ -25,9 +25,9 @@ def clean_html(html_text: str) -> str:
     text = re.sub(r'[ \t]+', ' ', text)
     return text.strip()
 
-LIMIT_SUBCATEGORIES = 3
-LIMIT_CATEGORY_ITEMS = 10
-LIMIT_PRODUCTS = 250
+LIMIT_SUBCATEGORIES = None
+LIMIT_CATEGORY_ITEMS = None
+LIMIT_PRODUCTS = 1000
 SAVE_TXT = True
 SAVE_JSONL = True
 
@@ -208,7 +208,7 @@ async def scrape():
     log_message("=" * 60)
     
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=False)
+        browser = await pw.chromium.launch(headless=True)
         page = await browser.new_page()
         page.set_default_timeout(TIMEOUT)
         
@@ -305,7 +305,7 @@ async def scrape():
                 log_message(f"      🟡 تعداد محصولات پیدا شده: {len(product_urls)}")
 
                 if LIMIT_CATEGORY_ITEMS:
-                    product_urls = product_urls[:LIMIT_CATEGORY_ITEMS]
+                    # product_urls = product_urls[:LIMIT_CATEGORY_ITEMS]
                     log_message(f"      🟡 محدود شده به: {len(product_urls)} محصول")
 
                 for url in product_urls:
@@ -333,3 +333,4 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
+
