@@ -25,4 +25,4 @@ jobs:
         python -m playwright install --with-deps
 
     - name: Run script
-      run: python web_sc.py.py
+      run: python web_sc.py
