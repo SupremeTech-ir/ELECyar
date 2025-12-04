@@ -16,13 +16,18 @@ jobs:
       with:
         python-version: "3.11"
 
-    - name: Install dependencies directly
+    - name: Install dependencies
       run: |
         pip install playwright
-
-    - name: Install Playwright browsers
-      run: |
         python -m playwright install --with-deps
 
     - name: Run script
       run: python web_sc.py
+
+    - name: Commit and push scraped data
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add eca_products products_dataset.jsonl scrape_log_*.txt
+        git commit -m "Add scraped data from workflow run"
+        git push
