@@ -10,6 +10,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        persist-credentials: true   # مهم برای push کردن
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -21,13 +23,16 @@ jobs:
         pip install playwright
         python -m playwright install --with-deps
 
-    - name: Run script
+    - name: Run scraper script
       run: python web_sc.py
 
-    - name: Commit and push scraped data
+    - name: Commit and push results
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add eca_products products_dataset.jsonl scrape_log_*.txt
-        git commit -m "Add scraped data from workflow run"
+        git config --local user.email "github-actions@github.com"
+        git config --local user.name "github-actions"
+
+        git add -A
+
+        git commit -m "Update scraped data" || echo "No changes to commit"
+
         git push
