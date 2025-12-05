@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/23874-دیود-شاتکی-srf8150-150v-8a-مارک-gw-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دیود شاتکی SRF8150 150V-8A مارک GW پکیج TO-220FP
+
+قیمت:
+124,000
+
+توضیحات کوتاه:
+دیود شاتکی 150 ولت 8 آمپر SRF8150 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 8 A 
+Vrrm - Repetitive Reverse Voltage: 150 V 
+Vf - Forward Voltage: 0.95 V 
+Ifsm - Forward Surge Current: 150 A
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

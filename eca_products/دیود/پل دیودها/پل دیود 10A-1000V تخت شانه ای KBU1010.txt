@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/پل-دیودها/15457-پل-دیود-10a-1000v-تخت-شانه-ای-kbu1010.html
+================================================================================
+
+عنوان:
+پل دیود 10A-1000V تخت شانه ای KBU1010
+
+قیمت:
+251,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 10 آمپر KBU1010
+
+توضیحات کامل:
+Specification
+Product Category:     Bridge Rectifiers     
+RoHS:      Details     
+Mounting Style:     Through Hole     
+Termination Style:     Through Hole     
+Package/Case:     KBU     
+If - Forward Current:     10 A     
+Peak Reverse Voltage:     1000 V     
+Vf - Forward Voltage:     1.05 V     
+Max Surge Current:     300 A     
+Minimum Operating Temperature:     - 55 C     
+Maximum Operating Temperature:     + 150 C     
+Series:     KBU     
+Packaging:     Bulk     
+Product:     Bridge Rectifier     
+Brand:     GeneSiC Semiconductor     
+Ir - Reverse Current:     10:00 AM     
+Product Type:     Bridge Rectifiers     
+Factory Pack Quantity:     400     
+Subcategory:     Diodes & Rectifiers     
+Vr - Reverse Voltage:     700 V     
+Unit Weight:     8 g
+

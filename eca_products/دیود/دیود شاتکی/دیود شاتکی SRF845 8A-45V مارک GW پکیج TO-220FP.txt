@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/23871-دیود-شاتکی-srf845-8a-45v-مارک-gw-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دیود شاتکی SRF845 8A-45V مارک GW پکیج TO-220FP
+
+قیمت:
+94,400
+
+توضیحات کوتاه:
+دیود شاتکی 45 ولت 8 آمپر SRF845 مارک GW پکیج TO-220FP 
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current : 8 A     
+Vrrm - Repetitive Reverse Voltage : 45 V     
+Vf - Forward Voltage : 0.75 V     
+Ifsm - Forward Surge Current : 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220FP   
+Minimum Operating Temperature : - 55 C     
+Maximum Operating Temperature : + 150 C
+

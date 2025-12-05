@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/خازن-متغیر-واریابل/13369-خازن-متغیر-واریابل-موج-amfm-ژاپنی-toko-مدل-hu-201-k700.html
+================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی TOKO مدل HU-201-K700
+
+قیمت:
+0
+
+توضیحات کوتاه:
+TOKO HU-201-K700 VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+TOKO variable capacitor
+Model: HU-201-K700
+AM-2 O=82PF A=140PF
+FM-2 20PF (40PF) TRIMMER=8PF+
+Install the nut M2.5*5 
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Maximum Operating Temperature: 70 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: Toko
+Capacitance Rating: 7-26pF  
+Type: Trimmer Capacitor
+mpn: PVC-26
+Spindle dims.: 3.86 dia with 2.3mm a/flats.
+Plastic shell size (mm): 16.5 x 16.5 x 7mm
+

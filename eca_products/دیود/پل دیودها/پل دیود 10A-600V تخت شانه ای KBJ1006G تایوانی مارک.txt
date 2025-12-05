@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/پل-دیودها/22306-پل-دیود-10a-600v-تخت-شانه-ای-kbj1006g-تایوانی-مارک-lite-on.html
+================================================================================
+
+عنوان:
+پل دیود 10A-600V تخت شانه ای KBJ1006G تایوانی مارک Lite-On
+
+قیمت:
+302,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 600 ولت 10 آمپر KBJ1006G  تایوانی مارک Lite-On
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Lite-On
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+If - Forward Current: 10 A 
+Peak Reverse Voltage: 600 V 
+Max Surge Current: 170 A
+Vf - Forward Voltage: 1.1 V
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+size : 24.8x32.1x3.5 mm
+
