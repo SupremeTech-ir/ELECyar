@@ -27,7 +27,7 @@ def clean_html(html_text: str) -> str:
 
 LIMIT_SUBCATEGORIES = None
 LIMIT_CATEGORY_ITEMS = None
-LIMIT_PRODUCTS = 1000
+LIMIT_PRODUCTS = 4000
 SAVE_TXT = True
 SAVE_JSONL = True
 
@@ -333,4 +333,5 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
+
 
