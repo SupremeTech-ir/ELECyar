@@ -11,7 +11,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        persist-credentials: true   # مهم برای push کردن
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -31,8 +31,11 @@ jobs:
         git config --local user.email "github-actions@github.com"
         git config --local user.name "github-actions"
 
-        git add -A
+        # 🔵 سوییچ به شاخه‌ای که محافظت نشده
+        git checkout sepehr21ar-patch-1
 
+        git add -A
         git commit -m "Update scraped data" || echo "No changes to commit"
 
-        git push
+        # 🔵 Push به همان شاخه
+        git push origin sepehr21ar-patch-1
