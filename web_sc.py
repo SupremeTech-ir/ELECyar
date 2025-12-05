@@ -36,7 +36,7 @@ OUTPUT_DIR = "eca_products"
 JSONL_FILENAME = "products_dataset.jsonl"
 MIN_DELAY = 2
 MAX_DELAY = 4
-TIMEOUT = 60000
+TIMEOUT = 120000
 
 product_counter = 0
 start_time = None
@@ -79,7 +79,9 @@ async def scrape_product(page, product_url, category_name, subcategory_name):
         return False
 
     try:
-        await page.goto(product_url, wait_until="networkidle", timeout=TIMEOUT)
+        # await page.goto(product_url, wait_until="networkidle", timeout=TIMEOUT)
+        await page.goto(product_url, wait_until="domcontentloaded", timeout=TIMEOUT)
+
 
         title = await get_text(page, "#mainProduct h1")
         
@@ -213,7 +215,9 @@ async def scrape():
         page.set_default_timeout(TIMEOUT)
         
         try:
-            await page.goto(BASE_URL, wait_until="networkidle", timeout=TIMEOUT)
+            # await page.goto(BASE_URL, wait_until="networkidle", timeout=TIMEOUT)
+            await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
+
         except Exception as e:
             log_message(f"❌ خطا در باز کردن صفحه اصلی: {e}")
             log_message("⚠️ در حال تلاش مجدد با domcontentloaded...")
@@ -258,7 +262,9 @@ async def scrape():
             full_sub_url = absolute(sub_url)
 
             log_message(f"\n📂 [{sub_index}/{len(sub_links_data)}] زیر‌دسته: {sub_name}")
-            await page.goto(full_sub_url, wait_until="networkidle")
+            # await page.goto(full_sub_url, wait_until="networkidle")
+            await page.goto(full_sub_url, wait_until="domcontentloaded", timeout=TIMEOUT)
+
             await human_wait()
 
             subcats = await page.query_selector_all(
@@ -288,7 +294,9 @@ async def scrape():
                 full_page_url = absolute(sc_url)
 
                 log_message(f"   🔸 [{sc_index}/{len(sub_subcats)}] زیر زیر دسته: {sc_name}")
-                await page.goto(full_page_url, wait_until="networkidle")
+                # await page.goto(full_page_url, wait_until="networkidle")
+                await page.goto(full_page_url, wait_until="domcontentloaded", timeout=TIMEOUT)
+
                 await human_wait()
 
                 products = await page.query_selector_all(
@@ -312,7 +320,10 @@ async def scrape():
                     if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
                         break
 
-                    await scrape_product(page, url, sub_name, sc_name)
+                    product_page = await browser.new_page()
+                    await scrape_product(product_page, url, sub_name, sc_name)
+                    await product_page.close()
+
                     await human_wait()
 
         await browser.close()
@@ -333,5 +344,6 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
+
 
 
