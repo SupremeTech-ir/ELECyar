@@ -79,9 +79,7 @@ async def scrape_product(page, product_url, category_name, subcategory_name):
         return False
 
     try:
-        # await page.goto(product_url, wait_until="networkidle", timeout=TIMEOUT)
-        await page.goto(product_url, wait_until="domcontentloaded", timeout=TIMEOUT)
-
+        await page.goto(product_url, wait_until="networkidle", timeout=TIMEOUT)
 
         title = await get_text(page, "#mainProduct h1")
         
@@ -210,20 +208,18 @@ async def scrape():
     log_message("=" * 60)
     
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=True)
+        browser = await pw.chromium.launch(headless=False)
         page = await browser.new_page()
         page.set_default_timeout(TIMEOUT)
         
         try:
-            # await page.goto(BASE_URL, wait_until="networkidle", timeout=TIMEOUT)
-            await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
-
+            await page.goto(BASE_URL, wait_until="networkidle", timeout=TIMEOUT)
         except Exception as e:
             log_message(f"❌ خطا در باز کردن صفحه اصلی: {e}")
             log_message("⚠️ در حال تلاش مجدد با domcontentloaded...")
             await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
 
-        await safe_click(page, "#header-main-menu > div > div > div.left-nav-trigger > div > div")
+        await safe_click(page, "#header-main-menu .left-nav-trigger")
 
         await safe_click(page,
             "#index .st-menu .js-sidebar-category-tree > div > ul > li:nth-child(2) > div.js-collapse-trigger"
@@ -262,9 +258,7 @@ async def scrape():
             full_sub_url = absolute(sub_url)
 
             log_message(f"\n📂 [{sub_index}/{len(sub_links_data)}] زیر‌دسته: {sub_name}")
-            # await page.goto(full_sub_url, wait_until="networkidle")
-            await page.goto(full_sub_url, wait_until="domcontentloaded", timeout=TIMEOUT)
-
+            await page.goto(full_sub_url, wait_until="networkidle")
             await human_wait()
 
             subcats = await page.query_selector_all(
@@ -294,9 +288,7 @@ async def scrape():
                 full_page_url = absolute(sc_url)
 
                 log_message(f"   🔸 [{sc_index}/{len(sub_subcats)}] زیر زیر دسته: {sc_name}")
-                # await page.goto(full_page_url, wait_until="networkidle")
-                await page.goto(full_page_url, wait_until="domcontentloaded", timeout=TIMEOUT)
-
+                await page.goto(full_page_url, wait_until="networkidle")
                 await human_wait()
 
                 products = await page.query_selector_all(
@@ -313,17 +305,14 @@ async def scrape():
                 log_message(f"      🟡 تعداد محصولات پیدا شده: {len(product_urls)}")
 
                 if LIMIT_CATEGORY_ITEMS:
-                    # product_urls = product_urls[:LIMIT_CATEGORY_ITEMS]
+                    product_urls = product_urls[:LIMIT_CATEGORY_ITEMS]
                     log_message(f"      🟡 محدود شده به: {len(product_urls)} محصول")
 
                 for url in product_urls:
                     if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
                         break
 
-                    product_page = await browser.new_page()
-                    await scrape_product(product_page, url, sub_name, sc_name)
-                    await product_page.close()
-
+                    await scrape_product(page, url, sub_name, sc_name)
                     await human_wait()
 
         await browser.close()
@@ -344,9 +333,3 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
-
-
-
-
-
-
