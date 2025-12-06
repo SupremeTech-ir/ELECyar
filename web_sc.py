@@ -223,7 +223,8 @@ async def scrape():
             log_message("⚠️ در حال تلاش مجدد با domcontentloaded...")
             await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
 
-        await safe_click(page, "#header-main-menu .left-nav-trigger")
+        await safe_click(page, 'await safe_click(page, "#header-main-menu > div > div > div.left-nav-trigger > div > div')
+")
 
         await safe_click(page,
             "#index .st-menu .js-sidebar-category-tree > div > ul > li:nth-child(2) > div.js-collapse-trigger"
@@ -344,6 +345,7 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
+
 
 
 
