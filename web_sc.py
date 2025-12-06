@@ -208,7 +208,7 @@ async def scrape():
     log_message("=" * 60)
     
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=False)
+        browser = await pw.chromium.launch(headless=True)
         page = await browser.new_page()
         page.set_default_timeout(TIMEOUT)
         
@@ -333,3 +333,4 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
+
