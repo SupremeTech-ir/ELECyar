@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/14276-تراشه-حافظه-m2764a-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه M2764A پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر M2764A پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+FAST ACCESS TIME: 180ns EXTENDED TEMPERATURE RANGE SINGLE 5V SUPPLY VOLTAGE LOW STANDBY CURRENT: 35mA max TTL COMPATIBLE DURING READ and PROGRAM FAST PROGRAMMING ALGORITHM ELECTRONIC SIGNATURE PROGRAMMING VOLTAGE: 12V. The 65,536 bit UV erasable and electrically programmable memory EPROM. It is organized as 8,192 words by 8 bits. The M27C64A is housed a 28 pin Window Ceramic Frit-Seal Dual-in-Line package. The transparent lid allows the user to expose the chip to ultraviolet light to erase the bit pattern. A new pattern can then be written to the device by following the programming procedure.
+
+Specification
+
+Manufacturer: STMicroelectronics     
+Product Category: EPROM     
+Mounting Style: Through Hole     
+Package / Case: CFDIPW-28     
+Memory Size: 64 kbit     
+Organization: 8 k x 8     
+Interface Type: Parallel     
+Operating Supply Current: 75 mA     
+Programming Voltage: 12.5 V     
+Supply Voltage - Min: 4.5 V     
+Minimum Operating Temperature:  - 40 C     
+Maximum Operating Temperature: + 70 C     
+Series: M2764A     
+Packaging: Tube     
+Access Time: 200 ns     
+Brand: STMicroelectronics     
+Operating Supply Voltage: 5 V     
+Output Enable Access Time: 75 ns     
+Product Type: EPROM
+

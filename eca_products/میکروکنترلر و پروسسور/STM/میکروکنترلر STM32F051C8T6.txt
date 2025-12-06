@@ -1,0 +1,59 @@
+URL: https://eshop.eca.ir/stm/24991-میکروکنترلر-stm32f051c8t6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F051C8T6
+
+قیمت:
+1,290,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F051C8T6 معماری ARM Cortex M0 مقدار 64 کیلوبایت حافظه  flash و 8 کیلوبایت RAM و فرکانس 48 مگاهرتز با پکیج LQFP-48
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F051C8T6 دارای پردازنده 32 بیتی و معماری ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 64 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F429ZGT6 دارای 39 پین ورودی/خروجی می باشد.
+
+میکروکنترلر STM32F051C8   دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی 40- تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F051C8 
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 48Mhz
+حافظه فلش : 64 کیلوبایت
+تعداد پین ها ورودی/خروجی : 17
+پکیج : LQFP-48 
+دمای کاری : 40- تا 85+ درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: ARM Microcontrollers - MCU 
+Series: STM32F051C8 
+Mounting Style: SMD/SMT 
+Package / Case: LQFP-48 
+Core: ARM Cortex M0 
+Program Memory Size: 64 kB 
+Data Bus Width: 32 bit 
+ADC Resolution: 12 bit 
+Maximum Clock Frequency: 48 MHz 
+Number of I/Os: 39 I/O 
+Data RAM Size: 8 kB 
+Supply Voltage - Min: 2 V 
+Supply Voltage - Max: 3.6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Brand: STMicroelectronics 
+Data RAM Type: SRAM 
+Moisture Sensitive: Yes 
+Processor Series: ARM Cortex M 
+Product Type: ARM Microcontrollers - MCU 
+Program Memory Type: Flash
+Subcategory: Microcontrollers - MCU 
+Tradename: STM32
+

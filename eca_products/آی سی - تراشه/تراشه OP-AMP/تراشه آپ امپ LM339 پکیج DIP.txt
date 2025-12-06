@@ -1,0 +1,51 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/1772-تراشه-آپ-امپ-lm339-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM339 پکیج DIP
+
+قیمت:
+104,000
+
+توضیحات کوتاه:
+آی سی آپ امپ LM339 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog Comparators
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Comparator Type: Differential
+Number of Channels: 4 Channel
+Output Type: Rail-to-Rail
+Output Current per Channel: 6 mA
+Ib - Input Bias Current: 50 nA
+Vos - Input Offset Voltage: 5 mV
+Supply Voltage - Max: 30 V
+Supply Voltage - Min: 2 V
+Operating Supply Current: 500 uA
+Response Time: 300 ns
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Features: Standard comparator
+Height: 4.57 mm
+Length: 19.3 mm
+Product: Analog Comparators
+Series: LM339
+Supply Type: Single, Dual
+Technology: Bipolar
+Type: Differential Comparator
+Width: 6.35 mm
+Brand: Texas Instruments
+Shutdown: No Shutdown
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V
+GBP - Gain Bandwidth Product: -
+Ios - Input Offset Current: 50 nA
+Maximum Dual Supply Voltage: +/- 15 V
+Minimum Dual Supply Voltage: 1 V
+Operating Supply Voltage: 2 V to 30 V
+Pd - Power Dissipation: 1050 mW
+

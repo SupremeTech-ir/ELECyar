@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/5530-تراشه-آپ-امپ-lm2902n-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM2902N پکیج DIP
+
+قیمت:
+91,200
+
+توضیحات کوتاه:
+آی سی LM2902N اپ امپ با چهار تقویت کننده مستقل با گین بالا
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps 
+Mounting Style: SMD/SMT 
+Package / Case: PDIP-14 
+Supply Voltage - Max: 26 V 
+Output Current per Channel: 30 mA 
+Number of Channels: 4 Channel 
+GBP - Gain Bandwidth Product: 1.2 MHz 
+SR - Slew Rate: 0.5 V/us 
+CMRR - Common Mode Rejection Ratio: 50 dB to 80 dB 
+Ib - Input Bias Current: 250 nA 
+Vos - Input Offset Voltage: 7 mV 
+Supply Voltage - Min: 3 V 
+Operating Supply Current: 175 uA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Shutdown: No Shutdown 
+Series: LM2902 
+Packaging: Tube 
+Amplifier Type: General Purpose Amplifier 
+Features: Standard Amps 
+Height: 4.57 mm 
+Input Type: Rail-to-Rail 
+Length: 19.3 mm 
+Product: Operational Amplifiers 
+Supply Type: Single, Dual 
+Technology: Bipolar 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V 
+en - Input Voltage Noise Density: 35 nV/sqrt Hz 
+Maximum Dual Supply Voltage: +/- 13 V 
+Minimum Dual Supply Voltage: +/- 1.5 V 
+Operating Supply Voltage: 3 V to 26 V, +/- 1.5 V to +/- 13 V
+

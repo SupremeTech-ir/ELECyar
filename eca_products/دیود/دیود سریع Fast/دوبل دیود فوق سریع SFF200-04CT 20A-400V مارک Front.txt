@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/18079-دوبل-دیود-فوق-سریع-sff200-04ct-20a-400v-مارک-frontier.html
+================================================================================
+
+عنوان:
+دوبل دیود فوق سریع SFF200-04CT 20A-400V مارک Frontier
+
+قیمت:
+571,000
+
+توضیحات کوتاه:
+دیود دوبل فوق سریع 400 ولت 20 آمپر SFF200-04CT مارک Frontier
+
+توضیحات کامل:
+Specification
+
+MAXIMUM RECURRENT PEAK REVERSE VOLTAGE(Vrrm) : 400V
+MAXIMUM RMS VOLTAGE(Vrms) : 280V
+MAXIMUM DC BLOCKING VOLTAGE(DC) : 400V
+MAXIMUM AVERAGE FORWARD RECTIFIED CURRENT(Io) : 20A 
+PEAK FORWARD SURGE CURRENT, 8.3ms SINGLE HALF SINE-WAVE SUPERIMPOSED ON RATED LOAD(Ifms) : 250A
+TYPICAL JUNCTION CAPACITANCE : 175PF
+TYPICAL THERMAL RESISTANCE : 2.2C/W
+OPERATING TEMPERATURE RANGE : -55~150C
+

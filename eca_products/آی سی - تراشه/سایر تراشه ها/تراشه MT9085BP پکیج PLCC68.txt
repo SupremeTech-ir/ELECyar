@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/14294-تراشه-mt9085bp-پکیچ-plcc68.html
+================================================================================
+
+عنوان:
+تراشه MT9085BP پکیج PLCC68
+
+قیمت:
+1,550,000
+
+توضیحات کوتاه:
+1024 Channels TDM (ST-BUS) To Parallel Bus Access Circuit (PAC)
+
+
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microsemi     
+Surface Mount: YES     
+Number of Terminals: 68     
+Subcategory: Other Telecom ICs     
+Technology: CMOS     
+Terminal Position: QUAD     
+Terminal Form: J BEND     
+Supply Voltage: 5 V     
+Terminal Pitch: 1.27 mm     
+Pin Count: 68     
+Operating Temperature (Max):  70 °C     
+Operating Temperature (Min): -40 °C     
+Power Supplies: 5 V     
+Temperature Grade: OTHER     
+Supply Current-Max: 50 mA
+

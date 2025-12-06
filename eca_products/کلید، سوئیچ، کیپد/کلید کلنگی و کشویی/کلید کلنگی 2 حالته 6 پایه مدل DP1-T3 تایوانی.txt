@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/کلید-کلنگی-و-کشویی/23924-کلید-کلنگی-2-حالته-6-پایه-مدل-dp1-t3-تایوانی.html
+================================================================================
+
+عنوان:
+کلید کلنگی 2 حالته 6 پایه مدل DP1-T3 تایوانی
+
+قیمت:
+0
+
+توضیحات کوتاه:
+کلید کلنگی 2 حالته 6 پایه مدل DP1-T3 - سری SPDT
+
+توضیحات کامل:
+specification
+
+Part Status : Active
+Mounting Type : Through Hole
+Switch Function : On-On
+Current Rating (Amps) : 5A (AC/DC)
+Voltage Rating - AC : 120 V
+Voltage Rating - DC : 28 V
+
+Features
+
+Epoxy Sealed Terminals
+Panel Cutout Dimensions
+Operating Temperature : -30°C ~ 85°C
+

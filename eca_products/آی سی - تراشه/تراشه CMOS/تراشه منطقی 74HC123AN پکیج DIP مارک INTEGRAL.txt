@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14718-تراشه-منطقی-74hc123an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه منطقی 74HC123AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HC123AN مولتی ویبراتور مونواستابل 2 کاناله پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 2V to 6V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±5.2mA
+Maximum propagation delay time: 45 ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Triggerable from the negative-going edge of input pulse
+Monostable time determined by external resistor and capacitor
+Retriggerable on both inputs (A and B)
+Active-low reset input (R) terminates output pulse
+Output pulse width can range from 30 ns to 10 seconds
+16-pin DIP package (AN suffix)
+

@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/سایر-دیودها/18252-دیود-سریع-fes8ft-8a-300v-تایوانی-مارک-motorola-general-instrument.html
+================================================================================
+
+عنوان:
+دیود سریع FES8FT 8A-300V تایوانی مارک (Motorola) General Instrument
+
+قیمت:
+144,000
+
+توضیحات کوتاه:
+دیود فوق سریع 300 ولت 8 آمپر FES8FT تایوانی مارک GI پکیج TO-220 
+
+توضیحات کامل:
+Specification
+
+Brand : GI
+Product Category: fast Rectifiers
+If - Forward Current : 8 A     
+Vrrm - Repetitive Reverse Voltage : 300 V     
+Vf - Forward Voltage : 1.3 V     
+Ifsm - Forward Surge Current : 125 A     
+Trr-Revers-Recovery Time  : 50 ns  
+Minimum Operating Temperature : - 65 C     
+Maximum Operating Temperature : + 170 C
+Package / Case: TO-220    
+
+** لازم به ذکر است پایه های دیود دارای آلیاژ مرغوب و آبکاری شده با قلع بوده که علاوه بر مقاوم بودن در برابر اکسید شدن، باعث عملیات مونتاژ روان تر و سریعتر نسبت به مدل های معمولی چینی می باشد.
+

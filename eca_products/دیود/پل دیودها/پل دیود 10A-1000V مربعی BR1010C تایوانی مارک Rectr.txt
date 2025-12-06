@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/پل-دیودها/22560-پل-دیود-10a-1000v-مربعی-br1010c-تایوانی-مارک-rectron.html
+================================================================================
+
+عنوان:
+پل دیود 10A-1000V مربعی BR1010C تایوانی مارک Rectron
+
+قیمت:
+511,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 1000 ولت 10 آمپر BR1010C تایوانی مارک Rectron
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Rectron
+Product Category: Bridge DIODE
+RoHS: Details 
+Type: Single Phase Bridge
+Termination Style: Through Hole
+If - Forward Current: 10 A 
+Peak Reverse Voltage: 1000 V 
+Max Surge Current: 200 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Length: 18.5 mm 
+Width: 18.5 mm 
+Height: 7 mm 
+Packaging: Tube
+

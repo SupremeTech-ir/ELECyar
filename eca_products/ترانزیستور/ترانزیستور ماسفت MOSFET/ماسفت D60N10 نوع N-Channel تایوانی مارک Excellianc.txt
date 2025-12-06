@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/18078-ماسفت-d60n10-نوع-n-channel-تایوانی-مارک-excelliancemos-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+ماسفت D60N10 نوع N-Channel تایوانی مارک ExcellianceMos پکیج TO-220FP
+
+قیمت:
+380,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 20 آمپر تایوانی مارک ExcellianceMos نوع N-Channel پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand : ExcellianceMos
+P/N  : D60N10
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Drain-Source Voltage |Vds|: 100 V
+Maximum Gate-Source Voltage |Vgs|: ±25 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 4 V
+Maximum Drain Current |Id|: 20A
+Package: TO-220FP
+

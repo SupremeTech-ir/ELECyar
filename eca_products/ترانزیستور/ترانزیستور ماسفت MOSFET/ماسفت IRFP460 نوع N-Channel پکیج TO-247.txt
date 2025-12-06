@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/2231-ماسفت-irfp460-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ماسفت IRFP460 نوع N-Channel پکیج TO-247
+
+قیمت:
+693,000
+
+توضیحات کوتاه:
+ماسفت 500 ولت 20 آمپر IRFP460 نوع N-Channel پکیج TO-247
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET 
+Technology: Si 
+Mounting Style: Through Hole 
+Number of Channels: 1 Channel 
+Transistor Polarity: N-Channel 
+Vds - Drain-Source Breakdown Voltage: 500 V 
+Id - Continuous Drain Current: 20 A 
+Rds On - Drain-Source Resistance: 270 mOhms 
+Vgs - Gate-Source Voltage: 20 V 
+Maximum Operating Temperature: + 150 C
+Minimum Operating Temperature: - 55 C  
+Fall Time: 58 ns 
+Pd - Power Dissipation: 280 W 
+Rise Time: 59 ns 
+Factory Pack Quantity: 500 
+Transistor Type: 1 N-Channel 
+Typical Turn-Off Delay Time: 110 ns 
+Typical Turn-On Delay Time: 18 ns
+

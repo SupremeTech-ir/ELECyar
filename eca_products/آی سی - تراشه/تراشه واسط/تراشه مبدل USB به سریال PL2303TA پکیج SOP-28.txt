@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-واسط/3598-تراشه-مبدل-usb-به-سریال-pl2303ta-پکیج-sop-28.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال PL2303TA پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال PL2303TA پکیج SMD SOP-28
+
+توضیحات کامل:
+Potential Product Applications
+Single-chip upgrade solution for Legacy RS232 devices to USB interface
+USB to RS232 converters/cables/dongles
+Healthcare/Medical USB Interface Data Transfer Cable
+Personal Infotainment/Media Player Docking USB Interface
+Cellular/PDA USB Interface Data Transfer Cable
+Serial-over-IP Wireless Solution
+USB Barcode/Smart Card Readers
+GPS/Navigation USB Interface
+Point-of-Sale (POS) Terminals/Printers
+PC Docking Station/Port Replicators
+Industrial/Instrumentation/Automation Control USB Interface
+USB Modem/Wireless/Zigbee USB Interface
+Set-Top Box (STB) / Home Gateway USB Interface
+Battery Charger Application
+MCU-based devices to USB interface
+
+PL2303TA is exclusively designed for mobile and embedded solutions in mind, providing a small footprint that could easily fit in to any connectors and handheld devices. With very small power consumption in either operating or suspend mode, PL2303TA is perfect for bus powered operation with plenty of power left for the attached devices. Flexible signal level requirement on the RS232-like serial port side also allows PL2303TA to connect directly to any 3.3V~1.8V range devices.
+

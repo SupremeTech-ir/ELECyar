@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/ولوم/23139-کلید-ولوم-500-اهم-مدل-wh138.html
+================================================================================
+
+عنوان:
+کلید ولوم 500 اهم مدل WH138
+
+قیمت:
+215,000
+
+توضیحات کوتاه:
+ولوم 500 اهم مدل WH138
+
+توضیحات کامل:
+Specification
+
+model : WH138
+Nominal Total Resistance : 500 Ω
+Insulation Resistance : 100MΩ at DC500V
+Dielectric Strength : AC500V for 1 minute
+Rotational Torque : 2 to 20 mN・m
+Mounting style : panel mount type
+Operating Temperature Range : -10 to 85℃
+Rated Power : 0.1W - 0.05W 
+Maximum Operating Voltage in AC mode : 200V - 160V 
+Maximum Operating Voltage in DC mode : 30V - 50V
+
+L: 15mm
+

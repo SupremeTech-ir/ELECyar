@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14715-تراشه-اشمیت-تریگر-74ls14n-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه اشمیت تریگر 74LS14N پکیج DIP مارک INTEGRAL
+
+قیمت:
+218,000
+
+توضیحات کوتاه:
+آی سی 74LS14N اشمیت تریگر دارای خروجی وارون ساز پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Inverters     
+Number of Circuits: 6 Circuit     
+Logic Family: TTL     
+Logic Type: Bipolar     
+Supply Voltage - Max: 5.25 V     
+Supply Voltage - Min: 4.75 V     
+Minimum Operating Temperature: 0 C     
+Maximum Operating Temperature: + 70 C     
+Mounting Style: SMD/SMT     
+Package / Case: PDIP-14         
+Function: Inverter Schmitt Trigger     
+Input Type: Schmitt Trigger     
+Operating Temperature Range: 0 C to + 70 C     
+Number of Output Lines: 6 Output     
+High Level Output Current: - 0.8 mA     
+Low Level Output Current: 16 mA     
+Operating Supply Voltage: 5 V     
+Product Type: Inverters     
+Propagation Delay Time: 22 ns
+

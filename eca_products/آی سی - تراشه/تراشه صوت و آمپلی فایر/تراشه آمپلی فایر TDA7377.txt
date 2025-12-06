@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/5534-تراشه-آمپلی-فایر-tda7377.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7377
+
+قیمت:
+1,200,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده آمپلی فایر 2x30 وات TDA7377
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Audio Amplifiers 
+Series: TDA7377 
+Product: Audio Amplifiers 
+Class: Class-AB 
+Output Power: 35 W 
+Mounting Style: Through Hole 
+Type: 2-Channel Stereo or 4-Channel Stereo 
+Package / Case: Multiwatt-15 
+Audio - Load Impedance: 4 Ohms 
+Supply Voltage - Max: 18 V 
+Supply Voltage - Min: 8 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 150 C 
+Qualification: AEC-Q100 
+Packaging: Tube 
+Brand: STMicroelectronics 
+Number of Channels: 2 Channel 
+Operating Supply Voltage: 8 V to 18 V
+

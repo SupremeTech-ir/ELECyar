@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/6439-ماژول-تریستور-قدرت-semikronsemipak-skkt-9216e.html
+================================================================================
+
+عنوان:
+ماژول تریستور قدرت SEMIKRON/SEMIPACK-SKKT 92/16E-95A-1600V
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ماژول تریستور قدرت SEMIKRON/SEMIPACK-SKKT 92/16E-95A-1600V
+
+توضیحات کامل:
+Specification
+
+ SKKT 92/16E - Thyristor Module, Series Connected, 95 A, 1600 V
+
+Peak Repetitive Off-State Voltage, Vdrm:1.6kV 
+On State RMS Current IT(rms):150A
+Peak Non Rep Surge Current Itsm 50Hz:2kA 
+Gate Trigger Voltage Max Vgt:3V 
+SCR Module Type:Series Connected - SCRs 
+Gate Trigger Current Max, Igt:150mA 
+Holding Current Max Ih: 250mA 
+Product Range: SKKT 92 
+Current It av: 95A
+

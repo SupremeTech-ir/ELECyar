@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/14659-رله-مخابراتی-24v-بوبین-وسط-8-پین-مارک-qianji-کد-jrc-19f4078.html
+================================================================================
+
+عنوان:
+رله مخابراتی 24V بوبین وسط 8 پین مارک QIANJI کد JRC-19F(4078)
+
+قیمت:
+391,000
+
+توضیحات کوتاه:
+رله 1 آمپر 120 ولت AC و 1 آمپر 24 ولت DC دارای 2 کنتاکت 8 پایه QIANJI
+
+توضیحات کامل:
+Specification
+
+Manufacturer: QIANJI
+Relay series: JRC-19F (4078)
+Rated winding voltage: 24VDC
+Rated current: 1.0A
+Switching voltage: 24VDC/120VAC
+Contacts: 2 groups per changeover (DPDT)
+Dimensions: 10 x 20.2 x 11.5mm (without leads)
+Winding resistance: 178 Ohm
+Contact material: AgCdO (Silver alloy)
+

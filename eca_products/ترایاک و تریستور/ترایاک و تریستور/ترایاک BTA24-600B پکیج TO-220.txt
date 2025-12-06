@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/20240-ترایاک-bta24-600b-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ترایاک BTA24-600B پکیج TO-220
+
+قیمت:
+262,000
+
+توضیحات کوتاه:
+ترایاک 600 ولت 25 آمپر BTA24-600B پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Triacs 
+Series: BTA24 
+Non Repetitive On-State Current: 260 A 
+Rated Repetitive Off-State Voltage VDRM: 600 V 
+Off-State Leakage Current @ VDRM IDRM: 5 uA 
+On-State Voltage: 1.55 V 
+Holding Current Ih Max: 50 mA 
+Gate Trigger Voltage - Vgt: 1.3 V 
+Gate Trigger Current - Igt: 35 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Mounting Style: Through Hole 
+Package / Case: TO-220-3 
+Packaging: Tube 
+Brand: STMicroelectronics 
+Current Rating: 25 A
+

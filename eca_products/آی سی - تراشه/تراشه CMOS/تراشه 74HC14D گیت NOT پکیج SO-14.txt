@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-cmos/2657-تراشه-74hc14d-گیت-not-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه 74HC14D گیت NOT پکیج SO-14
+
+قیمت:
+61,200
+
+توضیحات کوتاه:
+آی سی منطقی اشمیت تریگر 74HC14D شامل 6 گیت NOT پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 2V to 6V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±25mA
+Maximum propagation delay time: 14ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Six independent Schmitt-trigger inverter gates
+Schmitt-trigger input
+TTL-compatible input voltage level
+CMOS-compatible output voltage level
+Hysteresis on input to improve noise immunity and signal integrity
+14-pin SO14 package
+

@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22822-دوبل-دیود-شاتکی-yg862c15r-150v-10a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG862C15R 150V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 10 آمپر YG862C15R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+Io: 10 A 
+Vrrm - Repetitive Reverse Voltage: 150 V 
+Vf - Forward Voltage: 0.90 V 
+Ifsm - Forward Surge Current: 75 A 
+Ir - Reverse Current: 150 uA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

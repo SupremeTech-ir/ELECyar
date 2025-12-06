@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/دیود-tvs/17063-دیود-tvs-unidirect-پکیج-sma-کد-p4sma300a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMA کد P4SMA300A
+
+قیمت:
+15,400
+
+توضیحات کوتاه:
+ESD Suppressors / TVS Diodes 300W 256V Unidirectional
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay 
+
+Product Category: ESD Suppressors / TVS Diodes 
+
+Product Type: TVS Diodes 
+
+Polarity: Unidirectional 
+
+Working Voltage: 256 V 
+
+Number of Channels: 1 Channel 
+
+Termination Style: SMD/SMT 
+
+Package / Case: DO-214AC-2 
+
+Breakdown Voltage: 285 V 
+
+Clamping Voltage: 414 V 
+
+Pppm - Peak Pulse Power Dissipation: 300 W 
+
+Vesd - Voltage ESD Contact: - 
+
+Vesd - Voltage ESD Air Gap: - 
+
+Ipp - Peak Pulse Current: 730 mA 
+
+Minimum Operating Temperature: - 65 C 
+
+Maximum Operating Temperature: + 150 C 
+
+Series: P4SMA
+

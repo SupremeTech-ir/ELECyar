@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/stm/4341-میکروکنترلر-stm32f100c8t6b.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F100C8T6B
+
+قیمت:
+4,040,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F100C8T6B با هسته ARM Cortex M3 با حافظه 64KB و فرکانس کاری 24MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر  STM32F100C8T6B دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 24 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر  STM32F100C8T6B دارای 37 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F100C8T6B دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 24 Mhz
+حافظه: 64 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 37
+ماکزیمم سرعت: 48Mhz
+پکیج : 48-LQFP
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer:     STMicroelectronics     
+Product Category:     ARM Microcontrollers - MCU     
+RoHS:     RoHS Compliant Details     
+Core:     ARM Cortex M3     
+Data Bus Width:     32 bit     
+Maximum Clock Frequency:     24 MHz     
+Program Memory Size:     64 kB     
+Data RAM Size:     8 kB     
+Brand:     STMicroelectronics     
+ADC Resolution:     12 bit     
+Operating Supply Voltage:     2 V to 3.6 V     
+Maximum Operating Temperature:     + 85 C     
+Package / Case:     LQFP-48     
+Mounting Style:     SMD/SMT     
+Data RAM Type:     SRAM     
+Interface Type:     I2C, SPI, USART     
+Minimum Operating Temperature:     - 40 C     
+Number of ADC Channels:     10     
+Number of I/Os:     37 I/O     
+Packaging:     Tray     
+Processor Series:     ARM Cortex-M     
+Program Memory Type:     Flash     
+Series:     STM32F1     
+Factory Pack Quantity:     250     
+Tradename:     STM32
+

@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/1804-ترانزیستور-2sc8550-نوع-pnp-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور 2SC8550 نوع PNP پکیج TO-92
+
+قیمت:
+9,000
+
+توضیحات کوتاه:
+ترانزیستور 2SC8550 نوع PNP پکیج TO-92 ولتاژ 50V جریان 150mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: 2SC8550
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector-Emitter Voltage: 50 volts
+Maximum Collector Current: 150 milliamps
+Maximum Power Dissipation: 625 milliwatts
+DC Current Gain (hFE): 120 to 560
+Transition Frequency (fT): 150 MHz
+package : TO-92
+

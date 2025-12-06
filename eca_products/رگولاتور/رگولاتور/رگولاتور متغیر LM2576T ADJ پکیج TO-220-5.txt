@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/رگولاتور/1929-رگولاتور-متغیر-lm2576t-adj-پکیج-to-220-5.html
+================================================================================
+
+عنوان:
+رگولاتور متغیر LM2576T ADJ پکیج TO-220-5
+
+قیمت:
+160,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ قابل تنظیم LM2576T پکیج TO-220-5
+
+توضیحات کامل:
+معرفی
+
+رگولاتور LM2576T  ADJ قطعه ای جهت کاهش و تثبیت ولتاژ می باشد. این آی سی میتواند با ولتاژ ورودی 4 تا 40 ولت، در خروجی ولتاژ  تثبیت شده 1.23 تا 35 ولت ارائه دهد.
+
+Specification 
+
+Product Category: Switching Voltage Regulators
+RoHS:  Details
+Mounting Style: Through Hole
+Package / Case: TO-220-5
+Output Voltage: 1.23 V to 37 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4 V
+Switching Frequency: 47 kHz to 58 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: LM2576
+Packaging: Tube
+Operating Temperature Range: - 40 C to + 125 C
+

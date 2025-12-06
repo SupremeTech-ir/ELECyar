@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/10165-تراشه-دیکودر-mt8870ds-پکیج-soic-18.html
+================================================================================
+
+عنوان:
+تراشه دیکودر MT8870DS پکیج SOIC-18
+
+قیمت:
+375,000
+
+توضیحات کوتاه:
+آی سی رابط مخابراتی MT8870DS پکیج SMD SOIC-18
+
+توضیحات کامل:
+معرفی
+
+آی سی MT8870 یک تراشه آشکارساز تن های DTMF می باشد.MT8870 اولین آی سی معمولی در یافت کننده DTMF است که می تواند کد ها را رمز گشایی کرده و استفاده گسترده ای در مدارات تلفن ، دستگاه های تلفن گویا ، ریموت کنترلر ها و ارتباطات رادیویی دارد.
+
+Specification 
+
+Product: DTMF - Dual-tone Multi-frequency Receivers
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Operating Supply Current: 3 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: SMD/SMT
+Package / Case: SOIC-18
+Packaging: Cut Tape
+Packaging: Reel
+Frequency: 3.58 MHz 
+Brand: Microchip / Microsemi 
+Operating Supply Voltage: 5 V 
+Pd - Power Dissipation: 500 mW (1/2 W)
+

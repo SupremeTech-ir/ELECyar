@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/14212-تریستور-2n881-پکیج-to-18.html
+================================================================================
+
+عنوان:
+تریستور 2N881 پکیج TO-18
+
+قیمت:
+178,000
+
+توضیحات کوتاه:
+تریستور 2N881 پکیج TO-18
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Central Semiconductor     
+Product Category: SCRs     
+Series: 2N881     
+Rated Repetitive Off-State Voltage VDRM: 200V     
+On-State RMS Current - It RMS: 0.8A     
+Gate Trigger Voltage - Vgt: 0.8V     
+Gate Trigger Current - Igt: 200uA     
+Holding Current Ih Max: 5mA     
+Mounting Style: Through Hole     
+Package / Case:  TO-18-3     
+Brand: Central Semiconductor     
+Non Repetitive On-State Current: 6 A     
+Product Type: SCRs     
+Subcategory: Thyristors
+

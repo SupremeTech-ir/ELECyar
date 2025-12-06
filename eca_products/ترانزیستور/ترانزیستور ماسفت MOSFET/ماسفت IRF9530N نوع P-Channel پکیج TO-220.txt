@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/1007-ماسفت-irf9530n-نوع-p-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRF9530N نوع P-Channel پکیج TO-220
+
+قیمت:
+231,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 12 آمپر نوع P-Channel پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: P-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Type Designator: IRF9530N
+Type of Transistor: MOSFET
+Type of Control Channel: P -Channel
+Maximum Power Dissipation (Pd): 88 W
+Maximum Drain-Source Voltage |Vds|: 100 V
+Maximum Gate-Source Voltage |Vgs|: 20 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 4 V
+Maximum Drain Current |Id|: 12 A
+Maximum Junction Temperature (Tj): 175 °C
+Total Gate Charge (Qg): 38(max) nC
+Rise Time (tr): 52 nS
+Drain-Source Capacitance (Cd): 340 pF
+Maximum Drain-Source On-State Resistance (Rds): 0.3 Ohm
+

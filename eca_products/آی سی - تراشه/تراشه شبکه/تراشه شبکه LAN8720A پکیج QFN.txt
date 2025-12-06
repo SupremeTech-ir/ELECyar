@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/تراشه-شبکه/3486-تراشه-شبکه-lan8720a-پکیج-qfn.html
+================================================================================
+
+عنوان:
+تراشه شبکه LAN8720A پکیج QFN
+
+قیمت:
+442,000
+
+توضیحات کوتاه:
+آی سی کنترلر ترنسیور شبکه LAN8720A پکیج QFN SMD
+
+توضیحات کامل:
+Specification
+
+LAN8720AI-CP-TR Part Details & Parametric
+Power Supply Type : Analog|Digital
+Standard Supported: 10BASE-T|100BASE-TX|IEEE 802.3
+Maximum Data Rate:100Mbps
+Typical Data Rate (Mbps): 10/100
+Number of Channels per Chip:1
+Typical Operating Supply Voltage (V): 2.5|3.3
+Minimum Operating Supply Voltage (V): 1.14|2.25|3
+Maximum Operating Supply Voltage (V):1.26|3.6
+Minimum Operating Temperature (°C): -40
+Maximum Operating Temperature (°C):85
+Screening Level: Industrial
+Packaging : Tape and Reel
+Mounting: Surface Mount
+Supplier Package: QFN
+Pin Count: 24
+Lead Shape:No Lead
+

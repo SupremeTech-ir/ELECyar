@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/22623-ترایاک-2n6348ag-مارک-on-semiconductorپکیج-to-220.html
+================================================================================
+
+عنوان:
+ترایاک 2N6348AG مارک ON-Semiconductor پکیج TO-220
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترایاک 600 ولت 12 آمپر 2N6348AG  پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+RoHS: Details
+Series: 2N6348AG  
+Non Repetitive On-State Current: 100 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 10 uA
+On-State Voltage: 1.75 V
+Current Rating: 12 A 
+Holding Current Ih Max: 40 mA
+Gate Trigger Voltage - Vgt: 2 V
+Gate Trigger Current - Igt: 125 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220
+

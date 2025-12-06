@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/3606-تراشه-رم-k4s561632c-tc75-پکیج-tsop-54.html
+================================================================================
+
+عنوان:
+تراشه رم K4S561632C-TC75 پکیج TSOP-54
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم K4S561632C-TC75 پکیج TSOP-54
+
+توضیحات کامل:
+Specification
+
+JEDEC standard 3.3V power supply
+• LVTTL compatible with multiplexed address
+• Four banks operation
+• MRS cycle with address key programs
+-. CAS latency (2 & 3)
+-. Burst length (1, 2, 4, 8 & Full page)
+-. Burst type (Sequential & Interleave)
+• All inputs are sampled at the positive going edge of the system clock.
+• Burst read single-bit write operation
+• DQM (x8) & L(U)DQM (x16) for masking
+• Auto & self refresh
+• 64ms refresh period (4K Cycle)
+• 54pin TSOP II Lead-Free and Halogen-Free package
+

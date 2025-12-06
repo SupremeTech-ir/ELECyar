@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/12938-رله-9v-مینیاتوری-10-پایه-مارک-takamisawa-کد-a9w-k.html
+================================================================================
+
+عنوان:
+رله 9V مینیاتوری 10 پایه ژاپنی مارک TAKAMISAWA کد A9W-K
+
+قیمت:
+627,000
+
+توضیحات کامل:
+Description
+
+Contact Material: Gold, Silver
+Mount: Through Hole
+Number of Pins: 10
+Weight: 1.2 g
+Coil Current:15.54 mA
+Coil Resistance: 579 Ω
+Coil Type: Non-Latching
+Coil Voltage (DC): 9 V
+Contact Current Rating: 2 A
+Max Current Rating: 2 A
+Max Operating Temperature :85 °C
+Max Voltage Rating (AC): 125 V
+Max Voltage Rating (DC):110 V
+Min Operating Temperature: -40 °C
+Operate Time: 6 ms
+Power Consumption: 140 mW
+Termination: Solder
+Throw Configuration: DPDT
+Voltage Rating (AC): 125 V
+Voltage Rating (DC):110 V
+Depth: 9 mm
+Length:14 mm
+

@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/رگولاتور/1813-رگولاتور-8-ولت-78l08-پلاستیکی-پکیج-to-92.html
+================================================================================
+
+عنوان:
+رگولاتور 8+ ولت 78L08 پلاستیکی پکیج TO-92
+
+قیمت:
+29,200
+
+توضیحات کوتاه:
+رگولاتور 8+ ولت 78L08 پلاستیکی پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+Package / Case: TO-92
+Number of Outputs: 1 Output 
+Polarity:Positive 
+Output Voltage: 8.3 V 
+Output Current: 100 mA 
+Output Type: Fixed 
+Input Voltage, Min: 10.5 V 
+Input Voltage, Max: 23 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 125 C 
+Load Regulation: 80 mV 
+Line Regulation: 175 mV 
+Quiescent Current: 6 mA 
+Series: L78
+

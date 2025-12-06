@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/igbt/5558-irg4pc50w-igbt.html
+================================================================================
+
+عنوان:
+IRG4PC50W IGBT
+
+قیمت:
+0
+
+توضیحات کوتاه:
+IGBT Transistors 600V Warp 60-150kHz
+
+توضیحات کامل:
+part number: IRG4PC50WPBF 
+
+Configuration:     Single    
+Collector- Emitter Voltage VCEO Max:     600 V    
+Collector-Emitter Saturation Voltage:     2.3 V    
+Maximum Gate Emitter Voltage:     +/- 20 V    
+Continuous Collector Current at 25 C:     55 A 
+Continuous Collector Current at 100 C:     27 A  
+Pd - Power Dissipation:     200 W    
+Mounting Style:     Through Hole    
+Package / Case:     TO-247-3    
+Packaging:     Tube    
+Height:     20.7 mm (Max)    
+Length:     15.87 mm (Max)    
+Minimum Operating Temperature:     - 55 C
+datasheet
+

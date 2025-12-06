@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/وریستور/19507-وریستور-vdr-05d391k.html
+================================================================================
+
+عنوان:
+وریستور VDR 05D391K
+
+قیمت:
+17,700
+
+توضیحات کوتاه:
+وریستور 390 ولت با تلرانس 10 درصد کد 05D391K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: 05D   
+Diameter : 5mm    
+Mounting Style: PCB Mount     
+Termination Style: Radial     
+Voltage Rating DC: 320 VDC
+Clamping Voltage: 675 V     
+Peak Surge Current: 2.5 kA     
+Capacitance: 65 pF     
+Minimum Operating Temperature: -40 C     
+Maximum Operating Temperature: +85 C     
+Tolerance: 10 %
+

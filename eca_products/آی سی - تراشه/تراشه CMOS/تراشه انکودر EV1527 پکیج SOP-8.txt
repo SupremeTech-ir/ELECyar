@@ -1,0 +1,60 @@
+URL: https://eshop.eca.ir/تراشه-cmos/23708-تراشه-انکودر-ev1527-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه انکودر EV1527 پکیج SOP-8
+
+قیمت:
+48,300
+
+توضیحات کوتاه:
+آی سی انکودرEV1527  با کد گذاری 20 بیتی و مصرف انرژی پایین برای سیستم‌های کنترل از راه دور
+
+توضیحات کامل:
+تراشه EV1527 یک انکودر با تکنولوژی CMOS ساخته شده و دارای حداکثر 20 بیت برای تولید تا یک میلیون کد منحصر به فرد است. این ویژگی باعث کاهش تصادم کدها و جلوگیری از اسکن کدهای غیرمجاز می‌شود. تکنولوژی OTP اجازه می‌دهد که داده‌ها تنها یکبار برنامه‌ریزی شوند و پس از آن دائمی شده و قابل تغییر یا حذف نباشند. این تراشه در سیستم‌های کنترل از راه دور بی‌سیم مانند ریموت کنترل‌ها، سیستم‌های امنیتی و دستگاه‌های خانه هوشمند به کار می‌رود و امنیت و کارایی بالایی را در ارتباطات بی‌سیم فراهم می‌کند.
+
+ویژگی ها
+
+تکنولوژی CMOS 
+جریان آماده به کار پایین: 1.0میکرو آمپر
+ولتاژ کاری: 3  تا 12 ولت DC
+تا 4 پین داده 
+مجموع 1048576 کد آدرس   
+نوسان‌ساز با یک مقاومت  
+دمای نگهداری: -40 تا 125 درجه سانتی‌گراد 
+دمای کاری: -20 تا 70 درجه سانتی‌گراد   
+حداکثر توان اتلاف: 300 میلی وات  
+پکیج: SMD SOP8 
+
+کاربرد
+
+آی سی EV1527 در  ریموت کنترل‌ها برای کنترل درب‌های گاراژ، سیستم‌های روشنایی و لوازم خانگی، در سیستم‌های امنیتی برای ارسال سیگنال‌های هشدار و کنترل سنسورهای بی‌سیم، و در سیستم‌های خانه هوشمند و کنترل صنعتی برای مدیریت دستگاه‌ها و تجهیزات مختلف به کار می‌رود. با تولید 1,048,576 کد منحصر به فرد، امنیت و کارایی بالایی را در ارتباطات بی‌سیم فراهم می‌کند.
+
+فهرست مقاومت‌های کالیبراسیون نوسان‌ساز در زیر نشان داده شده است:
+
+Description
+
+The EV1527 is OTP Encoder utilizing CMOS technology process. EV1527 hai a maximum of 20 bits providing up to 1 million codes.It can reduce any code collision and unauthorized code scanning possibilities. An OTP (One-Time Programmable) encoder refers to a device or circuit that is designed to encode information using a one-time programmable method. OTP technology allows data to be programmed into a device only once, after which the programmed information becomes permanent and cannot be altered or erased.
+
+Features
+
+Compatible : EV1527, RT1527, FP1527
+CMOS Technology 
+Low stand by Current : 1.0uA 
+Wide range of Operating Voltage : Vcc＝3.0～12V 
+Up to 4 data pins 
+Total 1048576 address codes 
+Single Resistor Oscillator 
+Package: SOP8
+
+Pinout Information
+
+OCSI Oscillator input pull-up R to Vcc I
+Vcc Positive power supply 
+GND Ground 
+Dout Data output pin O 
+K0 Data input with pull-low R I 
+K1 Data input with pull-low R I 
+K2 Data input with pull-low R I 
+K3 Data input with pull-low R I
+

@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/14286-تراشه-حافظه-toshiba-tc5516ap-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه TOSHIBA TC5516AP پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه TC5516AP مارک توشیبا پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Sub Category: SRAMs
+Access Time-Max: 200.0  ns
+I/O Type: COMMON
+Memory Density: 16384.0  bit
+Memory IC Type: STANDARD SRAM
+Memory Width: 8
+Number of Terminals: 24
+Number of Words: 2048.0  words
+Number of Words Code: 2K
+Operating Mode: ASYNCHRONOUS
+Operating Temperature-Min: -30.0  Cel
+Operating Temperature-Max: 85.0  Cel
+Organization: 2KX8
+Output Characteristics: 3-STATE
+Package Body Material: PLASTIC/EPOXY
+Package Code: DIP
+Package Equivalence Code: DIP24,.6
+Package Shap: RECTANGULAR
+Package Style: IN-LINE
+Parallel/Serial:  PARALLEL
+Qualification Status: Not Qualified
+Standby Current-Max: 3.0E-5  Amp
+Supply Voltage-Nom (Vsup): 5.0  V
+Surface Mount: NO
+Technology: CMOS
+Terminal Pitch: 2.54  mm
+

@@ -1,0 +1,52 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/14265-تراشه-pdiusbd12pw-اینترفیس-usb-پکیج-smd-tssop-28.html
+================================================================================
+
+عنوان:
+تراشه PDIUSBD12PW اینترفیس USB پکیج SMD TSSOP-28
+
+قیمت:
+2,100,000
+
+توضیحات کوتاه:
+تراشه اینترفیس USB پکیج SOT-361
+
+توضیحات کامل:
+Specification
+
+Manufacturer: NXP 
+Product Category: USB Interface IC 
+Product: USB Controllers 
+Standard: USB 1.1 
+Speed: Full Speed (FS) 
+Data Rate: 12 Mb/s 
+Supply Voltage - Min: 4 V 
+Supply Voltage - Max: 5.5 V 
+Packaging: Reel 
+Packaging: Cut Tape 
+Brand: NXP Semiconductors 
+Operating Supply Voltage: 4 V to 5.5 V 
+Product Type: USB Interface IC
+Complies with the Universal Serial Bus specification Rev. 2.0 (basic speed)
+High performance USB interface device with integrated SIE, FIFO memory, transceiver and voltage regulator
+Compliant with most Device Class specifications
+High-speed (2 Mbytes/s) parallel interface to any external microcontroller or microprocessor
+Fully autonomous DMA operation Integrated 320 bytes of multi-configuration FIFO memory
+Double buffering scheme for main endpoint increases throughput and eases
+real-time data transfer
+Data transfer rates: 1 Mbytes/s achievable in Bulk mode, 1 Mbits/s achievable in
+Isochronous mode
+Bus-powered capability with very good EMI performance
+Controllable LazyClock output during suspend
+Software controllable connection to the USB bus (SoftConnect™)
+Good USB connection indicator that blinks with traffic (GoodLink™)
+Programmable clock frequency output
+Complies with the ACPI, OnNOW and USB power management requirements
+Internal Power-on reset and low-voltage reset circuit
+Available in SO28 and TSSOP28 pin packages
+Full industrial grade operation from -40 to +85 °C
+Higher than 8 kV in-circuit ESD protection lowers cost of extra components
+Full-scan design with high fault coverage (>99%) ensures high quality
+Operation with dual voltages:
+3.3 ±0.3 V or extended 5 V supply range of 4.0 to 5.5 V
+ Multiple interrupt modes to facilitate both bulk and isochronous transfers.
+

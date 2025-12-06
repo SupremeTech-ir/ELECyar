@@ -1,0 +1,76 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/1821-تراشه-مقایسه-کننده-ولتاژ-lm311-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مقایسه کننده ولتاژ LM311 پکیج DIP
+
+قیمت:
+106,000
+
+توضیحات کوتاه:
+مقایسه‌گر سریع و دقیق ولتاژ با خروجی open-collector مناسب مدارهای دیجیتال و آنالوگ LM311 پکیج DIP 
+
+توضیحات کامل:
+تراشه LM311 یک مقایسه‌گر ولتاژ با سرعت بالا و دقت قابل‌اعتماد است که به‌طور گسترده در طراحی مدارهای آنالوگ و دیجیتال به‌کار می‌رود. این آی‌سی با استفاده از ورودی‌های تفاضلی خود، دو سطح ولتاژ را با هم مقایسه کرده و خروجی منطقی مناسب را ارائه می‌دهد. خروجی Open-Collector آن این امکان را می‌دهد تا بتوان خروجی چندین آی‌سی را به یک خط مشترک متصل کرد یا آن را به‌صورت pull-up کنترل نمود. یکی از مزایای اصلی این تراشه، توانایی عملکرد در محدوده ولتاژ تغذیه گسترده از ±15V تا 5V است که آن را برای طیف وسیعی از کاربردها مناسب می‌سازد. این تراشه به‌صورت single comparator عرضه می‌شود و با توجه به طراحی ساده و عملکرد دقیق، در مدارهایی مانند آشکارسازهای سطح، مبدل‌های آنالوگ به دیجیتال ساده، و سیستم‌های کنترل صنعتی کاربرد گسترده دارد.
+
+مشخصات
+
+ولتاژ کاری: ±15V یا 5V تا 30V
+جریان مصرفی: حدود 6mA
+ولتاژ ورودی ماکزیمم: ±15V
+نوع خروجی: Open-Collector
+پکیج: DIP-8
+سرعت سوئیچینگ: حدود 200ns
+توان مصرفی: حدود 150mW
+دمای کاری: 0°C تا +70°C
+
+کاربردهای رایج
+
+این تراشه برای مقایسه سیگنال‌های آنالوگ در مدارهای مختلف به‌کار می‌رود. به‌دلیل قابلیت عملکرد با ولتاژهای مختلف و خروجی قابل‌تنظیم، در طراحی مدارات کنترلی، محافظ ولتاژ، آشکارسازهای صفر و سیستم‌های نمونه‌برداری مورد استفاده قرار می‌گیرد. همچنین به‌دلیل ساختار ساده و پایداری بالا، گزینه‌ای مناسب برای آموزش و نمونه‌سازی است.
+
+کنترل‌کننده‌های ولتاژ آستانه
+مبدل‌های آنالوگ به دیجیتال ساده
+آشکارساز عبور از صفر
+محافظ ولتاژ باتری
+مدارهای مقایسه‌کننده در تجهیزات پزشکی
+سیستم‌های کنترل صنعتی
+مدارهای تشخیص نور یا دما
+مدارات زمان‌سنج دقیق
+آموزش در آزمایشگاه‌های الکترونیک
+مدارهای تقویت‌کننده تفاضلی با مقایسه‌گر خروجی
+
+Specification
+
+Product Category: Analog Comparators 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Comparator Type: Differential 
+Number of Channels: 1 Channel 
+Output Type: Open Collector 
+Ib - Input Bias Current: 250 nA 
+Vos - Input Offset Voltage: 7.5 mV 
+Supply Voltage - Max: 36 V 
+Supply Voltage - Min: 5 V 
+Operating Supply Current: 7.5 mA 
+Response Time: 200 ns 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Features: Strobe, Vos Adj Pin 
+Height: 3.3 mm 
+Length: 9.27 mm
+Width: 6.35 mm  
+Product: Analog Comparators 
+Series: LM311-N 
+Supply Type: Single, Dual 
+Technology: Bipolar 
+Type: Voltage Comparator
+Brand: Texas Instruments 
+Shutdown: Shutdown 
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V 
+GBP - Gain Bandwidth Product: - 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 2.5 V 
+Operating Supply Voltage: 9 V, 12 V, 15 V, 18 V, 24 V, 28 V 
+Pd - Power Dissipation: 500 mW (1/2 W)
+

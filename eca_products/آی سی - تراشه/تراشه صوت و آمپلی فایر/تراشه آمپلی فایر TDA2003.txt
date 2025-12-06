@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/2476-تراشه-آمپلی-فایر-tda2003.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2003
+
+قیمت:
+189,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA2003
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: TDA2003A
+Product: Audio Amplifiers
+Output Power: 10 W
+Mounting Style: Through Hole
+Type: Single
+Package / Case: Pentawatt
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Packaging: Tube
+Brand: STMicroelectronics
+Number of Channels: 1 Channel
+Operating Supply Current: 44 mA
+Operating Supply Voltage: 8 V to 18 V
+Pd - Power Dissipation: 20 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 36 dB
+

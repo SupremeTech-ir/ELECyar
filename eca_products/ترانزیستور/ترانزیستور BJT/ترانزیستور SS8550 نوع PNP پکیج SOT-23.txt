@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/5560-ترانزیستور-ss8550-نوع-pnp-پکیج-sot-23.html
+================================================================================
+
+عنوان:
+ترانزیستور SS8550 نوع PNP پکیج SOT-23
+
+قیمت:
+7,100
+
+توضیحات کوتاه:
+ترانزیستور SS8550 نوع PNP پکیج SOT-23 ولتاژ 25V جریان 1.5A
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: PNP
+
+توضیحات کامل:
+Specification 
+
+Product Category:     Bipolar Transistors - BJT     
+RoHS:     RoHS Compliant Details     
+Mounting Style:     SMD/SMT     
+Package/Case:     SOT-23     
+Transistor Polarity:     PNP     
+Configuration:     Single     
+Collector- Emitter Voltage VCEO Max:     25 V     
+Collector- Base Voltage VCBO:     40 V     
+Emitter- Base Voltage VEBO:     1.6 V     
+Collector-Emitter Saturation Voltage:     0.5 V     
+Gain Bandwidth Product fT:     100 MHz     
+Maximum Operating Temperature:     + 150 C     
+Series:     MMSS8550     
+Continuous Collector Current:     1.5 A     
+DC Collector/Base Gain hFE Min:     40     
+DC Current Gain hFE Max:     350     
+Minimum Operating Temperature:     - 55 C     
+Packaging:     Reel     
+Pd - Power Dissipation:     0.625 W     
+Factory Pack Quantity:     3000     
+Unit Weight:     201 mg
+

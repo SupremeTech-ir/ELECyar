@@ -1,0 +1,56 @@
+URL: https://eshop.eca.ir/پاور-led-و-لنز-و-درایور/26017-led-cree-سفید-مهتابی-36v-3w-به-همراه-هیت-سینک.html
+================================================================================
+
+عنوان:
+LED CREE سفید مهتابی 3.6V-3W به همراه هیت سینک
+
+قیمت:
+229,000
+
+توضیحات کوتاه:
+LED توان بالا سفید مهتابی با توان 3 وات و ولتاژ 3.6 ولت، نصب‌شده روی پایه آلومینیومی برای دفع حرارت موثر
+
+توضیحات کامل:
+این کالا یک LED پرقدرت برند CREE با دمای رنگ مهتابی (6500–6000کلوین) است که روی یک هیت‌سینک ستاره‌ای آلومینیومی به قطر 20 میلی‌متر مونتاژ شده است. این نوع طراحی به دفع بهتر گرما و افزایش عمر مفید LED کمک می‌کند. چیپ استفاده‌شده شدت نور بالا با راندمان انرژی مناسب را دارد. برای عملکرد صحیح، تغذیه بین 3 تا 3.6 ولت DC با جریان حدود 700 تا 850 میلی‌آمپر نیاز دارد. این ماژول فاقد مقاومت محدودکننده جریان داخلی است، بنابراین استفاده از درایور جریان ثابت (Constant Current) الزامی‌ست.
+
+مشخصات
+
+ولتاژ کاری: 3 تا 3.6 ولت DC
+توان مصرفی: 3 وات
+جریان کاری: 700تا 850میلی‌آمپر
+دمای رنگ: 6000 تا 6500 کلوین (سفید مهتابی)
+نوع چیپ: CREE High Power (احتمالاً XP-G یا XP-E2)
+ابعاد پایه: 20 میلی‌متر (فرم ستاره‌ای)
+جنس پایه: آلومینیوم با انتقال حرارت بالا
+مقاومت داخلی: ندارد (درایور جریان ثابت مورد نیاز است)
+قابلیت نصب: پیچ‌خور یا چسب حرارتی به هیت‌سینک
+
+کاربردهای رایج
+
+این نوع LED به‌دلیل توان بالا و پخش نوری متمرکز، در انواع پروژه‌های روشنایی دقیق یا فشرده کاربرد دارد. گزینه‌ای مناسب برای سیستم‌های نورپردازی سفارشی، روشنایی داخل وسایل نقلیه، تجهیزات قابل‌حمل و کاربردهای صنعتی کم‌حجم است.
+
+روشنایی نقطه‌ای در ویترین و کابینت‌ها
+چراغ‌های قوه و پرژکتورهای کوچک
+نور ماشین‌آلات یا تجهیزات صنعتی
+چراغ جلو یا داخل خودرو
+پروژه‌های روشنایی قابل حمل
+روشنایی اضطراری DC
+نورپردازی کنترل‌شده توسط آردوینو یا رزبری پای
+پروژکتورهای کوچک خانگی یا DIY
+سیستم‌های روشنایی سولار
+نور مکمل در آکواریوم‌ها یا باغچه‌های داخلی
+
+This product is a high-power CREE LED with a moonlight color temperature (6500–6000K) assembled on a 20mm diameter aluminum star heatsink. This design helps to dissipate heat better and increase the useful life of the LED. The chip used has high light intensity with good energy efficiency. For proper operation, it requires a power supply between 3 and 3.6V DC with a current of about 700 to 850mA. This module does not have an internal current limiting resistor, so the use of a constant current driver is required.
+
+Specifications
+
+Operating voltage: 3 to 3.6 V DC
+Power consumption: 3 W
+Operating current: 700 to 850 mA
+Color temperature: 6000 to 6500 K (moon white)
+Chip type: CREE High Power (probably XP-G or XP-E2)
+Base dimensions: 20 mm (star shape)
+Base material: High heat transfer aluminum
+Internal resistance: None (constant current driver required)
+Installation: Screw or thermal adhesive to heat sink
+

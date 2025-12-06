@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/1005-ماسفت-irf630-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRF630 نوع N-Channel پکیج TO-220
+
+قیمت:
+234,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 9 آمپر IRF630 نوع N-Channel  پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Specification 
+Product Category: MOSFET
+Technology: Si
+Package / Case: TO-220-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 200 V
+Id - Continuous Drain Current: 9 A
+Rds On - Drain-Source Resistance: 400 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Vgs th - Gate-Source Threshold Voltage: 2 V
+Qg - Gate Charge: 31 nC
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Pd - Power Dissipation: 75 W
+Channel Mode: Enhancement
+Packaging: Tube
+Configuration: Single
+Forward Transconductance - Min: 3 S
+Height: 9.15 mm
+Length: 10.4 mm
+Product Type: MOSFET
+Rise Time: 15 ns
+Series: IRF630
+Subcategory: MOSFETs
+Transistor Type: 1 N-Channel
+Type: MOSFET
+Typical Turn-On Delay Time: 10 ns
+Width: 4.6 mm
+

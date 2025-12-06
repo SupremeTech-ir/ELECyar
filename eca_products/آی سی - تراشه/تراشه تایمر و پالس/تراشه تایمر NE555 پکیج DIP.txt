@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/1797-تراشه-تایمر-ne555-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه تایمر NE555 پکیج DIP
+
+قیمت:
+31,500
+
+توضیحات کوتاه:
+تراشه زمان سنج،نوسانگر و تولید پالس NE555 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+آی سی NE555 یکی از آی سی های نسبتا مشهور که مولد موج مربعی است و در صنعت الکترونیک کاربرد زیادی دارد ,  می باشد. از این آی سی میتوان در مدار نوسان ساز های مربعی ,در تایمر ها , در مدار های آژیر و غیره استفاده نمود. این آی سی دارای دقت فوق العاده زیاد و خطای کم می باشد و بوسیله ی آن می توان تایمر هایی از مدت زمانهای کم تا چندین ساعت را ایجاد کرد .
+
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Timers & Support Products 
+RoHS: Details 
+Series: NE555 
+Type: Standard 
+Number of Internal Timers: 1 Timer 
+Supply Voltage - Max: 16 V 
+Supply Voltage - Min: 4.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Packaging: Tube 
+Height: 4.57 mm 
+Length: 9.81 mm 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+High Level Output Current: 200 mA 
+Low Level Output Current: - 200 mA 
+Operating Supply Current: 2000 uA 
+Product Type: Timers & Support Products
+

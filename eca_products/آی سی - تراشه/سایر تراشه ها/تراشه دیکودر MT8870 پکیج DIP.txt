@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/1521-تراشه-دیکودر-mt8870-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه دیکودر MT8870 پکیج DIP
+
+قیمت:
+434,000
+
+توضیحات کوتاه:
+آی سی دیکودر رابط های مخابراتی MT8870 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+آی سی MT8870 یک تراشه آشکارساز تن های DTMF می باشد.MT8870 اولین آی سی معمولی در یافت کننده DTMF است که می تواند کد ها را رمز گشایی کرده و استفاده گسترده ای در مدارات تلفن ، دستگاه های تلفن گویا ، ریموت کنترلر ها و ارتباطات رادیویی دارد.
+
+Specification
+
+Manufacturer: Microchip 
+Product Category: Telecom Interface ICs 
+RoHS: Details 
+Product: DTMF - Dual-tone Multi-frequency Receivers 
+Supply Voltage - Max: 5.25 V 
+Supply Voltage - Min: 4.75 V 
+Operating Supply Current: 3 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Package / Case: DIP-18 
+Frequency: 3.58 MHz 
+Brand: Microchip / Microsemi 
+Moisture Sensitive: Yes 
+Operating Supply Voltage: 5 V 
+Pd - Power Dissipation: 500 mW (1/2 W) 
+Product Type: Telecom Interface ICs
+

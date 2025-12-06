@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/14266-تراشه-lvds32-پکیج-so-16.html
+================================================================================
+
+عنوان:
+تراشه LVDS32 پکیج SO-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+100 Mbps LVDS quad high-speed differential receiver
+
+توضیحات کامل:
+Introduction
+
+The SN55LVDS32, SN65LVDS32, SN65LVDS3486, and SN65LVDS9637 devices are differential line receivers that implement the electrical characteristics of low-voltage differential signaling (LVDS). This signaling technique lowers the output voltage levels of 5-V differential standard levels (such as EIA/TIA-422B) to reduce the power, increase the switching speeds, and allow operation with a 3.3-V supply rail. Any of the differential receivers provides a valid logical output state with a ±100-mV differential input voltage within the input common-mode voltage range. The input common-mode voltage range allows 1 V of ground potential difference between two LVDS nodes.
+The intended application of these devices and signaling technique is both point-to-point and multidrop (one driver and multiple receivers) data transmission over controlled impedance media of approximately 100 Ω. The transmission media may be printed-circuit board traces, backplanes, or cables. The ultimate rate and distance of data transfer depends on the attenuation characteristics of the media and the noise coupling to the environment.
+
+Specification
+
+Mfr: Texas Instruments    
+Series: 65LVDS
+Type: Receiver
+Protocol: LVDS
+Number of Drivers/Receivers: 0/4
+Data Rate: 100Mbps
+Voltage - Supply: 3V ~ 3.6V
+Operating Temperature: -40°C ~ 85°C
+Mounting Type: Surface Mount
+Package / Case: SO-16
+Supplier Device Package: SO-16
+

@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/دیود-tvs/20439-دیود-tvs-unidirect-پکیج-smb-کد-smbj24a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ24A
+
+قیمت:
+15,100
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 24 ولت 600 وات SMBJ24A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay 
+Product Category: ESD Suppressors / TVS Diodes 
+Product Type: TVS Diodes 
+Polarity: Unidirectional 
+Working Voltage: 24 V 
+Number of Channels: 1 Channel 
+Termination Style: SMD/SMT 
+Package / Case: DO-214AA-2 
+Breakdown Voltage: 26.7 V 
+Clamping Voltage: 38.9 V 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Vesd - Voltage ESD Contact: - 
+Vesd - Voltage ESD Air Gap: - 
+Cd - Diode Capacitance: - 
+Ipp - Peak Pulse Current: 15.4 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

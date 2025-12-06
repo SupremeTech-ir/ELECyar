@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/2486-ماسفت-irf9630-نوع-p-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRF9630 نوع P-Channel پکیج TO-220
+
+قیمت:
+336,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 6.5 آمپر نوع P-Channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: P-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole    
+Package / Case: TO-220-3    
+Number of Channels: 1 Channel    
+Transistor Polarity: P-Channel    
+Vds - Drain-Source Breakdown Voltage: - 200 V    
+Id - Continuous Drain Current: 6.5 A    
+Rds On - Drain-Source Resistance: 800 mOhms    
+Vgs - Gate-Source Voltage: 20 V    
+Maximum Operating Temperature: + 150 C        
+Fall Time: 24 ns    
+Height: 9.01 mm    
+Length: 10.41 mm    
+Minimum Operating Temperature: - 55 C    
+Pd - Power Dissipation: 74 W    
+Rise Time: 27 ns    
+Factory Pack Quantity: 1000    
+Transistor Type: 1 P-Channel    
+Typical Turn-Off Delay Time: 28 ns    
+Typical Turn-On Delay Time: 12 ns
+

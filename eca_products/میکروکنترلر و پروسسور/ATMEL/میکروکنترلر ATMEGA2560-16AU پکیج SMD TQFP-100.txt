@@ -1,0 +1,66 @@
+URL: https://eshop.eca.ir/atmel/1420-میکروکنترلر-atmega2560-16au-پکیج-smd-tqfp-100.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA2560-16AU پکیج SMD TQFP-100
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA2560-16AU با هسته 8 بیتی AVR (پکیج SMD TQFP-100) با حافظه 256KB، فرکانس کاری 16MHz و 100 پایه 
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA2560-16AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA2560-16AU دارای 86 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA2560-16AU دارای ولتاژ کاری 4.5 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega256x
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 4.5 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 256 kB
+پکیج :  TQFP-100
+تعداد پین ها ورودی/خروجی : 86
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+ATMEGA2560-16AU is a low power CMOS 8 bit microcontroller based on the AVR enhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATMEGA2560-16AU achieves throughputs approaching 1MIPS per MHz allowing the system designer to optimise power consumption versus processing speed.
+
+Specification
+
+Manufacturer: Microchip 
+Product Category: 8-bit Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: TQFP-100 
+Series: ATmega256x 
+Core: AVR 
+Data Bus Width: 8 bit 
+Maximum Clock Frequency: 16 MHz 
+Program Memory Size: 256 kB 
+Data RAM Size: 8 kB 
+ADC Resolution: 10 bit 
+Number of I/Os: 86 I/O 
+Operating Supply Voltage: 4.5 V to 5.5 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Height: 1 mm 
+Length: 14 mm 
+Product: MCU 
+Program Memory Type: Flash 
+Width: 14 mm 
+Brand: Microchip Technology / Atmel 
+Data RAM Type: SRAM 
+Data ROM Size: 4 kB 
+Data ROM Type: EEPROM 
+Interface Type: 2-Wire, SPI, USART 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 16 
+Number of Timers/Counters: 6 Timer
+

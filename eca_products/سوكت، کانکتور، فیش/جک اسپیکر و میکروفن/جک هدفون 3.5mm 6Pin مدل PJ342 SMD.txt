@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/جک-اسپیکر-و-میکروفن/26111-جک-هدفون-35mm-6pin-مدل-pj342-smd.html
+================================================================================
+
+عنوان:
+جک هدفون 3.5mm 6Pin مدل PJ342 SMD
+
+قیمت:
+0
+
+توضیحات کوتاه:
+جک صوتی 3.5mm شش پین SMD مناسب برای کاربردهای صوتی در بردهای الکترونیکی فشرده
+
+توضیحات کامل:
+جک PJ342 یک کانکتور صوتی 3.5 میلی‌متری از نوع SMD با شش پایه اتصال است که برای کاربردهای ورودی و خروجی صدا در مدارهای الکترونیکی طراحی شده است. این مدل از نوع نصب سطحی (Surface Mount) بوده و برای استفاده در دستگاه‌هایی مانند کارت‌های صدا، ماژول‌های صوتی، بردهای توسعه، و تجهیزات قابل حمل بسیار مناسب است. طراحی شش پین آن امکان پشتیبانی از سیگنال‌های صوتی استریو، ارت، و همچنین سوئیچینگ را فراهم می‌سازد. کیفیت ساخت این جک با استفاده از مواد مقاوم حرارتی و پین‌های آبکاری‌شده، دوام بالایی در برابر سایش مکانیکی و خوردگی ایجاد می‌کند. با توجه به پشتیبانی از فرآیند لحیم‌کاری Reflow و ابعاد جمع‌وجور، PJ342 گزینه‌ای ایده‌آل برای بردهای متراکم و تولید انبوه تجهیزات صوتی محسوب می‌شود.
+
+مشخصات
+
+ولتاژ کاری: 12 ولت DC
+جریان مصرفی: 0.5 A
+مقاومت تماس: ≤0.03 اهم
+مقاومت عایقی: ≥ 100 MΩ
+ولتاژ تحمل عایقی: 500 ولت AC به مدت ۱ دقیقه
+نوع نصب: SMD (نصب سطحی)
+تعداد پین: 6 عدد
+تعداد قطب: 4 (پشتیبانی از هدفون‌های دارای میکروفن)
+جنس بدنه: پلاستیک 
+جنس پین‌ها: فلزی با روکش مقاوم در برابر خوردگی
+
+کاربردهای رایج
+
+این جک به‌طور گسترده در سیستم‌های صوتی پرتابل، تجهیزات چندرسانه‌ای، بردهای توسعه آردوینو و رزبری پای، سیستم‌های تعبیه‌شده و دستگاه‌های صنعتی کاربرد دارد. طراحی فشرده و قابلیت نصب سطحی آن را برای تولید انبوه بسیار مناسب می‌سازد، به‌ویژه در مواردی که فضای فیزیکی محدود است و نیاز به عملکرد پایدار صوتی وجود دارد.
+
+استفاده در بردهای صوتی و مولد صدا
+سیستم‌های صوتی پرتابل
+دستگاه‌های پخش موزیک و رادیو
+ماژول‌های آردوینو و میکروکنترلرها
+کارت‌های توسعه آموزشی
+گجت‌های پوشیدنی دارای خروجی صدا
+مدارهای صوتی تجهیزات پزشکی
+سیستم‌های اعلان صوتی صنعتی
+دستگاه‌های IoT دارای خروجی صوتی
+تجهیزات تست و اندازه‌گیری صوتی
+
+The PJ342 jack is a 3.5mm SMD audio connector with six connection pins designed for audio input and output applications in electronic circuits. This model is a surface mount type and is very suitable for use in devices such as sound cards, audio modules, expansion boards, and portable equipment. Its six-pin design allows for support for stereo audio signals, ground, and switching. The quality of this jack, using heat-resistant materials and plated pins, provides high durability against mechanical wear and corrosion. Considering the support for the reflow soldering process and compact dimensions, the PJ342 is an ideal choice for dense boards and mass production of audio equipment.
+
+Specifications
+
+Working voltage: 12 V DC
+Current consumption: 0.5 A
+Contact resistance: ≤0.03 Ohm
+Insulation resistance: ≥ 100 MΩ
+Insulation withstand voltage: 500 V AC for 1 minute
+Mounting type: SMD (surface mount)
+Number of pins: 6
+Number of poles: 4 (supports headphones with microphone)
+Body material: plastic
+Pin material: metal with corrosion-resistant coating
+

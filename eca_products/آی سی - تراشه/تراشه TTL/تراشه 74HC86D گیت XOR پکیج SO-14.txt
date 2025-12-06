@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-ttl/5680-تراشه-74hc86d-گیت-xor-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه 74HC86D گیت XOR پکیج SO-14
+
+قیمت:
+98,700
+
+توضیحات کوتاه:
+آی سی منطقی 74HC86D گیت XOR دو ورودی 4 تایی پکیج SO-14 SMD
+
+توضیحات کامل:
+Specification
+
+Part number: 74HC86D
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: XOR
+Logic Family: HC
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 7.8 mA
+Low Level Output Current: 7.8 mA
+Propagation Delay Time: 120 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Maximum Operating Temperature: + 125 C
+Minimum Operating Temperature:- 40 C
+Mounting Style: SMD/SMT
+Package / Case:SO-14
+Logic Type: 2-Input OR
+Operating Supply Voltage:5 V
+

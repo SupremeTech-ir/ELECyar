@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/21704-دیود-سریع-f1t1.html
+================================================================================
+
+عنوان:
+دیود سریع F1T1
+
+قیمت:
+18,200
+
+توضیحات کوتاه:
+دیود سریع F1T1 با حداکثر جریان قابل تحمل 1 آمپر 50 ولت
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Taiwan Semiconductor 
+Product Category: Rectifiers 
+Mounting Style: Through Hole 
+Package / Case: TS-1 
+Vr - Reverse Voltage: 50 V 
+If - Forward Current: 1 A 
+Type: Fast Recovery Rectifiers 
+Vf - Forward Voltage: 1.2 V 
+Max Surge Current: 30 A 
+Ir - Reverse Current: 5 uA 
+Recovery Time: 150 ns 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+Brand: Taiwan Semiconductor 
+Product: Rectifiers 
+Product Type: Rectifiers 
+Subcategory: Diodes & Rectifiers
+

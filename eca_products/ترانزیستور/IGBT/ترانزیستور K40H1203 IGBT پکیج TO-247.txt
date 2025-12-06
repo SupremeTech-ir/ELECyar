@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/igbt/21510-ترانزیستور-k40h1203-igbt-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور K40H1203 IGBT پکیج TO-247
+
+قیمت:
+1,130,000
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 40 آمپر مدل K40H1203 پکیج TO-247
+
+توضیحات کامل:
+Specification
+
+Type Designator: IKW40N120H3
+Type: IGBT
+Marking Code: K40H1203
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 483
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.05
+Package: TO-247
+

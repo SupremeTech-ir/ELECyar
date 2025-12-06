@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14720-تراشه-فلیپ-فلاپ-74hct374an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HCT374AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+134,000
+
+توضیحات کوتاه:
+آی سی 74HCT374AN فلیپ فلاپ نوع D دارای 8 کانال با خروجی 3 حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Circuits 8 Circuit 
+Polarity Non-Inverting Type 
+Output Type 3-State 
+Function Tri-State Octal 
+Propagation Delay Time 46 ns 
+Input Type TTL 
+Mounting Style Through Hole 
+Supply Voltage (Min) 4.5 V 
+Supply Voltage (Max) 5.5 V 
+Minimum Operating Temperature -40 C° 
+Maximum Operating Temperature +85 C° 
+Brand INTEGRAL
+Package DIP-20
+

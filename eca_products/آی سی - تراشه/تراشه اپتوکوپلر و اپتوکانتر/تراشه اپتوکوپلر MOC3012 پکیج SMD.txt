@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/14264-تراشه-اپتوکوپلر-moc3012-پکیج-smd.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر MOC3012 پکیج SMD
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر تک کانال MOC3012 با خروجی فتوترایاک پکیج SOIC-6 SMD
+
+توضیحات کامل:
+Specification
+
+Voltage (VDRM) 250 V 
+Number of Channels 1 Channel 
+Forward Current (If) 50 mA 
+Output Type PhotoTriac 
+Forward Voltage (Vf) 1.2 V 
+Isolation Voltage 5.25 kVrms 
+Minimum Operating Temperature -40 C° 
+Maximum Operating Temperature 100 C° 
+Brand Fairchild Semiconductor
+

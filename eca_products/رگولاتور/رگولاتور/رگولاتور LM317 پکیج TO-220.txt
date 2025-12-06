@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/رگولاتور/833-رگولاتور-lm317-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور LM317 پکیج TO-220
+
+قیمت:
+114,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ قابل تنظیم LM317 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+LM317 یک رگولاتور ولتاژ با قابلیت تنظیم در ولتاژهای 1.2 تا 37 ولت می باشد که قدرت جریان دهی آن در حدود 1.5 آمپر است . خروجی این رگولاتور با کمک یک شبکه مقاومتی در خروجی آی سی قابل تنظیم است .
+
+Specification
+
+Product Category: Linear Voltage Regulators     
+Mounting Style : Through Hole     
+Package / Case: TO-220     
+Output Voltage: 1.2 V to 37 V     
+Output Current:1.5 A     
+Output Type: Adjustable     
+Input Voltage MAX: 40 V    
+Series: LM317XX  
+Height: 9.15 mm (Max)     
+Input Voltage MIN: 4.2 V     
+Length : 10.4 mm (Max)     
+Minimum Operating Temperature:0 C    
+Maximum Operating Temperature: + 125 C  
+Number of Outputs: 1     
+Polarity: Positive     
+PSRR / Ripple Rejection - Typ: 80 dB
+

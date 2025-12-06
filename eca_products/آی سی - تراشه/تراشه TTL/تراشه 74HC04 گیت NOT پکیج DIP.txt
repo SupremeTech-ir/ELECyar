@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-ttl/476-تراشه-74hc04-گیت-not-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74HC04 گیت NOT پکیج DIP
+
+قیمت:
+80,900
+
+توضیحات کوتاه:
+آی سی منطقی 74HC04 شامل 6 گیت NOT پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Inverters
+Number of Circuits: 6 Circuit 
+Logic Family: TTL 
+Logic Type: Bipolar 
+Supply Voltage - Max: 5.25 V 
+Supply Voltage - Min: 4.75 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Mounting Style: SMD/SMT 
+Package / Case: PDIP-14 
+Packaging: Tube 
+Function: Inverter 
+Input Type: TTL 
+Operating Temperature Range: 0 C to + 70 C 
+Output Type: CMOS 
+Series: SN7404 / 74LS04
+Number of Output Lines: 6 Output 
+High Level Output Current: - 0.4 mA 
+Low Level Output Current: 16 mA 
+Operating Supply Voltage: 5 V 
+Product Type: Inverters 
+Propagation Delay Time: 22 ns
+

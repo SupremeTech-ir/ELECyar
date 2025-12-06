@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/تراشه-درایور/24810-تراشه-درایور-سون-سگمنت-tm1637-پکیج-sop-20.html
+================================================================================
+
+عنوان:
+تراشه درایور سون سگمنت TM1637 پکیج SOP-20
+
+قیمت:
+142,000
+
+توضیحات کوتاه:
+تراشه درایور سون سگمنت TM1637 پکیج SOP-20
+
+توضیحات کامل:
+تراشه TM1637 یک درایور است که به طور خاص برای راه‌اندازی سون سگمنت طراحی شده است. این تراشه قابلیت کنترل حداکثر 6 رقم را دارد
+
+Specification
+
+Frequency 500 kHz 
+Input Voltage MIN -500 mV 
+Input Voltage MAX 500 mV 
+Supply Current 50 mA 
+Minimum Operating Temperature -40 °C 
+Maximum Operating Temperature +85 °C 
+Brand Titan Micro 
+Package SOP-20
+

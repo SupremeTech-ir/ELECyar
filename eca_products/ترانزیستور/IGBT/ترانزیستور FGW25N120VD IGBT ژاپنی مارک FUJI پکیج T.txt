@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/igbt/22319-ترانزیستور-fgw25n120vd-igbt-ژاپنی-مارک-fuji-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور FGW25N120VD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 25 آمپر مدل 25N120VD پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW25N120VD
+Type: IGBT
+Marking Code: 25G120VD
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 260
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 25
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.85
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 45
+Collector Capacity (Cc), typ, pF: 105
+Package: TO247
+

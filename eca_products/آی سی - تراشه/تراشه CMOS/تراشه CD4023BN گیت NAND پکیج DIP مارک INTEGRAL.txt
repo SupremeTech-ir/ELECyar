@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14736-تراشه-cd4023bn-گیت-nand-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه CD4023BN گیت NAND پکیج DIP مارک INTEGRAL
+
+قیمت:
+96,200
+
+توضیحات کوتاه:
+آی سی CD4023BN گیت NAND سه کانال سه ورودی CMOS پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Logic Function: NAND     
+Number of Gates: 3 Gate     
+Number of Input Lines: 3 Input     
+Number of Output Lines: 1 Output     
+High Level Output Current: - 1.5 mA     
+Low Level Output Current: 1.5 mA     
+Propagation Delay Time: 60 ns     
+Supply Voltage - Max: 18 V     
+Supply Voltage - Min: 3 V          
+Package / Case: PDIP-14     
+Function: Triple 3-Input
+Operating Temperature Range: - 55 C to + 125 C     
+Quiescent Current: 20 nA     
+Logic Type: 3-Input NAND     
+Number of Bits: 3 bit     
+Operating Supply Current: 15 uA
+

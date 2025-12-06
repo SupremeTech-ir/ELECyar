@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/5453-تراشه-گیرنده-mc10116-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه گیرنده MC10116 پکیج DIP
+
+قیمت:
+737,000
+
+توضیحات کوتاه:
+آی سی گیرنده سه گانه MC10116
+
+توضیحات کامل:
+Specification
+
+Product Category: Bus Receivers     
+Number of Receivers: 3 Receiver     
+Receiver Signal Type: Differential     
+Operating Supply Current: 23 mA     
+Package/Case: PDIP-16     
+Packaging: Rail     
+Brand: ON Semiconductor     
+Mounting Style: Through Hole     
+Unit Weight: 1.628 g
+

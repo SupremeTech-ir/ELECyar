@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-درایور/16886-تراشه-rm9003b-درایور-led-پکیج-sot-89.html
+================================================================================
+
+عنوان:
+تراشه RM9003B درایور LED پکیج SOT-89
+
+قیمت:
+33,900
+
+توضیحات کوتاه:
+تراشه RM9003B درایور ال ای دی پکیج SOT89-3
+
+توضیحات کامل:
+Introduction
+
+RM9003X is a single ­channel LED constant current drive control chip, which can directly drive high voltage LED string and integrate 600V high voltage MOS tube. The output current can be set by the external resistor in the range of 5 mA ~ 100mA, and the output current does not change with the input voltage. RM9003X series chip application line is simple and has few external components. The program cost is low.
+
+Specification
+
+Simple peripheral circuit, without magnetic components
+More chips in parallel application
+LED current can be set externally
+Application solutions without EMI problems
+Have a over­temperature adjusting function
+
+Applications
+
+The filament lamp, ball bubble lamp, such as T torch LED lamps and lanterns.
+

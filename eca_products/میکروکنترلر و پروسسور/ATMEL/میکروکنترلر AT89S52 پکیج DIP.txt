@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/atmel/11520-میکروکنترلر-at89s52-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر AT89S52 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 40 پایه CMOS از خانواده 8051 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+The AT89S52 is a low-power, high-performance CMOS 8-bit microcontroller with 8K bytes of in-system programmable Flash memory. The device is manufactured using Atmel’s high-density nonvolatile memory technology and is compatible with the industry-standard 80C51 instruction set and pinout. The on-chip Flash allows the program memory to be reprogrammed in-system or by a conventional nonvolatile memory programmer. By combining a versatile 8-bit CPU with in-system programmable Flash on a monolithic chip, the Atmel AT89S52 is a powerful microcontroller which provides a highly-flexible and cost-effective solution to many embedded control applications.
+
+The AT89S52 provides the following standard features: 8K bytes of Flash, 256 bytes of RAM, 32 I/O lines, Watchdog timer, two data pointers, three 16-bit timer/counters, a six-vector two-level interrupt architecture, a full duplex serial port, on-chip oscillator, and clock circuitry. In addition, the AT89S52 is designed with static logic for operation down to zero frequency and supports two software selectable power saving modes. The Idle Mode stops the CPU while allowing the RAM, timer/counters, serial port, and interrupt system to continue functioning. The Power-down mode saves the RAM contents but freezes the oscillator, disabling all other chip functions until the next interrupt or hardware reset.
+
+Feature
+
+Compatible with MCS® -51Products
+8K Bytes of In-System Programmable (ISP) Flash Memory – Endurance: 10,000 Write/Erase Cycles
+4.0V to 5.5V Operating Range
+Fully Static Operation: 0 Hz to 33 MHz
+Three-level Program Memory Lock
+256 x 8-bit Internal RAM
+32 Programmable I/O Lines
+Three 16-bit Timer/Counters
+Eight Interrupt Sources
+Full Duplex UART Serial Channel
+Low-power Idle and Power-down Modes
+Interrupt Recovery from Power-down Mode
+Watchdog Timer
+Dual Data Pointer
+Power-off Flag
+Fast Programming Time
+Flexible ISP Programming (Byte and Page Mode)
+Green (Pb/Halide-free) Packaging Option
+

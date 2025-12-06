@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/1013-ترایاک-bt136-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ترایاک BT136 پکیج TO-220
+
+قیمت:
+108,000
+
+توضیحات کوتاه:
+ترایاک BT136 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs 
+On-State RMS Current - It RMS: 4 A 
+Non Repetitive On-State Current: 25 A 
+Rated Repetitive Off-State Voltage VDRM: 600 V 
+On-State Voltage: 1.7 V 
+Holding Current Ih Max: 30 mA 
+Gate Trigger Voltage - Vgt: 1.5 V 
+Gate Trigger Current - Igt: 10 mA 
+Mounting Style: Through Hole 
+Package / Case: TO-220
+

@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/14388-تریستور-tyn1225-پکیج-to-220.html
+================================================================================
+
+عنوان:
+تریستور TYN1225 پکیج TO-220
+
+قیمت:
+168,920
+
+توضیحات کوتاه:
+تریستور 1200 ولت 25 آمپر پکیج TO-220
+
+توضیحات کامل:
+این تریستور اورجینال بوده و به دلیل شرایط نامناسب نگهداری در انبار دارای چند لکه جزئی در بدنه میباشد.
+
+Specification
+
+Series: TYN1225     
+Rated Repetitive Off-State Voltage VDRM: 1.2 kV     
+Off-State Leakage Current @ VDRM IDRM: 5 uA     
+On-State RMS Current - It RMS: 25 A     
+Vf - Forward Voltage: 1.6 V     
+Gate Trigger Voltage - Vgt: 1.3 V     
+Gate Trigger Current - Igt: 4 mA     
+Holding Current Ih Max: 5 mA     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 125 C     
+Mounting Style: Through Hole     
+Package / Case: TO-220-3     
+Current Rating: 16 A     
+Brand: STMicroelectronics     
+Non Repetitive On-State Current: 300 A     
+Product Type: SCRs     
+Subcategory: Thyristors
+

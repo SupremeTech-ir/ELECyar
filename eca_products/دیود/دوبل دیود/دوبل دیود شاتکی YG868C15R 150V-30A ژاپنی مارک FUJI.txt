@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22817-دوبل-دیود-شاتکی-yg868c15r-150v-30a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG868C15R 150V-30A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+289,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 30 آمپر YG868C15R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+Io: 30 A 
+Vrrm - Repetitive Reverse Voltage: 150 V 
+Vf - Forward Voltage: 0.90 V 
+Ifsm - Forward Surge Current: 225 A 
+Ir - Reverse Current: 200 uA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

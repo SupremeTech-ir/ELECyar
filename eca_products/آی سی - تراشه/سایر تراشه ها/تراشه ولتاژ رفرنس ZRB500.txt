@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/12621-تراشه-ولتاژ-رفرنس-zrb500.html
+================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس ZRB500
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی ولتاژ ZRB500
+
+توضیحات کامل:
+Introduction
+
+The ZRB500 uses a bandgap circuit design to achieve a precision micropower voltage reference of 5.0 volts. The device is available in small outline surface-mount packages, ideal for applications where space saving is important, as well as packages for through-hole requirements.
+The ZRB500 design provides a stable voltage without an external capacitor and is stable with capacitive loads. The ZRB500 is recommended for operation between 50_A and 15mA and so is ideally suited to low power and battery-powered applications.
+Excellent performance is maintained to an absolute maximum of 25mA, however, the rugged design and 20-volt processing allow the reference to withstand transient effects and currents up to 200mA. Superior switching capability allows the device to reach stable operating conditions in only a few microseconds.
+
+Specification
+
+± 2% and 1% tolerance
+Operating current 50uA to 15mA
+Typical TC 15ppm/°C
+Transient response, stable in less than 10μs
+Industrial temperature range
+Small outline TO-92 style package
+Green molding compound (No Br, Sb)
+
+Applications
+
+Battery-powered and portable equipment
+Metering and measurement systems
+Instrumentation
+Test equipment
+Data acquisition systems
+Precision power supplies
+

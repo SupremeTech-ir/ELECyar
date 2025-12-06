@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/igbt/22053-ترانزیستور-g80n60ufd-igbt-پکیج-to-3pn.html
+================================================================================
+
+عنوان:
+ترانزیستور G80N60UFD IGBT پکیج TO-3PN
+
+قیمت:
+1,390,000
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 600 ولت 80 آمپر مدل G80N60UFD پکیج TO-3PN
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors 
+Technology: Si 
+Package/Case: TO-247 
+Mounting Style: Through Hole 
+Configuration: Single 
+Collector- Emitter Voltage VCEO Max: 600 V 
+Collector-Emitter Saturation Voltage: 2.1 V 
+Maximum Gate Emitter Voltage: - 20 V, 20 V 
+Continuous Collector Current at 25 C: 80 A 
+Pd - Power Dissipation: 195 W 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C
+

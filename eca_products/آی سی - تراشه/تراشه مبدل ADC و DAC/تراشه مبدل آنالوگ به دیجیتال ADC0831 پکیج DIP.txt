@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/15197-تراشه-مبدل-آنالوگ-به-دیجیتال-adc0831-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADC0831 پکیج DIP
+
+قیمت:
+3,240,000
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال تک کانال 8 بیتی پکیج DIP-8
+
+توضیحات کامل:
+Introduction
+The ADC0831 series are 8-bit successive approximation A/D converters with a serial I/O and configurable input multiplexers with up to 8 channels. The serial I/O is configured to comply with the NSC MICROWIRE™ serial data exchange standard for easy interface to the COPS™ family of processors, and can interface with standard shift registers or µPs. The 2-, 4- or 8-channel multiplexers are software configured for single-ended or differential inputs as well as channel assignment.
+The differential analog voltage input allows increasing the common-mode rejection and offsetting the analog zero input voltage value. In addition, the voltage reference input can be adjusted to allow encoding any smaller analog voltage span to the full 8 bits of resolution.
+
+Specification
+
+Manufacturer: Parallax 
+Product Category: Analog to Digital Converters - ADC 
+Mounting Style: Through Hole 
+Package / Case: DIP-8 
+Resolution: 8 bit 
+Number of Channels: 1 Channel 
+Interface Type: SPI 
+Input Type: Differential/Single-Ended 
+Architecture: SAR 
+Analog Supply Voltage:5 V 
+Digital Supply Voltage: 5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Brand: Parallax 
+Number of Converters: 1 Converter 
+Operating Supply Voltage: 5 V 
+Pd - Power Dissipation: 0.8 W 
+Product Type: ADCs - Analog to Digital Converters 
+Reference Voltage: 5 V
+

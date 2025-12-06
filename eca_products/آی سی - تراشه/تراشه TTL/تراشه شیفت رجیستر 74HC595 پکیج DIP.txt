@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-ttl/571-تراشه-شیفت-رجیستر-74hc595-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه شیفت رجیستر 74HC595 پکیج DIP
+
+قیمت:
+80,900
+
+توضیحات کوتاه:
+آی سی 74HC595 شیفت رجیستر 8 بیتی پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Counter Shift Registers 
+Counting Sequence: Serial to Serial/Parallel 
+Number of Circuits: 1 
+Number of Bits: 8 bit 
+Package / Case: PDIP-16 
+Logic Family: 74HC 
+Logic Type: CMOS 
+Number of Input Lines: 5 / 10 
+Output Type: 3-State 
+Propagation Delay Time: 200 ns, 40 ns, 34 ns 
+Supply Voltage - Max: 6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Function: Tri-State 8-Bit 
+Series: SN74HC595 
+Mounting Style: Through Hole 
+Number of Output Lines: 10 
+Operating Supply Voltage: 2 V to 6 V 
+Product Type: Counter Shift Registers
+

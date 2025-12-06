@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/led-smd/10757-led-سفید-آفتابی-smd-پکیج-5054.html
+================================================================================
+
+عنوان:
+LED سفید آفتابی SMD پکیج 5054
+
+قیمت:
+5,000
+
+مشخصات فنی:
+پکیج LED: 5054
+
+توضیحات کامل:
+Introduction
+
+The SMD LED Module (surface-mount device light-emitting diode module) is a type of LED module that uses surface-mount technology (SMT) to mount LED chips on printed circuit boards (PCB). It is a self-contained surface-mount LED device designed either to function on its own or to plug into a compatible unit. The types of SMD LED Modules are distinguished by the dimensions of the LED package. The package dimension of SMD LED 5054 is 5.0mm*5.4mm.
+
+Moonlight 5054 SMD LED is a collection of compact devices, 5.0mm*5.4mm, that allows for design freedom and provides a superior overall system solution when a project requires high flux output and good efficacy. The Moonlight 5054 SMD LED is color targeted for application needs and delivers efficiency and reliability for a variety of applications.
+
+Feature
+
+Compact package size at 5.0mm*5.4mm.
+
+Voltage:3.0-3.2V
+
+Lumen:35-40LM
+
+Current : 350mA
+
+Power : 1 W
+
+CCT:3000-3200K
+
+Various configurations of different voltage and die count to meet a wide range of application requirements.
+
+Deliver high efficacy and quality of light for distributed light source.
+
+Excellent color Reproduction.
+
+RoHS complaint.
+
+Low thermal resistance.
+
+Environment-friendly.
+
+Long life span and high reliability.
+

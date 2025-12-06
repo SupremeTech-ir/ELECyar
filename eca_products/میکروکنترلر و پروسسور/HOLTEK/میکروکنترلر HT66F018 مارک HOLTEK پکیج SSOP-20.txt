@@ -1,0 +1,61 @@
+URL: https://eshop.eca.ir/holtek/23381-میکروکنترلر-ht66f018-مارک-holtek-پکیج-ssop-20.html
+================================================================================
+
+عنوان:
+میکروکنترلر HT66F018 مارک HOLTEK پکیج SSOP-20
+
+قیمت:
+304,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 20 پایه HT66F018 ساخت شرکت HOLTEK با فرکانس کاری 16MHz
+
+توضیحات کامل:
+Introduction
+
+The device is a Flash Memory type 8-bit high performance RISC architecture microcontroller.
+Offering users the convenience of Flash Memory multi-programming features, the device also includes a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter and a comparator functions. Multiple and extremely flexible Timer Modules provide timing, pulse generation and PWM generation functions. Protective features such as an internal Watchdog Timer, Low Voltage Reset and Low Voltage Detector coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HXT, LXT, HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimize power consumption.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the device will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS=8MHz: 2.2V~5.5V
+fSYS=12MHz: 2.7V~5.5V
+fSYS=16MHz: 3.3V~5.5V
+fSYS=20MHz: 4.5V~5.5V
+Up to 0.2μs instruction cycle with 20MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Oscillators
+External Crystal – HXT
+External 32.768kHz Crystal – LXT
+Internal High Speed 8/12/16MHz RC – HIRC
+Internal Low Speed 32kHz RC – LIRC
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+Fully integrated internal oscillator requires no external components
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+8-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 4K×16
+RAM Data Memory: 192×8
+True EEPROM Memory: 64×8
+Watchdog Timer function
+18 bidirectional I/O lines
+Two pin-shared external interrupts
+Multiple Timer Module for time measure, input capture, compare match output, PWM output or
+single pulse output functions
+Comparator function
+Dual Time Base functions for generation of fixed time interrupt signals
+8-channel 12-bit resolution A/D converter
+Low voltage reset function
+Low voltage detect function
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+Ture EEPROM data memory data retention > 10 years
+Package types: 16-pin NSOP, 20-pin SOP/NSOP/SSOP/QFN
+

@@ -1,0 +1,74 @@
+URL: https://eshop.eca.ir/تراشه-سوئیچینگ/18728-تراشه-سوئیچینگ-dk124-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه سوئیچینگ DK124 پکیج DIP
+
+قیمت:
+145,000
+
+توضیحات کوتاه:
+آی‌سی DK124 یک کنترلر سوئیچینگ یکپارچه با ترانزیستور داخلی برای منابع تغذیه فلای‌بک تا توان 24 وات
+
+توضیحات کامل:
+تراشه DK124 یک کنترلر سوئیچینگ آف‌لاین با طراحی یکپارچه است که ترانزیستور قدرت 700 ولتی، مدار راه‌اندازی ولتاژ بالا و کنترلر PWM را در خود جای داده و به‌صورت ویژه برای منابع تغذیه فلای‌بک کم‌هزینه طراحی شده است. این طراحی مجتمع موجب کاهش قطعات جانبی، کاهش اندازه و هزینه‌ی نهایی مدار می‌شود. DK124 بدون نیاز به سیم‌پیچ کمکی، از طریق یک مدار ثبت اختراع شده، توان مورد نیاز خود را تأمین می‌کند. مدار داخلی فرکانس متغیر آن باعث کاهش تداخلات EMI می‌شود و قابلیت محافظت در برابر اضافه‌جریان، اضافه‌بار، اضافه‌دما، ولتاژ بیش از حد و اتصال کوتاه را نیز دارد. راه‌اندازی نرم (Soft-Start) داخلی به مدت 16 میلی‌ثانیه نیز موجب حفاظت از اجزای ثانویه مدار می‌شود. این آی‌سی گزینه‌ای بسیار مناسب برای شارژرها، آداپتورها، درایورهای LED و منابع تغذیه لوازم خانگی و صوتی-تصویری محسوب می‌شود.
+
+مشخصات
+
+ولتاژ کاری: 85V تا 265V AC
+ولتاژ Vcc: بین 4.65V تا 5.25V
+ولتاژ راه‌اندازی Vcc: 5.05V معمولی
+ولتاژ توقف در Vcc: کمتر از 3.6V یا بیشتر از 6.55V
+فرکانس کاری PWM: بین 65KHz تا 22KHz (بسته به سطح فیدبک)
+جریان پیک خروجی: حداکثر 1.5A
+ولتاژ کلکتور ترانزیستور: حداکثر 700V
+توان خروجی قابل پشتیبانی:
+ورودی 85-264V AC: حداکثر 12W
+ورودی 85-145V AC: حداکثر 18W
+ورودی 180-264V AC: حداکثر 18W
+مصرف در حالت آماده‌به‌کار: حداکثر 240mW
+دمای کاری: -20°C تا +140°C
+دمای ذخیره‌سازی: -55°C تا +150°C
+پکیج: DIP-8
+
+کاربردهای رایج
+
+تراشه DK124 به‌دلیل طراحی ساده و عملکرد قابل‌اعتماد، در ساخت منابع تغذیه فلای‌بک برای تجهیزات مختلف خانگی و صنعتی بسیار مورد استفاده قرار می‌گیرد. طراحی بدون نیاز به سیم‌پیچ کمکی و محافظت‌های کامل داخلی، آن را به گزینه‌ای مناسب برای مدارهای کم‌هزینه با نیاز به ایمنی و پایداری بالا تبدیل کرده است.
+
+شارژرهای باتری
+منابع تغذیه DVD/VCD/VCR
+آداپتورهای AC/DC
+منابع تغذیه سیستم‌های تهویه مطبوع
+درایورهای LED
+منابع تغذیه اجاق‌های مایکروویو
+منابع تغذیه تلویزیون و مانیتور
+منابع تغذیه STB (گیرنده دیجیتال)
+تجهیزات الکترونیکی مصرفی
+سیستم‌های تغذیه صنعتی کم‌هزینه
+
+Introduction
+
+DK124 is an off-line switching power supply chip, the maximum output power of 24W. Unlike the PWM controller and the external discrete power MOS combination solution, the DK124 integrates a PWM controller, a 700V power transistor and a primary peak current detection circuit, and uses a patented self-powered technology that can omit the auxiliary supply winding, Simplifies peripheral applications, reduces the number of originals, circuit size and weight, especially for cost-sensitive flyback switching power supplies.
+
+Features
+
+85V—265V wide range AC power input. 
+Build-in 700V power transistor. 
+Internal integrated high voltage starting circuit, no need for additional resistance.
+Internal 16mS soft-start circuit. 
+Internal power compensation circuit to keep the stability of max. output power in both high and low voltage. 
+Patent dynamic self-power supply, no need for auxiliary winding. 
+Internal frequency modulation circuit to reduce EMI filter cost. 
+Over current, Over loading, Over temperature, Over voltage and Short circuit Protection.
+
+Applications
+
+Battery charger 
+DVD/VCD/VCR power supply 
+Power AC/DC adapters 
+Air conditioner power supply 
+STB power supply 
+LED driver applications 
+Electromagnetic oven power supply 
+TV/Monitor power supply
+

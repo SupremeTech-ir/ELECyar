@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14611-تراشه-اشمیت-تریگر-cd40106-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه اشمیت تریگر CD40106 پکیج DIP
+
+قیمت:
+74,200
+
+توضیحات کوتاه:
+تراشه اشمیت تریگر خروجی وارون ساز شش کانال CMOS
+
+توضیحات کامل:
+Specification
+
+Logic Function: Inverter
+Input Type: Schmitt Trigger
+Number of Elements per Chip: 6
+Schmitt Trigger Input: Yes
+Maximum Propagation Delay Time @ Maximum CL: 120 ns @ 15 V, 140 ns @ 10 V, 280 ns @ 5 V
+Maximum High Level Output Current: -4.2mA
+Maximum Low Level Output Current: 4.2mA
+Mounting Type: Through Hole
+Package Type: PDIP
+Pin Count: 14
+Logic Family: 4000
+Propagation Delay Test Condition: 50pF
+Minimum Operating Temperature: -55 °C
+Minimum Operating Supply Voltage: 3 V
+Maximum Operating Supply Voltage: 18 V
+Maximum Operating Temperature: +125 °C
+

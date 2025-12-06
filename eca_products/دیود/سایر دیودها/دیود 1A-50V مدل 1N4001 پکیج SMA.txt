@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/سایر-دیودها/17050-دیود-1a-50v-مدل-1n4001-پکیج-sma.html
+================================================================================
+
+عنوان:
+دیود 1A-50V مدل 1N4001 پکیج SMA
+
+قیمت:
+3,100
+
+توضیحات کوتاه:
+دیود 50 ولت 1 آمپر M1 پکیج SMA
+
+توضیحات کامل:
+Features 
+
+Maximum Recurrent Peak Reverse Voltage (VRRM) : 50 V 
+
+DC Blocking Reverse Voltage (VR): 50 V
+
+RMS Reverse Voltage (VR(RMS)) : 35 V
+
+Maximum Average Forward Rectified Current (If) : 1A
+
+Non-Repetitive Peak Forward Surge Current (IFSM) : 30 A
+
+Thermal Resistance From Junction To Ambient (RθJA) : 30 °C/W
+
+Junction Temperature (TJ) : 125 °C
+
+Storage Temperature (TSTG) :-55 ~+150 °C
+

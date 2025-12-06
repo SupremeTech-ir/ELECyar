@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/945-تراشه-مبدل-آنالوگ-به-دیجیتال-adc0820-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADC0820 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال 8 بیتی ADC0820 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog to Digital Converters - ADC 
+RoHS: Details 
+Series: ADC0820 
+Mounting Style: Through Hole 
+Package / Case: PDIP-20 
+Resolution: 8 bit 
+Number of Channels: 2 Channel 
+Sampling Rate: 400 kS/s 
+Input Type: Single-Ended 
+Interface Type: Parallel 
+Architecture: Half-Flash 
+Reference Type: External 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Height: 4.45 mm 
+Length: 26.54 mm 
+Number of Converters: 2 Converter 
+Output Type: CMOS 
+Width: 7.87 mm 
+Brand: Maxim Integrated 
+INL - Integral Nonlinearity: +/- 1 LSB 
+Operating Supply Voltage: 5 V 
+Pd - Power Dissipation: 450 mW 
+Product Type: ADCs - Analog to Digital Converters
+

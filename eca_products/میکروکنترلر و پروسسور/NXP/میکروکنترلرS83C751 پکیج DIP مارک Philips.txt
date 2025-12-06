@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/nxp/19103-میکروکنترلرs83c751-پکیج-dip-مارک-philips.html
+================================================================================
+
+عنوان:
+میکروکنترلرS83C751 پکیج DIP مارک Philips
+
+قیمت:
+501,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 24 پایه فرکانس 16MHz پکیج DIP مارک Philips Semiconductors
+
+توضیحات کامل:
+Introduction
+
+The Philips 83C751/87C751 offers the advantages of the 80C51 architecture in a small package and at low cost. The 8XC751 Microcontroller is fabricated with Philips high-density CMOS technology. Philips epitaxial substrate minimizes CMOS latch-up sensitivity. The 8XC751 contains a 2k × 8 ROM (83C751) EPROM (87C751), a 64 × 8 RAM, 19 I/O lines, a 16-bit auto-reload counter/timer, a five-source, fixed-priority level interrupt structure, a bidirectional inter-integrated circuit (I2C) serial bus interface, and an on-chip oscillator. The on-board inter-integrated circuit (I2C) bus interface allows the 8XC751 to operate as a master or slave device on the I2C small area network. This capability facilitates I/O and RAM expansion, access to EEPROM, processor-to-processor communication, and efficient interface to a wide variety of dedicated I2C peripherals.
+
+Feature
+
+• 80C51 based architecture
+• Inter-Integrated Circuit (I2C) serial bus interface
+• Small package sizes
+– 24-pin DIP (300 mil “skinny DIP”)
+• 87C751 available in one-time programmable plastic packages
+• Wide oscillator frequency range
+• Low power consumption:
+– Normal operation: less than 11mA @ 5V, 12MHz
+– Idle mode
+– Power-down mode
+• 2k × 8 ROM (83C751)
+• 16-bit auto reloadable counter/timer
+• Fixed-rate timer
+• Boolean processor
+• CMOS and TTL compatible
+• Well suited for logic replacement, consumer and industrial applications
+• LED drive outputs
+
+لازم به ذکر است پایه ها دارای آلیاژ مرغوب و آبکاری شده با قلع بوده که علاوه بر مقاوم بودن در برابر اکسید شدن، باعث عملیات مونتاژ روان تر و سریعتر نسبت به مدل های معمولی چینی می باشد.
+

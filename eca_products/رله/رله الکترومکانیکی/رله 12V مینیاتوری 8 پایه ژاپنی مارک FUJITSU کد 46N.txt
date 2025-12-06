@@ -1,0 +1,22 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/12955-رله-12v-مینیاتوری-8-پایه-مارک-fujitsu-کد-46nd012.html
+================================================================================
+
+عنوان:
+رله 12V مینیاتوری 8 پایه ژاپنی مارک FUJITSU کد 46ND012
+
+قیمت:
+525,000
+
+توضیحات کامل:
+- Miniature size
+About 50% smaller in volume compared with the FBR240 series used mainly in communication equipment.
+- High surge voltage
+2,500 V minimum of surge strength (Bellcore standard), and 1,500 VAC minimum of dielectric strength between coil and contact (-15, -16 type).
+- Low power consumption
+85 mW of operate power (150 mW of nominal power con- sumption) by built-in permanent magnet.
+
+Rated load: 0.5 A at 120 VAC, 1 A at 30 VDC
+Max. switching voltage: 125 V
+Max. switching current: 1 A
+Max. switching capacity: 30 W
+

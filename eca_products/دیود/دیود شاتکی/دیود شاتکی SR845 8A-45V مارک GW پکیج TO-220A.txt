@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/23821-دیود-شاتکی-sr845-8a-45v-مارک-gw-پکیج-to-220a.html
+================================================================================
+
+عنوان:
+دیود شاتکی SR845 8A-45V مارک GW پکیج TO-220A
+
+قیمت:
+124,000
+
+توضیحات کوتاه:
+دیود شاتکی 45 ولت 8 آمپر SR845 مارک GW پکیج TO-220A 
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current : 8 A     
+Vrrm - Repetitive Reverse Voltage : 45 V     
+Vf - Forward Voltage : 0.65 V     
+Ifsm - Forward Surge Current : 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220A   
+Minimum Operating Temperature : - 65 C     
+Maximum Operating Temperature : + 150 C
+

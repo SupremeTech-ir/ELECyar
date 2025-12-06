@@ -1,0 +1,52 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/428-تراشه-آپ-امپ-lm324-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM324 پکیج DIP
+
+قیمت:
+52,400
+
+توضیحات کوتاه:
+آی سی LM324 یک آپ امپ شامل چهار تقویت کننده عملیاتی کم مصرف
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: PDIP-14 
+Supply Voltage - Max: 32 V 
+Output Current per Channel: 40 mA 
+Number of Channels: 4 Channel 
+GBP - Gain Bandwidth Product: 1.2 MHz 
+SR - Slew Rate: 0.5 V/us 
+CMRR - Common Mode Rejection Ratio: 65 dB to 80 dB 
+Ib - Input Bias Current: 45 nA 
+Vos - Input Offset Voltage: 7 mV 
+Supply Voltage - Min: 3 V 
+Operating Supply Current: 1.5 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Shutdown: No Shutdown 
+Series: LM324 
+Packaging: Tube 
+Amplifier Type: General Purpose Amplifier 
+Features: Standard Amps 
+Height: 4.57 mm 
+Input Type: Rail-to-Rail 
+Length: 19.3 mm 
+Product: Operational Amplifiers 
+Supply Type: Single, Dual 
+Technology: Bipolar 
+Width: 6.35 mm 
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V 
+en - Input Voltage Noise Density: 35 nV/sqrt Hz 
+Ios - Input Offset Current: 150 nA 
+Maximum Dual Supply Voltage: +/- 16 V 
+Minimum Dual Supply Voltage: +/- 1.5 V 
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V 
+Product Type: Op Amps - Operational Amplifiers 
+PSRR - Power Supply Rejection Ratio: 100 dB
+

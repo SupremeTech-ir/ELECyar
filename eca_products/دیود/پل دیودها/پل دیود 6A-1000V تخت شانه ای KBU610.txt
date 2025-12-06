@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/پل-دیودها/23597-پل-دیود-6a-1000v-تخت-شانه-ای-kbu610.html
+================================================================================
+
+عنوان:
+پل دیود 6A-1000V تخت شانه ای KBU610
+
+قیمت:
+199,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 6 آمپر تخت شانه ای KBU610 
+
+توضیحات کامل:
+Specification
+
+Product Category: Bridge Rectifiers     
+Mounting Style: PCB Mount     
+Termination Style: Through Hole     
+Package / Case: KBU
+If - Forward Current: 6 A     
+Peak Reverse Voltage: 1000 V     
+Vf - Forward Voltage: 1 V     
+Max Surge Current: 250 A     
+Minimum Operating Temperature: - 55 C     
+Maximum Operating Temperature: + 150 C     
+Packaging: Bulk     
+Ir - Reverse Current: 5 uA     
+Product: Bridge Rectifiers     
+Vr - Reverse Voltage: 700 V
+

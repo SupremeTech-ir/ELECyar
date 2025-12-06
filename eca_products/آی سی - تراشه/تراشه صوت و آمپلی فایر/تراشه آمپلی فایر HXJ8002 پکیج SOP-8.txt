@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/14383-تراشه-آمپلی-فایر-hxj8002-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر HXJ8002 پکیج SOP-8
+
+قیمت:
+203,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صدا HXJ8002 پکیج SOP-8
+
+توضیحات کامل:
+Introduction
+The 8002 is an audio power amplifier primarily designed for demanding applications in low-power portable
+systems. It is capable of delivering 3 watts of continuous average power to an 3Ω BTL load with less than 10%
+distortion (THD) from a 5VDC power supply. the 8002 does not require output coupling capacitors or bootstrap
+capacitors, and therefore is ideally suited for mobile phone and other low voltage applications where minimal power
+consumption is a primary requirement.the 8002 features a low-power consumption shutdown mode.the 8002 contains
+advanced pop & click circuitry which eliminates noise which would otherwise occur during turn-on and turn-off
+transitions. The 8002 is unity-gain stable and can be configured by external gain-setting resistors
+
+Specification
+
+Power Output at 5.0V, 10% THD+N, 3Ω 3W (typ)
+Power Output at 5.0V,10% THD+N,4Ω 2.65W (typ)
+Power Output at 5.0V,10% THD+N,8Ω 1.8W (typ)
+Shutdown Current 0.6µA (typ)
+Available in space-saving packages: SOP
+Improved pop & click circuitry eliminates noise during turn-on and turn-off transitions
+2.20- 5.5V operation
+No output coupling capacitors, snubber networks or bootstrap capacitors required
+Unity-gain stable
+External gain configuration capability
+

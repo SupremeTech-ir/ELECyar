@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/14366-رله-24v-قدرت-5-پایه-مارک-tianbo-مدل-hjq-15f-s-z.html
+================================================================================
+
+عنوان:
+رله 24V قدرت 5 پایه مارک TIANBO مدل HJQ-15F-S-Z
+
+قیمت:
+1,400,000
+
+توضیحات کوتاه:
+رله قدرت 20 آمپر 240 ولت AC دارای 1 کنتاکت 5 پایه تیانبو TIANBO
+
+توضیحات کامل:
+Specification
+
+Type HJQ-15F-S-Z-24VDC
+Coil nominal voltage 24 V DC
+Control mode monostable, 1 coil
+R(coil) 620 Ω
+Coil voltage rating 0.93 W
+Contact type 1 change-over
+Contact material Silver alloy
+Switching voltage (max.) 30 V DC , 250 V AC
+Switching current (max.) 30 A
+Max. switching capacity 7200 VA , 560 W
+Connection Solder pins
+Response time 15 ms
+Fall time 10 ms
+Electrical lifespan 100 000 Switching cycles
+Durability 1000 0000 switching cycles
+Min. temperature -40 °C
+Max. temperature +70 °C
+Length 32 mm
+Width 27.4 mm
+Height 23.4 mm
+Dim (L x W x H) 32 x 27.4 x 23.4 mm
+Content 1 pc(s)
+Product type PCB relay
+

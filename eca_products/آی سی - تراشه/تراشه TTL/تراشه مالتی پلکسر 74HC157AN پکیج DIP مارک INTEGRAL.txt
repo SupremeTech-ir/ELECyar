@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/تراشه-ttl/16734-تراشه-74hc157an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه مالتی پلکسر 74HC157AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+139,000
+
+توضیحات کوتاه:
+تراشه مالتی پلکسر 4 بیتی 2 کانال با خروجی CMOS و TTL
+
+توضیحات کامل:
+Introduction
+
+The IN74HC157A is identical in pin out to the LS/ALS157. The device inputs are compatible with standard CMOS outputs; with pull up
+
+resistors, they are compatible with LS/ALSTTL outputs.
+
+This device routes 2 nibbles (A or B) to a single port (Y) as determined by the Select input. The data is presented at the outputs in non inverted form. A high level on the Output Enable input sets all four Y outputs to a low level.
+
+Specification
+
+Outputs Directly Interface to CMOS, NMOS, and TTL
+
+Operating Voltage Range: 2.0 to 6.0 V
+
+Low Input Current: 1.0 μA
+
+High Noise Immunity Characteristic of CMOS Devices
+

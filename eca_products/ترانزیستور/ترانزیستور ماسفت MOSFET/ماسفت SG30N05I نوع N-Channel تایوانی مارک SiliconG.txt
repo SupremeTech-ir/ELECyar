@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/18342-ماسفت-sg30n05i-نوع-n-channel-تایوانی-مارک-silicongear-پکیج-to-251-3s.html
+================================================================================
+
+عنوان:
+ماسفت SG30N05I نوع N-Channel تایوانی مارک SiliconGear پکیج TO-251-3S
+
+قیمت:
+147,000
+
+توضیحات کوتاه:
+ماسفت 30 ولت 50 آمپر SG30N05I نوع N-Channel مارک SiliconGear پکیج TO-251-3S
+
+مشخصات فنی:
+پکیج: TO-251
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand: SiliconGear
+P/N : SG30N05I
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Drain-Source Voltage |Vds|: 30 V
+Gate-Source Voltage |Vgs|: ± 20 V
+Gate-Threshold Voltage |Vgs(V)|: 2.5V
+Drain Current |Id|: 50 A
+Ciss: 580 pF
+Coss: 95 pF
+Crss: 60 pF
+Qg: 8 nC
+Qgs: 3 nC
+Qgd: 4.5 nC
+Package: TO-251-3S
+

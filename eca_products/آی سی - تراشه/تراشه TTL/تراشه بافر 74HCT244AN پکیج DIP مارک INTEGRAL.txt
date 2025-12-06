@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/تراشه-ttl/16731-تراشه-بافر-74hct244an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HCT244AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+147,000
+
+توضیحات کوتاه:
+آی سی 74HCT244AN بافر 3 حالته 8 کانال پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+TTL/NMOS-Compatible Input Levels
+Outputs Directly Interface to CMOS, NMOS, and TTL
+Low Input Current: 1.0 μA 
+Supply voltage range: 4.5 V to 5.5 V
+Maximum input/output current: +/- 35 mA
+Maximum propagation delay: 13 ns (at 5 V, 25°C)
+Operating temperature range: -40°C to +125°C
+Package: DIP-20 (Dual Inline Package with 20 pins)
+

@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/14889-ترانزیستور-mmbta92-نوع-pnp-پکیج-sot-23.html
+================================================================================
+
+عنوان:
+ترانزیستور MMBTA92 نوع PNP پکیج SOT-23
+
+قیمت:
+13,400
+
+توضیحات کوتاه:
+ترانزیستور MMBTA92 نوع PNP پکیج SMD SOT-23 ولتاژ 300V جریان 100mA
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: MMBTA92
+SMD Transistor Code: 2D_7Ep_7Et_7EW
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.35 W
+Maximum Collector-Base Voltage |Vcb|: 300 V
+Maximum Collector-Emitter Voltage |Vce|: 300 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.1 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 50 MHz
+Collector Capacitance (Cc): 6 pF
+Forward Current Transfer Ratio (hFE), MIN: 25
+Noise Figure, dB: -
+Package: SOT23
+

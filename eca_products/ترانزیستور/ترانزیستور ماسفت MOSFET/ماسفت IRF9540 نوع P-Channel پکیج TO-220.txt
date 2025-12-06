@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/742-ماسفت-irf9540-نوع-p-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRF9540 نوع P-Channel پکیج TO-220
+
+قیمت:
+222,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 19 آمپر P-Channel   
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: P-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: onsemi 
+Product Category: MOSFET 
+Technology: Si 
+Mounting Style: Through Hole 
+Package / Case: TO-220-3 
+Transistor Polarity: P-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 100 V 
+Id - Continuous Drain Current: 19 A 
+Rds On - Drain-Source Resistance: 200 mOhms 
+Vgs - Gate-Source Voltage: - 20 V, + 20 V 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C 
+Pd - Power Dissipation: 150 W
+

@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/26501-ماسفت-قدرت-stp80nf10-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت قدرت STP80NF10 نوع N-Channel پکیج TO-220
+
+قیمت:
+330,000
+
+توضیحات کوتاه:
+ترانزیستور MOSFET قدرت توان بالا با ولتاژ تحمل 100V و جریان 80A که برای سوییچینگ سریع، راندمان بالا و بارهای سنگین 
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ترانزیستور STP80NF10 از خانواده STripFET شرکت STMicroelectronics است و به‌صورت ویژه برای کاربردهای قدرت بالا و سوییچینگ با تلفات پایین طراحی شده است. ساختار STripFET با کاهش مقاومت در حالت روشن، باعث افزایش راندمان و کاهش حرارت در بارهای سنگین می‌شود. این قطعه با تحمل ولتاژ 100V و جریان 80A در شرایط استاندارد، گزینه‌ای مناسب برای طراحی مبدل‌های DC-DC، سیستم‌های UPS، کنترل موتورهای صنعتی و منابع تغذیه سوییچینگ است. زمان‌بندی کلیدزنی سریع و ظرفیت ورودی کنترل‌شده، امکان استفاده در مدارهایی با تغییرات سریع ولتاژ و جریان را فراهم می‌کند. این MOSFET همچنین با پکیج TO-220 امکان انتقال حرارت مطلوب، نصب آسان و قابلیت اتصال روی هیت‌سینک را ارائه می‌دهد که برای پروژه‌های صنعتی و نیمه‌صنعتی بسیار کاربردی است.
+
+مشخصات
+
+ولتاژ کاری درین-سورس: 100V
+ولتاژ مجاز گیت-سورس: ±20V
+جریان درین (در دمای بدنه 25 °C): 80A
+مقاومت حالت روشن R_DS(on) (در V_GS = 10 V و I_D = 40 A): مقدار typ برابر 0.012 Ω و مقدار max برابر 0.015 Ω
+توان اتلاف کلی (دمای بدنه 25 °C): 300 W
+دمای کاری پیوسته: از ‎-55 °C تا ‎+175 °C
+ظرفیت ورودی C_iss در 1 MHz و 25 V: مقدار typ حدود 5500 pF و مقدار max حدود 7000 pF
+نوع پکیج: TO-220 سه پایه
+
+کاربردهای رایج
+
+این MOSFET برای سیستم‌های قدرت بالا که نیازمند راندمان بالا، کلیدزنی سریع و تحمل جریان زیاد هستند مناسب است. در طراحی مبدّل‌ها، منابع تغذیه صنعتی، کنترل موتور و سوییچینگ بارهای سنگین عملکرد بسیار پایداری ارائه می‌دهد و با پکیج TO-220 امکان مدیریت حرارتی موثر را فراهم می‌کند.
+
+منابع تغذیه سوییچینگ قدرت بالا
+مبدل‌های DC-DC صنعتی
+مدارهای کنترل موتورهای DC و BLDC
+سیستم‌های UPS و تجهیزات پشتیبان انرژی
+سوییچینگ بارهای سنگین در سیستم‌های مخابراتی
+کنترل بار در تجهیزات آزمایشگاهی
+رگولاتورهای قدرت و مسیرهای توزیع انرژی
+مدارهای اینورتر و کانورتر
+کنترل بارهای القایی
+تجهیزات الکترونیک قدرت در ماشین‌آلات صنعتی
+
+The STP80NF10 transistor is part of STMicroelectronics' STripFET family and is specifically designed for high-power, low-loss switching applications. The STripFET structure increases efficiency and reduces heat under heavy loads by reducing on-state resistance. With a standard voltage rating of 100V and current rating of 80A, this device is a good choice for designing DC-DC converters, UPS systems, industrial motor control, and switching power supplies. Fast switching timing and controlled input capacitance allow it to be used in circuits with rapid voltage and current changes. This MOSFET also offers optimal heat transfer, easy installation, and heat sink mounting with its TO-220 package, making it very useful for industrial and semi-industrial projects.
+
+Specifications
+
+Drain-source operating voltage: 100V
+Gate-source allowable voltage: ±20V
+Drain current (at 25 °C body temperature): 80A
+On-state resistance R_DS(on) (at V_GS = 10 V and I_D = 40 A): typ. 0.012 Ω, max. 0.015 Ω
+Total power dissipation (25 °C body temperature): 300 W
+Continuous operating temperature: -55 °C to +175 °C
+Input capacitance C_iss at 1 MHz and 25 V: typ. 5500 pF, max. 7000 pF
+Package type: TO-220 three-pin
+

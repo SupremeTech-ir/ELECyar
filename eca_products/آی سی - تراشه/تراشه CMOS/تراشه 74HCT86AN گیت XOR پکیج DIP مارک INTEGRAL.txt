@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14712-تراشه-74hct86an-گیت-or-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه 74HCT86AN گیت XOR پکیج DIP مارک INTEGRAL
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی 74HCT86AN گیت OR دارای 4 کاناله 2 ورودی پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Gates 4 Pcs 
+Number of Input 2 Input 
+Function XOR 
+Number of Output 1 Output 
+Propagation Delay Time 32 ns 
+Mounting Style Through Hole 
+Supply Voltage (Min) 4.5 V 
+Supply Voltage (Max) 5.5 V 
+Minimum Operating Temperature -40 C° 
+Maximum Operating Temperature +125 C° 
+Brand INTEGRAL 
+Package DIP-14
+

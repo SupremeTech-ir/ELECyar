@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/24261-دوبل-دیود-شاتکی-sr2030ct-20a-30v-مارک-gw-پکیج-to-220.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2030CT 20A-30V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 30 ولت 20 آمپر SR2030CT مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A     
+Vrrm - Repetitive Reverse Voltage: 30 V     
+Vf - Forward Voltage: 0.65 V     
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220 
+Minimum Operating Temperature : - 65 C     
+Maximum Operating Temperature : + 150 C
+

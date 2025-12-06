@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/تراشه-cmos/16732-تراشه-مالتی-پلکسر-4052bn-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه مالتی پلکسر 4052BN پکیج DIP مارک INTEGRAL
+
+قیمت:
+117,600
+
+توضیحات کوتاه:
+آی سی 4052BN مالتی پلکسر / دی مالتی پلکسر 4 کانال تفاضلی پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Introduction
+
+The IW4052B analog multiplexer/demultiplexer is digitally controlled analog switches having low ON impedance and very low OFF leakage current. Control of analog signals up to 20V peak-topeak can be achieved by digital signal amplitudes of 4.5 to 20V (if VCC - GND = 3V, a VCC - VEE of up to 13 V can be controlled; for VCC - VEE level differences above 13V a VCC - GND of at least 4.5V is required).
+
+Specification
+
+Operating Voltage Range: 3.0 to 18 V
+Maximum input current of 1μA at 18 V over full
+package-temperature range; 100 nA at 18 V and 25°C
+
