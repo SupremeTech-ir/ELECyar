@@ -4,38 +4,40 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-once:
+  scrape-and-push:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        persist-credentials: true
-        fetch-depth: 0   # لازم برای checkout شاخه دیگر
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                     # مهم برای ساختن شاخه جدید
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.11"
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        pip install playwright
-        python -m playwright install --with-deps
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
 
-    - name: Run scraper script
-      run: python web_sc.py
+      - name: Run scraper
+        run: python web_sc.py
 
-    - name: Commit and push results
-      run: |
-        git config --local user.email "github-actions@github.com"
-        git config --local user.name "github-actions"
+      - name: Push scraped data to dedicated branch
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
 
-        # سوییچ به شاخه‌ای که محافظت نشده
-        git checkout sepehr21ar-patch-1
+          # اگر شاخه وجود نداشت بساز، اگر بود فقط سوییچ کن
+          git checkout -b sepehr21ar-patch-1 2>/dev/null || git checkout sepehr21ar-patch-1
 
-        git add -A
-        git commit -m "Update scraped data" || echo "No changes to commit"
+          # اضافه کردن تمام فایل‌های جدید و تغییرکرده
+          git add -A
 
-        git push origin sepehr21ar-patch-1
+          # کامیت فقط اگر واقعاً تغییری وجود داشته باشد
+          git commit -m "Update scraped data $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+
+          # push با force-with-lease (امن‌تر از force ساده)
+          git push origin sepehr21ar-patch-1 --force-with-lease || echo "Nothing to push"
