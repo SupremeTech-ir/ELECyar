@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-واسط/4958-تراشه-ترنسیور-max485csa-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور MAX485CSA پکیج SO-8
+
+قیمت:
+62,200
+
+توضیحات کوتاه:
+آی سی MAX485 فرستنده گیرنده انتقال دهنده Transceivers استانداردهای RS485 و RS422 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Maxim Integrated 
+Product Category: RS-422/RS-485 Interface IC 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SO-8 
+Series: MAX485 
+Function: Transceiver 
+Data Rate: 2.5 Mb/s 
+Number of Drivers: 1 Driver 
+Number of Receivers: 1 Receiver 
+Operating Supply Voltage: 5 V 
+Operating Supply Current: 500 uA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tube 
+Height: 1.5 mm 
+Length: 5 mm 
+Width: 4 mm 
+Brand: Maxim Integrated 
+Duplex: Half Duplex 
+Product Type: RS-422/RS-485 Interface IC
+

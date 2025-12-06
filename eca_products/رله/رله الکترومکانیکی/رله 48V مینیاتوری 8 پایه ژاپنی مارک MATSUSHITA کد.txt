@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/14140-رله-48v-مینیاتوری-8-پایه-ژاپنی-مارک-matsushita-کد-ds2e-m.html
+================================================================================
+
+عنوان:
+رله 48V مینیاتوری 8 پایه ژاپنی مارک MATSUSHITA کد DS2E-M
+
+قیمت:
+557,000
+
+توضیحات کامل:
+توجه فرمائید این رله به دلیل شرایط بد انبارداری در گذشته، دارای خط و خش جزئی در بدنه و مقداری اکسید شدگی بر روی قسمت فلزی می باشد.لازم به ذکر است که از نظر کارایی مشکلی نداشته و اورجینال ژاپنی هستند. همگی تست شده و دارای مهلت گارانتی تست می باشند
+
+Specification
+
+High sensitivity: 400mW pick-up power
+High switching capacity: 60W, 125VA
+Max. switching power: 60W, 125VA
+Max. switching voltage: 220V DC, 250V AC
+Max. switching current: 2A DC, AC
+Max. carrying current: 3A DC, AC
+High breakdown voltage: 1500V FCC surge between open contacts, 1000V AC between open contacts
+2C type can be used with 16 pin IC socket
+Gold-cap silver palladium types available for 2 Form C type
+Bifurcated contacts are standard
+

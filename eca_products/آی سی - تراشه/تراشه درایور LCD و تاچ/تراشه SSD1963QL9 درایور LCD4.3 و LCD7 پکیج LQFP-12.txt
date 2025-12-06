@@ -1,0 +1,45 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/1903-تراشه-ssd1963ql9-درایور-lcd43-و-lcd7-پکیج-lqfp-128.html
+================================================================================
+
+عنوان:
+تراشه SSD1963QL9 درایور LCD4.3 و LCD7 پکیج LQFP-128
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی SSD1963QL9 درایور LCD4.3 و LCD7 اینچ با قابلیت کنترل شدت روشنایی، وضوح تصویر و اشباع رنگ ها، چرخش تصاویر و...
+
+توضیحات کامل:
+معرفی
+
+شما با این درایور می توانید به کمک میکروکنترلرهای avr,8051,pic,arm به سادگی السید های تا رزولیشن 864x480x24bit راه اندازی کنید
+
+Introduction
+
+SSD1963 is a display controller of 1215K byte frame buffer to support up to 864 x 480 x 24bit graphics
+content. It also equips parallel MCU interfaces in different bus width to receive graphics data and command
+from MCU. Its display interface supports common RAM-less LCD driver of color depth up to 24 bit-perpixel.
+
+Specification
+
+• Display feature
+− Built-in 1215K bytes frame buffer. Support up to 864 x 480 at 24bpp display
+− Support TFT 18/24-bit generic RGB and TTL interface panel
+− Support 8-bit RGB interface
+− Hardware rotation of 0, 90, 180, 270 degree
+− Hardware display mirroring
+− Hardware windowing
+− Programmable brightness, contrast and saturation control
+− Dynamic Backlight Control (DBC) via PWM signal
+• MCU connectivity
+− 8/9/16/18/24-bit MCU interface
+− Tearing effect signal
+• I/O Connectivity
+− 4 GPIO pins
+• Built-in clock generator
+• Deep sleep mode for power saving
+• Core supply power (VDDPLL and VDDD): 1.2V±0.1V
+• I/O supply power(VDDIO): 1.65V to 3.6V
+• LCD interface supply power (VDDLCD): 1.65V to 3.6V
+

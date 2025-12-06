@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/1009-تراشه-آپ-امپ-lm358-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM358 پکیج DIP
+
+قیمت:
+32,600
+
+توضیحات کوتاه:
+آی سی تقویت کننده عملیاتی LM358 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Supply Voltage - Max: 32 V 
+Output Current per Channel: 30 mA 
+Number of Channels: 2 Channel 
+GBP - Gain Bandwidth Product: 1 MHz 
+SR - Slew Rate: 0.1 V/us 
+CMRR - Common Mode Rejection Ratio: 65 dB to 85 dB 
+Ib - Input Bias Current: 100 nA 
+Vos - Input Offset Voltage: 7 mV 
+Supply Voltage - Min: 3 V 
+Operating Supply Current: 250 uA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Shutdown: No Shutdown 
+Series: LM358-N 
+Packaging: Tube 
+Input Type: Rail-to-Rail 
+Product: Operational Amplifiers 
+Supply Type: Single, Dual 
+Brand: Texas Instruments 
+Minimum Dual Supply Voltage: +/- 1.5 V 
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+

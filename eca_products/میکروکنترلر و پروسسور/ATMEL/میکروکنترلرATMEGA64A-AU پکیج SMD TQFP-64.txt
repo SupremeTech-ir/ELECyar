@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/atmel/342-میکروکنترلرatmega64a-au-پکیج-smd-tqfp-64.html
+================================================================================
+
+عنوان:
+میکروکنترلرATMEGA64A-AU پکیج SMD TQFP-64
+
+قیمت:
+2,250,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA64A-AU با هسته 8 بیتی AVR (پکیج SMD TQFP-64) با حافظه 64KB، فرکانس کاری 16MHz و 64 پایه 
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA64A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD TQFP-64) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA64A-AU دارای 53 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA64A-AU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega64A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: TQFP-64
+تعداد پین ها ورودی/خروجی : 53
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA64A-AU is a 8-bit high-performance low-power AVR RISC-based Microcontroller combines 64kB ISP flash memory with read-while-write capabilities, 2kB EEPROM, 4kB SRAM, 53 general purpose I/O lines, 32 general purpose working registers, a real time counter, four flexible timer/counters with compare modes and PWM, two USARTs, a byte-oriented 2-wire serial interface, an 8-channel/10-bit A/D converter with optional differential input stage with programmable gain, programmable watchdog timer with internal oscillator, SPI serial port, a JTAG (IEEE 1149.1 compliant) test interface for on-chip debugging and programming and six software selectable power saving modes. The device operates between 2.7 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: TQFP-64 
+Series: ATmega64A 
+Core: AVR 
+Data Bus Width: 8 bit 
+Maximum Clock Frequency: 16 MHz 
+Program Memory Size: 64 kB 
+Data RAM Size: 4 kB 
+Number of I/Os: 53 I/O 
+Operating Supply Voltage: 2.7 V to 5.5 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Height: 1 mm 
+Length: 14 mm
+Width: 14 mm  
+Product: MCU 
+Program Memory Type: Flash
+Brand: Microchip Technology / Atmel 
+Data RAM Type: SRAM 
+Data ROM Size: 2 kB 
+Data ROM Type: EEPROM 
+Interface Type: SPI, USART 
+Moisture Sensitive: Yes 
+Number of Timers/Counters: 4 Timer
+

@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/پل-دیودها/22554-پل-دیود-15a-800v-تخت-شانه-ای-t15xb80-مارک-si-power.html
+================================================================================
+
+عنوان:
+پل دیود 15A-800V تخت شانه ای T15XB80 مارک Si Power
+
+قیمت:
+535,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 800 ولت 15 آمپر T15XB80 مارک Si Power
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Si Power
+Product Category: Bridge DIODE
+RoHS: Details 
+Type: Single Phase Bridge
+Termination Style: Through Hole
+If - Forward Current: 15 A 
+Peak Reverse Voltage: 800 V 
+Max Surge Current: 200 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Length: 30 mm 
+Width: 3.6 mm 
+Height: 20 mm 
+Packaging: Tube
+

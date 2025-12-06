@@ -1,0 +1,44 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/25192-ماسفت-irfb4115-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRFB4115 نوع N-channel پکیج TO-220
+
+قیمت:
+655,000
+
+توضیحات کوتاه:
+ماسفت تک کانال 150 ولت 104 آمپر نوع N-channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Technology: Si 
+Mounting Style: Through Hole 
+Package/Case: TO-220-3 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 150 V 
+Id - Continuous Drain Current: 104 A 
+Rds On - Drain-Source Resistance: 9.3 mOhms 
+Vgs - Gate-Source Voltage: - 20 V, + 20 V 
+Vgs th - Gate-Source Threshold Voltage: 5 V 
+Qg - Gate Charge: 77 nC 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C 
+Pd - Power Dissipation: 380 W 
+Channel Mode: Enhancement 
+Packaging: Tube 
+Brand: Infineon Technologies 
+Configuration: Single 
+Fall Time: 39 ns 
+Forward Transconductance - Min: 97 S 
+Height: 15.65 mm 
+Length: 10 mm 
+Product Type: MOSFETs 
+Rise Time: 73 ns
+

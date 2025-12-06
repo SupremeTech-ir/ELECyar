@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-ttl/13861-تراشه-ترنسیور-mc74f245n-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور MC74F245N پکیج DIP
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی ترنسیور MC74F245N با باس هشت تایی و خروجی 3 حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 4.5V to 5.5V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±20mA
+Maximum output current: ±24mA
+Maximum propagation delay time: 8ns (at 5V and 25°C)
+Octal bus transceiver function
+Bidirectional data pins (A1 to A8 and B1 to B8)
+Active-low output enable control pins (OE and OE#)
+Direction control pin (DIR)
+Fast TTL technology
+20-pin DIP (dual in-line package) package
+

@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/رگولاتور/9472-رگولاتور-33ولت-lm2596s-پکیج-to-263-5.html
+================================================================================
+
+عنوان:
+رگولاتور 3.3+ولت LM2596S پکیج TO-263-5
+
+قیمت:
+161,000
+
+توضیحات کوتاه:
+رگولاتور 3.3 ولت 3 آمپر LM2596T پکیج TO-263-5
+
+توضیحات کامل:
+Specification
+
+Mounting Style: SMD/SMT
+Package / Case: TO-263-5
+Output Voltage: 3.3 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4.5 V
+Switching Frequency: 173 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: LM2596
+Packaging: Tube
+Operating Temperature Range: - 40 C to + 125 C
+Type: Inverting, Step Down
+Operating Supply Current: 5 mA
+Product Type: Switching Voltage Regulators
+

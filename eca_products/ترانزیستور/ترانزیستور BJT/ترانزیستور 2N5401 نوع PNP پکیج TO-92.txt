@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/1763-ترانزیستور-2n5401-نوع-pnp-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور 2N5401 نوع PNP پکیج TO-92
+
+قیمت:
+8,620
+
+توضیحات کوتاه:
+ترانزیستور 2N5401 نوع PNP پکیج TO-92 ولتاژ 150V جریان 600mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.31 W
+Maximum Collector-Base Voltage |Vcb|: 160 V
+Maximum Collector-Emitter Voltage |Vce|: 150 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.6 A
+Max. Operating Junction Temperature (Tj): 135 °C
+Transition Frequency (ft): 100 MHz
+Collector Capacitance (Cc): 6 pF
+Forward Current Transfer Ratio (hFE), MIN: 60
+Package: TO-92
+

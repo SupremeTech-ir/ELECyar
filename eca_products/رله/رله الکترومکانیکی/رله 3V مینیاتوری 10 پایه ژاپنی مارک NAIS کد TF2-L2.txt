@@ -1,0 +1,17 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/12931-رله-3v-مینیاتوری-10-پایه-ژاپنی-مارک-nais-کد-tf2-l2.html
+================================================================================
+
+عنوان:
+رله 3V مینیاتوری 10 پایه ژاپنی مارک NAIS کد TF2-L2
+
+قیمت:
+438,000
+
+توضیحات کامل:
+Nominal switching capacity (resistive load): 1 A 30 V DC, 0.5 A 125 V AC
+Max. switching power(resistive load): 30 W, 62.5 VA
+Max. switching voltage: 110 V DC, 125 V AC
+Max. switching current: 1 A
+Min. switching capacity: 10 uA 10 mV DC
+Nominal operating power: 2 coil latching: 110 mW (3 to 12 V DC) 200 mW (24 V DC)
+

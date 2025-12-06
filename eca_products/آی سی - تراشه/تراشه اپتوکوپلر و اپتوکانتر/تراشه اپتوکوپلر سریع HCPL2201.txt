@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/14640-تراشه-اپتوکوپلر-سریع-hcpl2201.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر سریع HCPL2201
+
+قیمت:
+0
+
+توضیحات کوتاه:
+اپتوکوپلر 8 پایه پرسرعت 5Mb/s تک کانال HCPL-2201
+
+توضیحات کامل:
+Specification
+
+Product Category: High Speed Optocouplers 
+Package / Case: PDIP-8 
+Data Rate: 5 Mb/s 
+Number of Channels: 1 Channel 
+Output Type: Open Collector 
+Isolation Voltage: 3750 Vrms 
+Vf - Forward Voltage: 1.5 V 
+If - Forward Current: 5 mA 
+Vr - Reverse Voltage: 5 V 
+Pd - Power Dissipation: 210 mW 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Series: HCPL-2201 
+Fall Time: 7 ns 
+Product Type: High Speed Optocouplers 
+Rise Time: 30 ns
+

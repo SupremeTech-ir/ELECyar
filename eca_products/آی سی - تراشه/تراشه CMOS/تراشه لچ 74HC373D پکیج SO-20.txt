@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-cmos/16061-تراشه-لچ-74hc373d-پکیج-so-20.html
+================================================================================
+
+عنوان:
+تراشه لچ 74HC373D پکیج SO-20
+
+قیمت:
+214,000
+
+توضیحات کوتاه:
+آی سی 74HC373D لچ 8 تایی تایپ D پکیج SO20 SMD
+
+توضیحات کامل:
+Specification
+
+Product Category: Latches 
+Number of Circuits: 8 Circuit 
+Logic Type: CMOS 
+Logic Family: HC 
+Polarity: Non-Inverting 
+Quiescent Current: 8 uA 
+Number of Output Lines: 8 Line 
+High Level Output Current: - 7.8 mA 
+Propagation Delay Time: 12 ns at 5 V 
+Supply Voltage - Max: 6 V 
+Supply Voltage - Min: 2 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Package / Case: SO20 
+Function: Transparent 
+Mounting Style: SMD/SMT 
+Number of Channels: 8 Channels 
+Number of Input Lines: 8 Line 
+Operating Supply Voltage: 5 V 
+Output Type: 3-State 
+Product Type: Latches 
+Reset Type: No Reset 
+Subcategory: Logic ICs 
+Type: D-Type
+

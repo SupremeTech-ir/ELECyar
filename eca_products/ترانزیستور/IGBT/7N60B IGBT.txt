@@ -1,0 +1,44 @@
+URL: https://eshop.eca.ir/igbt/4556-ترانزیستور-7n60b-igbt.html
+================================================================================
+
+عنوان:
+7N60B IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+Manufacturer:IXYS
+
+Product Category:IGBT Transistors
+
+RoHS:RoHS Compliant Details
+
+Configuration:Single
+
+Collector- Emitter Voltage VCEO Max:600 V
+
+Collector-Emitter Saturation Voltage:2 V
+
+Maximum Gate Emitter Voltage:+/- 20 V
+
+Maximum Operating Temperature:+ 150 C
+
+Package / Case:TO-220-3
+
+Packaging:Tube
+
+Brand:IXYS
+
+Continuous Collector Current Ic Max:14 A
+
+Minimum Operating Temperature:- 55 C
+
+Mounting Style:Through Hole
+
+Series:IXGP7N60
+
+Factory Pack Quantity:50
+
+Unit Weight:0.081130 oz
+

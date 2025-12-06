@@ -1,0 +1,71 @@
+URL: https://eshop.eca.ir/stm/3945-میکروکنترلر-stm32f030k6t6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F030K6T6
+
+قیمت:
+529,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F030K6T6 با هسته ARM Cortex M0 با حافظه 32KB و فرکانس کاری 48MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F030K6T6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 48 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F030K6T6 دارای 15 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F030K6T6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 48 Mhz
+حافظه: 32 kB
+تعداد پین ها ورودی/خروجی : 26
+پکیج :  LQFP-32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F030F4P6 microcontroller has a 32-bit ARM Cortex M0 processor core made by STMicroelectronics and operates at a frequency of 48 MHz. This microcontroller provides 32KB of FLASH memory on the chip. The STM32F030F4P6 microcontroller has 26 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM32F030F4P6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category: ARM Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: LQFP-32 
+Series: STM32F030K6 
+Core: ARM Cortex M0 
+Data Bus Width: 32 bit 
+Maximum Clock Frequency: 48 MHz 
+Program Memory Size: 32 kB 
+Data RAM Size: 4 kB 
+ADC Resolution: 12 bit 
+Number of I/Os: 26 
+Operating Supply Voltage: 2.4 V to 3.6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Product: MCU 
+Program Memory Type: Flash 
+Brand: STMicroelectronics 
+Data RAM Type: SRAM 
+Interface Type: I2C, SPI, USART 
+I/O Voltage: 2.4 V to 3.6 V 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 12 Channel 
+Processor Series: STM32F030 
+Product Type: ARM Microcontrollers - MCU 
+Factory Pack Quantity: 1500 
+Subcategory: Microcontrollers - MCU 
+Supply Voltage - Max: 3.6 V 
+Supply Voltage - Min: 2.4 V 
+Watchdog Timers: Watchdog Timer, Windowed 
+Unit Weight: 0.028219 oz
+

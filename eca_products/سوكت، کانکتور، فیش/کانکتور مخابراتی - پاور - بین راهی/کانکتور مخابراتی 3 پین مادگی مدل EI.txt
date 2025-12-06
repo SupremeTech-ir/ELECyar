@@ -1,0 +1,85 @@
+URL: https://eshop.eca.ir/کانکتور-مخابراتی-پاور-بین-راهی/17438-کانکتور-مخابراتی-3-پین-مادگی-مدل-ei.html
+================================================================================
+
+عنوان:
+کانکتور مخابراتی 3 پین مادگی مدل EI
+
+قیمت:
+8,200
+
+توضیحات کوتاه:
+کانکتور مخابراتی 3 پین مادگی
+
+توضیحات کامل:
+Features 
+
+Connector Product Type : Housing
+
+Connector & Housing Type : Receptacle
+
+Connector System : Wire-to-Board
+
+Sealable : No
+
+Connector & Contact Terminates To : Wire & Cable
+
+Configuration Features 
+
+Number of Positions : 3
+
+Number of Rows : 1
+
+Electrical Characteristics 
+
+Operating Voltage (VAC): 250
+
+Operating Voltage (VDC): 350
+
+Insulation Resistance (MΩ): 500
+
+Connector Profile : Standard
+
+Contact Type : Socket
+
+Contact Current Rating (Max) (A): 2
+
+Contact Layout : Inline 
+
+Termination Method to Wire & Cable : Crimp
+
+Mechanical Attachment
+
+Mating Retention Type : Lock
+
+PCB Mount Retention : Without
+
+Panel Mount Feature : Without
+
+Strain Relief : Without
+
+Mating Retention : With
+
+Connector Mounting Type : Cable Mount (Free-Hanging) 
+
+Housing Material : Nylon 6/6
+
+Centerline (Pitch) : 2.5 mm [ .098 in ]
+
+Housing Color : Natural
+
+Housing Entry Configuration : Both Ends Closed
+
+Dimensions 
+
+Connector Height (mm): 5.75
+
+Connector Length (mm): 14
+
+Usage Conditions 
+
+Operating Temperature Range : -20 – 95 °C [ -4 – 203 °F ]
+
+Operation/Application 
+
+Circuit Application : Power & Signal
+

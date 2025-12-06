@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/رگولاتور/650-رگولاتور-9-ولت-7809-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 9+ ولت 7809 پکیج TO-220
+
+قیمت:
+117,000
+
+توضیحات کوتاه:
+رگولاتور با خروجی ثابت 9+ ولت 7809 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+رگولاتور های 780X به منظور تثبیت ولتاژ در یک مقدار معین (مثبت) به کار می روند که X بیانگر ولتاژ تثبیت شده خروجی است . به عنوان مثال 7809 یک تثبیت کننده ولتاژ با خروجی 9+ ولت ثابت است.
+
+Specification
+
+Package / Case: TO-220 
+Number of Outputs: 1 Output 
+Polarity: Positive 
+Output Voltage: 9 V 
+Output Current: 1.5 A 
+Output Type: Fixed 
+Input Voltage, Min: 11 V 
+Input Voltage, Max: 35 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Load Regulation: 100 mV 
+Line Regulation: 90 mV 
+Quiescent Current: 4.3 mA 
+Series: L78 
+Packaging: Tube 
+Brand: STMicroelectronics 
+Height: 9.15 mm 
+Length: 10.4 mm
+

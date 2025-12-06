@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-واسط/24617-تراشه-مبدل-usb-به-سریال-ch340k-پکیج-essop-10.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340K پکیج ESSOP-10
+
+قیمت:
+475,000
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340K پکیج ESSOP-10 SMD
+
+توضیحات کامل:
+Specification
+
+Part Number: CH340K
+Data Rate: 50bps to 2Mbps
+Speed: Full Speed
+Standard: USB 2.0
+Packaging: Reel
+Mounting Style: SMD/SMT
+Maximum Operating Temperature : +70C 
+Minimum Operating Temperature: -20C
+Type : Bridge, USB to UART
+Supply Voltage - Max : 5.3V
+Supply Voltage - Min : 4V
+Package-Case : ESSOP-10
+Operating Supply Current : 7mA
+

@@ -1,0 +1,51 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/2477-تراشه-آمپلی-فایر-tda2030a.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2030A
+
+قیمت:
+205,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده آمپلی فایر 18 وات TDA2030A
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA2030A
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 18 W
+Mounting Style: Through Hole
+Type: 1-Channel Mono
+Package / Case: Pentawatt
+Audio - Load Impedance: 8 Ohms
+THD plus Noise: 0.5 %
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Description/Function: Speaker
+Height: 9.2 mm
+Input Type: Differential
+Length: 10.4 mm
+Output Current: 3500 mA
+Supply Type: Dual
+Width: 4.8 mm
+Brand: STMicroelectronics
+Gain: 80 dB
+Number of Channels: 1 Channel
+Dual Supply Voltage: +/- 9 V, +/- 12 V, +/- 15 V, +/- 18 V
+Ib - Input Bias Current: 2 uA
+Maximum Dual Supply Voltage: +/- 22 V
+Minimum Dual Supply Voltage: +/- 6 V
+Operating Supply Current: 80 mA
+Operating Supply Voltage: 22 V
+Output Signal Type: Single
+Pd - Power Dissipation: 20000 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 54 dB
+

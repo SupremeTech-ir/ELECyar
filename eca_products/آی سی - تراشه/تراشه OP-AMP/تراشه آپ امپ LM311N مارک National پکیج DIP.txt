@@ -1,0 +1,43 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/23760-تراشه-آپ-امپ-lm311n-مارک-national-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM311N مارک National پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM311N  پکیج DIP مارک National
+
+توضیحات کامل:
+Specification
+
+Brand : National
+Product Category: Analog Comparators 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Comparator Type: Differential 
+Number of Channels: 1 Channel 
+Output Type: Open Collector 
+Ib - Input Bias Current: 250 nA 
+Vos - Input Offset Voltage: 7.5 mV 
+Supply Voltage - Max: 36 V 
+Supply Voltage - Min: 5 V 
+Operating Supply Current: 7.5 mA 
+Response Time: 200 ns 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C
+Features: Strobe, Vos Adj Pin 
+Height: 3.3 mm 
+Length: 9.27 mm
+Width: 6.35 mm  
+Supply Type: Single, Dual 
+Technology: Bipolar 
+Type: Voltage Comparator
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 2.5 V 
+Operating Supply Voltage: 9 V, 12 V, 15 V, 18 V, 24 V, 28 V 
+Pd - Power Dissipation: 500 mW (1/2 W)
+

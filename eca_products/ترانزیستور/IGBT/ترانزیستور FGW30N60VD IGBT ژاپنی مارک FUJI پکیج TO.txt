@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/igbt/22315-ترانزیستور-fgw30n60vd-igbt-ژاپنی-مارک-fuji-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور FGW30N60VD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 600 ولت 30 آمپر مدل 30G60VD پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW30N60VD
+Type: IGBT
+Marking Code: 30G60VD
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 230
+Maximum Collector-Emitter Voltage |Vce|, V: 600
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 30
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.6
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 60
+Collector Capacity (Cc), typ, pF: 145
+Package: TO247
+

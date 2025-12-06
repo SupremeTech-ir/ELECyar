@@ -1,0 +1,45 @@
+URL: https://eshop.eca.ir/stm/20292-میکروکنترلر-stm32g030c8t6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32G030C8T6
+
+قیمت:
+803,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32G030C8T6 با هسته +ARM Cortex M0 با حافظه 64KB و فرکانس کاری 64MHz ساخت شرکت ST 
+
+توضیحات کامل:
+میکروکنترلر STM32G030C8T6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 64 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32G030C8T6 دارای 40 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32G030C8T6 دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32G030C8T6
+دارای هسته 32 بیتی +ARM Cortex M0
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 64Mhz
+حافظه فلش : 64 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 44
+پکیج : LQFP-48
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer STMicroelectronics 
+Type of integrated circuit ARM microcontroller 
+Flash memory capacity 64kB 
+Clock frequency 64MHz 
+Mounting SMD 
+Number of inputs/outputs 44
+SRAM memory capacity 8kB 
+Case LQFP-48
+Supply voltage 2...3.6V DC 
+Number of 16bit timers 8 
+Kind of architecture Cortex M0+
+

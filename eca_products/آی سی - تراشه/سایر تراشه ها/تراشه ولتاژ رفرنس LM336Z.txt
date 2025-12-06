@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/5531-تراشه-ولتاژ-رفرنس-lm336z.html
+================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس LM336Z
+
+قیمت:
+88,100
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Voltage References 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: TO-92-3 
+Reference Type: Shunt Precision References 
+Output Voltage: 2.5 V 
+Initial Accuracy: 4 % 
+Temperature Coefficient: 20 PPM/C 
+Shunt Current - Max: 10 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Series: LM336 
+Packaging: Bulk 
+Accuracy: 10 mV 
+Description/Function: 2.5 Volt Precision Voltage References 
+Height: 4.95 mm 
+Input Voltage: 2.5 V 
+Length: 4.95 mm 
+Product: Voltage References 
+Width: 3.94 mm 
+Brand: STMicroelectronics 
+Shunt Current - Min: 0.4 mA 
+Topology: Shunt References 
+Operating Supply Current: 10 mA 
+Product Type: Voltage References
+

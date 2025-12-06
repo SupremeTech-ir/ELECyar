@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/سایر-دیودها/17061-دیود-1a-400v-مدل-1n4004-پکیج-sma.html
+================================================================================
+
+عنوان:
+دیود 1A-400V مدل 1N4004 پکیج SMA
+
+قیمت:
+3,700
+
+توضیحات کوتاه:
+دیود 400 ولت 1 آمپر M4 پکیج SMA
+
+توضیحات کامل:
+Features 
+
+Maximum Recurrent Peak Reverse Voltage (VRRM) : 400 V 
+
+DC Blocking Reverse Voltage (VR): 400 V
+
+RMS Reverse Voltage (VR(RMS)) : 280 V
+
+Maximum Average Forward Rectified Current (If) : 1A
+
+Non-Repetitive Peak Forward Surge Current (IFSM) : 30 A
+
+Thermal Resistance From Junction To Ambient (RθJA) : 30 °C/W
+
+Junction Temperature (TJ) : 15 °C
+
+Storage Temperature (TSTG) :-65 ~+175 °C
+

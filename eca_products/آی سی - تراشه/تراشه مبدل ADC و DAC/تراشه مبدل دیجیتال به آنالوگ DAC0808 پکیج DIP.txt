@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/435-تراشه-مبدل-دیجیتال-به-آنالوگ-dac0808-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل دیجیتال به آنالوگ DAC0808 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل دیجیتال به آنالوگ 8 بیتی DAC0808 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+این آی سی یک مبدل 8 بیتی دیجیتال به آنالوگ است که با سیستم های میکروپروسسوری مطابقت دارد و برای میکروهایی که این مبدل را به صورت داخلی ندارند قابل استفاده است 
+
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Digital to Analog Converters - DAC 
+Series: DAC0808 
+Resolution: 8 bit 
+Sampling Rate: 6.6 MS/s 
+Number of Channels: 1 Channel 
+Settling Time: 100 ns 
+Output Type: Current Unbuffered 
+Interface Type: Parallel 
+Analog Supply Voltage: +/- 4.5 V to +/- 18 V 
+Digital Supply Voltage: +/- 4.5 V to +/- 18 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-16 
+Packaging: Tube
+

@@ -1,0 +1,74 @@
+URL: https://eshop.eca.ir/stm/15638-میکروکنترلر-gd32f103ret6.html
+================================================================================
+
+عنوان:
+میکروکنترلر GD32F103RET6
+
+قیمت:
+2,880,000
+
+توضیحات کوتاه:
+میکروکنترلر GD32F103RET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 108MHz ساخت شرکت GD
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر GD32F103RET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3  است که با فرکانس حداکثر 108 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه و 64 کیلوبایت حافظه SRAM فراهم می کند. میکروکنترلر GD32F103RET6 دارای حداکثر سه ADC با رزولوشن 12 بیتی، چهار تایمر 16 بیتی، سه SPI، دو I2C، سه USART و یک CAN می باشد.
+
+میکروکنترلر GD32F103RET6 دارای ولتاژ کاری 2.6 تا 3.6 ولت بوده و در محدود دمایی -48 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+دارای هسته 32 بیتی ARM Cortex M3
+
+حافظه FLASH میکرو : 512 کیلوبایت
+
+حافظه SRAM میکرو : 64 کیلو بایت
+
+دارای 4 تایمر 16 بیتی
+
+تعداد پین های GPIO میکرو : 51 
+
+ماکزیمم سرعت: 108Mhz
+
+دارای ADC با رزولوشن 12 بیت
+
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+
+.است STM32F103RET6 امکانات میکروکنترلر و پایه ها دقیقا مشابه
+
+لازم به ذکر است که میکروکنترلر از نظر کارایی بانسخه شرکت STM هیچ تفاوتی نداشته و تمامی کامپایلرها و برنامه های نسخه STM بر روی این میکروکنترلر نیز قابل اجرا می باشد.
+
+Introduction
+
+GD32® is a new 32-bit high performance, low power consumption universal microcontroller family powered by the ARM® Cortex®-M3 RISC core, which targeted at various MCU application areas. GD32® family integrates features to simplify system design and provide customers wide range of comprehensive and superior cost effective MCU portfolios with proven technology and great innovation. Building on GigaDevice advanced patented "gFlash" memory technology and mass production experiences, it provides new form of MCUs which offers customer high functionality and quality. GD32® family includes entry line, performance line and connectivity line currently.
+
+GD32® MCU incorporates the 32-bit ARM® Cortex®-M3 processor core operating at 108 MHz max frequency with Flash accesses zero wait states to obtain maximum efficiency. It provides up to 3024 KB on-chip Flash memory and up to 96 KB SRAM memory. An extensive range of enhanced I/Os and peripherals connected to two APB buses.  The device offers up to three 12-bit 1MSPS ADCs, up to ten general-purpose 16-bit timers plus one PWM advanced timer, as well as standard and advanced communication interfaces: up to three SPIs, two I2Cs, five USARTs, an USB 2.0 OTG FS and two CANs. The device operates from a 2.6 to 3.6 V power supply and available in -40 to +85°C temperature range. Three power saving modes provides the flexibility for maximum optimization between wakeup latency and power consumption, an especially important consideration in low power applications.
+
+GD32® series MCUs also bring much advantage to the end-user. The max speed of GD32® MCU has increased 50% than the market competing products. Code execution efficiency of the same frequency has enhanced 30%-40%. Current consumption of the same frequency has reduced 20%-30%. These performances provide maximum capability and bandwidth options for various market requirements.
+
+The above features make the GD32® MCUs suitable for a wide range of applications. It is ideal for use in industrial control, user interface, motor drives, power monitor and alarm systems, consumer and handheld equipment, solar photovoltaic control, touch panel, PC peripherals and so on
+
+Specification
+
+Speed and Memory 
+Maximum Speed Up to 108MHz
+Flash Memory 512K
+RAM 64K
+PSRAM -
+
+Connectivity  
+USART 5x
+I2C 2x
+SPI 3x
+CAN 1x 
+I2S 2x
+SDIO 1x
+
+Analog Interface 
+12bit ADC 3 Units
+12bit ADC 16 Channels 
+12bit DAC 2 Units 
+
+Packages  LQFP64
+

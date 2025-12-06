@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/رگولاتور/2503-رگولاتور-10-ولت-7810-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 10+ ولت 7810 پکیج TO-220
+
+قیمت:
+114,000
+
+توضیحات کوتاه:
+رگولاتور 10+ ولت 7810 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators 
+Mounting Style: Through Hole 
+Package / Case: TO-220-3 
+Number of Outputs: 1 Output 
+Polarity: Positive 
+Output Voltage: 10 V 
+Output Current: 1 A 
+Output Type: Fixed 
+Input Voltage, Min: 12.5 V 
+Input Voltage, Max: 25 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C
+

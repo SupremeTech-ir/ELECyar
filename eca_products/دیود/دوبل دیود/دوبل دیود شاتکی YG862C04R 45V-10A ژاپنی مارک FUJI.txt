@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22838-دوبل-دیود-شاتکی-yg862c04r-45v-10a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG862C04R 45V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+146,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 10 آمپر YG862C04R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+Io: 10 A 
+Vrrm - Repetitive Reverse Voltage: 45 V 
+Vf - Forward Voltage: 0.61 V 
+Ifsm - Forward Surge Current: 125 A 
+Ir - Reverse Current: 150 uA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

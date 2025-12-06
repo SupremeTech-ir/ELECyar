@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/8849-تراشه-صوتی-upd6379agr-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه صوتی UPD6379AGR پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+مبدل 2 کاناله 16 بیتی D/A برای برنامه صوتی UPD6379AGR پکیج SOP-8
+
+توضیحات کامل:
+Introduction
+
+The µPD6379 and 6379A are 2-channel 16-bit D/A converters for digital audio signal demodulation. These D/A converters employ the resistor string conversion method which has been tested by existing model µPD6376 but they are more compact and require fewer external components than the µPD6376. In addition, low-voltage models, the
+µPD6379L and 6379AL (minimum operating supply voltage +3.0 V) are also available for applications in portable
+Resistor string conversion method 0-point digital shift circuit × 4 oversampling Sampling frequency: 200 kHz MAX. Signal processing format for 2's complement, MSB first, and backward justification data accommodated Left and right in-phase output High performance (at VDD +5.0 V) S/N ratio: 100 dB TYP. Dynamic range: 96 dB TYP. Low-voltage models available Bipolar LR clock (LRCK) Low power dissipation: 10 mW TYP. (with 6379AL at VDD +3.3 V)
+LRCK Supply voltage +3.3 V (VDD +5.0 V (VDD 5.5 V) LRCK = L when L-ch data is input LRCK = H when L-ch data is input
+Few external components Internal output operational amplifier Only one electrolytic capacitor required for smoothing reference voltage, instead of two capacitors required by existing D/A converters Small package: 8-pin plastic SOP mm (225))
+The information in this document is subject to change without notice. Before using this document, please confirm that this is the latest version. Not all devices/types available in every country. Please check with local NEC representative for availability and additional information. Document No. S11588EJ4V0DS00 (4th edition) Date Published November 1999 N CP(K) Printed in Japan
+Part number Package 8-pin plastic SOP (225)) 8-pin plastic SOP (225)) 8-pin plastic SOP (225)) 8-pin plastic SOP mm (225))
+
+Specification
+
+Resistor string conversion method
+0-point digital shift circuit
+4 oversampling
+Sampling frequency: 200 kHz MAX.
+Signal processing format for 2’s complement, MSB first, and backward justification data accommodated
+Left and right in-phase output
+High performance (at VDD = +5.0 V)
+S/N ratio: 100 dB TYP.
+Dynamic range: 96 dB TYP.
+Low-voltage models available
+Bipolar LR clock (LRCK)
+Low power dissipation: 10 mW TYP.
+(with mPD6379L, 6379AL at VDD = +3.3 V)
+LRCK LRCK = L LRCK = H
+Supply voltage when L-ch data is input when L-ch data is input
++3.3 V (VDD = +3.0 to 5.5 V) mPD6379L mPD6379AL
++5.0 V (VDD = +4.5 to 5.5 V) mPD6379 mPD6379A
+Few external components
+Internal output operational amplifier
+Only one electrolytic capacitor required for smoothing reference voltage, instead of two capacitors required by
+existing D/A converters
+

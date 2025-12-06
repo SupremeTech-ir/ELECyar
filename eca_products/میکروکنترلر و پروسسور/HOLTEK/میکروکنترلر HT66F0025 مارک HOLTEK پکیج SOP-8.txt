@@ -1,0 +1,55 @@
+URL: https://eshop.eca.ir/holtek/23386-میکروکنترلر-ht66f0025-مارک-holtek-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+میکروکنترلر HT66F0025 مارک HOLTEK پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 8 پایه HT66F0025 ساخت شرکت HOLTEK با فرکانس کاری 8MHz
+
+توضیحات کامل:
+Introduction
+
+The devices are Flash Memory type 8-bit high performance RISC architecture microcontrollers. Offering users the convenience of Flash Memory multi-programming features, these devices also include a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter function. Multiple and extremely flexible Timer Modules provide timing, pulse generation, capture input, compare match output,
+single pulse output and PWM generation functions. Protective features such as an internal Watchdog Timer and Low Voltage Reset coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the devices will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS = 8MHz: 2.2V~5.5V
+Up to 0.5μs instruction cycle with 8MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Two Oscillators
+Internal High Speed 8MHz RC -- HIRC
+Internal Low Speed 32kHz RC -- LIRC
+Fully intergrated internal oscillator requires no external components
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+Up to 4-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 1K×14/2K×15
+RAM Data Memory: 64×8/96×8
+True EEPROM Memory: 32×8
+Watchdog Timer function
+Up to 18 bidirectional I/O lines
+Software controlled 4-SCOM lines LCD driver with 1/2 bias (only available for HT66F004)
+Multiple pin-shared external interrupts
+Multiple Timer Modules for time measure, compare match output, capture input, PWM output,
+single pulse output functions
+Dual Time Base functions for generation of fixed time interrupt signals
+Multi-channel 12-bit resolution A/D converter
+Low voltage reset function
+Wide range of available package types
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+True EEPROM data memory data retention > 10 years
+

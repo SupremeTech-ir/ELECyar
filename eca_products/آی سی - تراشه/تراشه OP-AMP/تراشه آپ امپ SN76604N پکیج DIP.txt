@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/5430-تراشه-آپ-امپ-sn76604n-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ SN76604N پکیج DIP
+
+قیمت:
+211,000
+
+توضیحات کوتاه:
+آی سی آپ امپ SN76604N پکیج DIP
+
+توضیحات کامل:
+Features
+
+Bidirectional operation with single supply
+400ma Load current capability without external power transistors
+easily time division multiplexed for multi-channel operation
+adjustable dead-banb
+Bidirectional Servo-Amp And Pulse Width Detector;400mA,Multi-Channel,Output Offset:0.00
+

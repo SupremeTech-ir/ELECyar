@@ -1,0 +1,66 @@
+URL: https://eshop.eca.ir/stm/2449-میکروکنترلر-stm32f103zet6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F103ZET6
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103ZET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F103ZET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103ZET6 دارای 112 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F103ZET6 دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F103ZE
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 512 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 112
+پکیج : LQFP-144
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: ARM Microcontrollers - MCU 
+Series: STM32F103ZE 
+Mounting Style: SMD/SMT 
+Package / Case: LQFP-144 
+Core: ARM Cortex M3 
+Program Memory Size: 512 kB 
+Data Bus Width: 32 bit 
+ADC Resolution: 12 bit 
+Maximum Clock Frequency: 72 MHz 
+Number of I/Os: 112 I/O 
+Data RAM Size: 64 kB 
+Supply Voltage - Min: 2 V 
+Supply Voltage - Max: 3.6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Data RAM Type: SRAM 
+Height: 1.4 mm 
+Interface Type: CAN, I2C, SPI, USART, USB 
+Length: 20 mm
+Width: 20 mm 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 16 Channel 
+Number of Timers/Counters: 8 Timer 
+Processor Series: ARM Cortex M 
+Product Type: ARM Microcontrollers - MCU 
+Program Memory Type: Flash
+Subcategory: Microcontrollers - MCU 
+Tradename: STM32
+

@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/846-تراشه-حافظه-at24c256-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C256 پکیج DIP
+
+قیمت:
+311,000
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C256 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: EEPROM 
+Interface Type: 2-Wire, I2C 
+Memory Size: 256 kbit 
+Organization: 32 k x 8 
+Supply Voltage - Min: 1.8 V 
+Supply Voltage - Max: 2.7 V 
+Brand: Microchip Technology / Atmel 
+Operating Supply Voltage: 1.8 V, 2.7 V 
+Product Type: EEPROM 
+Subcategory: Memory & Data Storage
+

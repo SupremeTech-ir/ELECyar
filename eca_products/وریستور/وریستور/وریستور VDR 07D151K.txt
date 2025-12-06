@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/وریستور/18441-وریستور-vdr-07d151k.html
+================================================================================
+
+عنوان:
+وریستور VDR 07D151K
+
+قیمت:
+16,300
+
+توضیحات کوتاه:
+وریستور 150 ولت با تلرانس 10 درصد کد 07D151K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors 
+Product: MOV 
+Mounting Style: PCB Mount 
+Termination Style: Radial 
+Voltage Rating AC: 95 VAC 
+Voltage Rating DC: 165 VDC 
+Varistor Voltage: 150 V 
+Clamping Voltage: 250 V 
+Diameter: 7 mm 
+Peak Surge Current: 1.2 kA 
+Surge Energy Rating: 9.7 J 
+Capacitance: 330 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Product Type: Varistors 
+Subcategory: Varistors 
+Tolerance: 10 % 
+Width: 6.8 mm
+

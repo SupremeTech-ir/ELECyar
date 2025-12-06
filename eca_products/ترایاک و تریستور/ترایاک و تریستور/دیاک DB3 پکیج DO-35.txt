@@ -1,0 +1,43 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/20071-دیاک-db3-پکیج-do-35.html
+================================================================================
+
+عنوان:
+دیاک DB3 پکیج DO-35
+
+قیمت:
+7,600
+
+توضیحات کوتاه:
+دیاک مدل DB3 پکیج DO-35 با ولتاژ شکست 32 ولت 
+
+توضیحات کامل:
+معرفی
+
+کارکرد دیاک به این صورت است که وقتی به حد ولتاژ شکست نرسد، جریانی را عبورنمی دهد، وقتی ولتاژ دوسرآن به حد ولتاژ شکست رسید، جریان را هدایت می کند ضمن اینکه ولتاژ دوسرآن نیز کاهش می یابد، از موارد استفاده دیاک ایجاد پالس می باشد . معمولا در انتخاب دیاک ، جریان و ولتاژشکست آن درنظر گرفته می شود. 
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Diacs 
+Series: DB3 
+Breakover Voltage VBO: 32 V 
+Breakover Current IBO Max: 50 uA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Mounting Style: Through Hole 
+Package / Case: DO-35 
+Features: Low Breakover Current
+Subcategory: Thyristors
+
+Features
+
+VBO : 32 V and 40 V
+Low breakover current
+Breakover voltage symmetry : 3V
+
+Applications
+
+Triggering device for Triac or SCR based motor / light dimmer
+32 V trigger device for oscillator circuit
+Start up triggering in lighting ballast for CFL, TL or LED lamps
+

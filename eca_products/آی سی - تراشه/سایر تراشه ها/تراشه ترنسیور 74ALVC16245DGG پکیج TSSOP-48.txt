@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/9440-تراشه-ترنسیور-74alvc16245dgg-پکیج-tssop-48.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور 74ALVC16245DGG پکیج TSSOP-48
+
+قیمت:
+930,000
+
+توضیحات کوتاه:
+آی سی فرستنده وگیرنده 74ALVC16245DGG پکیج SMD TSSOP-48
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Nexperia 
+Product Category: Bus Transceivers 
+Logic Family: ALVC 
+Input Level: LVTTL 
+Output Level: LVTTL 
+Output Type: 3-State 
+High Level Output Current: - 24 mA 
+Low Level Output Current: 24 mA 
+Propagation Delay Time: 2.1 ns 
+Supply Voltage - Max: 3.6 V 
+Supply Voltage - Min: 1.2 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Package / Case: TSSOP-48 
+Brand: Nexperia 
+Function: Bus Transceiver 
+Height: 1.05 mm 
+Length: 12.6 mm 
+Mounting Style: SMD/SMT 
+Number of Channels: 16 
+Number of Circuits: 2 
+Operating Supply Voltage: 1.8 V, 2.5 V, 3.3 V 
+Polarity: Non-Inverting 
+Product: CMOS 
+Product Type: Bus Transceivers 
+Quiescent Current: 200 nA
+

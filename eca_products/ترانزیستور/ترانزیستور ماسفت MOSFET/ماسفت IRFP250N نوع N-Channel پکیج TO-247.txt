@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/813-ماسفت-irfp250n-نوع-n-channel-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ماسفت IRFP250N نوع N-Channel پکیج TO-247
+
+قیمت:
+563,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 30 آمپر IRFP250N نوع N-Channel  پکیج TO-247
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Package / Case: TO-247-3     
+Number of Channels: 1 Channel     
+Transistor Polarity: N-Channel     
+Vds - Drain-Source Breakdown Voltage: 200 V     
+Id - Continuous Drain Current: 30 A     
+Rds On - Drain-Source Resistance: 85 mOhms     
+Vgs - Gate-Source Voltage: 20 V     
+Maximum Operating Temperature: + 150 C          
+Fall Time: 62 ns     
+Height: 20.7 mm     
+Length: 15.87 mm     
+Minimum Operating Temperature: - 55 C     
+Pd - Power Dissipation: 190 W     
+Rise Time: 86 ns     
+Factory Pack Quantity: 500     
+Transistor Type: 1 N-Channel     
+Typical Turn-Off Delay Time: 70 ns     
+Typical Turn-On Delay Time: 16 ns
+

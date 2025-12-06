@@ -1,0 +1,53 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/4324-تراشه-آپ-امپ-توان-پایین-دوبل-tl072-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ توان پایین دوبل TL072 پکیج SO-8
+
+قیمت:
+25,300
+
+توضیحات کوتاه:
+آی سی آپ امپ توان پایین دوبل TL072 پکیج SMD
+
+توضیحات کامل:
+تراشه  TL072  یک آپ امپ شامل دو تقویت کننده عملیاتی با ورودی JFET و نویز پایین می باشد.از ویژگیهای دیگر این تراشه امپدانس ورودی بالا و مصرف پایین آی سی می‌باشد.این تراشه برای استفاده در پری آمپلیفایر صوتی مناسب می باشد.
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Operational Amplifiers - Op Amps 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SO-8 
+Supply Voltage - Max: 36 V 
+Output Current per Channel: 40 mA 
+Number of Channels: 2 Channel 
+GBP - Gain Bandwidth Product: 4 MHz 
+SR - Slew Rate: 16 V/us 
+CMRR - Common Mode Rejection Ratio: 70 dB 
+Ib - Input Bias Current: 200 pA 
+Vos - Input Offset Voltage: 10 mV 
+Supply Voltage - Min: 6 V 
+Operating Supply Current: 2.5 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Shutdown: No Shutdown 
+Series: TL072 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Amplifier Type: Low Noise Amplifier 
+Height: 1.65 mm 
+Length: 5 mm 
+Product: Operational Amplifiers 
+Supply Type: Single, Dual 
+Technology: BiFET 
+Width: 4 mm 
+Brand: STMicroelectronics 
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V 
+en - Input Voltage Noise Density: 15 nV/sqrt Hz 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 3 V 
+Operating Supply Voltage: 6 V to 36 V, +/- 3 V to +/- 18 V
+

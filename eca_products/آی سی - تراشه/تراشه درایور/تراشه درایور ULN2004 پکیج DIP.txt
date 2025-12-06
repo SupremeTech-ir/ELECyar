@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/تراشه-درایور/5452-تراشه-درایور-uln2004-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه درایور ULN2004 پکیج DIP
+
+قیمت:
+134,000
+
+توضیحات کوتاه:
+آی سی درایور ULN2004 شامل 7 زوج دارلینگتون پکیج DIP 
+
+توضیحات کامل:
+این آی سی شامل 7 زوج دارلینگتون است که برای تقویت جریان به کار می روند و در مواردی نظیر راه اندازی موتورهای پله ای به عنوان بافر و تقویت کننده جریان عمل می کنند .
+
+Specification
+
+Product Category: Darlington Transistors 
+Configuration: Array 7 
+Transistor Polarity: NPN 
+Collector- Emitter Voltage VCEO Max: 50 V 
+Maximum DC Collector Current: 0.5 A 
+Mounting Style: Through Hole 
+Package / Case: PDIP-16 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Series: ULN2004X
+Height: 4.57 mm 
+Length: 19.3 mm
+Width: 6.35 mm
+

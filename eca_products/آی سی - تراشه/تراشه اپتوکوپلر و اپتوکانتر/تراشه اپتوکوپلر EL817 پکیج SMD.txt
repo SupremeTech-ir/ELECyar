@@ -1,0 +1,17 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/24699-تراشه-اپتوکوپلر-el817-پکیج-smd.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر EL817 پکیج SMD
+
+قیمت:
+33,200
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر EL817 با خروجی فتوترانزیستور پکیج SMD SOIC-4
+
+توضیحات کامل:
+Specification
+
+ Package/Case: PDIP-4 Number of Channels: 1 Channel Isolation Voltage: 5000 Vrms Output Type: NPN Phototransistor Current Transfer Ratio - Min: 50 % Current Transfer Ratio - Max: 600 % If - Forward Current: 60 mA Vf - Forward Voltage: 1.4 V Maximum Collector Emitter Voltage: 35 V Maximum Collector Current: 50 mA Maximum Collector Emitter Saturation Voltage: 200 mV Rise Time: 18 us Fall Time: 18 us Vr - Reverse Voltage: 6 V Pd - Power Dissipation: 200 mW Minimum Operating Temperature: - 55 C Maximum Operating Temperature: + 110 C Configuration: 1 Channel Current Transfer Ratio: 50 % Product Type: Transistor Output Optocouplers Subcategory: Optocouplers
+

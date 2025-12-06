@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/led-smd/5243-led-rgb-smd-پکیج-5050.html
+================================================================================
+
+عنوان:
+LED RGB SMD پکیج 5050
+
+قیمت:
+6,400
+
+توضیحات کوتاه:
+LED RGB SMD پکیج 5050
+
+مشخصات فنی:
+پکیج LED: 5050
+
+توضیحات کامل:
+Specification
+
+RGB LED 5050.
+Brightness: red 500mcd, green 1000mcd, blue 500mcd
+Wavelength: Red 620-625nm, Green 520-525nm, Blue 460-470nm
+Voltage: Red 2.0-2.2V , Green 3.0-3.2V , Blue 3.0-3.2V
+

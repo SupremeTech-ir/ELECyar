@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/رگولاتور/2505-رگولاتور-18-ولت-l7818cv-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 18+ ولت L7818CV پکیج TO-220
+
+قیمت:
+141,000
+
+توضیحات کوتاه:
+رگولاتور 18+ ولت 7818 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Outputs: 1 Output
+Polarity: Positive
+Input Voltage MAX: 33 V
+Input Voltage MIN: 21 V 
+Output Voltage: 18 V
+Output Current: 1.5 A
+Output Type: Fixed
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 50 mV
+

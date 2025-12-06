@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/led-smd/3984-smd-led-پکیج-2835-سبز.html
+================================================================================
+
+عنوان:
+SMD LED پکیج 2835 سبز
+
+قیمت:
+3,700
+
+مشخصات فنی:
+پکیج LED: 2835
+
+توضیحات کامل:
+Specification
+
+Dimensions: 2.8mm×3.5mm×0.5mm
+Power: 0.2w
+Luminous Color: Green
+Dominant Wavelength: 520nm-525nm
+Forward Voltage: 3.2V-3.4V
+

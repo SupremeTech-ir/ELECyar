@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/رگولاتور/5370-رگولاتور-متغیر-tl431-پکیج-sop-8-تایوانی.html
+================================================================================
+
+عنوان:
+رگولاتور متغیر TL431 پکیج SOP-8 تایوانی
+
+قیمت:
+46,300
+
+توضیحات کوتاه:
+رگولاتور متغیر TL431 پکیج SOP-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Taiwan Semiconductor 
+Part number: TS431 CS 
+Product Category: Voltage References 
+RoHS: RoHS Compliant By Exemption Details 
+Mounting Style: SMD/SMT 
+Package / Case: SOP-8 
+Reference Type: Shunt Adjustable Precision References 
+Output Voltage: 2.495 V to 36 V 
+Initial Accuracy: 2 % 
+Temperature Coefficient: 50 PPM / C 
+Series VREF - Input Voltage - Max: 37 V 
+Shunt Current - Max: 100 mA 
+Maximum Operating Temperature: + 125 C 
+Packaging: Reel 
+Brand: Taiwan Semiconductor 
+Height: 1.5 mm 
+Length: 5 mm 
+Minimum Operating Temperature: 0 C 
+Product: Voltage References 
+Factory Pack Quantity: 2500 
+Topology: Shunt References 
+Width: 4 mm 
+Part # Aliases: RLG 
+Unit Weight: 0.030018 oz
+

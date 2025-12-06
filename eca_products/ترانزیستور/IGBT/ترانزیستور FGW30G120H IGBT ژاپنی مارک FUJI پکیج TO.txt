@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/igbt/22307-ترانزیستور-fgw30g120h-igbt-ژاپنی-مارک-fuji-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور FGW30G120H IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 30 آمپر مدل 30G120H پکیج TO-247 ژاپنی Fuji
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW30G120H 
+Type: IGBT
+Marking Code: 30G120H
+Maximum Power Dissipation (Pc), W: 2
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 53
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 15
+Maximum Junction Temperature (Tj), ℃: 150
+Package: TO247
+

@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/igbt/21195-ترانزیستور-gt30g124-igbt-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+ترانزیستور GT30G124 IGBT پکیج TO-220FP
+
+قیمت:
+490,000
+
+توضیحات کوتاه:
+ترانزیستور قدرت 430 ولت 200 آمپر IGBT نوع N کانال
+
+توضیحات کامل:
+Specification
+
+Type Designator: GT30G124
+Type: IGBT
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 25
+Maximum Collector-Emitter Voltage |Vce|, V: 430
+Maximum Collector Current |Ic| @25℃, A: 200(pulse)
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.5
+Package: TO220FP
+
+توجه : دارای پایه های قلع اندود میباشد.
+

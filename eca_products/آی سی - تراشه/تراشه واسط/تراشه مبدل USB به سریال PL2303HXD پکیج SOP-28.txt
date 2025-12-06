@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-واسط/2953-تراشه-مبدل-usb-به-سریال-pl2303hxd-پکیج-sop-28.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال PL2303HXD پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال PL2303HXD پکیج SMD SOP-28
+
+توضیحات کامل:
+مدل HXD این تراشه قابلیت نصب بر روی لینوکس و ویندوز 8 را دارا می باشد.
+
+Introduction
+
+Prolific provides Android USB Host API driver solution (NO root permission needed) for connecting PL2303 USB-to-Serial devices to Android-powered devices with USB Host API mode support. The PL2303 Android JAVA driver library allows customers and developers to write Android applications to interface their PL2303 RS-232/UART devices with millions of Android USB host devices like Smartphones, Tablets, and Smart TVs.
+
+Download PL2303 Android USB Host API SDK (v1.0.0.6)
+
+Requirements
+
+- USB Device with PL2303HXD, PL2303EA, PL2303RA, or PL2303SA controller chip
+   NOTE: PL2303HXA and PL2303XA are not supported (Discontinued Products)
+- Android-Powered Device (Tablet/Phones) with USB Host Mode Support
+- Android 3.2 and above OS versions
+
+SDK Package includes following
+
+1. PL2303 Sample Test Android App Software  (ap_PL2303HXDSimpleTest.apk)
+2. PL2303 Android USB Host Solution Application Note
+3. PL2303 Sample Test Android App Source Code
+4. PL2303 Android Java Driver Library  (pl2303driver.jar)
+5. PL2303 Android App Development Reference Documents
+

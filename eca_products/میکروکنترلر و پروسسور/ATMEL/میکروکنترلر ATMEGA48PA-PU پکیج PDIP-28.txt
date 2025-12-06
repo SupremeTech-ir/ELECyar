@@ -1,0 +1,60 @@
+URL: https://eshop.eca.ir/atmel/445-میکروکنترلر-atmega48pa-pu-پکیج-pdip-28.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA48PA-PU پکیج PDIP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA48PA-PU با هسته 8 بیتی AVR (پکیج PDIP-28) با حافظه 4KB، فرکانس کاری 20MHz و 28 پایه 
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA48PA-PU دارای هسته پردازنده 8 بیتی AVR (پکیج PDIP-28) بوده  و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 4 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA48PA-PU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA48PA-PU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega48PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 4 kB
+پکیج : PDIP-28
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA48PA-PU microcontroller has an 8-bit AVR processor core and operates at a frequency of 20 MHz. This microcontroller provides 4 KB of FLASH memory on the chip. ATMEGA48PA-PU microcontroller has 23 input / output pins and communication protocols: I2C, SPI UART / USART. The ATMEGA48PA-PU microcontroller has an operating voltage of 1.8 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category:  8-bit Microcontrollers - MCU     
+Manufacturer: Microchip     
+RoHS: RoHS Compliant Details     
+Mounting Style:  Through Hole     
+Package / Case: PDIP-28     
+Core: AVR     
+Data Bus Width: 8 bit     
+Maximum Clock Frequency: 20 MHz     
+Program Memory Size:  4 kB     
+Data RAM Size: 512 B     
+ADC Resolution: 10 bit     
+Operating Supply Voltage: 1.8 V to 5.5 V     
+Maximum Operating Temperature:+ 85 C     
+Processor Series: megaAVR     
+Packaging: Tube     
+Brand: Microchip Technology / Atmel     
+Data RAM Type: SRAM     
+Data ROM Type: EEPROM     
+Interface Type: 2-Wire, SPI, USART     
+Length: 34.8 mm     
+Minimum Operating Temperature: - 40 C     
+Number of ADC Channels: 6     
+Number of I/Os: 23 I/O     
+Number of Timers/Counters: 3 Timer
+

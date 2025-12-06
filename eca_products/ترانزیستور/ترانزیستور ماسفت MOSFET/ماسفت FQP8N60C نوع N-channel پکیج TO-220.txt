@@ -1,0 +1,52 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/16060-ماسفت-fqp8n60c-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت FQP8N60C نوع N-channel پکیج TO-220
+
+قیمت:
+279,000
+
+توضیحات کوتاه:
+ماسفت تک کانال 600 ولت 7.5 آمپر نوع N-channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET 
+RoHS: Details 
+Technology: Si 
+Mounting Style: Through Hole 
+Package / Case: TO-220-3 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel \
+Vds - Drain-Source Breakdown Voltage: 600 V 
+Id - Continuous Drain Current: 7.5 A 
+Rds On - Drain-Source Resistance: 1.2 Ohms 
+Vgs - Gate-Source Voltage: - 30 V, + 30 V 
+Vgs th - Gate-Source Threshold Voltage: 4 V 
+Qg - Gate Charge: 28 nC 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Pd - Power Dissipation: 147 W 
+Channel Mode: Enhancement 
+Packaging: Tube 
+Configuration: Single 
+Fall Time: 64.5 ns 
+Forward Transconductance - Min: 8.7 S 
+Height: 16.3 mm 
+Length: 10.67 mm 
+Product Type: MOSFET 
+Rise Time: 60.5 ns 
+Series: FQP8N60C 
+Subcategory: MOSFETs 
+Transistor Type: 1 N-Channel 
+Type: MOSFET 
+Typical Turn-Off Delay Time: 81 ns
+Typical Turn-On Delay Time: 16.5 ns 
+Width: 4.7 mm
+

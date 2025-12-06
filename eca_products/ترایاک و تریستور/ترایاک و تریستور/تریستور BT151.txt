@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/1015-تریستور-bt151.html
+================================================================================
+
+عنوان:
+تریستور BT151
+
+قیمت:
+110,000
+
+توضیحات کوتاه:
+تریستور BT151 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+U(DRM):500v 
+Ignition voltage U(GT) : 1.5v
+Ignition current I(GT) : 15mA 
+Forward current average I(T)(AV) : 7.5A 
+I(T)(RMS): 12A 
+Forward voltage U(F) : 1.75 v
+I(d) : 500uA
+I(H): 20mA
+I(TSM 50Hz): 120A
+I(TSM 60Hz): 132A
+mounting type: feedthrough hole
+Operating temperature (min.): -40 ℃
+Operating temperature (max): +125 °C
+Product Type : Thyristor (SCR)
+

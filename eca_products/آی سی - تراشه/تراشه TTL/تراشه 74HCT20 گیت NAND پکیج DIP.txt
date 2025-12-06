@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14748-تراشه-74hct20-گیت-nand-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74HCT20 گیت NAND پکیج DIP
+
+قیمت:
+166,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HCT20 شامل 2 گیت NAND با 4 ورودی پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 4.5V to 5.5V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±4mA
+Maximum propagation delay time: 22ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Dual 4-input NAND gate function
+Two independent gates (A and B)
+Eight input pins (1A to 4A and 1B to 4B)
+Two output pins (1Y and 2Y)
+TTL-compatible input voltage level
+CMOS-compatible output voltage level
+14-pin DIP
+

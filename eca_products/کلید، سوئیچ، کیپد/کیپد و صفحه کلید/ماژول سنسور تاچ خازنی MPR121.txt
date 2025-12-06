@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/کیپد-صفحه-کلید/23123-ماژول-سنسور-تاچ-خازنی-mpr121.html
+================================================================================
+
+عنوان:
+ماژول سنسور تاچ خازنی MPR121
+
+قیمت:
+688,000
+
+توضیحات کوتاه:
+ماژول سنسور تاچ خازنی MPR121 با ارتباط I2C
+
+توضیحات کامل:
+ماژول سنسور تاچ خازنی MPR121 یک ماژول سنسور لمس خازنی قابل برنامه‌ریزی است که قادر است لمس و حسگری را در انواع دستگاه‌ها و سیستم‌ها شناسایی کند. از جمله کاربردهای رایج MPR121 در دستگاه‌های الکترونیکی هوشمند، صفحات کلید لمسی، تابلوهای کنترل صنعتی و دستگاه‌های پزشکی است.
+
+MPR121 دارای 12 کانال ورودی است که هر یک به عنوان یک حسگر لمس خازنی عمل می‌کند. این ماژول توانایی تشخیص لمس همزمان در 12 نقطه را دارد و با استفاده از الگوریتم‌های پیشرفته، می‌تواند تداخل‌های الکترومغناطیسی را کاهش دهد و دقت تشخیص را افزایش دهد.
+
+ماژول سنسور تاچ خازنی MPR121 از رابط I2C (Inter-Integrated Circuit) برای ارتباط با میکروکنترلر یا سیستم‌های دیگر استفاده می‌کند. این ماژول دارای ویژگی‌هایی مانند تشخیص لمس، تشخیص نزدیکی، تشخیص رویدادهای لمس متوالی و قابلیت برنامه‌ریزی پیکربندی متنوع است.
+
+ویژگی ها
+
+کنترل چندمنظوره: این کنترلر تا 12 الکترود مستقل را پشتیبانی می‌کند که به شما امکان می‌دهد بتوانید همزمان ورودی‌های لمسی چندگانه را کنترل کنید. علاوه بر این، یک الکترود آنالوگ 13م هم به آن اضافه شده است تا انعطاف پذیری بیشتری را فراهم کند.
+یکپارچگی درایور LED: با 8 پین درایور LED داخلی، این کنترلر امکان راه‌اندازی مستقیم LEDها را از برد برای شما فراهم می‌کند. وقتی که به عنوان الکترودها پیکربندی نشده‌اند، این پین‌ها می‌توانند به راحتی برای تامین انرژی و کنترل LEDها استفاده شوند.
+سفارشی‌سازی آسان: برد شامل چهار جامپر پیش‌فرض در پایین برای پیکربندی سریع است. با اتصال پین ADD به زمین با استفاده از یکی از جامپرها، آدرس I2C پیش‌فرض چیپ به ۰x5A تنظیم می‌شود. با این حال، اگر نیاز به آدرس دیگری دارید، به راحتی جامپر را باز کنید و ADD را به یک پین دیگر متصل کنید و از طریق مقاومت‌های pull-up 10k، اتصال صحیح با پین‌های SDA، SCL و interrupt را برقرار کنید.
+دامنه ولتاژ گسترده: این کنترلر در دامنه ولتاژ 2.5 تا 3.6 ولت DC عمل می‌کند و با منابع تغذیه مختلف سازگاری برای یکپارچگی بی‌دردسر با برنامه‌های شما فراهم می‌کند. لطفاً توجه داشته باشید که برای عملکرد قابل اعتماد، پین VREG باید از طریق یک کپاسیتور ۰.۱uF به زمین متصل شود تا از حالت کم‌توانی جلوگیری شود (1.71-2.75 ولت DC) مگر اینکه تغییراتی در برد مورد استفاده انجام شود.
+
+Introduction
+
+The MPR121 is the second generation capacitive touch sensor controller after the initial release of the MPR03x series devices. The MPR121 features increased internal intelligence, some of the major additions include an increased electrode count, a hardware configurable I2C address, an expanded filtering system with debounce, and completely independent electrodes with auto-configuration built in. The device also features a 13th simulated sensing channel dedicated for near proximity detection using the multiplexed sensing inputs.
+
+Feature
+
+1. Versatile Control: This controller supports up to 12 independent electrodes, allowing you to handle multiple touch inputs simultaneously. Furthermore, it includes an additional analog 13th electrode for added flexibility.
+2. LED Driver Integration: With 8 built-in LED driver pins, this controller offers the convenience of driving LEDs directly from the board. When not configured as electrodes, these pins can be utilized to power and control LEDs effortlessly.
+3. Easy Customization: The board incorporates four default jumpers at the bottom for quick configuration. By connecting the ADD pin to ground using one of the jumpers, the chip's default I2C address is set to 0x5A. However, if you require a different address, simply open the jumper and connect ADD to an alternate pin, ensuring proper connections with SDA, SCL, and interrupt pins via 10k pull-up resistors.
+4. Wide Voltage Range: This controller operates within a voltage range of 2.5 - 3.6VDC, providing compatibility with various power sources for seamless integration into your application. Please note that the VREG pin must be connected to ground through a 0.1uF capacitor for reliable operation, preventing low-power mode functionality (1.71-2.75VDC) unless modifications are applied to the circuit board.
+5. Low Power Consumption: Designed with energy efficiency in mind, this controller boasts minimal power consumption. Its operating voltage spans from 1.71V to 3.6V, optimizing power usage while ensuring reliable touch sensing performance. It utilizes the widely accepted I2C bus interface and offers interrupt output for easy integration with other devices.
+

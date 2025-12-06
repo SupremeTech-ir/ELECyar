@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/igbt/14199-hgt1n40n60-igbt.html
+================================================================================
+
+عنوان:
+HGT1N40N60 IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+Specification
+
+Mfr: ON Semiconductor
+Configuration: Single
+Vce(on) (Max) @ Vge, Ic: 2.7V @ 15V, 40A
+Input: Standard
+NTC Thermistor: No
+Operating Temperature: -55°C ~ 150°C (TJ)
+Voltage - Collector-Emitter Breakdown (Max): 600V
+Current - Collector (Ic) (Max): 110A
+Power - Max: 298W
+Current - Collector Cutoff (Max): 250µA
+

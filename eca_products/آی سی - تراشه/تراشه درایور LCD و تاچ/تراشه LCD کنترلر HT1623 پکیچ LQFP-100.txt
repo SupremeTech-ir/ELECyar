@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/3638-تراشه-lcd-کنترلر-ht1623-پکیچ-smd.html
+================================================================================
+
+عنوان:
+تراشه LCD کنترلر HT1623 پکیچ LQFP-100
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی کنترلر ال سی دی HT1623 پکیچ SMD LQFP-100
+
+توضیحات کامل:
+Introduction
+
+HT1623 is a peripheral device specially designed for I/O type MCU used to expand the display capability. The max. display segment of the device are 384 patterns (48x8). It also supports serial interface, buzzer sound, watchdog timer or time base timer functions. The HT1623 is a memory mapping and multi-function LCD controller. The software configuration feature of the HT1623 make it suitable for multiple LCD applications including LCD modules and display subsystems. Only three lines are required for the interface between the host controller and the HT1623. The HT162X series have many kinds of products that match various applications.
+
+Pachage : 100QFP
+
+Specification
+
+Operating voltage: 2.7V~5.2V
+Built-in RC oscillator
+External 32.768kHz crystal or 32kHz frequency source input
+1/4 bias, 1/8 duty, frame frequency is 64Hz
+Max. 48x8 patterns, 8 commons, 48 segments
+Built-in internal resistor type bias generator
+3-wire serial interface
+8 kinds of time base/WDT selection
+Time base or WDT overflow output
+Built-in LCD display RAM
+R/W address auto increment
+Two selection buzzer frequencies (2kHz/4kHz)
+Power down command reduces power consumption
+Software configuration feature
+Data mode and Command mode instructions
+Three data accessing modes
+VLCD pin to adjust LCD operating voltage
+HT1623: 100-pin LQFP package
+

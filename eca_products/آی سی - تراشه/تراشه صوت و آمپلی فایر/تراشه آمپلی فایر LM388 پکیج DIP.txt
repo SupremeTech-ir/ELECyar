@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/10636-تراشه-آمپلی-فایر-lm388-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر LM388 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر LM388 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+The LM833 is a standard low-cost monolithic dual general-purpose op-amp employing bipolar technology with innovative high-performance concepts for audio systems applications. With high frequency PNP transistors, the LM833 offers low voltage noise (4.5nV/Hz^0.5), 15 MHz gain bandwidth product, 7.0 V/5s slew rate, 0.3 mV input offset voltage with 2.05.0 volt/0 C temperature coefficient of input offset voltage. The LM833 output stage exhibits no deadband crossover distortion, large output voltage swing, excellent phase and gain margins, low open loop high frequency output impedance and symmetrical source/sink AC frequency response.
+
+Specification
+
+Series: LM833-N
+Product: Audio Amplifiers
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 36 V
+Supply Voltage - Min: 10 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 3.3 mm
+Length: 9.27 mm
+Supply Type: Dual
+Width: 6.35 mm
+Brand: Texas Instruments
+Number of Channels: 2 Channel
+Shutdown: No Shutdown
+CMRR - Common Mode Rejection Ratio: 80 dB to 100 dB
+Dual Supply Voltage: +/- 9 V, +/- 12 V, +/- 15 V
+en - Input Voltage Noise Density: 4.5 nV/sqrt Hz at +/- 15 V
+GBP - Gain Bandwidth Product: 15 MHz
+Ib - Input Bias Current: 1 uA
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 5 V
+Operating Supply Current: 2.5 mA
+Operating Supply Voltage: 10 V to 36 V, +/- 5 V to +/- 18 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+Product Type:Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 80 dB
+SR - Slew Rate: 7 V/us
+

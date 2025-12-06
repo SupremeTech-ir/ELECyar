@@ -1,0 +1,52 @@
+URL: https://eshop.eca.ir/دیپ-سوئیچ/24593-روتاری-dip-سوئیچ-چرخشی-16-بیتی-0-f-کد-erd416rsz.html
+================================================================================
+
+عنوان:
+روتاری DIP سوئیچ چرخشی 16 بیتی (0-F) کد ERD416RSZ
+
+قیمت:
+922,000
+
+توضیحات کوتاه:
+روتاری Dip سوئیچ 16 بیتی استفاده برای تغییر وضعیت وسایل الکترونیکی
+
+توضیحات کامل:
+سوئیچ‌های کدگذاری چرخشی DIP یکی از رایج‌ترین قطعات در الکترونیک هستند که برای تغییر تنظیمات دستگاه‌های الکترونیکی به صورت دستی طراحی شده‌اند. این سوئیچ‌ها به‌صورت استاندارد در بردهای مدار چاپی (PCB) نصب می‌شوند و معمولاً در کاربردهایی مانند کدنویسی، تنظیمات ولتاژ یا انتخاب کانال‌ها استفاده می‌شوند.
+
+مشخصات
+
+نوع: روتاری DIP سوئیچ با 16 حالت (0 تا F)
+جریان نامی: 0.025 آمپر در 24 ولت DC
+ولتاژ نامی: حداکثر 24 ولت DC
+استاندارد فاصله پین‌ها: 2.54 میلی‌متر
+استحکام دی‌الکتریک: 250 VAC
+مقاومت تماس: حداکثر 100 میلی‌اهم
+مقاومت عایقی: حداقل 1000 مگااهم
+حداکثر جریان غیر سوییچ: 100 میلی‌آمپر
+دمای عملیاتی: از 25- تا 70+ درجه سانتی گراد
+
+Description:
+
+DIP Switch 16 Cross Slot 0.025 Amp 24 Volt PC Pins 2000 Cycle 2.54MM through Hole.
+A DIP switch is a manual electric switch that is packaged with others in a group in a standard dual in-line package DIP. The term may refer to each individual switch, or to the unit as a whole. This type of switch is designed to be used on a printed circuit board along with other electronic components and is commonly used to customize the behavior of an electronic device for specific situations. 
+
+Specification:
+
+Value Number of Positions: 16
+Family ERD
+Actuator Style Rotary Dip
+Maximum DC Voltage Rating24V
+Maximum Current Rating 0.025A@24VDC
+Contact Plating Gold
+Mechanical Life2000Cycle
+Body Orientation Straight
+Dielectric Strength250VAC
+Maximum Contact Resistance100mOhm
+Minimum Insulation Resistance1000MOhm
+Maximum Non Switching Current100mA
+Seal Description Complete
+Seal Location Construction
+Terminal Type PC Pins
+Minimum Operating Temperature-25°C
+Maximum Operating Temperature70°C
+

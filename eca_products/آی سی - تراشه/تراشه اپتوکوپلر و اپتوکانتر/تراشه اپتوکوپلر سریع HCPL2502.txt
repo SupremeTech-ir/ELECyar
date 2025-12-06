@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/14635-تراشه-اپتوکوپلر-سریع-hcpl2502.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر سریع HCPL2502
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر 8 پایه پرسرعت 1Mb/s تک کانال HCPL-2502
+
+توضیحات کامل:
+Specification
+
+Product Category: High Speed Optocouplers     
+Package/Case: PDIP-8     
+Data Rate: 1 Mb/s     
+Number of Channels: 1 Channel     
+Output Type: Phototransistor     
+Isolation Voltage: 3750 Vrms     
+Vf - Forward Voltage: 1.5 V     
+If - Forward Current: 16 mA     
+Vr - Reverse Voltage: 5 V     
+Pd - Power Dissipation: 100 mW     
+Current Transfer Ratio: 22 %     
+Minimum Operating Temperature: 0C     
+Maximum Operating Temperature: +70 C     
+Series: CPL-2502         
+Output Current: 8 mA     
+Maximum Collector Current: 8 mA     
+Product Type: High Speed Optocouplers
+

@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/سایر-دیودها/18263-دیود-سریع-gi824a-5a-400v-تایوانی-مارک-motorola-general-instrument.html
+================================================================================
+
+عنوان:
+دیود سریع GI824A 5A-400V تایوانی مارک (Motorola) General Instrument
+
+قیمت:
+191,000
+
+توضیحات کوتاه:
+دیود فوق سریع 400 ولت 5 آمپر GI824A تایوانی مارک General Instrument پکیج TO-220 
+
+توضیحات کامل:
+Specification
+
+Brand : General Instrument
+Product Category: Fast Switching Plastic Rectifire
+If - Forward Current : 5 A     
+Vrrm - Repetitive Reverse Voltage : 400 V     
+Vf - Forward Voltage : 1.10 V     
+Ifsm - Forward Surge Current : 300 A     
+Trr-Revers-Recovery Time  : 200 ns  
+Minimum Operating Temperature : - 50 C     
+Maximum Operating Temperature : + 150 C
+Package / Case: TO-220    
+
+** لازم به ذکر است پایه های دیود دارای آلیاژ مرغوب و آبکاری شده با قلع بوده که علاوه بر مقاوم بودن در برابر اکسید شدن، باعث عملیات مونتاژ روان تر و سریعتر نسبت به مدل های معمولی چینی می باشد.
+

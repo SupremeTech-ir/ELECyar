@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/تراشه-واسط/5377-تراشه-ترنسیور-mcp2551-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور MCP2551 پکیج DIP
+
+قیمت:
+705,000
+
+توضیحات کوتاه:
+آی سی MCP2551 انتقال دهنده Transceivers برای ارتباط CAN پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: CAN Interface IC        
+Type: CAN Transceiver     
+Data Rate: 1 Mb/s     
+Supply Voltage - Max: 5.5 V     
+Supply Voltage - Min: 4.5 V     
+Maximum Operating Temperature: + 85 C     
+Minimum Operating Temperature: - 40 C     
+Mounting Style: Through Hole     
+Package / Case:PDIP-8     
+Packaging: Tube     
+Brand: Microchip Technology     
+Number of Transceivers: 1     
+Operating Supply Voltage: 5 V     
+Product: CAN Controllers
+

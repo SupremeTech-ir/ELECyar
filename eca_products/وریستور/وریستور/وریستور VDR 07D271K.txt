@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/11334-وریستور-vdr-07d271k.html
+================================================================================
+
+عنوان:
+وریستور VDR 07D271K
+
+قیمت:
+12,100
+
+توضیحات کوتاه:
+وریستور 270 ولت با تلرانس 10 درصد کد 07D271K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: MOV-07DxxxK     
+Mounting Style: PCB Mount     
+Termination Style: Radial     
+Voltage Rating DC: 297 VDC     
+Clamping Voltage: 455 V     
+Diameter:  7 mm     
+Peak Surge Current: 1.2 kA     
+Surge Energy Rating: 18 J     
+Capacitance: 185 pF     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C     
+Tolerance: 10 %
+

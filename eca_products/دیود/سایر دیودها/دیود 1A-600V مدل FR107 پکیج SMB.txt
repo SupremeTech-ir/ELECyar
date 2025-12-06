@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/سایر-دیودها/17053-دیود-1a-600v-مدل-fr107-پکیج-smb.html
+================================================================================
+
+عنوان:
+دیود 1A-600V مدل FR107 پکیج SMB
+
+قیمت:
+8,600
+
+توضیحات کوتاه:
+دیود اس ام دی 600 ولت 1 آمپر S1J پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Vr - Reverse Voltage: 600 V 
+
+If - Forward Current: 1 A 
+
+Type: Standard Recovery Rectifiers 
+
+Configuration: Single 
+
+Vf - Forward Voltage: 1.1 V 
+
+Max Surge Current: 30 A 
+
+Ir - Reverse Current: 1 uA 
+
+Recovery Time: 1.8 us 
+
+Minimum Operating Temperature: - 55 C 
+
+Maximum Operating Temperature: + 150 C 
+
+Series: S1J 
+
+Pd - Power Dissipation: 1.4 W
+

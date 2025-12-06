@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/25188-ماسفت-irfb4310-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRFB4310 نوع N-channel پکیج TO-220
+
+قیمت:
+1,240,000
+
+توضیحات کوتاه:
+ماسفت تک کانال 100 ولت 140 آمپر نوع N-channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Technology: Si 
+Mounting Style: Through Hole 
+Package/Case: TO-220-3 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 100 V 
+Id - Continuous Drain Current: 140 A 
+Rds On - Drain-Source Resistance: 5.6 mOhms 
+Vgs - Gate-Source Voltage: - 20 V, + 20 V 
+Vgs th - Gate-Source Threshold Voltage: 1.8 V 
+Qg - Gate Charge: 170 nC 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C 
+Pd - Power Dissipation: 330 W 
+Channel Mode: Enhancement 
+Packaging: Tube 
+Brand: Infineon Technologies 
+Configuration: Single 
+Subcategory: Transistors 
+Transistor Type: 1 N-Channel
+

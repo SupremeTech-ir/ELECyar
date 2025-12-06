@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22824-دوبل-دیود-شاتکی-srf10200c-200v-10a-مارک-gw-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF10200C 200V-10A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 200 ولت 10 آمپر SRF10200C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 10 A 
+Vrrm - Repetitive Reverse Voltage: 200 V 
+Vf - Forward Voltage: 0.95 V 
+Ifsm - Forward Surge Current: 150 A 
+Ir - Reverse Current: 0.5 mA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

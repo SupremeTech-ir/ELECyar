@@ -1,0 +1,140 @@
+URL: https://eshop.eca.ir/nxp/2543-میکرو-کنترلر-lpc1788-lpc1788fbd208.html
+================================================================================
+
+عنوان:
+میکرو کنترلر LPC1788 - LPC1788FBD208
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر LPC1788 - LPC1788FBD208 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 120MHz ساخت شرکت NXP می باشد
+
+توضیحات کامل:
+میکروکنترلر LPC1788FBD208 یکی از قدرتمندترین MCUهای خانواده LPC178x شرکت NXP است. این تراشه مبتنی بر هسته ARM Cortex‑M3 با فرکانس 120MHz بوده و امکانات پیشرفته‌ای همچون LCD Controller، Ethernet، USB OTG، CAN، SD/MMC، EMC (برای اتصال RAM/Flash خارجی) را ارائه می‌دهد. این مدل برای پروژه‌های حرفه‌ای مانند پنل‌های گرافیکی، سیستم‌های صنعتی، تجهیزات پزشکی، کنترلرهای شبکه و سیستم‌های چندرسانه‌ای طراحی شده است.
+
+مشخصات کامل – LPC1788FBD208
+
+پردازنده
+
+هسته پردازشی: ARM Cortex‑M3
+فرکانس کاری: تا 120MHz
+پشتیبانی از Thumb‑2
+واحد وقفه NVIC
+حافظه TCM و باس‌های جداگانه برای سرعت بیشتر
+
+حافظه‌ها
+
+حافظه Flash: 512KB
+حافظه RAM داخلی: 96KB
+(64KB Main RAM + 16KB AHB RAM + 16KB Local RAM)
+ROM بوت داخلی (IAP, ISP)
+
+ویژگی‌های گرافیکی و چندرسانه‌ای مهم
+
+LCD Controller داخلی (Graphics TFT Interface)
+پشتیبانی از:
+STN / TFT LCD
+رزولوشن‌های بالا
+RGB Interface
+
+واحدهای ارتباطی و امکانات ویژه
+
+Ethernet MAC 10/100 با پشتیبانی RMII
+USB 2.0 OTG / Device / Host
+2× CAN Bus
+4× UART
+3× SPI / SSP
+SD/MMC Controller برای کارت حافظه
+I²C ×2
+I²S برای پردازش صوت
+GPIO های پرسرعت
+
+مبدل‌ها و تایمرها
+
+ADC 12‑bit / 8 کانال
+DAC 10‑bit
+تایمر 32 بیتی و 16 بیتی
+PWM چندکاناله
+RTC داخلی
+Watchdog Timer
+
+قابلیت اتصال حافظه خارجی – EMC
+
+پشتیبانی از:
+SRAM خارجی
+NOR Flash
+DRAM (SDRAM)
+مناسب برای سیستم‌های گرافیکی و دیتای حجیم
+
+ولتاژ و توان
+
+ولتاژ کاری: 3.0V تا 3.6V
+ولتاژ I/O: 3.3V
+حالت‌های صرفه‌جویی انرژی:
+Sleep / Deep-sleep / Power-down
+
+کاربردهای رایج
+
+LPC1788FBD208 یکی از کامل‌ترین میکروکنترلرهای Cortex‑M3 است که برای ساخت دستگاه‌های صنعتی، تجهیزات گرافیکی مجهز به LCD، کنترلرهای شبکه و سیستم‌های پردازش داده پیچیده استفاده می‌شود. قدرت بالا همراه با امکانات متنوع ارتباطی آن را برای پروژه‌های حرفه‌ای ایده‌آل می‌سازد.
+
+کنترلر نمایشگرهای رنگی (HMI / Industrial Panels)
+تجهیزات پزشکی و مانیتورینگ
+سیستم‌های اتوماسیون صنعتی
+دستگاه‌های ارتباطی و مخابراتی
+رباتیک و کنترل حرکت
+کنترلر شبکه (Ethernet/USB/CAN)
+دیتا لاگرهای حرفه‌ای
+پردازش صوت و کارت حافظه SD
+سیستم‌های چندرسانه‌ای و صنعتی با نیاز به RAM خارجی
+
+Introduction
+
+The LPC1788 is a Cortex-M3 microcontroller for embedded applications featuring a high level of integration and low power consumption at frequencies of 120 MHz. Features include 512 kB of flash memory, 96 kB of data memory, Ethernet, USB 2.0 Host/OTG/Device , 8-channel DMA controller, 5 UARTs, 2 CAN channels, 3 SSP/SPI, 3 I2C, I2S, 8-channel 12-bit ADC, 10-bit DAC, QEI, LCD controller, SD/MMC interface, motor control PWM, 4 general purpose timers, 6-output general purpose PWM, ultra-low power Real-Time Clock with separate battery supply, and up to 165 general purpose I/O pins.
+
+Specification
+
+Functional replacement for LPC23xx and 24xx family devices
+ARM Cortex-M3 processor, running at frequencies of up to 120 MHz
+ARM Cortex-M3 built-in Nested Vectored Interrupt Controller (NVIC)
+Multilayer AHB matrix interconnect provides a separate bus for each AHB master
+Split APB bus allows for higher throughput
+Cortex-M3 system tick timer, including an external clock input option
+Standard JTAG test/debug interface, Serial Wire Debug and Serial WireTrace Port
+Emulation trace module supports real-time trace
+Boundary scan for simplified board testing
+Non-maskable Interrupt (NMI) input
+512 kB on-chip flash program memory
+96 kB on-chip SRAM
+4 kB on-chip EEPROM
+In-System Programming (ISP) and In-Application Programming (IAP) capabilities
+LCD controller, supporting both STN and TFT displays
+External Memory Controller (EMC)
+Eight channel General Purpose DMA controller (GPDMA)
+Ethernet MAC with MII/RMII interface and associated DMA controller
+USB 2.0 full-speed dual port device/host/OTG controller with on-chip PHY and DMA
+Five UARTs with fractional baud rate generation
+Three SSP controllers with FIFO and multi-protocol capabilities
+Three enhanced I2C-bus interfaces
+I2S (Inter-IC Sound) interface for digital audio input or output
+CAN controller with two channels
+SD/MMC memory card interface
+Up to 165 General Purpose I/O (GPIO) pins
+Two external interrupt inputs configurable as edge/level sensitive
+Four general purpose timers/counters
+Quadrature encoder interface that can monitor one external quadrature encoder
+Two standard PWM/timer blocks with external count input option
+Real-Time Clock (RTC) with a separate power domain
+Windowed Watchdog Timer (WWDT)
+12-bit Analog-to-Digital Converter (ADC) with conversion rates up to 400 kHz
+10-bit Digital-to-Analog Converter (DAC)
+Four reduced power modes: Sleep, Deep-sleep, Power-down, and Deep power-down
+Wake-up Interrupt Controller (WIC)
+Processor wake-up from Power-down mode via any interrupt
+Brownout detect with separate threshold for interrupt and forced reset
+On-chip Power-On Reset (POR)
+On-chip crystal oscillator with an operating range of 1 MHz to 25 MHz
+12 MHz Internal RC oscillator (IRC) trimmed to 1% accuracy
+Unique device serial number for identification purposes
+Single 3.3 V power supply (2.4 V to 3.6 V)
+

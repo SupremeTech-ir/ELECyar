@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/پل-دیودها/22297-پل-دیود-15a-800v-تخت-شانه-ای-d15xb80-مارک-shindengen.html
+================================================================================
+
+عنوان:
+پل دیود 15A-800V تخت شانه ای D15XB80 مارک Shindengen
+
+قیمت:
+614,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 800 ولت 15 آمپر D15XB80 مارک Shindengen
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Shindengen 
+Product Category: Bridge Rectifiers 
+Type: Single Phase Bridge 
+Mounting Style: Through Hole 
+Termination Style: Solder Pin 
+Package / Case: 5S 
+If - Forward Current: 15 A 
+Peak Reverse Voltage: 800 V 
+Vf - Forward Voltage: 1.1 V 
+Max Surge Current: 200 A 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 150 C 
+Length: 30 mm 
+Width: 4.6 mm 
+Height: 20 mm
+

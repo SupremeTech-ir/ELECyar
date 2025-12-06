@@ -1,0 +1,65 @@
+URL: https://eshop.eca.ir/atmel/517-میکروکنترلر-atmega32a-pu-پکیج-pdip-40.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA32A-PU پکیج PDIP-40
+
+قیمت:
+3,604,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA32A-PU با هسته AVR(پکیج PDIP-40) با حافظه 32KB، فرکانس کاری 16MHz و 40 پایه 
+
+توضیحات کامل:
+میکروکنترلر ATMEGA32A-PU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA32A-PU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA32A-PU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATMEGA32A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 32 kB
+پکیج : PDIP-40
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA32A-PU is a 8bit low power, high performance AVR RISC-based Microcontroller Unit featuring 32kB self-programming flash program memory, 2kB SRAM, 1kB EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device achieves 16 MIPS throughput at 16Mhz. The AVR® core combines a rich instruction set with 32 general purpose working registers. All the 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers. The On-chip ISP Flash allows the program memory to be reprogrammed in-system through an SPI serial interface, by a conventional non-volatile memory programmer or by an On-chip Boot program running on the AVR core.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Mounting Style: Through Hole
+Package/Case: PDIP-40
+Series: ATmega32A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 32 kB
+Data RAM Size: 2 kB
+Number of I/Os: 32 I/O
+Operating Supply Voltage: 2.7 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Interface Type: 2-Wire, SPI, USART
+Packaging: Tube
+Height: 4.83 mm 
+Length: 52.58 mm 
+Product: MCU 
+Program Memory Type: Flash 
+Width: 13.97 mm 
+Brand: Microchip Technology / Atmel 
+Data RAM Type: SRAM 
+Data ROM Size: 1024 B 
+Data ROM Type: EEPROM 
+Number of Timers/Counters: 3 Timer 
+Processor Series: megaAVR 
+Product Type: 8-bit Microcontrollers - MCU 
+Factory Pack Quantity: 10
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 2.7 V
+

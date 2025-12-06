@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-درایور/8681-تراشه-درایور-lm3914n-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه درایور LM3914N پکیج DIP
+
+قیمت:
+256,000
+
+توضیحات کوتاه:
+آی سی  درایور LM3914N
+
+توضیحات کامل:
+Specification
+
+Product Category: LED Lighting Drivers 
+Number of Channels: 10 Channel
+Output Current: 2 mA to 30 mA
+Input Voltage: 3 V to 20 V
+Supply Current - Max: 9200 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: MDIP
+Series: LM3914
+Packaging: Tube
+Features: Internal voltage reference, Programmable output current 
+Height: 3.9 mm 
+Length: 22.86 mm
+Operating Temperature Range: 0 C to + 70 C 
+Output Type: Current Mode 
+Type: Linear 
+Width: 6.35 mm 
+Pd - Power Dissipation: 1365 mW
+

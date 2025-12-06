@@ -1,0 +1,44 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/15422-تراشه-آمپلی-فایر-tda7850.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7850
+
+قیمت:
+5,720,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی چهارکاناله استریو 4x50 وات کلاس AB 
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA7850
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 50 W
+Mounting Style: Through Hole
+Type: 4-Channel Stereo
+Package/Case: Flexiwatt-25
+Audio - Load Impedance: 4 Ohms
+THD plus Noise: 0.015 %
+Supply Voltage - Max: 18 V
+Qualification: AEC-Q100
+Description/Function: Speaker
+Height: 15.7 mm
+Input Type: Single
+Length: 29.23 mm
+Supply Type: Single
+Width: 4.5 mm
+Brand: STMicroelectronics
+Gain: 26 dB
+Number of Channels: 4 Channel
+Output Signal Type: Differential
+Pd - Power Dissipation: 80 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 75 dB
+Subcategory: Audio ICs
+

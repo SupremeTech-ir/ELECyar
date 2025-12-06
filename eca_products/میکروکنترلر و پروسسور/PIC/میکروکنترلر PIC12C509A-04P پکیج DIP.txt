@@ -1,0 +1,75 @@
+URL: https://eshop.eca.ir/pic/5535-میکروکنترلر-pic12c509a-04p-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر PIC12C509A-04P پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر PIC12C509A-04P با هسته 8 بیتی PIC12 (پکیج DIP ) با حافظه 1.5KB و فرکانس کاری 4MHz ساخت شرکت میکروچیپ می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر PIC12C509A-04P دارای هسته پردازنده 8 بیتی PIC12 (پکیج DIP) توسط شرکت Microchip ساخته شده است و با فرکانس 4 مگاهرتز کار می کند. این میکروکنترلر 1.5 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر PIC12C509A-04P دارای 5 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر PIC12C509A-04P دارای ولتاژ کاری 3 تا 5.5 ولت بوده و در محدود دمایی 0 تا +70 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : PIC12(L)C5xx
+دارای هسته 8 بیتی PIC12
+ولتاژ کاری : 3 ولت تا 5.5 ولت
+سرعت: 4 Mhz
+حافظه: 1.5 kB
+پکیج : PDIP-8
+تعداد پین ها ورودی/خروجی : 5
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : 0 تا +70 درجه سانتیگراد
+
+Introduction
+
+The PIC12C509A-04P microcontroller has an 8-bit PIC12 processor core (DIP package) made by Microchip and operates at a frequency of 4 MHz. This microcontroller provides 1.5 KB of FLASH memory on the chip. The PIC12C509A-04P microcontroller has 5 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The PIC12C509A-04P microcontroller has an operating voltage of 3 to 5.5 volts and operates in the temperature range of 0 to +70 ° C.
+
+Specification
+
+Manufacturer: Microchip 
+Product Category: 8-bit Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Series: PIC12(L)C5xx 
+Core: PIC 
+Data Bus Width: 8 bit 
+Maximum Clock Frequency: 4 MHz 
+Program Memory Size: 1.5 kB 
+Data RAM Size: 41 B 
+ADC Resolution: No ADC 
+Number of I/Os: 5 I/O 
+Operating Supply Voltage: 3 V to 5.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Height: 3.3 mm 
+Length: 9.27 mm 
+Product: MCU 
+Program Memory Type: EPROM 
+Width: 6.35 mm 
+Brand: Microchip Technology 
+Data ROM Type: EEPROM 
+Number of Timers/Counters: 8 Timer 
+Processor Series: PIC12 
+Product Type: 8-bit Microcontrollers - MCU 
+Factory Pack Quantity: 60 
+Subcategory: Microcontrollers - MCU 
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 2.5 V 
+Tradename: PIC 
+Watchdog Timers: Watchdog Timer 
+Unit Weight: 0.032805 oz
+

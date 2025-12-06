@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/4578-تراشه-اسیلاتور-تایمر-mic1557ym5-پکیج-sot-23-5.html
+================================================================================
+
+عنوان:
+تراشه اسیلاتور - تایمر MIC1557YM5 پکیج SOT-23-5
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی اسیلاتور و تایمر RC قابل برنامه ریزی MIC1557YM5
+
+توضیحات کامل:
+Specification
+
+General Description
+The MIC1555 IttyBitty™ CMOS RC timer/oscillator and
+MIC1557 IttyBitty CMOS RC oscillator are designed to
+provide rail-to-rail pulses for precise time delay or
+frequency generation.
+
+Manufacturer: Microchip 
+Product Category: Timers & Support Products 
+RoHS: Details 
+Type: Standard 
+Number of Internal Timers: 1 Timer 
+Supply Voltage - Max: 18 V 
+Supply Voltage - Min: 2.7 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: SMD/SMT 
+Package / Case: SOT-23 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Height: 1.1 mm 
+Length: 2.9 mm 
+Width: 1.6 mm 
+Brand: Microchip Technology / Micrel 
+Shutdown: Shutdown 
+High Level Output Current: 20 mA 
+Low Level Output Current: - 20 mA 
+Product Type: Timers & Support Products   
+
+Applications
+• Precision timer
+• Pulse generation
+• Sequential timing
+• Time-delay generation
+• Missing pulse detector
+• Micropower oscillator to 5MHz
+• Charge-pump driver
+• LED blinker
+• Voltage converter
+• Linear sweep generator
+• Variable frequency and duty cycle oscillator
+• Isolated feedback for power supplies
+

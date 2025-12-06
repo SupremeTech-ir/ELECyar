@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/24249-دوبل-دیود-شاتکی-sr1080c-10a-80v-مارک-gw-پکیج-to-220.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR1080C 10A-80V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 10 آمپر SR20150C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 10 A     
+Vrrm - Repetitive Reverse Voltage: 80 V     
+Vf - Forward Voltage: 0.85 V     
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220 
+Minimum Operating Temperature : - 65 C     
+Maximum Operating Temperature : + 150 C
+

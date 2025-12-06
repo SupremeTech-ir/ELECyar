@@ -1,0 +1,70 @@
+URL: https://eshop.eca.ir/stm/11853-میکروکنترلر-stm8s003k3t6c.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM8S003K3T6C
+
+قیمت:
+620,000
+
+توضیحات کوتاه:
+میکروکنترلر STM8S003K3T6C با هسته STM8 با حافظه 8KB و فرکانس کاری 16MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM8S003K3T6C دارای هسته پردازنده 8 بیتی STM8 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM8S003K3T6C دارای 28 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM8S003K3T6C دارای ولتاژ کاری 2.95 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+دارای هسته 8 بیتی STM8 
+ولتاژ کاری : 2.95 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 8 kB
+پکیج : LQFP-32
+تعداد پین ها ورودی/خروجی : 28
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM8S003K3T6C microcontroller has an 8-bit STM8 processor core made by STMicroelectronics and operates at a frequency of 16 MHz. This microcontroller provides 8 KB of FLASH memory on the chip. The STM8S003K3T6C microcontroller has 28 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM8S003K3T6C microcontroller has an operating voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics     
+Product Category: 8-bit Microcontrollers - MCU        
+Mounting Style: SMD/SMT     
+Package / Case: LQFP-32     
+Core: STM8     
+Program Memory Size: 8 kB     
+Data Bus Width: 8 bit     
+ADC Resolution: 10 bit     
+Maximum Clock Frequency: 16 MHz     
+Number of I/Os: 21 I/O     
+Data RAM Size: 1 kB     
+Operating Supply Voltage: 2.95 V to 5.5 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C     
+Packaging: Tray     
+Program Memory Type: Flash     
+Brand: STMicroelectronics     
+Data RAM Type: RAM     
+Data ROM Size: 128 B     
+Data ROM Type: EEPROM     
+Interface Type: I2C, SPI, UART     
+Moisture Sensitive: Yes     
+Number of ADC Channels: 4 Channel     
+Number of Timers/Counters: 7 Timer     
+Processor Series: STM8S003x     
+Product Type: 8-bit Microcontrollers - MCU     
+Factory Pack Quantity: 1500     
+Subcategory: Microcontrollers - MCU     
+Supply Voltage - Max: 5.5 V     
+Supply Voltage - Min: 2.95 V
+

@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22832-دوبل-دیود-شاتکی-yg875c10r-100v-20a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG875C10R 100V-20A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+202,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 100 ولت 20 آمپر YG875C10R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 20 A 
+Vrrm - Repetitive Reverse Voltage: 100 V 
+Vf - Forward Voltage: 0.86 V 
+Ifsm - Forward Surge Current: 145 A 
+Ir - Reverse Current: 20 uA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

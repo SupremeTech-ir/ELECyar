@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/13868-تراشه-ولتاژ-رفرنس-sg3503m-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس SG3503M پکیج DIP
+
+قیمت:
+335,000
+
+توضیحات کوتاه:
+آی سی ولتاژ دقیق SG3503 
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Linfinity     
+Product Category: Voltage References     
+RoHS: Details     
+Mounting Style: Through Hole     
+Package / Case: DIP-8     
+Reference Type:  Ground Precision References     
+Output Voltage: 2.5 V     
+Initial Accuracy: 1 %     
+Temperature Coefficient: 10 PPM/C     
+Minimum Operating Temperature:  0 C     
+Maximum Operating Temperature: + 70 C     
+Packaging: Tube     
+Input Voltage: 4.5 V to 40 V     
+Brand: Microchip / Microsemi     
+Shutdown: No Shutdown     
+Supply Current - Max: 2 mA     
+Maximum Output Voltage: 2.525 V     
+Operating Supply Current: 1.5 mA     
+Product Type: Voltage References
+

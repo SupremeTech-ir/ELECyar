@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1939-تراشه-حافظه-at24c16-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C16 پکیج DIP
+
+قیمت:
+78,400
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C16 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: EEPROM 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Interface Type: 2-Wire, I2C 
+Memory Size: 16 kbit 
+Organization: 2 k x 8 
+Supply Voltage - Min: 4.5 V 
+Supply Voltage - Max: 5.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Maximum Clock Frequency: 400 kHz 
+Access Time: 900 ns 
+Data Retention: 100 Year 
+Supply Current - Max: 3 mA 
+Brand: Microchip Technology 
+Height: 3.3 mm 
+Length: 9.27 mm 
+Operating Supply Current: 3 mA 
+Operating Supply Voltage: 1.8 V, 5.5 V 
+Product Type: EEPROM
+

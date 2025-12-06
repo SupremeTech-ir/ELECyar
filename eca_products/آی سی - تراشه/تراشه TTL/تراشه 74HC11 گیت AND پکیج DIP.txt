@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14375-تراشه-74hc11-گیت-and-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74HC11 گیت AND پکیج DIP
+
+قیمت:
+153,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HC11 شامل 3 گیت AND پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 2V to 6V
+Maximum clock frequency: 50 MHz
+Contains three independent 3-input AND gates
+Schmitt-trigger inputs provide hysteresis to improve noise immunity
+Outputs are buffered and can drive up to 10 TTL loads
+Power dissipation: 500 mW
+Operating temperature range: -40°C to 125°C
+

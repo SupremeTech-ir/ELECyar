@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/دیود-tvs/23106-دیود-tvs-bidirect-پکیج-smb-کد-smbj36ca.html
+================================================================================
+
+عنوان:
+دیود TVS Bidirect پکیج SMB کد SMBJ36CA
+
+قیمت:
+15,700
+
+توضیحات کوتاه:
+دیود تی وی اس 36  ولت 600 وات SMBJ36CA پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes 
+Polarity: Bidirectional 
+Number of Channels: 1 Channel 
+Working Voltage: 36 V 
+Termination Style: SMD/SMT 
+Clamping Voltage: 58.1 V 
+Breakdown Voltage: 40 V 
+Package/Case: DO-214AA-2 
+Ipp - Peak Pulse Current: 10.4 A 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Vesd - Voltage ESD Contact: 30 kV 
+Vesd - Voltage ESD Air Gap: 30 kV 
+Product Type: TVS Diodes 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+Series: SMBJ 
+Pd - Power Dissipation: 5 W 
+Subcategory: TVS Diodes / ESD Suppression Diodes 
+Vf - Forward Voltage: 3.5 V
+

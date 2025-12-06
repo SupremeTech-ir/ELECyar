@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/18246-ماسفت-قدرت-mtn2n60cfp-نوع-n-channel-تایوانی-مارک-cystek-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت قدرت MTN2N60CFP نوع N-Channel تایوانی مارک CYStek پکیج TO-220
+
+قیمت:
+345,000
+
+توضیحات کوتاه:
+ماسفت قدرت 600 ولت 2 آمپر MTN2N60CFP نوع N-Channel مارک CYStek پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+P/N  : MTN2N60CF
+Brand : CYStek
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 23 W
+Maximum Drain-Source Voltage |Vds|: 600 V
+Maximum Gate-Source Voltage |Vgs|: ± 30 V 
+Maximum Drain Current |Id|: 2 A
+Maximum Junction Temperature (Tj): 150 °C
+Rise Time (tr): 8.2 nS 
+Package:  TO-220
+

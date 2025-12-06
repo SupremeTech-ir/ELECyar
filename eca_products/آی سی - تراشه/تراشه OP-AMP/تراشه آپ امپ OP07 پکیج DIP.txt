@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/794-تراشه-آپ-امپ-op07-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ OP07 پکیج DIP
+
+قیمت:
+142,000
+
+توضیحات کوتاه:
+آی سی آپ امپ تقویت کننده OP07 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+Manufacturer: Texas Instruments 
+Product Category: Precision Amplifiers 
+RoHS: Details 
+Series: OP07C 
+Number of Channels: 1 Channel 
+GBP - Gain Bandwidth Product: 600 kHz 
+SR - Slew Rate: 0.3 V/us 
+CMRR - Common Mode Rejection Ratio: 100 dB to 120 dB 
+Ib - Input Bias Current: 7 nA 
+Vos - Input Offset Voltage: 0.25 mV 
+en - Input Voltage Noise Density: 10.5 nV/sqrt Hz 
+Supply Voltage - Max: 36 V 
+Supply Voltage - Min: 6 V 
+Operating Supply Current: 2.4 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Shutdown: No Shutdown 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Packaging: Tube 
+Amplifier Type: Low Offset Amplifier 
+Height: 4.57 mm 
+Length: 9.81 mm 
+Product: Precision Amplifiers 
+Supply Type: Single, Dual 
+Technology: Bipolar 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V 
+In - Input Noise Current Density: 0.35 pA/sqrt Hz 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 3 V 
+Operating Supply Voltage: 6 V to 36 V, +/- 3 V to +/- 18 V
+

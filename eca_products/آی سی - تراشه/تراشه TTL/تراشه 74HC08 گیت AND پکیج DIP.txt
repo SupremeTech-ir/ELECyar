@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-ttl/433-تراشه-74hc08-گیت-and-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74HC08 گیت AND پکیج DIP
+
+قیمت:
+97,800
+
+توضیحات کوتاه:
+آی سی منطقی 74HC08 شامل 4 گیت AND پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: AND
+Logic Family: HC
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High-Level Output Current: - 5.2 mA
+Low-Level Output Current: 5.2 mA
+Propagation Delay Time: 28 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style:Through Hole
+Package / Case: PDIP-14
+Packaging: Tube
+Function:Quad 2-Input 
+Height: 4.57 mm 
+Input Type: CMOS 
+Length: 19.3 mm 
+Operating Temperature Range: - 40 C to + 85 C 
+Output Type: CMOS 
+Series: SN74HC08 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Logic Type: 2-Input AND 
+Number of Bits: 4 bit 
+Operating Supply Current: 20 uA 
+Operating Supply Voltage: 5 V 
+Product Type: Logic Gates 
+Factory Pack Quantity: 25 
+Subcategory: Logic ICs
+

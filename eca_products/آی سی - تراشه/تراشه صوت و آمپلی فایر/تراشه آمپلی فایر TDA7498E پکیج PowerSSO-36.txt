@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/14384-تراشه-آمپلی-فایر-tda7498e-پکیج-powersso-36.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7498E پکیج PowerSSO-36
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی 2x160 وات دوگانه BTL کلاس D
+
+توضیحات کامل:
+Introduction
+
+The TDA7498E is a dual BTL class-D audio amplifier with single power supply designed for home systems and active speaker applications. It comes in a 36-pin PowerSSO package with exposed pad up (EPU) to facilitate mounting a separate heatsink.
+
+Specification
+
+160-W + 160-W output power at THD = 10% with RL = 4 Ω and VCC = 36 V
+1 x 220 W output power mono parallel BTL at THD = 10% with RL = 3 Ω and VCC = 36 V
+Wide-range single-supply operation (14 - 36 V)
+High efficiency (η = 85%)
+Parallel BTL function using the MODE pin
+Four selectable, fixed gain settings of nominally 23.8 dB, 29.8 dB, 33.3 dB and 35.8 dB
+Differential inputs minimize common-mode noise
+Standby and mute features
+Smart protection
+Thermal overload protection
+Small offset less than 20 mV
+

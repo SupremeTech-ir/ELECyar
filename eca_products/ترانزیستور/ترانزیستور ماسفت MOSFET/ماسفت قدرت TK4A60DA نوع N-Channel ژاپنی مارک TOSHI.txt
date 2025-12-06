@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/22826-ماسفت-قدرت-tk4a60da-نوع-n-channel-ژاپنی-مارک-toshiba-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+ماسفت قدرت TK4A60DA نوع N-Channel ژاپنی مارک TOSHIBA پکیج TO-220FP
+
+قیمت:
+235,000
+
+توضیحات کوتاه:
+ماسفت 600 ولت 3.5 آمپر TK4A60DA نوع N-Channel ژاپنی مارک TOSHIBA پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Type Designator: TK4A60DA
+Marking Code: K4A60DA
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 35 W
+Maximum Drain-Source Voltage |Vds|: 600 V
+Maximum Gate-Source Voltage |Vgs|: 30 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 4.4 V
+Maximum Drain Current |Id|: 3.5A
+Maximum Junction Temperature (Tj): 150 °C
+Total Gate Charge (Qg): 11 nC
+Rise Time (tr): 18 nS
+Maximum Drain-Source On-State Resistance (Rds): 2.2 Ohm
+Package: TO-220FP
+

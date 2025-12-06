@@ -1,0 +1,56 @@
+URL: https://eshop.eca.ir/تراشه-شبکه/3487-تراشه-کنترلر-شبکه-dp83848cvv-پکیج-lqfp.html
+================================================================================
+
+عنوان:
+تراشه کنترلر شبکه DP83848CVV پکیج LQFP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی کنترلر ترنسیور شبکه DP83848CVV پکیج LQFP SMD
+
+توضیحات کامل:
+Introduction
+
+The DP83848C is a robust fully featured 10/100 single port Physical Layer device offering low power consumption, including several intelligent power down states. These low power modes increase overall product reliability due to decreased power dissipation. Supporting multiple intelligent power modes allows the application to use the absolute minimum amount of power needed for operation.
+The DP83848C includes a 25MHz clock out. This means that the application can be designed with a
+minimum of external parts, which in turn results in the lowest possible total cost of the solution.
+The DP83848C easily interfaces to twisted pair media via an external transformer. Both MII and RMII are
+supported ensuring ease and flexibility of design.
+The DP83848C features integrated sublayers to support both 10BASE-T and 100BASE-TX Ethernet protocols,
+which ensures compatibility and interoperability with all other standards based Ethernet solutions.
+The DP83848C is offered in a small form factor (48 pin LQFP) so that a minimum of board space is needed.
+
+Applications
+
+• High End Peripheral Devices
+• Industrial Controls and Factory Automation
+• General Embedded Applications
+System Diagram
+PHYTER® is a registered trademark of National Semiconductor.
+
+Specification
+
+• Low-power 3.3V, 0.18μm CMOS technology
+• Low power consumption < 270mW Typical
+• 3.3V MAC Interface
+• Auto-MDIX for 10/100 Mb/s
+• Energy Detection Mode
+• 25 MHz clock out
+• SNI Interface (configurable)
+• RMII Rev. 1.2 Interface (configurable)
+• MII Serial Management Interface (MDC and MDIO)
+• IEEE 802.3u MII
+• IEEE 802.3u Auto-Negotiation and Parallel Detection
+• IEEE 802.3u ENDEC, 10BASE-T transceivers and filters
+• IEEE 802.3u PCS, 100BASE-TX transceivers and filters
+• Integrated ANSI X3.263 compliant TP-PMD physical sublayer
+with adaptive equalization and Baseline Wander compensation
+• Error-free Operation up to 137 meters
+• Programmable LED support Link, 10 /100 Mb/s Mode, Activity,
+and Collision Detect
+• Single register access for complete PHY status
+• 10/100 Mb/s packet BIST (Built in Self Test)
+• 48-pin LQFP package (7mm) x (7mm
+

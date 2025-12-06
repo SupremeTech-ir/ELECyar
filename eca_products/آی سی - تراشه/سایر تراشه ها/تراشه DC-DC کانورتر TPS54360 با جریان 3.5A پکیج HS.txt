@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/8608-تراشه-dc-dc-کانورتر-tps54360-با-جریان-35a-پکیج-hsoic-8.html
+================================================================================
+
+عنوان:
+تراشه DC-DC کانورتر TPS54360 با جریان 3.5A پکیج HSOIC-8
+
+قیمت:
+673,000
+
+توضیحات کوتاه:
+آی سی DC-DC کانورتر TPS54360 پکیج SMD HSOIC-8
+
+توضیحات کامل:
+Introduction 
+
+The TPS54360 is a 60-V, 3.5-A, step-down regulator with an integrated high side MOSFET. The device survives load dump pulses up to 65 V per ISO 7637. Current mode control provides simple external compensation and flexible component selection. A low ripple pulse skip mode reduces the no load supply current to 146 µA. Shutdown supply current is reduced to 2 µA when the enable pin is pulled low.
+Undervoltage lockout is internally set at 4.3 V but can be increased using the enable pin. The output voltage start-up ramp is internally controlled to provide a controlled start-up and eliminate overshoot.
+A wide switching frequency range allows either efficiency or external component size to be optimized. Frequency foldback and thermal shutdown protect internal and external components during an overload condition.
+The TPS54360 is available in an 8-terminal thermally enhanced HSOIC PowerPAD™ package.
+
+Specification 
+4.5-V to 60-V (65-V Abs Max) Input Range
+3.5-A Continuous Current, 4.5-A Minimum Peak Inductor Current Limit
+Current Mode Control DC/DC Converter
+92-mΩ High-Side MOSFET
+High Efficiency at Light Loads with Pulse Skipping Eco-mode™
+Low Dropout at Light Loads with Integrated BOOT Recharge FET
+146-µA Operating Quiescent Current
+2-µA Shutdown Current
+100-kHz to 2.5-MHz Fixed Switching Frequency
+Synchronizes to External Clock
+Adjustable UVLO Voltage and Hysteresis
+Internal Soft Start
+Accurate Cycle-by-Cycle Current Limit
+Thermal, Overvoltage, and Frequency Foldback Protection
+0.8 V 1% Internal Voltage Reference
+8-Terminal HSOIC with PowerPAD™ Package
+–40°C to 150°C TJ Operating Range
+

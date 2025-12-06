@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/17621-تراشه-حافظه-فلش-w25q32jv-پکیج-soic-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q32JV پکیج SOIC-8
+
+قیمت:
+267,000
+
+توضیحات کوتاه:
+آی سی حافظه فلش W25Q32JV پکیج SMD SOIC-8
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q32JV با پشتیبانی از رابط‌های SPI، Dual SPI و Quad SPI، عملکرد سریع و کارآمدی را برای ذخیره‌سازی داده‌ها و اجرای کد فراهم می‌آورد. این تراشه با ظرفیت 32 مگابایت، امکان خواندن و نوشتن داده‌ها با سرعت بالا را به صورت انعطاف‌پذیر ارائه می‌دهد. مصرف انرژی بسیار پایین و دمای عملیاتی وسیع این تراشه را برای کاربردهای صنعتی و سیستم‌های حساس به توان مصرفی بسیار مناسب می‌سازد. پکیج SOIC-8 این تراشه آن را برای استفاده در دستگاه‌های کوچک و با فضای محدود ایده‌آل می‌کند.
+
+Specification
+
+Manufacturer: Winbond 
+Product Category: NOR Flash 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case:  SOIC-8
+Series: W25Q32JV 
+Memory Size: 32 Mbit 
+Supply Voltage - Min: 2.7 V 
+Supply Voltage - Max: 3.6 V 
+Interface Type: SPI 
+Maximum Clock Frequency: 133 MHz 
+Organization: 4 M x 8 
+Data Bus Width: 8 bit 
+Timing Type: Synchronous 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tube 
+Brand: Winbond 
+Moisture Sensitive: Yes 
+Product Type: NOR Flash  
+Subcategory: Memory & Data Storage 
+Supply Current - Max: 25 mA
+

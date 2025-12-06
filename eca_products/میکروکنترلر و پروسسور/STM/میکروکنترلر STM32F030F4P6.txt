@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/stm/2919-میکروکنترلر-stm32f030f4p6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F030F4P6
+
+قیمت:
+449,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F030F4P6 با هسته ARM Cortex M0 با حافظه 16KB و فرکانس کاری 48MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F030F4P6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 48 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F030F4P6 دارای 15 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F030F4P6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 48 Mhz
+حافظه: 16 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 15
+پکیج : TSSOP-20
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F030F4P6 microcontroller has a 32-bit ARM Cortex M0 processor core made by STMicroelectronics and operates at a frequency of 48 MHz. This microcontroller provides 16 KB of FLASH memory on the chip. The STM32F030F4P6 microcontroller has 15 input / output pins and communication protocols: I2C, SPI UART / USART.
+The STM32F030F4P6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Series: STM32F0
+Core Processor: ARM® Cortex®-M0
+Flash Memory Size: 16 kB
+Frequency: 48 MHz
+Interface: I2C, SPI, UART, USART
+Operating Temperature: -40 85 °C
+Supply Voltage 2.4 V - 3.6 V
+Package: TSSOP-20
+I/O pins: 15
+

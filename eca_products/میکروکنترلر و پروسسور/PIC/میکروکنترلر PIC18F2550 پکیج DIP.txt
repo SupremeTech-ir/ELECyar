@@ -1,0 +1,75 @@
+URL: https://eshop.eca.ir/pic/622-میکروکنترلر-pic18f2550-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر PIC18F2550 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر PIC18F2550  با هسته 8 بیتی PIC16 (پکیج DIP ) با حافظه 32KB و فرکانس کاری 48MHz ساخت شرکت میکروچیپ می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر PIC18F2550 دارای هسته پردازنده 8 بیتی PIC16 (پکیج DIP) توسط شرکت Microchip ساخته شده است است و با فرکانس 48 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر PIC18F2550 دارای 24 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر PIC18F2550 دارای ولتاژ کاری 2 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : PIC18(L)Fxx50
+دارای هسته 8 بیتی PIC16
+ولتاژ کاری : 2 ولت تا 5.5 ولت
+سرعت: 48 Mhz
+حافظه: 32 kB
+پکیج : SPDIP-28
+تعداد پین ها ورودی/خروجی : 24
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The PIC16F876-04 / SP microcontroller has an 8-bit PIC16 processor core (DIP package) made by Microchip and operates at a frequency of 4 MHz. This microcontroller provides 14 KB of FLASH memory on the chip. The PIC16F876-04 / SP microcontroller has 22 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The PIC16F876-04 / SP microcontroller has a working voltage of 2 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category:     8-bit Microcontrollers - MCU     
+Manufacturer:     Microchip     
+RoHS:     RoHS Compliant Details     
+Mounting Style:     Through Hole     
+Package / Case:     SPDIP-28     
+Core:     PIC18     
+Data Bus Width:     8 bit     
+Maximum Clock Frequency:     48 MHz     
+Program Memory Size:     32 kB     
+Data RAM Size:     2 kB     
+ADC Resolution:     10 bit     
+Operating Supply Voltage:     2 V to 5.5 V     
+Maximum Operating Temperature:     + 85 C     
+Processor Series:     PIC18     
+Packaging:     Tube     
+Brand:     Microchip Technology     
+Data RAM Type:     SRAM     
+Data ROM Size:     256 B     
+Data ROM Type:     EEPROM     
+Height:     3.3 mm     
+Interface Type:     EAUSART, I2C, SPI     
+Length:     34.67 mm     
+Minimum Operating Temperature:     - 40 C     
+Number of ADC Channels:     10     
+Number of I/Os:     24 I/O     
+Number of Timers/Counters:     4 Timer     
+Product:     MCU     
+Program Memory Type:     Flash     
+Series:     PIC18     
+Factory Pack Quantity:     15     
+Supply Voltage - Max:     5.5 V     
+Supply Voltage - Min:     4.2 V     
+Tradename:     PIC     
+Width:     7.24 mm
+

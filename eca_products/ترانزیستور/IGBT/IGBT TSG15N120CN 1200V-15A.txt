@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/igbt/5641-igbt-tsg15n120cn-1200v15a-.html
+================================================================================
+
+عنوان:
+IGBT TSG15N120CN 1200V/15A
+
+قیمت:
+0
+
+توضیحات کامل:
+Part Number : TSG15N120CN
+
+Category:     
+Discrete Devices
+IGBT
+Discrete IGBT
+Collector Current IC Max. (A):     15
+Collector-Emitter-Voltage VCES Max. (V):     1200
+Description:     1200V, 15A, IGBT
+Fall Time Typ. (ns):     86
+Gate-Emitter-Threshold Voltage Max. (V):     7
+Gate-Emitter-Threshold Voltage Min. (V):     3
+Gate-Emitter-Threshold Voltage Typ. (V):     5
+Package:     TO-3PN
+Status:     Obsolete
+VCE Sat. Typ. (V):     1.9
+With FRD     
+
+     DATASHEET
+

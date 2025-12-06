@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/7995-تراشه-آمپلی-فایر-tda7297sa.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7297SA
+
+قیمت:
+648,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7297SA دو کانال 10 وات کلاس AB
+
+توضیحات کامل:
+Specification
+
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 10 W
+Mounting Style: Through Hole
+Type: 2-Channel Stereo
+Package / Case: Clipwatt-15
+Audio - Load Impedance: 8 Ohms
+THD plus Noise: 1 %
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 6.5 V
+Maximum Operating Temperature: + 70 C
+Minimum Operating Temperature: 0 C
+Description/Function: Speaker 
+Input Type: Single 
+Output Current: 2000 mA 
+Supply Type: Single 
+Brand: STMicroelectronics 
+Gain: 32 dB 
+Number of Channels: 2 Channel 
+Operating Supply Voltage: 9 V, 12 V, 15 V 
+Output Signal Type: Differential
+Pd - Power Dissipation: 30000 mW
+

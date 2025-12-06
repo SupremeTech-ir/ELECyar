@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/2061-تراشه-آپ-امپ-tl062-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ TL062 پکیج DIP
+
+قیمت:
+63,200
+
+توضیحات کوتاه:
+آی سی آپ امپ TL062 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Operational Amplifiers - Op Amps 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Supply Voltage - Max: 36 V 
+Number of Channels: 2 Channel 
+GBP - Gain Bandwidth Product: 1 MHz 
+SR - Slew Rate: 3.5 V/us 
+CMRR - Common Mode Rejection Ratio: 70 dB to 86 dB 
+Ib - Input Bias Current: 200 pA 
+Vos - Input Offset Voltage: 15 mV 
+Supply Voltage - Min: 7 V 
+Operating Supply Current: 200 uA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Shutdown: No Shutdown 
+Series: TL062 
+Packaging: Tube 
+Amplifier Type: Low Power Amplifier 
+Height: 4.57 mm 
+Input Type: Rail-to-Rail 
+Length: 9.81 mm 
+Product: Operational Amplifiers 
+Supply Type: Single, Dual 
+Technology: BiFET 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V 
+en - Input Voltage Noise Density: 42 nV/sqrt Hz 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 3.5 V 
+Operating Supply Voltage: 7 V to 36 V, +/- 3.5 V to +/- 18 V
+

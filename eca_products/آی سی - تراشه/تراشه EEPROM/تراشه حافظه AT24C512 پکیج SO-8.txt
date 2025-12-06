@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/5235-تراشه-حافظه-at24c512-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C512 پکیج SO-8
+
+قیمت:
+265,000
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C512 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Mounting Style: SMD / SMT     
+Package : Case: SO-8 / SOIC-8
+Memory Size: 512 kbit     
+Organization: 64 k x 8     
+Interface Type: 2-Wire, I2C     
+Maximum Clock Frequency: 400 kHz     
+Supply Current - Max: 3 mA     
+Supply Voltage - Min: 1.7 V     
+Supply Voltage - Max:  3.6 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature:  + 85 C     
+Series:  AT24C512C     
+Operating Supply Voltage: 1.7 V to 3.6 V     
+Product Type: EEPROM
+

@@ -1,0 +1,51 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/14196-ماسفت-20n60c3-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت 20N60C3 نوع N-Channel پکیج TO-220
+
+قیمت:
+364,000
+
+توضیحات کوتاه:
+ماسفت 600 ولت 20.7 آمپر نوع N-Channel پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET 
+RoHS: Details 
+Technology: Si 
+Mounting Style: Through Hole 
+Package / Case: TO-220-3 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 600 V 
+Id - Continuous Drain Current: 20.7 A 
+Rds On - Drain-Source Resistance: 190 mOhms 
+Vgs - Gate-Source Voltage: - 20 V, + 20 V 
+Vgs th - Gate-Source Threshold Voltage: 2.1 V 
+Qg - Gate Charge: 87 nC 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Pd - Power Dissipation: 208 W 
+Channel Mode: Enhancement 
+Tradename: CoolMOS 
+Packaging: Tube 
+Configuration: Single 
+Height: 15.65 mm 
+Length: 10 mm 
+Series: CoolMOS C3 
+Transistor Type: 1 N-Channel 
+Width: 4.4 mm 
+Fall Time: 4.5 ns 
+Product Type: MOSFET 
+Rise Time: 5 ns
+Subcategory: MOSFETs 
+Typical Turn-Off Delay Time: 67 ns 
+Typical Turn-On Delay Time: 10 ns
+

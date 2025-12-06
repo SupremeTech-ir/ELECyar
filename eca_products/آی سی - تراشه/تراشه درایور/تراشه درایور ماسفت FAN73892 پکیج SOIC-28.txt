@@ -1,0 +1,93 @@
+URL: https://eshop.eca.ir/تراشه-درایور/26430-تراشه-درایور-ماسفت-fan73892-پکیج-soic-28.html
+================================================================================
+
+عنوان:
+تراشه درایور ماسفت FAN73892 پکیج SOIC-28
+
+قیمت:
+620,000
+
+توضیحات کوتاه:
+درایور FAN73892 گیت سه‌فاز برای ماسفت یا IGBT با ولتاژ کاری تا 600 ولت و قابلیت محافظت در برابر اضافه‌جریان پکیج SOIC-28
+
+توضیحات کامل:
+تراشه FAN73892 یک درایور گیت مجتمع سه‌فاز از نوع نیم‌پل است که برای کنترل ترانزیستورهای قدرت ماسفت یا IGBT در سیستم‌های ولتاژ بالا طراحی شده است. این تراشه با داشتن کانال‌های شناور تا 600 ولت، قابلیت راه‌اندازی سمت High-side را با استفاده از روش بوت‌استرپ فراهم می‌سازد. هر شش کانال خروجی دارای تطابق زمانی دقیق، جریان درایو بالا (حدود 350 میلی‌آمپر منبع و 650 میلی‌آمپر سربکشی)، و حفاظت کامل از طریق مدارهای داخلی هستند. از ویژگی‌های کلیدی این درایور می‌توان به محافظت در برابر اضافه‌جریان، قفل زیرولتاژ (UVLO) برای تمام کانال‌ها، فیلتر ورودی، خاموشی نرم (Soft Turn-Off) و قابلیت تنظیم زمان پاک‌سازی خطا اشاره کرد. این تراشه به‌ویژه برای اینورترهای موتور سه‌فاز، لوازم خانگی صنعتی و مبدل‌های قدرت طراحی شده و عملکرد قابل اعتمادی در محیط‌های دارای نویز بالا دارد.
+
+مشخصات
+
+ولتاژ کاری تغذیه منطقی (VDD): از 10 تا 20V
+ولتاژ تغذیه شناور High-side (VB): از VS+10 تا VS+20V
+ولتاژ شناور سمت High-side (VS): تا 600V
+ولتاژ خروجی High-side (HOx): از VS تا VB
+ولتاژ خروجی Low-side (LOx): از COM تا VDD
+جریان خروجی (منبع): معمولاً 350mA
+جریان خروجی (سربکشی): معمولاً 650mA
+جریان مصرفی حالت بی‌کار VDD: حداکثر 200μA
+فرکانس کاری ورودی نمونه‌برداری‌شده: تا 20kHz
+تطابق تأخیر سوئیچینگ بین کانال‌ها: ±50ns
+زمان خیز: 20 تا 100ns
+زمان افت: 10 تا 80ns
+زمان تأخیر روشن‌سازی: حدود 500ns
+زمان پاک‌سازی خطا: حدود 1.3ms
+ولتاژ ورودی منطقی: سازگار با 3.3V و 5.0V
+محافظت UVLO: برای هر شش کانال (High و Low)
+پشتیبانی از ولتاژ منفی VS تا: ‎-9.8 V
+پکیج: SOIC-28
+
+کاربردهای رایج
+
+FAN73892 به عنوان یک درایور قدرتمند گیت سه‌فاز، مناسب برای سیستم‌های کنترلی با نیاز به عملکرد مطمئن در شرایط ولتاژ بالا، نویز زیاد و دقت زمانی بالا طراحی شده است. استفاده از آن در مدارهای اینورتر و درایو موتورهای صنعتی باعث کاهش پیچیدگی و افزایش قابلیت اطمینان سیستم می‌شود.
+
+درایور اینورتر سه‌فاز برای موتورهای BLDC و AC
+کنترل موتور در کولر گازی، ماشین لباس‌شویی و یخچال
+سیستم‌های اینورتر صنعتی مانند چرخ خیاطی و ابزارهای قدرت
+مبدل‌های توان بالا در تجهیزات اتوماسیون
+سیستم‌های HVAC با کنترل دور موتور
+کاربرد در تجهیزات برقی سنگین با نیاز به حفاظت پیشرفته
+منابع تغذیه سوییچینگ سه‌فاز
+سیستم‌های محرک صنعتی با ساختار نیم‌پل
+تجهیزات جوشکاری یا القایی الکترونیکی
+راه‌انداز موتورهای فشار متوسط در صنایع
+
+Specifications
+
+Operating Conditions
+Logic Supply Voltage (VDD): 10 V to 20 V
+High-Side Floating Supply Voltage (VB1–VB3): VS +10 V to VS +20 V
+High-Side Floating Supply Offset Voltage (VS1–VS3): up to 600 V
+Ambient Operating Temperature: −40 °C to +125 °C
+
+Gate Drive Output (per channel)
+High-Side Output Voltage (HO1–HO3): VS to VB
+Low-Side Output Voltage (LO1–LO3): COM to VDD
+Output Sourcing Current (typical): 350 mA
+Output Sinking Current (typical): 650 mA
+Output Rise Time: 20 ns to 100 ns
+Output Fall Time: 10 ns to 80 ns
+
+Input Logic
+Input Voltage Compatibility: 3.3 V and 5.0 V TTL/CMOS
+Logic HIGH Threshold (VIH): Min 2.5 V
+Logic LOW Threshold (VIL): Max 0.8 V
+Input Filtering Time (tFLTIN): 250 ns typical
+
+Protection & Fault Handling
+Under-Voltage Lockout (UVLO) for VDD and VBS: Active on all channels
+UVLO Threshold for VDD (typical): 8.5 V (rising), 8.0 V (falling)
+Over-Current Protection Threshold: 500 mV (typical)
+Soft Turn-Off Current: 40 mA
+Fault-Clear Delay Time (tFLTCLR): 1.3 ms typical
+Fault Output Type: Open-drain
+Maximum Negative VS Tolerance: −9.8 V
+
+Timing Performance
+Turn-On Propagation Delay (tON): 350–650 ns
+Turn-Off Propagation Delay (tOFF): 350–650 ns
+Dead Time (internal): 230–350 ns
+Propagation Delay Matching: <50 ns between channels
+
+Package
+Package Type: SOIC-28 (Wide-body)
+Power Dissipation: Up to 1.4 W (with proper PCB)
+Thermal Resistance (θJA): 70 °C/W
+

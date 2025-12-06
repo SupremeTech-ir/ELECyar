@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/وریستور/4799-وریستور-vdr-07d221k.html
+================================================================================
+
+عنوان:
+وریستور VDR 07D221K
+
+قیمت:
+12,300
+
+توضیحات کوتاه:
+وریستور 220 ولت با تلرانس 10 درصد کد 07D221K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: MOV-07DxxxK     
+Mounting Style: PCB Mount     
+Voltage Rating AC: 140 VAC 
+Voltage Rating DC: 180 VDC 
+Varistor Voltage: 220 V 
+Clamping Voltage: 360 V 
+Peak Surge Current: 1.75 kA 
+Surge Energy Rating: 19 J 
+Capacitance: 230 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors 
+Tolerance: 10 %
+

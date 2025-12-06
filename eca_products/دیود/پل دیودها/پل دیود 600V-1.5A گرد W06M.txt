@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/پل-دیودها/15798-پل-دیود-600v-15a-گرد-w06m.html
+================================================================================
+
+عنوان:
+پل دیود 600V-1.5A گرد W06M
+
+قیمت:
+53,800
+
+توضیحات کوتاه:
+پل دیود گرد 600 ولت 1.5 آمپر W06M
+
+توضیحات کامل:
+مشخصات
+حداکثر ولتاژ قابل تحمل: 600 ولت
+جریان بار: 1.5 آمپر
+حداکثر جریان لحظه ای: 50 آمپر
+
+Specification
+
+Type of bridge rectifier  single-phase
+
+Max. off-state voltage    600V
+
+Load current  1.5A
+
+Max. forward impulse current  50A
+
+Version  round
+
+Case  WOM
+
+Electrical mounting  THT
+
+Leads  wire Ø 0.75mm
+
