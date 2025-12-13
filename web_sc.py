@@ -7,24 +7,7 @@ from datetime import datetime
 import json
 from html import unescape
 
-def clean_name(name: str) -> str:
-    if not name:
-        return "unknown"
-    name = re.sub(r'[\\/:*?"<>|]', '-', name)
-    name = name.replace('/', '-').replace('\\', '-')
-    return name.strip()
-
-def clean_html(html_text: str) -> str:
-    if not html_text:
-        return ""
-    text = re.sub(r'<br\s*/?>', '\n', html_text)
-    text = re.sub(r'</?p[^>]*>', '\n', text)
-    text = re.sub(r'<[^>]+>', '', text)
-    text = unescape(text)
-    text = re.sub(r'\n\s*\n+', '\n\n', text)
-    text = re.sub(r'[ \t]+', ' ', text)
-    return text.strip()
-
+# ========== CONFIGURATION VARIABLES ==========
 LIMIT_SUBCATEGORIES = 3
 LIMIT_CATEGORY_ITEMS = 10
 LIMIT_PRODUCTS = 250
@@ -38,10 +21,59 @@ MIN_DELAY = 2
 MAX_DELAY = 4
 TIMEOUT = 60000
 
+# دیکشنری تبدیل نام فارسی به انگلیسی
+FOLDER_NAME_MAPPING = {
+    "LED و تجهیزات مرتبط": "LED_and_Related_Equipment",
+    "آی سی - تراشه": "IC_Chip",
+    "ترانزیستور": "Transistor",
+    "ترایاک و تریستور": "Triac_and_Thyristor",
+    "خازن": "Capacitor",
+    "دیود": "Diode",
+    "رله": "Relay",
+    "رگولاتور": "Regulator",
+    "سلف": "Inductor",
+    "سوكت، کانکتور، فیش": "Socket_Connector_Plug",
+    "سگمنت و ماتریس": "Segment_and_Matrix",
+    "مقاومت": "Resistor",
+    "میکروکنترلر و پروسسور": "Microcontroller_and_Processor",
+    "وریستور": "Varistor",
+    "پین هدر": "Pin_Header",
+    "کریستال و اسیلاتور": "Crystal_and_Oscillator",
+    "کلید، سوئیچ، کیپد": "Switch_Keypad"
+}
+
+# ========== END CONFIGURATION ==========
+
+def clean_name(name: str) -> str:
+    if not name:
+        return "unknown"
+    name = re.sub(r'[\\/:*?"<>|]', '-', name)
+    name = name.replace('/', '-').replace('\\', '-')
+    return name.strip()
+
+def get_english_folder_name(persian_name: str) -> str:
+    """تبدیل نام فارسی به انگلیسی در صورت وجود در دیکشنری"""
+    for persian_key, english_value in FOLDER_NAME_MAPPING.items():
+        if persian_key in persian_name:
+            return english_value
+    return clean_name(persian_name)
+
+def clean_html(html_text: str) -> str:
+    if not html_text:
+        return ""
+    text = re.sub(r'<br\s*/?>', '\n', html_text)
+    text = re.sub(r'</?p[^>]*>', '\n', text)
+    text = re.sub(r'<[^>]+>', '', text)
+    text = unescape(text)
+    text = re.sub(r'\n\s*\n+', '\n\n', text)
+    text = re.sub(r'[ \t]+', ' ', text)
+    return text.strip()
+
 product_counter = 0
 start_time = None
 log_file = None
 jsonl_file = None
+scraped_urls = set()
 
 async def human_wait():
     await asyncio.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
@@ -71,12 +103,19 @@ async def get_text(page, selector):
     except:
         return None
 
-async def scrape_product(page, product_url, category_name, subcategory_name):
-    global product_counter
+async def scrape_product(page, product_url, category_name, subcategory_name, txt_file_handle):
+    global product_counter, scraped_urls
 
     if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
         log_message("⛔ به محدودیت تست رسیدیم — توقف اسکرپ محصول.")
         return False
+
+    # چک کردن URL تکراری
+    if product_url in scraped_urls:
+        log_message(f"⚠️ محصول تکراری پیدا شد و نادیده گرفته شد: {product_url}")
+        return True
+    
+    scraped_urls.add(product_url)
 
     try:
         await page.goto(product_url, wait_until="networkidle", timeout=TIMEOUT)
@@ -124,31 +163,21 @@ async def scrape_product(page, product_url, category_name, subcategory_name):
         except:
             pass
 
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        
-        if SAVE_TXT:
-            folder = os.path.join(
-                script_dir,
-                OUTPUT_DIR, 
-                clean_name(category_name),
-                clean_name(subcategory_name)
-            )
-            os.makedirs(folder, exist_ok=True)
-            filename = clean_name(title[:50]) + ".txt"
-            filepath = os.path.join(folder, filename)
-
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(f"URL: {product_url}\n")
-                f.write(f"{'='*80}\n\n")
-                f.write(f"عنوان:\n{title}\n\n")
-                if price:
-                    f.write(f"قیمت:\n{price}\n\n")
-                if short_desc:
-                    f.write(f"توضیحات کوتاه:\n{short_desc}\n\n")
-                if specs_text:
-                    f.write(f"مشخصات فنی:\n{specs_text}\n")
-                if desc_clean:
-                    f.write(f"توضیحات کامل:\n{desc_clean}\n\n")
+        if SAVE_TXT and txt_file_handle:
+            txt_file_handle.write(f"{'='*80}\n")
+            txt_file_handle.write(f"محصول #{product_counter + 1}\n")
+            txt_file_handle.write(f"{'='*80}\n\n")
+            txt_file_handle.write(f"URL: {product_url}\n\n")
+            txt_file_handle.write(f"عنوان:\n{title}\n\n")
+            if price:
+                txt_file_handle.write(f"قیمت:\n{price}\n\n")
+            if short_desc:
+                txt_file_handle.write(f"توضیحات کوتاه:\n{short_desc}\n\n")
+            if specs_text:
+                txt_file_handle.write(f"مشخصات فنی:\n{specs_text}\n")
+            if desc_clean:
+                txt_file_handle.write(f"توضیحات کامل:\n{desc_clean}\n\n")
+            txt_file_handle.write(f"\n{'='*80}\n\n")
         
         if SAVE_JSONL:
             combined_text = f"عنوان: {title or ''}"
@@ -248,6 +277,7 @@ async def scrape():
             if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
                 log_message("⛔ پایان — محدودیت تست رسید.")
                 break   
+            
             def absolute(url: str) -> str:
                 if not url:
                     return ""
@@ -301,19 +331,49 @@ async def scrape():
                     if href:
                         product_urls.append(absolute(href))
 
-
                 log_message(f"      🟡 تعداد محصولات پیدا شده: {len(product_urls)}")
 
                 if LIMIT_CATEGORY_ITEMS:
                     product_urls = product_urls[:LIMIT_CATEGORY_ITEMS]
                     log_message(f"      🟡 محدود شده به: {len(product_urls)} محصول")
 
-                for url in product_urls:
-                    if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
-                        break
+                # ایجاد فولدر با نام انگلیسی - فقط یک پوشه
+                if SAVE_TXT:
+                    english_subcategory = get_english_folder_name(sc_name)
+                    
+                    folder = os.path.join(
+                        script_dir,
+                        OUTPUT_DIR, 
+                        english_subcategory
+                    )
+                    os.makedirs(folder, exist_ok=True)
+                    
+                    # یک فایل برای همه محصولات این زیرزیردسته
+                    txt_filename = "products.txt"
+                    txt_filepath = os.path.join(folder, txt_filename)
+                    
+                    with open(txt_filepath, "a", encoding="utf-8") as txt_file:
+                        txt_file.write(f"{'='*80}\n")
+                        txt_file.write(f"دسته‌بندی: {sub_name}\n")
+                        txt_file.write(f"زیردسته: {sc_name}\n")
+                        txt_file.write(f"{'='*80}\n\n")
+                        txt_file.flush()
+                        
+                        for url in product_urls:
+                            if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
+                                break
 
-                    await scrape_product(page, url, sub_name, sc_name)
-                    await human_wait()
+                            await scrape_product(page, url, sub_name, sc_name, txt_file)
+                            txt_file.flush()
+                            await human_wait()
+                else:
+                    # اگر SAVE_TXT غیرفعال باشد
+                    for url in product_urls:
+                        if LIMIT_PRODUCTS and product_counter >= LIMIT_PRODUCTS:
+                            break
+
+                        await scrape_product(page, url, sub_name, sc_name, None)
+                        await human_wait()
 
         await browser.close()
         
@@ -322,6 +382,7 @@ async def scrape():
         log_message("\n" + "=" * 60)
         log_message("🎉 اسکرپ به پایان رسید")
         log_message(f"📊 تعداد کل محصولات ذخیره شده: {product_counter}")
+        log_message(f"🔍 تعداد URLهای یکتا: {len(scraped_urls)}")
         log_message(f"⏱️ مدت زمان: {duration}")
         if SAVE_TXT:
             log_message(f"📁 محل ذخیره TXT: {os.path.abspath(full_output_dir)}")
