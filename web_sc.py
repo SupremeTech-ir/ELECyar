@@ -26,14 +26,14 @@ def clean_html(html_text: str) -> str:
     return text.strip()
 
 LIMIT_SUBCATEGORIES = None
-LIMIT_CATEGORY_ITEMS = None
+LIMIT_CATEGORY_ITEMS = 20
 LIMIT_PRODUCTS = 2500
 SAVE_TXT = True
 SAVE_JSONL = True
 
 BASE_URL = "https://eshop.eca.ir"
-OUTPUT_DIR = "eca_products"
-JSONL_FILENAME = "products_dataset.jsonl"
+OUTPUT_DIR = "eca_products_short"
+JSONL_FILENAME = "products_dataset_short.jsonl"
 MIN_DELAY = 2
 MAX_DELAY = 4
 TIMEOUT = 120000
@@ -333,4 +333,5 @@ async def scrape():
 
 if __name__ == "__main__":
     asyncio.run(scrape())
+
 
