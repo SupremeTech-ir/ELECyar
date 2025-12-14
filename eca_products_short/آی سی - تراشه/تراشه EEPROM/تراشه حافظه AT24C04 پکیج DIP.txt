@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1067-تراشه-حافظه-at24c04-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C04 پکیج DIP
+
+قیمت:
+63,900
+
+توضیحات کوتاه:
+تراشه حافظه EEPROM پارت نامبر AT24C04 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: EEPROM 
+Interface Type: 2-Wire, I2C 
+Memory Size: 4 kbit 
+Organization: 512 x 8 
+Supply Voltage - Min: 1.8 V 
+Supply Voltage - Max: 2.7 V 
+Brand: Microchip Technology / Atmel 
+Operating Supply Voltage: 1.8 V, 2.7 V 
+Product Type: EEPROM 
+Subcategory: Memory & Data Storage
+

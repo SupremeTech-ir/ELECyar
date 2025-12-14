@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/3205-تراشه-ساعت-تقویم-pcf8583p-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ساعت - تقویم PCF8583P پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی ساعت تقویم دقیق PCF8583P
+
+توضیحات کامل:
+Specification
+
+Product Category: Real Time Clock
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: DIP-8
+RTC Bus Interface: Serial, 2-Wire, I2C
+Date Format: YY-MM-DD
+Time Format: HH:MM:SS:hh (12 hr, 24 hr)
+Battery Backup Switching: No Backup Switching
+RTC Memory Size: 240 B
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 1 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Function: Alarm, Calendar, Clock, Interrupt, SQW, Timer
+Brand: NXP Semiconductors Product Type: Real Time Clocks
+

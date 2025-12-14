@@ -1,0 +1,79 @@
+URL: https://eshop.eca.ir/stm/3603-میکروکنترلر-stm32f107vct6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F107VCT6
+
+قیمت:
+3,290,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F107VCT6 با هسته ARM Cortex M3 با حافظه 256KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F107VCT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F107VCT6 دارای 80 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F107VCT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F107VC
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 256 کیلو بایت
+دارای 10 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 80
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+STM32F107VC
+Mainstream Connectivity line, ARM Cortex-M3 MCU with 256 Kbytes Flash, 72 MHz CPU, Ethernet MAC, CAN and USB 2.0 OTG
+
+    Core: ARM 32-bit Cortex™-M3 CPU
+    72 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+    Single-cycle multiplication and hardware division
+    Memories
+    64 to 256 Kbytes of Flash memory
+    64 Kbytes of general-purpose SRAM
+    Clock, reset and supply management
+    2.0 to 3.6 V application supply and I/Os
+    POR, PDR, and programmable voltage detector (PVD)
+    3-to-25 MHz crystal oscillator
+    Internal 8 MHz factory-trimmed RC
+    Internal 40 kHz RC with calibration
+    32 kHz oscillator for RTC with calibration
+    Low power
+    Sleep, Stop and Standby modes
+    VBAT supply for RTC and backup registers
+    2 × 12-bit, 1 μs A/D converters (16 channels)
+    Conversion range: 0 to 3.6 V
+    Sample and hold capability
+    Temperature sensor
+    up to 2 MSPS in interleaved mode
+    2 × 12-bit D/A converters
+    DMA: 12-channel DMA controller
+    Supported peripherals: timers, ADCs, DAC, I2Ss, SPIs, I2Cs and USARTs
+    Debug mode
+    Serial wire debug (SWD) & JTAG interfaces
+    Cortex-M3 Embedded Trace Macrocell™
+    Up to 80 fast I/O ports
+    51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+    CRC calculation unit, 96-bit unique ID
+    Up to 10 timers with pinout remap capability
+    Up to four 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+    1 × 16-bit motor control PWM timer with dead-time generation and emergency stop
+    2 × watchdog timers (Independent and Window)
+    SysTick timer: a 24-bit downcounter
+    2 × 16-bit basic timers to drive the DAC
+    Up to 14 communication interfaces with pinout remap capability
+    Up to 2 × I2C interfaces (SMBus/PMBus)
+    Up to 5 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+    Up to 3 SPIs (18 Mbit/s), 2 with a multiplexed I2S interface that offers audio class accuracy via advanced PLL schemes
+    2 × CAN interfaces (2.0B Active) with 512 bytes of dedicated SRAM
+    USB 2.0 full-speed device/host/OTG controller with on-chip PHY that supports HNP/SRP/ID with 1.25 Kbytes of dedicated SRAM
+    10/100 Ethernet MAC with dedicated DMA and SRAM (4 Kbytes): IEEE1588 hardware support, MII/RMII available on all packages
+

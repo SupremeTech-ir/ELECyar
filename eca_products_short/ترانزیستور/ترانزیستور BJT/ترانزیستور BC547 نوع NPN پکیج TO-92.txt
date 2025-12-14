@@ -1,0 +1,67 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/560-ترانزیستور-bc547-نوع-npn-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور BC547 نوع NPN پکیج TO-92
+
+قیمت:
+5,760
+
+توضیحات کوتاه:
+ترانزیستور BJT نوع NPN مدل BC547 پکیج TO-92
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستورBC547، یک ترانزیستور BJT از نوع NPN که دارای مقدار بهره 110 تا 800 است، هنگامی که این ترانزیستور به طور کامل بایاس شود، می‌تواند حداکثر جریان 100 میلی آمپر در کلکتور و امیتر برقرار شود. علاوه بر آن ولتاژ در کل کلکتور-امیتر (VCE) یا Base-Emitter (VBE) می تواند به ترتیب 200 و 900 میلی ولت باشد. هنگامی که جریان بیس حذف می شود، ترانزیستور کاملاً خاموش می شود، این مرحله به عنوان منطقه قطع نیز نامیده می‌شود و ولتاژ امیتر پایه می‌تواند حدود 660 میلی ولت باشد.
+
+مشخصات
+
+پیکربندی ترانزیستور : NPN
+نوع ترانزیستور : BJTs - Bipolar
+جریان کلکتور-امیتر (Iceo) : 100 میلی آمپر
+حداکثر ولتاژ کلکتور-امیتر(Vceo) : 45 ولت DC
+حداکثر ولتاژ کلکتور-بیس (Vcbo) : 50 ولت DC 
+فرکانس کاری  : 300 مگاهرتز
+ضریب تقویت جریان - بهره (hFE): حداقل 110 و حداکثر 800 (متناسب با شرایط)
+حداقل و حداکثر دمای : 65-  الی 150+ درجه سانتی گراد
+پکیج : TO-92
+
+کاربرد 
+
+تقویت کننده سیگنال
+کلید الکترونیکی
+مبدل سیگنال
+تقویت کننده‌های آمپلی‌فایر
+مدارهای تایمر
+مدارهای تشدید و غیره 
+
+ترتیب پایه ها
+
+پایه Base: این پایه به عنوان پایه کنترلی برای جریان بین کلکتور(Collector) و امیتر(Emitter) استفاده می‌شود.
+پایه Collector: این پایه به عنوان پایه جمع کننده جریان از بین پایه بیس(Base) و امیتر(Emitter) استفاده می‌شود.
+پایه Emitter: این پایه به عنوان پایه خروجی جریان از ترانزیستور عمل می‌کند.
+
+Specification 
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole 
+Package / Case: TO-92-3 
+Transistor Polarity: NPN
+Subcategory: Transistors 
+Technology: Si  
+Collector- Emitter Voltage VCEO Max: 45 V 
+Collector- Base Voltage VCBO: 50 V 
+Emitter- Base Voltage VEBO: 6 V 
+Collector-Emitter Saturation Voltage: 250 mV 
+Maximum DC Collector Current: 100 mA 
+Pd - Power Dissipation: 500 mW 
+Gain Bandwidth Product fT: 300 MHz 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+Brand: onsemi / Fairchild 
+Continuous Collector Current: 0.1 A
+Product Type: BJTs - Bipolar Transistors
+

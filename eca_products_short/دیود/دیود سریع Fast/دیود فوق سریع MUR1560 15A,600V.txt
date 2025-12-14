@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/14387-دیود-فوق-سریع-mur1560-15a600v.html
+================================================================================
+
+عنوان:
+دیود فوق سریع MUR1560 15A,600V
+
+قیمت:
+159,000
+
+توضیحات کوتاه:
+Rectifiers 600V 15A UltraFast
+
+توضیحات کامل:
+Specification
+
+Manufacturer: ON Semiconductor 
+Product Category: Rectifiers 
+RoHS: N 
+Mounting Style: Through Hole 
+Package/Case: TO-220-2 
+Vr - Reverse Voltage: 600 V 
+If - Forward Current: 15 A 
+Type: Fast Recovery Rectifiers 
+Configuration: Single 
+Vf - Forward Voltage: 1.5 V 
+Max Surge Current: 150 A 
+Ir - Reverse Current: 10 uA 
+Recovery Time: 60 ns 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 175 C 
+Packaging: Tube 
+Height: 9.19 mm (Max) 
+Length: 10.36 mm (Max) 
+Product: Rectifiers 
+Termination Style: Through Hole 
+Width: 4.9 mm (Max) 
+Brand: ON Semiconductor 
+Product Type: Rectifiers 
+Factory Pack Quantity: 50 
+Subcategory: Diodes & Rectifiers
+

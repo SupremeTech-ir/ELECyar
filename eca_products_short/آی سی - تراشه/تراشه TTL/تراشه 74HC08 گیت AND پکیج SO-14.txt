@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/تراشه-ttl/3463-تراشه-74hc08-گیت-and-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه 74HC08 گیت AND پکیج SO-14
+
+قیمت:
+75,500
+
+توضیحات کوتاه:
+آی سی منطقی 74HC08 شامل 4 گیت AND پکیج SO14
+
+توضیحات کامل:
+Specification
+Supply voltage: 2V to 6V
+Input voltage: 0V to VCC
+Maximum clock frequency: 50 MHz
+Contains four independent 2-input AND gates
+Schmitt-trigger inputs provide hysteresis to improve noise immunity
+Outputs are buffered and can drive up to 10 TTL loads
+Power dissipation: 500 mW
+Operating temperature range: -40°C to 125°C
+

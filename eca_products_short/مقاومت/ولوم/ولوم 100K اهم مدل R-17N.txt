@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/ولوم/23002-ولوم-100k-اهم-مدل-r-17n.html
+================================================================================
+
+عنوان:
+ولوم 100K اهم مدل R-17N
+
+قیمت:
+104,000
+
+توضیحات کوتاه:
+ولوم 100K اهم مدل TP R-17N-100K
+
+توضیحات کامل:
+Specification
+
+model : R17N
+Nominal Total Resistance : 100 kΩ
+Total Resistance Tolerance : Within ±10％ of the nominal total resistance
+Insulation Resistance : 100MΩ at DC500V
+Dielectric Strength : AC500V for 1 minute
+Total Rotational Angle : 260±5°
+Rotational Torque : 2 to 20 mN・m
+Mounting style : panel mount type
+Operating Temperature Range : -10 to 85℃
+Rated Power : 0.1W - 0.05W 
+Maximum Operating Voltage in AC mode : 200V - 160V 
+Maximum Operating Voltage in DC mode : 30V - 50V
+

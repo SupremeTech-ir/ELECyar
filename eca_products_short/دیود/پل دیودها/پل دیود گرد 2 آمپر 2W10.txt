@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/پل-دیودها/1367-پل-دیود-گرد-2-آمپر-2w10.html
+================================================================================
+
+عنوان:
+پل دیود گرد 2 آمپر 2W10
+
+قیمت:
+60,300
+
+توضیحات کوتاه:
+پل دیود گرد 2 آمپر مدل 2W10
+
+توضیحات کامل:
+Specification 
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge 
+Mounting Style: Through Hole 
+Termination Style: Solder Lead 
+Package / Case: WOG-4 
+Peak Reverse Voltage: 1 kV 
+Vf - Forward Voltage: 1.1 V 
+Max Surge Current: 60 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Brand: Vishay General Semiconductor 
+Ir - Reverse Current: 5 uA 
+Product Type: Bridge Rectifiers Subcategory: Diodes & Rectifiers 
+Vr - Reverse Voltage: 700 V
+

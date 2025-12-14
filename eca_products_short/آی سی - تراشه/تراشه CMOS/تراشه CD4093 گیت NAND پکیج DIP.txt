@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-cmos/436-تراشه-cd4093-گیت-nand-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه CD4093 گیت NAND پکیج DIP
+
+قیمت:
+89,300
+
+توضیحات کوتاه:
+4093 شامل 4 گیت NAND از نوع دو ورودی و اشمیت تریگری و با تکنولوژِی MOS می باشد.
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Logic Gates 
+RoHS: Details 
+Product: Single-Function Gate 
+Logic Function: NAND 
+Logic Family: CD4000 
+Number of Gates: 4 Gate 
+Number of Input Lines: 2 Input 
+Number of Output Lines: 1 Output 
+High Level Output Current: - 1.5 mA 
+Low Level Output Current: 1.5 mA 
+Propagation Delay Time: 380 ns 
+Supply Voltage - Max: 18 V 
+Supply Voltage - Min: 3 V 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 125 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-14 
+Packaging: Tube 
+Function: NAND 
+Height: 4.57 mm 
+Input Type: Schmitt Trigger 
+Length: 19.3 mm 
+Operating Temperature Range: - 55 C to + 125 C 
+Output Type: CMOS 
+Quiescent Current: 40 nA 
+Series: CD4093B 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Logic Type: CMOS 
+Number of Bits: 4 bit 
+Operating Supply Current: 60 uA 
+Operating Supply Voltage: 10 V
+

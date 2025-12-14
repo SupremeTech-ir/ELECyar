@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/رله-حالت-جامد-ssr/12916-رله-حالت-جامد-ssr-مرغوب-250vac-15a-کد-pas-2115d.html
+================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 250VAC-15A کد PAS-2115D
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 5-24DC; VOL-RTG 24-240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد
+
+Specification
+
+     Part Number     PAS-2115D     
+    Control Voltage     3-32 VDC     
+    Current Rating     5 A     
+    Dielectric Strength     2500 VAC @ 50 Hz⁄60 Hz for 1 Minute     
+    Dimensions     58mm L x 43mm W x 27mm H     
+    Function     General Purpose     
+    Input Impedance     36.72 Kiloohms     
+    Maximum Ambient Temperature     80 °C     
+    Minimum Ambient Temperature     -30 °C     
+    Number of Pins     4 Pin     
+    Primary Type     Solid State Relays     
+    Relay Type     Solid State     
+    Series     G3NA Series     
+    Standards     UL ; CSA ; CE ; VDE     
+    Surge Current     15 A (60 Hz, 1 Cycle)     
+    Voltage Rating     240 VAC
+

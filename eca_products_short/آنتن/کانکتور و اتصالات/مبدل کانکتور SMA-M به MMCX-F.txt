@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/کانکتور-و-اتصالات/15255-مبدل-کانکتور-sma-m-به-mmcx-f.html
+================================================================================
+
+عنوان:
+مبدل کانکتور SMA-M به MMCX-F
+
+قیمت:
+1,030,000
+
+توضیحات کوتاه:
+کانکتور آنتن مبدل فیش SMA-M به MMCX-F  (SMA/MMCX-JK)
+
+توضیحات کامل:
+Feature
+
+Connection 1: SMA Male
+Connection 2: MMCX Female
+Color: Gold
+Characteristic Impedance: 50Ω
+Frequency Range: DC~18GHz
+Temperature Range: -65℃ ~ +165℃
+Housing material: Metal
+Gold Plated: Yes
+Power: 2W
+

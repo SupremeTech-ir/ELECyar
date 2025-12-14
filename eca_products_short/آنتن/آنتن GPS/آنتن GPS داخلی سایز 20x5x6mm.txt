@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/آنتن-gps/15865-آنتن-gps-داخلی-سایز-20x5x6mm.html
+================================================================================
+
+عنوان:
+آنتن GPS داخلی سایز 20x5x6mm
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آنتن جی پی اس داخلی سایز کوچک با کانکتور IPEX/IPX/UFL
+
+توضیحات کامل:
+مشخصات
+فرکانس کاری: 1575.42 مگاهرتز
+پهانی باند: 8 مگاهرتز
+بهره: -3.5 دسی بل
+امپدانس آنتن: 50 اهم
+کانکتور: IPEX/IPX/UFL
+
+Specification
+Frequency Range: 1575.42MHz±2MHz
+
+V.S.W.R: 2.0 MAX
+
+Band With@10dB: 8MHz MIN
+
+Gain: -3.5 dB typ @20mm*6mm groundplane
+
+Impendence: 50Ω
+
+Polarization: Linear
+

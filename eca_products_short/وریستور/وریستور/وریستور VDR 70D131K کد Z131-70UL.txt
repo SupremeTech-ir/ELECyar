@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/24529-وریستور-vdr-70d131k-کد-z131-70ul.html
+================================================================================
+
+عنوان:
+وریستور VDR 70D131K کد Z131-70UL
+
+قیمت:
+164,000
+
+توضیحات کوتاه:
+وریستور 130 ولت با تلرانس 10 درصد کد Z131-20UL
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Diameter : 20mm     
+Termination Style: Radial 
+Voltage Rating AC: 130 VAC 
+Voltage Rating DC: 175 VDC 
+Varistor Voltage: 224 V 
+Clamping Voltage: 340 V
+Peak Surge Current: 9 kA 
+Surge Energy Rating: 130
+Capacitance: 1571pF @1kHz
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Subcategory: Varistors
+

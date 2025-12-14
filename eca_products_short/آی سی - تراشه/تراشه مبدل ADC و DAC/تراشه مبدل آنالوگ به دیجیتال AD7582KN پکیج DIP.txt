@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/14279-تراشه-مبدل-آنالوگ-به-دیجیتال-ad7582kn-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال AD7582KN پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال 4 کاناله 12 بیتی AD7582KN پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Analog Devices Inc.     
+Product Category: Analog to Digital Converters - ADC     
+Series: AD7582     
+Mounting Style: Through Hole     
+Package / Case: PDIP-28     
+Resolution: 12 bit     
+Number of Channels: 4 Channel     
+Interface Type:  Parallel     
+Sampling Rate: 10 kS/s     
+Input Type: Single-Ended     
+Architecture: SAR     
+Minimum Operating Temperature: - 55 C     
+Maximum Operating Temperature: + 125 C     
+Input Voltage: 5 V     
+Number of Converters: 1 Converter     
+Output Type:  TTL     
+Power Consumption: 75 mW     
+Brand: Analog Devices     
+Reference Type: External     
+DNL - Differential Nonlinearity: +/- 1 LSB     
+Gain Error: +/- 0.25 LSB     
+Number of ADC Inputs:  4 Input     
+Operating Supply Voltage: 5 V, 15 V     
+Pd - Power Dissipation: 155 mW     
+Product Type: ADCs - Analog to Digital Converters
+

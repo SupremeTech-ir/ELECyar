@@ -1,0 +1,57 @@
+URL: https://eshop.eca.ir/ترانس-چوک-فریت-هسته/26555-ترانس-لاین-فیلتر-emi-کوچک-1-آمپر-مدل-11-uu95-10mh.html
+================================================================================
+
+عنوان:
+ترانس لاین فیلتر EMI کوچک 1 آمپر مدل 1:1-UU9.5-10mH
+
+قیمت:
+99,800
+
+توضیحات کوتاه:
+چوک حالت مشترک لاین‌فیلتر EMI با نسبت 1:1 مدل UU10.5-10mH، مناسب حذف نویز خطوط تغذیه و افزایش پایداری مناسب برای آداپتورها، منابع تغذیه سوئیچینگ و مدارهای حساس.
+
+توضیحات کامل:
+ترانس لاین فیلتر EMI یا Common Mode Choke یکی از بخش‌های اساسی در طراحی منابع تغذیه سوئیچینگ است و وظیفه حذف نویزهای حالت مشترک و جلوگیری از انتقال تداخلات الکترومغناطیسی به مدار را برعهده دارد.این مدل با هسته UU9.5، اندوکتانس 10mH و جریان‌دهی 1 آمپر مناسب مدارهای سبک و فضاهای محدود طراحی شده است. در مقایسه با مدل بزرگ 2 آمپر (1:1-UU10.5-10mH)، این محصول ابعاد کوچک‌تری دارد و برای کاربردهایی که جریان پایین نیاز دارند انتخاب بهینه‌تری است.این ترانس لاین فیلتر از پرمصرف‌ترین قطعات در پاورهای سوئیچینگ کوچک، آداپتورها، شارژرها و دستگاه‌های IoT است و نقش مهمی در افزایش پایداری و کاهش تداخل نویزی سیستم دارد.
+
+مشخصات
+
+نوع قطعه: ترانس لاین فیلتر EMI حالت مشترک (Common Mode Choke)
+مدل هسته: UU9.5
+اندوکتانس: 10mH
+جریان قابل تحمل: حدود 1A
+نوع پایه: 4 پایه DIP
+کاربری: فیلتر EMI – حذف نویز حالت مشترک
+مناسب ورودی AC و DC
+ابعاد طبق تصویر درج شده
+
+ویژگی‌ها
+
+فیلتر مؤثر نویزهای EMI/RFI و افزایش پایداری مدار
+بسیار پرمصرف در منابع تغذیه سوئیچینگ کم‌مصرف
+ابعاد کوچک و مناسب برای طراحی‌های فشرده
+کاهش تداخل الکترومغناطیسی بین دستگاه‌ها
+عملکرد پایدار در آداپتورها، شارژرها و بردهای الکترونیکی کوچک
+مدل کوچک‌تر و کم‌جریان‌تر نسبت به ترانس EMI بزرگ 2 آمپر مدل 1:1-UU10.5-10mH
+
+کاربردهای رایج
+
+این قطعه برای فیلتر کردن نویز داخلی و خارجی در منابع تغذیه بسیار ضروری است و باعث افزایش عمر و پایداری دستگاه می‌شود. در تجهیزات حساس مانند شارژرها، آداپتورها و پاور سوئیچینگ استفاده می‌شود تا خطاهای ناشی از نویز و تداخل کاهش یابد.
+
+پاورهای سوئیچینگ کوچک (Mini SMPS)
+آداپتورهای کم‌جریان
+شارژرهای دیواری
+فیلتر EMI در بردهای الکترونیکی سبک
+تجهیزات IoT و دستگاه‌های هوشمند
+حذف نویز خطوط تغذیه در مدارهای حساس کوچک
+
+The choke or common mode filter transformer is an important component in filtering electromagnetic noise from the input and output lines of electronic boards. This transformer, with two coaxial coils, eliminates common mode noise and prevents the transmission of EMI/RFI interference to the circuit. This model with a UU10.5 core and a value of 10mH is suitable for use in switching power supplies, adapters, chargers and industrial equipment, and increases stability, reduces circuit temperature and prevents disruption to the operation of other devices.
+
+Specifications
+
+Component type: Common Mode Choke
+Core structure: UU10.5
+Inductance: about 10mH
+Number of pins: 4 DIP pins
+EMI filter - common mode noise elimination
+Suitable for industrial products and switching power supplies
+

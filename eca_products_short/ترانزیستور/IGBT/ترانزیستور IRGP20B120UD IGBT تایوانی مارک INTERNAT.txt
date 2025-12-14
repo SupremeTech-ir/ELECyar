@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/igbt/24013-ترانزیستور-irgp20b120ud-igbt-تایوانی-مارک-international-rectifier-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور IRGP20B120UD IGBT تایوانی مارک INTERNATIONAL RECTIFIER پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 20 آمپر مدل GP20B120 پکیج TO-247 تایوانی INTERNATIONAL RECTIFIER
+
+توضیحات کامل:
+Specification
+
+Type Designator: IRGP20B120UD-E
+Type: IGBT + Anti-Parallel Diode
+Type of IGBT Channel: N
+Maximum Power Dissipation (Pc), W: 300
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 3.05
+Maximum G-E Threshold Voltag |VGE(th)|, V: 6
+Maximum Junction Temperature (Tj), ℃: 150
+Rise Time (tr), typ, nS: 20
+Collector Capacity (Cc), typ, pF: 210
+Total Gate Charge (Qg), typ, nC: 169
+Package: TO247
+

@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/4262-ترانزیستور-bc337-نوع-npn-پکیج-sot-23.html
+================================================================================
+
+عنوان:
+ترانزیستور BC337 نوع NPN پکیج SOT-23
+
+قیمت:
+4,370
+
+توضیحات کوتاه:
+ترانزیستور BC337 نوع NPN پکیج SMD SOT-23 ولتاژ45V جریان 500mA
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Type: BJTs - Bipolar Transistors 
+Product Category: Bipolar Transistors - BJT 
+Mounting Style: SMD/SMT 
+Transistor Polarity: NPN 
+Collector- Emitter Voltage VCEO Max: 45 V 
+Collector- Base Voltage VCBO: 50 V 
+Emitter- Base Voltage VEBO: 5 V 
+Maximum DC Collector Current: 0.5 A 
+Gain Bandwidth Product fT: 100 MHz 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+DC Current Gain hFE Max: 100 at 100 mA, 1 V
+Pd - Power Dissipation: 625 mW
+

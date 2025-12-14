@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/igbt/9328-ماژول-تریستور-قدرت-irkt13612.html
+================================================================================
+
+عنوان:
+ماژول تریستور قدرت IRKT136/12
+
+قیمت:
+0
+
+توضیحات کوتاه:
+SCR Modules 1200V 135A Doubler Circuit Positive Phase Control Thyristor/Thyristor INT-A-Pak
+
+توضیحات کامل:
+این ماژول تریستور ایتالیایی اصل بوده ولی کارکرده است. کیفیت و عملکرد تست شده و مطمئن می باشد. قیمت کم به دلیل تعداد بالای موجودی می باشد.
+
+Description:
+
+Product Category: SCR Modules
+On-State RMS Current - It RMS: 300 A
+Non Repetitive On-State Current: 3200 A
+Rated Repetitive Off-State Voltage VDRM: 1.2 kV
+Off-State Leakage Current @ VDRM IDRM: 50 mA
+On-State Voltage: 1.55 V
+Holding Current Ih Max: 200 mA
+Gate Trigger Voltage - Vgt: 2.5 V
+Gate Trigger Current - Igt: 150 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Chassis
+Package / Case: INT-A-PAK
+Packaging: Bulk
+Breakover Current IBO Max: 3360 A 
+Current Rating: 135 A
+Product: SCR Modules
+Circuit Type: Thyristors / Thyristors
+

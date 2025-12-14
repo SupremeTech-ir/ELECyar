@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/دیود-tvs/20437-دیود-tvs-unidirect-پکیج-smb-کد-smbj18a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ18A
+
+قیمت:
+16,000
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 18 ولت 600 وات SMBJ18A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay 
+Product Category: ESD Suppressors / TVS Diodes 
+Product Type: TVS Diodes 
+Polarity: Unidirectional 
+Working Voltage: 18 V 
+Number of Channels: 1 Channel 
+Termination Style: SMD/SMT 
+Package / Case: DO-214AA-2 
+Breakdown Voltage: 20 V 
+Clamping Voltage: 29.2 V 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Vesd - Voltage ESD Contact: - 
+Vesd - Voltage ESD Air Gap: - 
+Cd - Diode Capacitance:- 
+Ipp - Peak Pulse Current: 20.5 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

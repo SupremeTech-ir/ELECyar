@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/led-smd/3983-smd-led-پکیج-2835-قرمز.html
+================================================================================
+
+عنوان:
+SMD LED پکیج 2835 قرمز
+
+قیمت:
+3,900
+
+مشخصات فنی:
+پکیج LED: 2835
+
+توضیحات کامل:
+Description
+
+Dimensions     2.8mm×3.5mm×0.5mm
+Luminous Color     RED
+Dominant Wavelength     620nm-625nm
+Forward Voltage  2.2V-2.4V
+Power: 0.2W
+

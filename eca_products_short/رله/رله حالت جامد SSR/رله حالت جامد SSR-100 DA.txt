@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/رله-حالت-جامد-ssr/23589-رله-حالت-جامد-ssr-100-da.html
+================================================================================
+
+عنوان:
+رله حالت جامد SSR-100 DA
+
+قیمت:
+8,490,000
+
+توضیحات کوتاه:
+رله حالت جامد SSR-100DA با محدوده ولتاژ کنترل 3 الی 32 ولت DC و حداکثر جریان 100 آمپر 
+
+توضیحات کامل:
+رله حالت جامد (SSR) در واقع یک عنصر الکترونیک نیمه هادی است که عملکردی مشابه رله‌های الکترومکانیکی دارد، با این تفاوت که در مقایسه با رله‌های الکترومکانیکی، سرعت بالاتری دارد. این رله‌ها از کلیدهای نیمه هادی و دیود به جای کنتاکت‌های متحرک و مکانیکی استفاده می‌کنند. به عبارت دیگر، SSR برای سوئیچینگ (روشن و خاموش کردن) مدارات الکتریکی استفاده می‌شود. از آن‌ها در صنایع مختلف مانند خودروسازی، الکترونیک صنعتی، تجهیزات پزشکی،چاپ و بسته‌بندی، وسایل خانگی و بسیاری دیگر استفاده می‌شود.
+
+مشخصات
+
+مدل : SSR-100DA
+محدوده ولتاژ کنترل: 3 الی 32 ولت DC
+محدوده ولتاژ بار : 24 الی 380 ولت AC
+حداکثر جریان 100 آمپر 
+جریان تریگر : 1 ولت آمپر
+جریان نشتی : 2mA
+زمان پاسخگویی : 10 میلی ثانیه در 60 هرتز
+دمای کاری : 30- الی 75+ درجه سانتی گراد
+رطوبت کاری : 35 الی 85 درصد
+جنس بدنه : عایق پلاستیکی ABS با استحکام بالا
+وزن : 95 گرم
+ابعاد : 45*23.5*62 میلی متر
+
+Introduction
+
+This is SSR-100DA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+
+Specifications
+
+Model: SSR-100DA
+Input voltage range: 3 to 32 volts DC
+Load voltage range: 24 to 380 volts AC
+Maximum current 100 amps
+Trigger current: 1 volt ampere
+Leakage current: 2mA
+Response time: 10 milliseconds at 60 Hz
+Working temperature: -30 to +75 degrees Celsius
+Working humidity: 35 to 85%
+Body material: ABS plastic insulation with high strength
+Weight: 95 grams
+Dimensions: 45 x 23.5 x 62 mm
+

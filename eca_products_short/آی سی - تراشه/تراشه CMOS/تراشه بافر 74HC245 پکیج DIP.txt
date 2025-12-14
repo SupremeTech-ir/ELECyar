@@ -1,0 +1,45 @@
+URL: https://eshop.eca.ir/تراشه-cmos/442-تراشه-بافر-74hc245-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HC245 پکیج DIP
+
+قیمت:
+324,000
+
+توضیحات کوتاه:
+تراشه CMOS مدل 74HC245 بافر دو جهته اطلاعات 8 بیتی مناسب پیاده‌سازی باس‌های مشترک 
+
+توضیحات کامل:
+Specification
+
+Product Category: Bus Transceivers 
+Logic Family: HC 
+Input Level: CMOS 
+Output Level: CMOS 
+Output Type: 3-State 
+High Level Output Current: - 6 mA 
+Low Level Output Current: 6 mA 
+Propagation Delay Time: 22 ns 
+Supply Voltage - Max: 6 V 
+Supply Voltage - Min: 2 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Package / Case: PDIP-20 
+Packaging: Tube 
+Function: Tri-State Octal Bus 
+Height: 4.57 mm 
+Length: 24.33 mm 
+Number of Circuits: 8 
+Product: Standard Transceiver 
+Series: SN74HC245 
+Technology: CMOS 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Mounting Style: Through Hole 
+Number of Channels: 8 
+Supply Current - Max: 8 uA 
+Operating Supply Voltage: 2 V to 6 V 
+Polarity: Non-Inverting 
+Product Type: Bus Transceivers
+

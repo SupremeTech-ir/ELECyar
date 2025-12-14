@@ -1,0 +1,72 @@
+URL: https://eshop.eca.ir/atmel/4576-میکروکنترلر-attiny261-20su-پکیج-soic-20.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATTINY261-20SU پکیج SOIC-20
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY261-20SU با هسته 8 بیتی AVR (پکیج SOIC-20) با حافظه 2KB، فرکانس کاری 20MHz و 20 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY261-20SU دارای هسته پردازنده 8 بیتی AVR (پکیج SOIC-20) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 2 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY261-20SU دارای پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. همچنین این میکروکنترلر دارای ولتاژ کاری 2.7 تا 5.5 ولت می باشد.
+
+مشخصات
+
+سازنده : Microchip 
+سری : ATtinyx61
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 2 kB
+پکیج : SOIC-20
+تعداد پین ها  : 20
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The high-performance Atmel 8-bit AVR RISC-based microcontroller combines 2KB ISP flash memory, 128B EEPROM, 128B SRAM, 16 general purpose I/O lines, 32 general purpose working registers, debugWIRE for on-chip debugging, an 8-bit timer/counter with compare modes, an 8-bit high speed timer/counter with PWM and separate prescaler, universal serial interface (USI), internal and external interrupts, an 11-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator, and four software selectable power saving modes. The device operates between 2.7-5.5 volts.
+By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processor speed.
+
+Specification
+
+Manufacturer: Microchip 
+Product Category: 8-bit Microcontrollers - MCU 
+Series: ATtinyx61 
+Mounting Style: SMD/SMT 
+Package / Case: SOIC-20 
+Core:AVR 
+Program Memory Size: 2 kB 
+Data Bus Width: 8 bit 
+ADC Resolution: 10 bit 
+Maximum Clock Frequency: 20 MHz 
+Number of I/Os: 16 I/O 
+Data RAM Size: 128 B 
+Supply Voltage - Min: 2.7 V 
+Supply Voltage - Max: 5.5 V 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 125 C 
+Brand: Microchip Technology 
+Data RAM Type: SRAM 
+Data ROM Size: 128 B 
+Data ROM Type: EEPROM 
+Height: 2.35 mm 
+Interface Type: SPI, USI 
+Length: 13 mm 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 11 Channel 
+Number of Timers/Counters: 3 Timer 
+Operating Supply Voltage: 2.7 V to 5.5 V 
+Processor Series: TinyAVR 
+Product: MCU 
+Product Type: 8-bit Microcontrollers - MCU 
+Program Memory Type: Flash 
+Subcategory: Microcontrollers - MCU 
+Tradename: AVR 
+Width:7.6 mm
+

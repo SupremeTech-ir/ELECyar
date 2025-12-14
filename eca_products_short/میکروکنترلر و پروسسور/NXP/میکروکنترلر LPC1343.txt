@@ -1,0 +1,61 @@
+URL: https://eshop.eca.ir/nxp/1174-میکروکنترلر-lpc1343.html
+================================================================================
+
+عنوان:
+میکروکنترلر LPC1343
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر LPC1343 با هسته ARM Cortex M3 با حافظه 32KB و فرکانس کاری 72MHz ساخت شرکت NXP می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر LPC1343 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت NXP ساخته شده است است و با فرکانس 72مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر LPC1343 دارای 42 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر LPC1343 دارای ولتاژ کاری 3.3 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : NXP
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 3.3 ولت 
+سرعت: 72 Mhz
+حافظه: 32 kB
+پکیج : LQFP-48
+تعداد پین ها ورودی/خروجی : 42
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Product Category:     ARM Microcontrollers - MCU     
+Manufacturer:     NXP     
+RoHS:     RoHS Compliant Details     
+Mounting Style:     SMD/SMT     
+Package / Case:     LQFP-48     
+Core:     ARM Cortex M3     
+Data Bus Width:     32 bit     
+Maximum Clock Frequency:     72 MHz     
+Program Memory Size:     32 kB     
+Data RAM Size:     8 kB     
+ADC Resolution:     10 bit     
+Operating Supply Voltage:     3.3 V     
+Maximum Operating Temperature:     + 85 C     
+Processor Series:     LPC13     
+Packaging:     Tray     
+Analog Supply Voltage:     3.3 V     
+Brand:     NXP Semiconductors     
+Data RAM Type:     SRAM     
+I/O Voltage:     3.3 V     
+Interface Type:     I2C, UART     
+Minimum Operating Temperature:     - 40 C     
+Number of I/Os:     42 I/O     
+Number of Timers/Counters:     4 Timer     
+Program Memory Type:     Flash     
+Factory Pack Quantity:     250     
+Tradename:     LPC     
+Unit Weight:     0.006580 oz
+

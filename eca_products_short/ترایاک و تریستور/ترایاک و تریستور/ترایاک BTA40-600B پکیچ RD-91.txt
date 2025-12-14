@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/2203-ترایاک-bta40-600b-پکیچ-rd-91.html
+================================================================================
+
+عنوان:
+ترایاک BTA40-600B پکیچ RD-91
+
+قیمت:
+1,540,000
+
+توضیحات کوتاه:
+سوئیچ دوطرفه 40 آمپر 600 ولت پکیج RD-91
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+ولتاژ این ترایاک 600V می باشد.
+
+Specification
+
+Rated Average On-State Current: 40A
+Mounting Type: Panel Mount
+Package Type: RD-91
+Maximum Gate Trigger Current: 100mA
+Repetitive Peak Reverse Voltage: 600V
+Surge Current Rating: 420A
+Pin Count: 3
+Maximum Gate Trigger Voltage: 1.3V
+Repetitive Peak Forward Blocking Voltage: 600V
+Maximum Holding Current: 80mA
+Dimensions: 40 x 27 x 14mm (Length ,Width ,Height )
+Repetitive Peak Off-State Current: 0.005mA
+Peak On-State Voltage: 1.55V
+Maximum Operating Temperature: +125 °C
+Minimum Operating Temperature: -40 °C
+

@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/4172-تراشه-تایمر-دوبل-ne556-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه تایمر دوبل NE556 پکیج DIP
+
+قیمت:
+97,000
+
+توضیحات کوتاه:
+آی سی تایمر دوبل NE556 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Timers & Support Products 
+RoHS: Details 
+Series: NE556 
+Type: Standard 
+Number of Internal Timers: 2 Timer 
+Supply Voltage - Max: 16 V 
+Supply Voltage - Min: 4.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-14 
+Packaging: Tube 
+Height: 3.3 mm 
+Length: 19.05 mm 
+Width: 6.35 mm 
+Brand: STMicroelectronics 
+High Level Output Current: 200 mA 
+Low Level Output Current: - 200 mA 
+Product Type: Timers & Support Products
+

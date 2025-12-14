@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/18720-ترانزیستور-bd243-نوع-npn-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ترانزیستور BD243 نوع NPN پکیج TO-220
+
+قیمت:
+131,000
+
+توضیحات کوتاه:
+ترانزیستور BD243 نوع NPN پکیج TO-220 ولتاژ45V جریان 6A 
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category: Bipolar Transistors - BJT 
+Mounting Style: Through Hole 
+Package / Case: TO-220-3 
+Transistor Polarity: NPN 
+Collector- Emitter Voltage VCEO Max: 45 V 
+Emitter- Base Voltage VEBO: 5 V 
+Maximum DC Collector Current: 6 A 
+Pd - Power Dissipation: 65 W 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+DC Collector/Base Gain hfe Min: 30
+

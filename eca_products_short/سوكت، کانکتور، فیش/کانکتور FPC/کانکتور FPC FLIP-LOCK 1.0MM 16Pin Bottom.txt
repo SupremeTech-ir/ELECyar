@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/کانکتور-fpc/24642-کانکتور-fpc-flip-lock-10mm-16pin-bottom.html
+================================================================================
+
+عنوان:
+کانکتور FPC FLIP-LOCK 1.0MM 16Pin Bottom
+
+قیمت:
+101,000
+
+توضیحات کوتاه:
+FPC کانکتور FLIP-LOCK با 16 پین اتصال از پایین با فاصله پایه 1 میلی متر
+
+توضیحات کامل:
+کانکتورهای FPC جهت اتصال کابل های فلت مورد استفاده قرار میگیرد.
+
+Contact Location : Bottom Contact
+Mounting Angle : Right Angle
+Locking Type : Drawer Type
+Termination style : SMD/SMT
+Pitch : 1mm
+Minimum Operating Temperature : -25C
+Packaging : Tube
+Number of Positions : 16 Position
+Maximum Operating Temperature : +85C
+

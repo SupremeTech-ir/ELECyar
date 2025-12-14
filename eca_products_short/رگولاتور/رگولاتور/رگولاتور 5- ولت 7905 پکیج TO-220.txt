@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/رگولاتور/651-رگولاتور-5-ولت-7905-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 5- ولت 7905 پکیج TO-220
+
+قیمت:
+140,000
+
+توضیحات کوتاه:
+رگولاتور 5- ولت 7905 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+رگولاتور های 79xx به منظور تثبیت ولتاژ در یک مقدار معین (منفی) به کار می روند که X بیانگر ولتاژ تثبیت شده خروجی است . به عنوان مثال 7905 یک تثبیت کننده ولتاژ با خروجی 5- ولت ثابت است. 
+
+Specification
+
+Product Category: Linear Voltage Regulators 
+Mounting Style: Through Hole 
+Package / Case: TO-220
+Number of Outputs: 1 Output 
+Polarity: Negative 
+Output Voltage: - 5 V 
+Output Current: 1.5 A 
+Output Type: Fixed 
+Input Voltage, Min: - 7 V 
+Input Voltage, Max: - 35 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 150 C 
+Load Regulation: 100 mV 
+Line Regulation: 100 mV 
+Quiescent Current: 3 mA 
+Series: L79 
+Product Type: Linear Voltage Regulators 
+PSRR / Ripple Rejection - Typ: 60 dB
+

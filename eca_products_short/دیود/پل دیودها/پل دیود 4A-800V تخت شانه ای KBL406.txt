@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/پل-دیودها/6588-پل-دیود-4a-800v-تخت-شانه-ای-kbl406.html
+================================================================================
+
+عنوان:
+پل دیود 4A-800V تخت شانه ای KBL406
+
+قیمت:
+142,000
+
+توضیحات کوتاه:
+پل دیود 4 آمپر 800 ولت
+
+توضیحات کامل:
+Specification
+
+Product Category:     Bridge Rectifiers     
+Manufacturer:     Taiwan Semiconductor     
+Type:     Single Phase Bridge     
+Mounting Style:     Through Hole     
+Termination Style:     Through Hole     
+Package / Case:     KBL-3     
+Peak Reverse Voltage:     800 V     
+Vf - Forward Voltage:     1.1 V     
+Max Surge Current:     200 A     
+Minimum Operating Temperature:     - 55 C     
+Maximum Operating Temperature:     + 125 C     
+Length:     19.6 mm     
+Width:     6.48 mm     
+Height:     16.38 mm     
+Packaging:     Bulk     
+Brand:     Taiwan Semiconductor     
+Ir - Reverse Current:     10 uA     
+Product:     Bridge Rectifiers     
+Factory Pack Quantity:     500     
+Vr - Reverse Voltage:     560 V
+

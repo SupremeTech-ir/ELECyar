@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/igbt/24010-ترانزیستور-k25t1202-igbt-تایوانی-مارک-infineon-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور K25T1202 IGBT تایوانی مارک Infineon پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور1200 ولت 25 امپر K25T1202 IGBT تایوانی مارک Infineon پکیج TO-247 
+
+توضیحات کامل:
+Specification
+
+roduct Category: IGBT Transistors
+Technology: Si
+Package/Case: TO-3PN
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 1200 V
+Collector-Emitter Saturation Voltage: 1.7 V
+Maximum Gate Emitter Voltage: - 20 V, 20 V
+Continuous Collector Current at 25 C: 25 A
+Pd - Power Dissipation: 190 W
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+

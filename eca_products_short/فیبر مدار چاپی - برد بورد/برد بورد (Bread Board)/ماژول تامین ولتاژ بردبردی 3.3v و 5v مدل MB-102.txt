@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/برد-بورد-bread-board/25481-ماژول-تامین-ولتاژ-بردبردی-33v-و-5v-مدل-mb-102.html
+================================================================================
+
+عنوان:
+ماژول تامین ولتاژ بردبردی 3.3v و 5v مدل MB-102
+
+قیمت:
+986,000
+
+توضیحات کوتاه:
+ماژول تامین ولتاژ بردبردی 3.3v و 5v دو کاناله دارای میکرو USB مناسب بردبردهای MB-102
+
+توضیحات کامل:
+ماژول تغذیه MB102 یک ماژول کاربردی برای پروژه‌های آموزشی و توسعه‌ای مبتنی بر بردبورد است. این ماژول برای نصب مستقیم روی بردبورد طراحی شده و به کمک دو تنظیم‌گر ولتاژ AMS1117 قادر است دو کانال جداگانه با ولتاژهای 3.3 ولت یا 5 ولت را تغذیه کند. انتخاب ولتاژ برای هر بخش به‌صورت مستقل و از طریق جامپر امکان‌پذیر است. این طراحی ماژول را برای کار با طیف وسیعی از ماژول‌ها، سنسورها و میکروکنترلرها بسیار مناسب می‌سازد.
+
+برای تأمین ورودی، می‌توان از یک آداپتور 6.5 تا 12 ولت از طریق جک DC استفاده کند یا از تغذیه 5 ولت از طریق پورت میکرو USB بهره بگیرد.
+
+مشخصات
+
+ولتاژ ورودی : 6.5 الی 12 ولت DC
+ولتاژ خروجی : 3.3 ولت و 5 ولت
+جریان : حداکثر 700 میلی آمپر
+ابعاد : 49.8x21.1 میلی متر
+فاصله 2 پین کناری خروجی 42mm
+سازگار با بردبردهای MB-102 و تمام بردبردهای هم سایز
+دارای 6 پین جداگانه برای ولتاژ های 5 ولت و 3.3 ولت 
+دارای LED نشانگر وضعیت
+دارای میکرو USB برای تامین تغذیه
+
+Introduction
+
+The MB102 power module is a practical module for educational and development projects based on breadboard. This module is designed for direct mounting on the breadboard and is able to supply two separate channels with voltages of 3.3 V or 5 V using two AMS1117 voltage regulators. The voltage selection for each section is possible independently and via a jumper. This design makes the module very suitable for working with a wide range of modules, sensors and microcontrollers.
+
+To provide input, a 6.5 to 12 V adapter can be used via the DC jack or 5 V power can be used via the micro USB port.
+
+Specification
+
+Input voltage: 6.5 to 12 V DC
+Output voltage: 3.3 V and 5 V
+Current: Maximum 700 mA
+Dimensions: 49.8 x 21.1 mm
+Depth of 2 output side pins: 42 mm
+Compatible with MB-102 boards and all boards of the same size
+With 6 separate pins for 5 V and 3.3 V voltages
+With LED status indicator
+With micro USB for power supply
+

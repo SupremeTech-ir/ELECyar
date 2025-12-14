@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14370-تراشه-74hc04-گیت-not-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه 74HC04 گیت NOT پکیج SO-14
+
+قیمت:
+65,600
+
+توضیحات کوتاه:
+آی سی منطقی 74HC04 شامل 6 گیت NOT پکیج SO14
+
+توضیحات کامل:
+Specification
+
+Wide supply voltage range from 2.0 V to 6.0 V
+CMOS low power dissipation
+High noise immunity
+Latch-up performance exceeds 100 mA per JESD 78 Class II Level B
+Complies with JEDEC standards:
+JESD8C (2.7 V to 3.6 V)
+JESD7A (2.0 V to 6.0 V)
+Input levels: For 74HC04: CMOS level
+Package: SO14
+Multiple package options:
+Specified from -40 °C to +85 °C and from -40 °C to +125 °C
+

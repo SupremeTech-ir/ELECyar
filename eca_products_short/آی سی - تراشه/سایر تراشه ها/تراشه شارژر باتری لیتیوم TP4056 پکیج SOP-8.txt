@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/10901-تراشه-شارژر-باتری-لیتیوم-tp4056-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه شارژر باتری لیتیوم TP4056 پکیج SOP-8
+
+قیمت:
+32,700
+
+توضیحات کوتاه:
+آی سی شارژ باتری لیتیوم یون TP4056 پکیج SMD SOP-8
+
+توضیحات کامل:
+Introduction
+
+ The TP4056 is a complete constant-current/constant-voltage linear charger for single cell lithium-ion batteries. Its SOP package and low external component count make the TP4056 ideally suited for portable applications. Furthermore, the TP4056 can work within USB and wall adapter.
+
+No blocking diode is required due to the internal PMOSFET architecture and have prevent to negative Charge Current Circuit. Thermal feedback regulates the charge current to limit the die temperature during high power operation or high ambient temperature. The charge voltage is fixed at 4.2V, and the charge current can be programmed externally with a single resistor. The TP4056 automatically terminates the charge cycle when the charge current drops to 1/10th the programmed value after the final float voltage is reached.
+
+TP4056 Other features include current monitor, under voltage lockout, automatic recharge and two status pin to indicate charge termination and the presence of an input voltage.
+

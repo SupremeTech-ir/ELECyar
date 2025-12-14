@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-شبکه/23649-تراشه-ترنسفورمر-st6118t-مارک-valor.html
+================================================================================
+
+عنوان:
+تراشه ترنسفورمر ST6118T مارک Valor
+
+قیمت:
+609,000
+
+توضیحات کوتاه:
+آی سی ترنسفورمر ST6118T مارک Valor
+
+توضیحات کامل:
+Specification
+
+Transmitter / Receiver
+Insertion Loss:
+- -1.0dB max (1 to 60 MHz)
+- -2.0dB max @ 100MHz
+- -3.0dB max @ 125MHz
+Return Loss
+- -18dB min (1 to 30 MHz)
+- (16-15) to (19-11): -12dB min @ 60 MHz
+- 100 ohm to 100 ohm: -10dB min @ 80 MHz
+Return Loss (Transmitter ONLY)
+- (16-14) to (10-11): -17dB min (1 to 10 MHz
+Common Mode Rejection:
+- -45dB min (1 to 30 MHz)
+- -35dB min (30 to 100 MHz)
+- -9dB min (100MHz to 500 MHz)
+Cross Talk: -35dB min (1 to 80 MHz)
+Isolation: 1500 VRMS (PRI-SEC)
+OCL (ref) (16-15) open 10,11: 350uH min @ 100kHz, 100mV, 8mA
+

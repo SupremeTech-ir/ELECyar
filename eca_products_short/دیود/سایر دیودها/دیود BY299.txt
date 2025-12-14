@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/سایر-دیودها/22978-دیود-by299.html
+================================================================================
+
+عنوان:
+دیود BY299
+
+قیمت:
+48,500
+
+توضیحات کوتاه:
+دیود BY299 پکیج DO-201 دارای ولتاژ 800 ولت 
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: DO-201 
+Vr - Reverse Voltage: 800 V 
+If - Forward Current: 2 A 
+Type: Fast Recovery Rectifiers 
+Configuration: Single 
+Vf - Forward Voltage: 1.3 V 
+Max Surge Current: 70 A 
+Ir - Reverse Current: 5 uA 
+Recovery Time: 500 ns 
+Minimum Operating Temperature: - 50 C 
+Maximum Operating Temperature: + 150 C 
+Packaging: Ammo Pack 
+Brand: Diotec Semiconductor 
+Subcategory: Diodes & Rectifiers 
+Tradename: BY299 
+Unit Weight: 1 g
+

@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/22517-تراشه-تقویت-کننده-صوتی-cs8673e-پکیج-sop-16.html
+================================================================================
+
+عنوان:
+تراشه تقویت کننده صوتی CS8673E پکیج SOP-16
+
+قیمت:
+933,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی CS8673E پکیج SOP-16 کلاس D
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers 
+Series: CS8673E 
+Product: Audio Amplifiers
+Vcc : 0.3 to 28 volt
+Vdd : 5 to 26 volt 
+Power : 2x40 w (80w)
+T : -40°C to +85 °C
+Class: Class-D
+Package / Case: SOP-16
+

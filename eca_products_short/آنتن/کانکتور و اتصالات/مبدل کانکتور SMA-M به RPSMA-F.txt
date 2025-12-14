@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/کانکتور-و-اتصالات/13666-مبدل-کانکتور-sma-m-به-rpsma-f.html
+================================================================================
+
+عنوان:
+مبدل کانکتور SMA-M به RPSMA-F
+
+قیمت:
+476,000
+
+توضیحات کوتاه:
+SMA Male to RPSMA Female (SMA-JK) Connector Adapter
+
+توضیحات کامل:
+Connection 1: SMA Male
+Connection 2: RPSMA Female
+Color: Gold
+Characteristic Impedance: 50Ω
+Frequency Range: DC~18GHz
+Temperature Range: -65℃ ~ +165℃
+Housing material: Metal
+Gold Plated: Yes
+Power: 2W
+

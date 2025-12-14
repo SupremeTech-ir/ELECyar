@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/13864-تراشه-مبدل-آنالوگ-به-دیجیتال-ویدیو-tda8754hl-پکیج-lqfp.html
+================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ویدیو TDA8754HL پکیج LQFP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال ویدیو TDA8754HL پکیج LQFP SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: NXP 
+Product Category: Analog to Digital Converters - ADC 
+Mounting Style: SMD/SMT 
+Package / Case: SOT-486 LQFP-144pin 
+Resolution: 8 bit 
+Number of Channels: 3 Channel 
+Interface Type: I2C 
+Sampling Rate: 140 MS/s 
+Input Type: Single-Ended 
+Analog Supply Voltage: 3.3 V 
+Digital Supply Voltage: 3.3 V 
+SNR - Signal to Noise Ratio: 48 dB 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Brand: NXP Semiconductors 
+DNL - Differential Nonlinearity: +/- 0.6 bit 
+Height: 1.6 mm 
+INL - Integral Nonlinearity: +/- 1.3 bit 
+Input Voltage: 1 V 
+Length: 22.15 mm 
+Number of ADC Inputs: 6 Input 
+Number of Converters: 3 Converter 
+Operating Supply Current: 180 mA 
+Operating Supply Voltage: 3 V to 3.6 V 
+Pd - Power Dissipation: 1.3 W 
+Power Consumption: 1000 mW 
+Product Type: ADCs - Analog to Digital Converters 
+Sample and Hold: Yes 
+Subcategory: Data Converter ICs 
+Supply Type: Analog, Digital 
+Supply Voltage - Max: 3.6 V 
+Supply Voltage - Min:3 V 
+Type: Video ADC
+

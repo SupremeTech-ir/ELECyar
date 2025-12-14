@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22989-دوبل-دیود-شاتکی-ts805c04r-40v-20a-ژاپنی-مارک-fuji-پکیج-to-252.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی TS805C04R 40V-20A ژاپنی مارک FUJI پکیج TO-252
+
+قیمت:
+100,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 40 ولت 20 آمپر TS805C04R ژاپنی مارک FUJI پکیج TO-252
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Configuration: Single 
+Technology: Si 
+IO- Out Put Current: 20 A 
+Vrrm - Repetitive Reverse Voltage: 40 V 
+Vf - Forward Voltage: 0.6 V 
+Ifsm - Forward Surge Current: 120 A 
+Ir - Reverse Current: 15 mA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+Mounting Style: SMD/SMT 
+Package/Case: TO-252
+

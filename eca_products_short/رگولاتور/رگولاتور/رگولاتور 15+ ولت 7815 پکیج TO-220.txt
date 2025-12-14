@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/رگولاتور/2504-رگولاتور-15-ولت-7815-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 15+ ولت 7815 پکیج TO-220
+
+قیمت:
+127,000
+
+توضیحات کوتاه:
+رگولاتور با خروجی 15 ولت 7815 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators
+Package / Case: TO-220
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 15 V
+Output Current: 1.5 A
+Output Type: Fixed
+Input Voltage, Min: 17 V
+Input Voltage, Max: 35 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 150 mV
+Quiescent Current: 4.4 mA
+Height: 9.15 mm
+Length: 10.4 mm
+Product Type: Linear Voltage Regulators
+PSRR / Ripple Rejection - Typ: 58 dB
+Subcategory: PMIC - Power Management ICs
+Width: 4.6 mm
+

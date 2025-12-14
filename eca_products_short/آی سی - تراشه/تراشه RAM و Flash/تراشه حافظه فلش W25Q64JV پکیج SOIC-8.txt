@@ -1,0 +1,76 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/21396-تراشه-حافظه-فلش-w25q64jv-پکیج-soic-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q64JV پکیج SOIC-8
+
+قیمت:
+332,000
+
+توضیحات کوتاه:
+حافظه فلش W25Q64JV با ظرفیت 64M-bit، پشتیبانی از رابط‌های SPI، Dual SPI و Quad SPI، مناسب برای ذخیره‌سازی داده‌ها و اجرای کد مستقیم از حافظه.
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q64JV یک راه‌حل ذخیره‌سازی با عملکرد بالا و مصرف انرژی پایین است که برای سیستم‌هایی با محدودیت فضا و پین طراحی شده است. این حافظه با پشتیبانی از پروتکل‌های SPI، Dual SPI و Quad SPI، انتقال داده‌های بسیار سریع را ممکن می‌سازد که در مقایسه با حافظه‌های فلش سریال معمولی، عملکرد به مراتب بالاتری دارد. از این رو، این تراشه برای کاربردهایی مانند ذخیره‌سازی کد و داده‌ها، اجرای مستقیم کد از حافظه (XIP) و ذخیره اطلاعات صدا و متن بسیار مناسب است. همچنین، با ویژگی‌هایی همچون مصرف انرژی کم (کمتر از 1µA در حالت Power-down) و دمای عملیاتی وسیع از 40-°C تا 105+°C، این حافظه می‌تواند در انواع محیط‌ها و شرایط سخت صنعتی عملکرد بهینه‌ای داشته باشد. از لحاظ طراحی، حافظه W25Q64JV دارای قابلیت‌های انعطاف‌پذیر در برنامه‌ریزی و پاک‌سازی داده‌ها است و از انواع پاک‌سازی در اندازه‌های مختلف (4KB تا 64KB) پشتیبانی می‌کند، که این امر آن را برای ذخیره‌سازی داده‌های مختلف در سیستم‌های پیچیده و نیازمند انعطاف‌پذیری بالا ایده‌آل می‌سازد. پکیج‌های کوچک و متنوع این تراشه، همچون SOIC-8، WSON و TFBGA، آن را برای استفاده در دستگاه‌های کوچک و با محدودیت فضا مناسب می‌کند.
+
+Introduction
+
+The W25Q64JV (64M-bit) Serial Flash memory provides a storage solution for systems with limited space,
+pins and power. The 25Q series offers flexibility and performance well beyond ordinary Serial Flash devices.
+They are ideal for code shadowing to RAM, executing code directly from Dual/Quad SPI (XIP) and storing
+voice, text and data. The device operates on 2.7V to 3.6V power supply with current consumption as low as
+1µA for power-down. All devices are offered in space-saving packages.
+The W25Q64JV array is organized into 32,768 programmable pages of 256-bytes each. Up to 256 bytes can
+be programmed at a time. Pages can be erased in groups of 16 (4KB sector erase), groups of 128 (32KB
+block erase), groups of 256 (64KB block erase) or the entire chip (chip erase). The W25Q64JV has 2,048
+erasable sectors and 128 erasable blocks respectively. The small 4KB sectors allow for greater flexibility in
+applications that require data and parameter storage. (See Figure 2.)
+The W25Q64JV supports the standard Serial Peripheral Interface (SPI), Dual/Quad I/O SPI: Serial Clock, Chip
+Select, Serial Data I/O0 (DI), I/O1 (DO), I/O2 and I/O3. SPI clock frequencies of W25Q64JV of up to 133MHz
+are supported allowing equivalent clock rates of 266MHz (133MHz x 2) for Dual I/O and 532MHz (133MHz x
+4) for Quad I/O when using the Fast Read Dual/Quad I/O. These transfer rates can outperform standard
+Asynchronous 8 and 16-bit Parallel Flash memories.
+Additionally, the device supports JEDEC standard manufacturer and device ID, and a 64-bit Unique Serial
+Number and three 256-bytes Security Registers.
+
+Specification
+
+.New Family of SpiFlash Memories
+– W25Q64JV: 64M-bit / 8M-byte
+– Standard SPI: CLK, /CS, DI, DO
+– Dual SPI: CLK, /CS, IO0, IO1
+– Quad SPI: CLK, /CS, IO0, IO1, IO2, IO3
+– Software & Hardware Reset(1)
+.Highest Performance Serial Flash
+– 133MHz Single, Dual/Quad SPI clocks
+– 266/532MHz equivalent Dual/Quad SPI
+– Min. 100K Program-Erase cycles per sector
+– More than 20-year data retention
+.Low Power, Wide Temperature Range
+– Single 2.7 to 3.6V supply
+– <1µA Power-down (typ.)
+– -40°C to +85°C operating range
+– -40°C to +105°C operating range
+ Flexible Architecture with 4KB sectors
+– Uniform Sector/Block Erase (4K/32K/64K-Byte)
+– Program 1 to 256 byte per programmable page
+– Erase/Program Suspend & Resume
+.Advanced Security Features
+– Software and Hardware Write-Protect
+– Special OTP protection
+– Top/Bottom, Complement array protection
+– Individual Block/Sector array protection
+– 64-Bit Unique ID for each device
+– Discoverable Parameters (SFDP) Register
+– 3X256-Bytes Security Registers
+– Volatile & Non-volatile Status Register Bits
+.Space Efficient Packaging
+– 8-pin SOIC 208-mil
+– 8-pad WSON 6x5-mm/8x6-mm
+– 16-pin SOIC 300-mil
+– 8-pad XSON 4x4-mm
+– 24-ball TFBGA 8x6-mm (6x4 ball array)
+– 24-ball TFBGA 8x6-mm (6x4/5x5 ball array)
+– 12-ball WLCSP
+– Contact Winbond for KGD and other options
+

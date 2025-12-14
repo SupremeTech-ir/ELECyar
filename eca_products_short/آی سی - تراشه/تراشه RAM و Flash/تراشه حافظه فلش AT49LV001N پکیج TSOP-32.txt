@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/14268-تراشه-حافظه-فلش-at49lv001n-پکیج-tsop-32.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش AT49LV001N پکیج TSOP-32
+
+قیمت:
+1,140,000
+
+توضیحات کوتاه:
+آی سی حافظه فلش AT49LV001N پکیج SMD TSOP-32
+
+توضیحات کامل:
+Specification
+
+Memory Size: 1 Mbit 
+Organization: 128KX8 
+Mounting Style SMD/SMT 
+Supply Voltage (Min): 3 V 
+Supply Voltage (Max): 3.6 V 
+Minimum Operating Temperature: -40 C° 
+Maximum Operating Temperature: 85 C° 
+Brand: Atmel Corporation 
+Package: TSOP-32
+

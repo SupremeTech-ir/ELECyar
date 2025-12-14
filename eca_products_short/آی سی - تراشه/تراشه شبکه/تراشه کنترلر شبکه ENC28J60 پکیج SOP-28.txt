@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-شبکه/1056-تراشه-کنترلر-شبکه-enc28j60-پکیج-sop-28.html
+================================================================================
+
+عنوان:
+تراشه کنترلر شبکه ENC28J60 پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی کنترلر شبکه ENC28J60 پکیج SMD SOP-28
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: Ethernet ICs 
+RoHS: Details 
+Product: Ethernet Controllers 
+Number of Transceivers: 1 Transceiver 
+Data Rate: 10 Mb/s 
+Interface Type: MII, MIIM 
+Operating Supply Voltage: 3.3 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: SMD/SMT 
+Package / Case: SOP-28 Wide 
+Packaging: Tube 
+Height: 2.05 mm 
+Length: 17.9 mm 
+Width: 7.5 mm 
+Brand: Microchip Technology 
+Supply Current - Max: 180 mA 
+Duplex: Full Duplex, Half Duplex 
+Moisture Sensitive: Yes 
+Product Type: Ethernet ICs 
+Standard: 10BASE-T
+

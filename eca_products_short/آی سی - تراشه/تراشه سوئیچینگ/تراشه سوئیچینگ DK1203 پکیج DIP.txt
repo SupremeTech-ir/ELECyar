@@ -1,0 +1,78 @@
+URL: https://eshop.eca.ir/تراشه-سوئیچینگ/16596-تراشه-سوئیچینگ-dk1203-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه سوئیچینگ DK1203 پکیج DIP
+
+قیمت:
+116,000
+
+توضیحات کوتاه:
+DK1203 یک آی‌سی کنترلر فلای‌بک با ترانزیستور داخلی 700 ولتی برای منابع تغذیه سوئیچینگ تا توان 18 وات
+
+توضیحات کامل:
+تراشه DK1203 یک کنترلر سوئیچینگ از نوع فلای‌بک ثانویه با ترانزیستور قدرت داخلی 700 ولتی است که برای منابع تغذیه AC/DC کم‌مصرف طراحی شده است. این آی‌سی با استفاده از مدار راه‌انداز ولتاژ بالا، منبع تغذیه داخلی (Self-Power Supply) و کنترل PWM، امکان حذف مدار راه‌انداز خارجی و کاهش تعداد قطعات را فراهم می‌کند. طراحی ساده ترانسفورمر فقط با دو سیم‌پیچ، عملکرد پایدار و کاهش EMI به‌واسطه مدولاسیون فرکانس داخلی، از دیگر ویژگی‌های مهم آن هستند. همچنین DK1203 دارای محافظت‌های داخلی در برابر اضافه‌جریان، اضافه‌بار، اضافه‌دما و ولتاژ بالا بوده و در شرایط بی‌باری به‌طور خودکار به حالت Skip Cycle برای کاهش مصرف وارد می‌شود. این تراشه گزینه‌ای مناسب برای آداپتورها، شارژرها، درایورهای LED و منابع تغذیه خانگی با توان پایین است.
+
+مشخصات
+
+ولتاژ کاری ورودی: 85V تا 265V AC
+ولتاژ کاری VCC: از 4V تا 6V
+ولتاژ راه‌اندازی: 5.0V (typical)
+ولتاژ توقف: 4.0V (typical)
+ولتاژ محافظ VCC: حداکثر 6.85V
+فرکانس سوییچینگ PWM: 65kHz (typical)
+فرکانس کاهش‌یافته در بار سبک: حدود 1kHz
+ولتاژ شکست BJT خروجی: 700V
+جریان پیک خروجی: حداکثر 800mA
+توان خروجی قابل پشتیبانی:
+ورودی 85-265V AC: تا 12W
+ورودی 180-265V AC: تا 18W
+مصرف در حالت آماده‌به‌کار: کمتر از 0.3W
+حداکثر توان تلفاتی: 1000mW
+دمای کاری: -20°C تا 125°C
+دمای ذخیره‌سازی: -55°C تا 150°C
+پکیج: DIP-8
+
+کاربردهای رایج
+
+تراشه DK1203 به‌دلیل طراحی ساده، بهره‌وری بالا و عملکرد مطمئن، در ساخت منابع تغذیه فلای‌بک برای دستگاه‌های خانگی، صوتی‌تصویری و روشنایی LED بسیار پرکاربرد است. کاهش اجزای خارجی، محافظت‌های کامل داخلی و کارایی بالا، آن را برای پروژه‌های کم‌هزینه اما حرفه‌ای مناسب می‌سازد.
+
+آداپتورهای AC/DC
+شارژرهای باتری
+درایورهای LED
+منابع تغذیه دستگاه‌های صوتی و تصویری
+منابع تغذیه گیرنده‌های دیجیتال
+منابع تغذیه تلویزیون و مانیتور
+تجهیزات روشنایی کم‌مصرف
+منابع تغذیه اجاق مایکروویو
+منابع تغذیه کولرهای گازی
+تجهیزات خانگی کوچک
+
+Introduction
+
+The DK1203 is a secondary side flyback type AC-DC Switch Mode Power Controlling IC. With integrated 700V high voltage power transistor,patented self-power supply circuit and integrated MOS circuit design, lots of external components are saved, transformer design is simple, only two windings is needed for the transformer in isolated output circuit.
+
+Description
+
+Input voltage 85V to 265V full voltage range
+
+Built-in 700V power tube
+
+Built-in self-powered circuit (patented), no auxiliary winding power supply
+
+Integrated self-starting circuit
+
+Current mode PWM control
+
+VCC operating voltage range of 4V to 6V
+
+65Khz switching frequency
+
+Auto-enter skip cycle mode at light load
+
+Over-temperature, over-current, over-voltage, overload protection
+
+Standby power consumption is less than 0.3W
+
+Frequency jitter reduces EMI filtering cost
+

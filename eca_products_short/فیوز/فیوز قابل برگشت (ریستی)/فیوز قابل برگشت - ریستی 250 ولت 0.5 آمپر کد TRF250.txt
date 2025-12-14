@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/فیوز-قابل-برگشت-ریستی/15247-فیوز-قابل-برگشت-ریستی-250-ولت-05-آمپر-کد-trf250.html
+================================================================================
+
+عنوان:
+فیوز قابل برگشت - ریستی 250 ولت 0.5 آمپر کد TRF250
+
+قیمت:
+0
+
+توضیحات کوتاه:
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC با ضریب دمایی مثبت (PPTC) 
+
+توضیحات کامل:
+معرفی
+
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC ، یک عنصر الکترونیک پسیو با ضریب دمایی مثبت (PPTC) است که برای محافظت در برابر اضافه جریان در مدارهای الکترونیکی استفاده می شود.
+این فیوز ها در حالتی که بیش از جریان مورد نظر از آن جریان عبور کند ، به شدت داغ شده و در صورت ادامه داشتن اضافه جریان ، فیوز قطع می شود . با برگشت دمای فیوز به حالت عادی ، فیوز مجددا وصل خواهد شد .
+
+Specification
+
+Product Category: Resettable Fuses - PPTC 
+Series: TRF250 
+Mounting Style: PCB Mount 
+Termination Style: Radial 
+Hold Current: 120 mA 
+Maximum Voltage: 60 VDC 
+Trip Current: 240 mA 
+Current Rating - Max: 3 A 
+Resistance: 16 Ohms 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Lead Spacing: 5 mm 
+Packaging: Bulk 
+Brand: Littelfuse 
+Height: 4.6 mm 
+Length: 11 mm 
+Pd - Power Dissipation: 1 W 
+Product Type: Resettable Fuses - PPTC
+

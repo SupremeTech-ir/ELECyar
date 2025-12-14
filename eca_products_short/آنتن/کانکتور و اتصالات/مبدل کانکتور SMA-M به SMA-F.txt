@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/کانکتور-و-اتصالات/13664-مبدل-کانکتور-sma-m-به-sma-f.html
+================================================================================
+
+عنوان:
+مبدل کانکتور SMA-M به SMA-F
+
+قیمت:
+601,000
+
+توضیحات کوتاه:
+مبدل کانکتور SMA نری به مادگی
+
+توضیحات کامل:
+Specification
+
+Connection 1: SMA Male
+Connection 2: SMA Female
+Color: Gold
+Characteristic Impedance: 50Ω
+Frequency Range: DC~18GHz
+Temperature Range: -65℃ ~ +165℃
+Housing material: Metal
+Gold Plated: Yes
+Power: 2W
+

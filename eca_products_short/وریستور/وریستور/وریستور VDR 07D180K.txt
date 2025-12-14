@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/11335-وریستور-vdr-07d180k.html
+================================================================================
+
+عنوان:
+وریستور VDR 07D180K
+
+قیمت:
+15,400
+
+توضیحات کوتاه:
+وریستور 18 ولت با تلرانس 10 درصد کد 07D180K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: MOV-07DxxxK     
+Mounting Style: PCB Mount     
+Termination Style: Radial     
+Voltage Rating DC: 20 VDC     
+Clamping Voltage: 36 V     
+Diameter: 7 mm     
+Peak Surge Current: 250 A     
+Surge Energy Rating: 900 mJ     
+Capacitance: 2800 pF     
+Minimum Operating Temperature: -40 C     
+Maximum Operating Temperature: +85 C     
+Tolerance: 10 %
+

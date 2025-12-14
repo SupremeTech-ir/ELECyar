@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/تراشه-cmos/19568-تراشه-مالتی-پلکسر-cd4051-پکیج-so-16.html
+================================================================================
+
+عنوان:
+تراشه مالتی پلکسر CD4051 پکیج SO-16
+
+قیمت:
+78,000
+
+توضیحات کوتاه:
+آی سی 4051 مالتی پلکسر / دمالتی پلکسر 8 به 1 با تکنولوژِی MOS پکیج SO-16 SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Multiplexer Switch ICs 
+Series: CD4051B 
+Product: Multiplexers/Demultiplexers 
+Mounting Style: SMD/SMT 
+Package / Case: SO-Narrow-16 
+Number of Channels: 8 Channel 
+Configuration: 1 x 8:1 
+Supply Voltage - Min: 5 V 
+Supply Voltage - Max: 18 V 
+Minimum Dual Supply Voltage: +/- 2.5 V 
+Maximum Dual Supply Voltage: +/- 10 V 
+On Resistance - Max: 240 Ohms 
+On Time - Max: 720 ns 
+Off Time - Max: 450 ns 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 125 C 
+Packaging: Tube 
+Bandwidth: 20 Mhz 
+Brand: Texas Instruments 
+Height: 1.58 mm 
+Length: 9.9 mm 
+Operating Supply Voltage: 5 V to 18 V 
+Pd - Power Dissipation: 700 mW 
+Product Type: Multiplexer Switch ICs 
+Propagation Delay Time: 60 ns
+

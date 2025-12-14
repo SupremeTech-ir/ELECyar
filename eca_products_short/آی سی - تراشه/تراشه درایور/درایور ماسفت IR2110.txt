@@ -1,0 +1,60 @@
+URL: https://eshop.eca.ir/تراشه-درایور/1930-درایور-ماسفت-ir2110.html
+================================================================================
+
+عنوان:
+درایور ماسفت IR2110
+
+قیمت:
+1,330,000
+
+توضیحات کوتاه:
+درایور ولتاژ بالا و سرعت بالا IR2110 برای کنترل ماسفت و IGBT
+
+توضیحات کامل:
+درایور MOSFET و IGBT مدل IR2110 یک درایور ولتاژ بالا و سرعت بالا است که برای کنترل مستقل ماسفت‌های سمت بالا و پایین طراحی شده است. با استفاده از تکنولوژی‌های پیشرفته HVIC و CMOS، این درایور مقاومت بالایی در برابر نویز و قفل‌شدگی دارد و عملکردی پایدار ارائه می‌دهد. ورودی‌های آن با منطق CMOS و LSTTL سازگار بوده و تا ولتاژ 3.3 ولت کار می‌کنند. کانال شناور این درایور می‌تواند ماسفت یا IGBT نوع N را در پیکربندی سمت بالا و تا ولتاژ 500 ولت هدایت کند. ویژگی‌های دیگری مانند زمان‌های پاسخ‌دهی سریع، تأخیرهای انتقال متناسب، و جریان خروجی 2 آمپر، آن را به گزینه‌ای ایده‌آل برای کاربردهای فرکانس بالا تبدیل کرده است.
+
+ویژگی ها:
+
+ طراحی کانال شناور برای عملیات بوت‌استرپ
+عملکرد در ولتاژهای بالا
+مقاوم در برابر ولتاژهای گذرای منفی
+مقاوم در برابر تغییرات سریع ولتاژ (dV/dt)
+محدوده ولتاژ تغذیه گیت درایو
+قفل شدن کم‌ولتاژ برای هر دو کانال
+سازگار با منطق 3.3 ولت
+ورودی‌های CMOS با تریگر اشمیت و مقاومت پایین‌کش
+منطق خاموشی لبه‌تراش در هر سیکل
+ تأخیر انتقال متناسب برای هر دو کانال
+خروجی‌ها هم‌فاز با ورودی‌ها
+
+Specification 
+
+Product Category: Gate Drivers 
+RoHS: RoHS Compliant Details 
+Mounting Style: Through Hole 
+Package/Case: PDIP-14 
+Product: Half-Bridge Drivers 
+Number of Drivers: 2 Driver 
+Output Current: 2 A 
+Configuration: Non-Inverting 
+Rise Time: 35 ns 
+Fall Time: 25 ns 
+Supply Voltage - Max: 20 V 
+Supply Voltage - Min: 10 V 
+Operating Supply Current: 340 uA 
+Maximum Operating Temperature: + 125 C 
+Type: High and Low Side 
+Features: Independent 
+Height: 5.33 mm (Max) 
+Length: 20.19 mm (Max) 
+Logic Type: CMOS, LSTTL 
+Maximum Turn-Off Delay Time: 94 ns 
+Maximum Turn-On Delay Time: 120 ns 
+Minimum Operating Temperature: - 40 C 
+Number of Outputs: 2 
+Pd - Power Dissipation: 1.6 W 
+Propagation Delay - Max: 150 ns 
+Factory Pack Quantity: 25 
+Width: 7.11 mm (Max) 
+Unit Weight: 1.620 g
+

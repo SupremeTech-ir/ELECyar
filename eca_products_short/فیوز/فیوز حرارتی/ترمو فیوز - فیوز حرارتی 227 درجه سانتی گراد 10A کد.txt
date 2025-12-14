@@ -1,0 +1,66 @@
+URL: https://eshop.eca.ir/فیوز-حرارتی/10816-ترمو-فیوز-فیوز-حرارتی-227-درجه-سانتی-گراد-10a-کد-sf226e.html
+================================================================================
+
+عنوان:
+ترمو فیوز - فیوز حرارتی 227 درجه سانتی گراد 10A کد SF226E
+
+قیمت:
+111,000
+
+توضیحات کوتاه:
+ترموفیوز SF226E از برند SEFUSE با دمای عملکرد 227°C و جریان 10A، برای حفاظت حرارتی تجهیزات با دمای کاری بالا مانند هیترها و منابع تغذیه صنعتی
+
+توضیحات کامل:
+ترموفیوز SEFUSE SF226E از سری SF/E ساخت شرکت NEC Schott ژاپن، یک فیوز حرارتی دقیق و قابل‌اعتماد برای محافظت در برابر افزایش دمای بیش از حد در دستگاه‌های برقی و صنعتی است. این فیوز در دمای 227°C فعال شده و مسیر جریان را به‌طور دائمی قطع می‌کند تا از خطرات ناشی از داغی بیش از حد مانند آتش‌سوزی یا خرابی قطعات جلوگیری شود.درون بدنه‌ی فلزی فیوز، یک پلت حرارتی حساس (Thermosensitive Pellet) تعبیه شده است که در دمای مشخص ذوب شده و باعث آزاد شدن فنر داخلی و قطع تماس الکتریکی می‌گردد. پس از عملکرد، فیوز دیگر قابل استفاده نیست و باید تعویض شود.مدل SF226E برای مدارهای AC تا 250V و جریان 10A طراحی شده است و با استانداردهای بین‌المللی UL، VDE، CSA، BEAB، CCC، PSE و IEC60691 سازگار می‌باشد. مقاومت حرارتی بالا، ساخت دقیق و طول عمر زیاد، این فیوز را به گزینه‌ای ایده‌آل برای سیستم‌های گرمایی صنعتی، ترانسفورماتورها و منابع تغذیه تبدیل کرده است.
+
+مشخصات 
+
+مدل: SF226E
+نوع عملکرد: قطع دائمی حرارتی (One-shot Thermal Cutoff)
+دمای عملکرد (Tf): 227°C ±2°C
+دمای نگهداری (Th): 200°C
+دمای بیشینه مجاز (Tm): 300°C
+ولتاژ نامی: 250V AC
+جریان نامی: 10A (مقاومتی)
+مکانیزم عملکرد: پلت حرارتی داخلی با فنر لغزنده
+نوع نصب: سیم‌دار، قابل لحیم‌کاری
+قطر بدنه: 4mm
+استانداردها: IEC60691, UL, VDE, CSA, BEAB, CCC, PSE
+
+کاربردهای رایج
+
+ترموفیوز SF226E برای محافظت از دستگاه‌ها و سیستم‌هایی که در دمای بالا کار می‌کنند، طراحی شده است تا از آسیب ناشی از حرارت جلوگیری کند.
+
+هیترها و المنت‌های صنعتی
+منابع تغذیه و آداپتورها
+ترانسفورماتورها و مبدل‌های قدرت
+موتورهای الکتریکی و کمپرسورها
+دستگاه‌های گرمایشی خانگی و صنعتی
+سیستم‌های تهویه و کنترل دما
+تجهیزات الکترونیکی توان بالا
+
+Specification
+
+ Type:SF226E,TF227°C
+Rated current/voltage:10A/250V
+Excellently sensitive to ambient temperature.
+Stable and precise operation.
+One shot operation
+SF types has ceramic pipe to protect sealing resin from the stress when bending the leads
+Meets many safety standards
+Cadmium free and Lead free SF is available
+
+Application
+
+Irons, hair dryers, heaters.
+Refrigerators, rice cookers, water pots, coffee makers.
+Air conditioners, ventilation fans, electric fans, gas boilers.
+Transformers, power suppliers, adaptors, solenoides.
+Chargers, battery packs.
+Copiers, laser beam printers, power taps.
+RY-01 Thermal fuse:
+1.Rated Current:10A (AC)
+2.Rated Volt:250V (AC)
+3.Rated Temperature: 216C
+4.Color:Silver
+

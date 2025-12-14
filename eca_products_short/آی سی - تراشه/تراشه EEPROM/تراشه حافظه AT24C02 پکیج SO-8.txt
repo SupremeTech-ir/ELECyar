@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1401-تراشه-حافظه-at24c02-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C02 پکیج SO-8
+
+قیمت:
+31,400
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C02-AT24C02BN پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: EEPROM 
+RoHS: N 
+Mounting Style: Through Hole
+Interface Type: 2-Wire, I2C 
+Memory Size: 2 kbit 
+Organization: 256 x 8 
+Supply Voltage - Min: 4.5 V 
+Supply Voltage - Max: 5.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Maximum Clock Frequency: 400 kHz 
+Access Time: 900 ns 
+Data Retention: 100 Year 
+Supply Current - Max: 3 mA 
+Active Read Current - Max: 3 mA 
+Brand: Microchip Technology 
+Height: 3.3 mm 
+Length: 9.27 mm 
+Operating Supply Current: 3 mA 
+Operating Supply Voltage: 1.8 V, 5.5 V 
+Product Type: EEPROM 
+Subcategory: Memory & Data Storage 
+Width: 6.35 mm 
+Unit Weight: 0.032805 oz
+

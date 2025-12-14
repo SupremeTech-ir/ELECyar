@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22828-دوبل-دیود-شاتکی-yg869c12r-120v-40a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG869C12R 120V-40A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+386,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 120 ولت 40 آمپر YG869C12R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+Io: 40 A 
+Vrrm - Repetitive Reverse Voltage: 120 V 
+Vf - Forward Voltage: 0.95 V 
+Ifsm - Forward Surge Current: 190 A 
+Ir - Reverse Current: 200 uA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

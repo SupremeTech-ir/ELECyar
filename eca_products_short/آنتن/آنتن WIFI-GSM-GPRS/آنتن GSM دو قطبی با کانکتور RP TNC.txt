@@ -1,0 +1,20 @@
+URL: https://eshop.eca.ir/آنتن-wifigsmgprs/12015-آنتن-gsm-دو-قطبی-با-کانکتور-rp-tnc.html
+================================================================================
+
+عنوان:
+آنتن GSM دو قطبی با کانکتور RP TNC
+
+قیمت:
+1,860,000
+
+توضیحات کامل:
+توجه: از مبدل کانکتور RPTNC-Male به RPSMA-Male به جهت استفاده از این آنتن در کانکتورهای SMA می توانید بهره گیرید.
+
+Specification
+Product Type: Antenna      
+Input Impedance: 50 
+Frequency Range: 824-960Mhz/1710-1990Mhz      
+Connector: RP TNC
+Gain:  4 dbi      
+Antenna Length(mm): 85*16*57mm
+

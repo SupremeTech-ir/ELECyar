@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1901-تراشه-حافظه-at24c32-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C32 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C32 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Package: Tube
+Product Status: Obsolete
+Memory Type: Non-Volatile
+Memory Format: EEPROM
+Technology: EEPROM
+Memory Size: 32Kbit
+Memory Organization: 4K x 8
+Memory Interface: I²C
+Clock Frequency: 400 kHz
+Write Cycle Time - Word, Page: 5ms
+Access Time: 900 ns
+Voltage - Supply: 2.7V ~ 5.5V
+Operating Temperature: -40°C ~ 85°C (TA)
+

@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-cmos/431-تراشه-بافر-74hc244-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HC244 پکیج DIP
+
+قیمت:
+219,200
+
+توضیحات کوتاه:
+آی سی بافر 74HC244 شامل 8 بافر سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 2V to 6V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±25mA
+Maximum propagation delay time: 12ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Octal buffer/line driver with 3-state outputs function
+Eight input/output pins (1A to 8A and 1Y to 8Y)
+Two active-low output enable control pins (OE1 and OE2)
+TTL-compatible input voltage level
+CMOS-compatible output voltage level
+20-pin DIP
+

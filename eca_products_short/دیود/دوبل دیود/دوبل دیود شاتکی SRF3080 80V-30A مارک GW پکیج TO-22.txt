@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/23875-دوبل-دیود-شاتکی-srf3080-80v-30a-مارک-gw-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF3080 80V-30A مارک GW پکیج TO-220FP
+
+قیمت:
+242,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 30 آمپر SRF3080 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 30 A 
+Vrrm - Repetitive Reverse Voltage: 80 V 
+Vf - Forward Voltage: 0.85 V 
+Ifsm - Forward Surge Current: 250 A
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C
+

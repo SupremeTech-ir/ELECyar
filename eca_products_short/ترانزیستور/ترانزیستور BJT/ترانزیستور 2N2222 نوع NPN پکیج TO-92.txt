@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/3359-ترانزیستور-2n2222-نوع-npn-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور 2N2222 نوع NPN پکیج TO-92
+
+قیمت:
+8,640
+
+توضیحات کوتاه:
+ترانزیستور 2N2222 نوع NPN پکیج TO-92 ولتاژ 30V جریان 800mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Type Designator: 2N2222
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 0.5 W
+Maximum Collector-Base Voltage |Vcb|: 60 V
+Maximum Collector-Emitter Voltage |Vce|: 30 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.8 A
+Max. Operating Junction Temperature (Tj): 175 °C
+Transition Frequency (ft): 250 MHz
+Collector Capacitance (Cc): 8 pF
+Forward Current Transfer Ratio (hFE), MIN: 100
+

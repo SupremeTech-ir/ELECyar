@@ -1,0 +1,66 @@
+URL: https://eshop.eca.ir/atmel/3661-میکروکنترلر-atxmega128a1u.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATxmega128A1U
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATxmega128A1U با هسته 8 بیتی AVR (پکیج SMD) با حافظه 128KB، فرکانس کاری 32MHz و 100 پایه ساخت شرکت میکروچیپ می باشد.
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATxmega128A1U دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 32 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATxmega128A1U دارای 78 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر ATxmega128A1U دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : XMEGA A1U
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 32 Mhz
+تعداد پین ها ورودی/خروجی : 78
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATxmega128A1U microcontroller has an 8-bit AVR processor core (SMD package) made by Microchip and operates at a frequency of 32 MHz. This microcontroller provides 128 KB of FLASH memory on the chip. ATxmega128A1U microcontroller has 78 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The ATxmega128A1U microcontroller has a working voltage of 1.8 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: Microchip 
+Product Category: 8-bit Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: TQFP-100 
+Series: XMEGA A1U 
+Core: AVR 
+Data Bus Width: 8 bit/16 bit 
+Maximum Clock Frequency: 32 MHz 
+Program Memory Size: 128 kB 
+Data RAM Size: 8 kB 
+ADC Resolution: 12 bit 
+Number of I/Os: 78 I/O 
+Operating Supply Voltage: 1.6 V to 3.6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Product: MCU 
+Program Memory Type: Flash 
+Brand: Microchip Technology / Atmel 
+Data RAM Type: SRAM 
+Data ROM Size: 2 kB 
+Data ROM Type: EEPROM 
+Interface Type: I2C, SPI, UART 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 16 
+Number of Timers/Counters: 8 Timer
+

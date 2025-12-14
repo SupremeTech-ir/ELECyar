@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/فیوز-قابل-برگشت-ریستی/15245-فیوز-قابل-برگشت-ریستی-250-ولت-2-آمپر-کد-trf250.html
+================================================================================
+
+عنوان:
+فیوز قابل برگشت - ریستی 250 ولت 2 آمپر کد TRF250
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC با ضریب دمایی مثبت (PPTC) 
+
+توضیحات کامل:
+معرفی
+
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC ، یک عنصر الکترونیک پسیو با ضریب دمایی مثبت (PPTC) است که برای محافظت در برابر اضافه جریان در مدارهای الکترونیکی استفاده می شود.
+این فیوز ها در حالتی که بیش از جریان مورد نظر از آن جریان عبور کند ، به شدت داغ شده و در صورت ادامه داشتن اضافه جریان ، فیوز قطع می شود . با برگشت دمای فیوز به حالت عادی ، فیوز مجددا وصل خواهد شد .
+
+Specification
+
+Product Category: Resettable Fuses - PPTC
+RoHS:  Details 
+Series: RXEF
+P/N: RF2000
+Termination Style: Radial
+Hold Current: 2A
+Maximum Voltage: 250V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Bulk
+Type: PolySwitch Resettable Fuses  
+Mounting Style: PCB Mount
+

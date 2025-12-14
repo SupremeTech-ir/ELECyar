@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14747-تراشه-بافر-74ls366-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه بافر 74LS366 پکیج DIP
+
+قیمت:
+168,000
+
+توضیحات کوتاه:
+آی سی بافر 74LS366 شامل 6 کانال با خروجی سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 6 Input
+Number of Output Lines: 6 Output
+Polarity: Inverting
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package/Case: PDIP-16
+Function: Buffer/Line Driver
+High Level Output Current: - 2.6 mA
+Input Signal Type: Single-Ended
+

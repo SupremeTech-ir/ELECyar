@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/1225-ماسفت-irfp260-نوع-n-channel-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ماسفت IRFP260 نوع N-Channel پکیج TO-247
+
+قیمت:
+709,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 50 آمپر IRFP260 نوع N-Channel  پکیج TO-247
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET 
+Technology: Si 
+Mounting Style: Through Hole 
+Package / Case: TO-247-3 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 200 V 
+Id - Continuous Drain Current: 50 A 
+Rds On - Drain-Source Resistance: 40 mOhms 
+Vgs - Gate-Source Voltage: - 20 V, + 20 V 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C 
+Pd - Power Dissipation: 300 W 
+Channel Mode: Enhancement
+Configuration: Single 
+Fall Time: 48 ns 
+Height: 20.7 mm 
+Length: 15.87 mm 
+Product Type: MOSFET 
+Rise Time: 60 ns 
+Transistor Type: 1 N-Channel
+

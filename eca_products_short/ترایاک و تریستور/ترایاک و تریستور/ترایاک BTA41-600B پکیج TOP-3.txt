@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/13722-ترایاک-bta41-600b-پکیج-top-3.html
+================================================================================
+
+عنوان:
+ترایاک BTA41-600B پکیج TOP-3
+
+قیمت:
+479,620
+
+توضیحات کوتاه:
+ترایاک 600 ولت 40 آمپر BTA41-600 پکیج TOP-3
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Triacs 
+Series: BTA41-600 
+Non Repetitive On-State Current: 40 A 
+Rated Repetitive Off-State Voltage VDRM: 600 V 
+Off-State Leakage Current @ VDRM IDRM: 5 uA 
+On-State Voltage: 1.8 V 
+Holding Current Ih Max: 80 mA 
+Gate Trigger Voltage - Vgt: 1.5 V 
+Gate Trigger Current - Igt: 100 mA 
+Minimum Operating Temperature: -40°C 
+Maximum Operating Temperature: +125°C 
+Mounting Style: Through Hole 
+Package/Case: TOP-3 
+Packaging: Bulk
+

@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/4309-تراشه-رم-mt48lc8m32b2p-پکیج-tsop-86.html
+================================================================================
+
+عنوان:
+تراشه رم MT48LC8M32B2P پکیج TSOP-86
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم MT48LC8M32B2P پکیج SMD TSOP-86
+
+توضیحات کامل:
+Specification 
+• PC100 functionality
+• Fully synchronous; all signals registered on positive
+edge of system clock
+• Internal pipelined operation; column address can
+be changed every clock cycle
+• Internal banks for hiding row access/precharge
+• Programmable burst lengths: 1, 2, 4, 8, or full page
+• Auto Precharge, includes Concurrent Auto
+Precharge, and Auto Refresh Modes
+• Self Refresh Mode
+• 64ms, 4,096-cycle refresh (15.6μs/row)
+• LVTTL-compatible inputs and outputs
+• Single +3.3V ±0.3V power supply
+• Supports CAS latency of 1, 2, and 3
+

@@ -1,0 +1,75 @@
+URL: https://eshop.eca.ir/تراشه-واسط/15928-تراشه-رابط-adm202e-پکیج-tssop-16.html
+================================================================================
+
+عنوان:
+تراشه رابط ADM202E پکیج TSSOP-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی ADM202E مناسب ارتباط های پروتکل RS-232 پکیج SMD TSSOP-16
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Analog Devices Inc. 
+
+Product Category: RS-232 Interface IC 
+
+Mounting Style: SMD/SMT 
+
+Package / Case: TSSOP-16 
+
+Series: ADM202E 
+
+Function: Transceiver 
+
+Data Rate: 230 kb/s 
+
+Number of Drivers: 2 Driver 
+
+Number of Receivers: 2 Receiver 
+
+Operating Supply Voltage: 5 V 
+
+Operating Supply Current: 6 mA 
+
+Minimum Operating Temperature: - 40 C 
+
+Maximum Operating Temperature: + 85 C 
+
+ESD Protection: 15 kV 
+
+Packaging: Tube 
+
+Height: 1.05 mm (Max) 
+
+Length: 5 mm 
+
+Output Type: Single-Ended 
+
+Product: RS-232 Transceivers 
+
+Supply Type: Single Supply 
+
+Width: 4.4 mm 
+
+Brand: Analog Devices 
+
+Shutdown: Without Shutdown 
+
+Number of Transceivers: 1 Transceiver 
+
+Product Type: RS-232 Interface IC 
+
+Protocol Supported: RS-232 
+
+Receiver Signal Type: Single-Ended 
+
+Subcategory: Interface ICs 
+
+Supply Voltage - Max: 5.5 V 
+
+Supply Voltage - Min: 4.5 V
+

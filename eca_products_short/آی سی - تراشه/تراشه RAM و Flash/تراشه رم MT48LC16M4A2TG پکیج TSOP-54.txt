@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/3607-تراشه-رم-mt48lc16m4a2tg-پکیج-tsop-54.html
+================================================================================
+
+عنوان:
+تراشه رم MT48LC16M4A2TG پکیج TSOP-54
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم MT48LC16M4A2TG پکیج SMD TSOP-54
+
+توضیحات کامل:
+Specification 
+• PC100- and PC133-compliant
+• Fully synchronous; all signals registered on positive
+edge of system clock
+• Internal, pipelined operation; column address can
+be changed every clock cycle
+• Internal banks for hiding row access/precharge
+• Programmable burst lengths: 1, 2, 4, 8, or full-page
+• Auto precharge, includes concurrent auto precharge
+and auto refresh modes
+• Self refresh modes: standard and low-power
+(not available on AT devices)
+• Auto refresh
+– 64ms, 4096-cycle refresh
+(commercial and industrial)
+– 16ms, 4096-cycle refresh
+(automotive)
+• LVTTL-compatible inputs and outputs
+• Single 3.3V ±0.3V power supply
+

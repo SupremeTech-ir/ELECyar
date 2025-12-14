@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-ttl/16153-تراشه-لچ-74hc573pw-پکیج-sop-20.html
+================================================================================
+
+عنوان:
+تراشه لچ 74HC573PW پکیج SOP-20
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+آی سی 74HC573PW لچ 8 تایی تایپ D پکیج SOP-20 SMD
+
+توضیحات کامل:
+Specification
+
+Number of Circuits: 8 Circuit     
+Logic Type: D-Type Latch     
+Logic Family: 74HC     
+Polarity: Non-Inverting     
+Quiescent Current: 8 uA     
+Number of Output Lines: 8 Line     
+High Level Output Current: - 7.8 mA     
+Propagation Delay Time: 15 ns     
+Supply Voltage - Max: 6 V     
+Supply Voltage - Min: 2 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature:  + 125 C     
+Package / Case: SOP-20     
+Function: Transparent     
+Mounting Style: SMD/SMT     
+Number of Channels: 8 Channels     
+Number of Input Lines: 10 Line     
+Operating Supply Voltage: 2 V to 6 V     
+Output Type: 3-State     
+Product Type: Latches     
+Subcategory: Logic ICs     
+Type: D-Type
+

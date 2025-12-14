@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/رله-حالت-جامد-ssr/10612-رله-حالت-جامد-ssr-40-da.html
+================================================================================
+
+عنوان:
+رله حالت جامد SSR-40 DA
+
+قیمت:
+0
+
+توضیحات کوتاه:
+رله حالت جامد SSR-40 DA با محدوده ولتاژ 380VAC~24VAC و 40 آمپر 
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Introduction
+
+This is SSR-40DA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+Reliable SMT technology
+High ultra-insulation resistance over 50MΩ/500V DC
+High dielectric over 2.5KV
+Low enable current less than 7.5mA/12V DC, compatible with CMOS IC or TTL
+Low EMI/EFI & surge by zero cross trigger method
+High surge current over 410A/one cycle (60Hz)
+High surge voltage duration by snubber circuit
+
+Specification
+
+Model: SSR-40 DA
+Control Mode: DC-AC
+Load Voltage: 24-380VAC
+Load Current: 40A
+Control Voltage: 3-32VDC
+Control Current: DC3-25mA
+On voltage: ≤1V
+One-off Time: ≤10ms
+Off leakage Current: ≤2mA
+Installation Method:  Bolt Fixed
+Working Indication: LED
+

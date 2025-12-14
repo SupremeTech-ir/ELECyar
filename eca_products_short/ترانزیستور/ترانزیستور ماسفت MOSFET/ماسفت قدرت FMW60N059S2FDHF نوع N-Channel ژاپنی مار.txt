@@ -1,0 +1,68 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/24005-ماسفت-قدرت-fmw60n059s2fdhf-نوع-n-channel-ژاپنی-مارک-fuji-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ماسفت قدرت FMW60N059S2FDHF نوع N-Channel ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+1,410,000
+
+توضیحات کوتاه:
+ماسفت قدرت FMW60N059S2FDHF از نوع N-Channel با ولتاژ 600 ولت و جریان 64 آمپر، مناسب برای کاربردهای سوئیچینگ صنعتی و منابع تغذیه سوئیچینگ
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت قدرت مدل FMW60N059S2FDHF از سری Super J MOS® S2 ساخت شرکت FUJI Electric ژاپن، یک ماسفت تقویتی N-Channel با عملکرد بسیار سریع و تلفات پایین است. این ماسفت برای کاربردهای سوئیچینگ در منابع تغذیه، اینورترها و سیستم‌های کنترل موتور طراحی شده است.
+ویژگی بارز این مدل مقاومت در حالت روشن پایین (RDS(on) حدود 0.052 اهم)، ظرفیت گیت کم و تحمل جریان‌های لحظه‌ای بالا تا 200 آمپر می‌باشد. طراحی داخلی آن باعث بهبود راندمان حرارتی و کاهش توان تلفاتی می‌شود. بدنه‌ی TO-247 آن انتقال حرارت به هیت‌سینک را تسهیل کرده و عملکرد پایدار در دماهای بالا را تضمین می‌کند.
+این ماسفت دارای مقاومت حرارتی 0.368°C/W و توان اتلافی 340 وات در دمای کیس 25°C است و برای عملکرد در بازه‌ی دمایی -55 تا +150 درجه سانتی‌گراد بهینه‌سازی شده است.
+
+مشخصات 
+
+نوع ترانزیستور: N-Channel Power MOSFET
+ولتاژ Drain-Source (VDS): 600V
+جریان Drain پیوسته (ID): 64.4A در 25°C / 40.7A در 100°C
+جریان Drain پالسی (IDP): 200A
+ولتاژ Gate-Source (VGS): ±30V
+مقاومت Drain-Source در حالت روشن (RDS(on)): 0.052Ω typ @ VGS=10V, ID=25A
+ولتاژ شکست Gate Threshold (VGS(th)): 3.0 تا 5.0V
+توان تلفاتی (PD): 340W در 25°C
+دمای کاری Junction: تا 150°C
+رسانایی گیت (gfs): حداکثر 36S
+ظرفیت ورودی (Ciss): 2680pF
+زمان روشن شدن (td(on)): 28ns
+زمان خاموش شدن (td(off)): 183ns
+بسته‌بندی: TO-247
+
+کاربردهای رایج
+
+ماسفت FMW60N059S2FDHF در سامانه‌های قدرت و تجهیزات الکترونیکی صنعتی استفاده می‌شود که نیاز به راندمان بالا، کنترل دقیق و تلفات کم دارند.
+
+منابع تغذیه سوئیچینگ (SMPS)
+درایور موتورهای DC و BLDC
+سیستم‌های اینورتر و UPS
+تجهیزات صنعتی و کنترلی
+مبدل‌های DC-DC و DC-AC
+مدارات تقویت‌کننده قدرت
+سیستم‌های توان بالا با فرکانس سوئیچ بالا
+
+Specification
+
+Product Category: MOSFET 
+Technology: Si 
+Mounting Style: Through Hole 
+Package/Case: TO-247-3 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 600 V 
+Id - Continuous Drain Current: 64.4 A 
+Rds On - Drain-Source Resistance: 0.059 Ohms 
+Vgs - Gate-Source Voltage: - 30 V, + 30 V 
+Vgs th - Gate-Source Threshold Voltage: 5 V 
+Qg - Gate Charge: 129 nC 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Pd - Power Dissipation: 340 W
+

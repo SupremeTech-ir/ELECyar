@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/5976-تراشه-درایور-تاچ-خازنی-ts04-پکیج-sop-14.html
+================================================================================
+
+عنوان:
+تراشه درایور تاچ خازنی TS04 پکیج SOP-14
+
+قیمت:
+403,000
+
+توضیحات کوتاه:
+آی سی ADSTS04 سنسور Touch خازنی چهار کاناله پکیج 14SOP
+
+توضیحات کامل:
+مشخصات
+
+ولتاژ تغذیه باتری: 5.0 ولت
+حداکثر ولتاژ در هر پایه VDD+0.3
+حداکثر جریان در هر PAD 100mA
+اتلاف برق 800mW
+دمای عملیاتی 20- ~ 75+ ℃
+
+ویژگی
+
+سنسور خازنی 4 کانال با کالیبراسیون حساسیت خودکار
+رابط خروجی موازی
+حساسیت قابل تنظیم مستقل با خازن خارجی
+فرکانس داخلی قابل تنظیم با مقاومت خارجی
+مدار حذف نویز با فرکانس بالا
+مصرف جریان کم
+
+کاربرد
+
+سوئیچ 
+تابلوهای کنترل ، صفحه کلید
+برنامه ماتریس قفل کلید درب
+
+Specification
+
+Battery supply voltage : 5.0V
+Maximum voltage on any pin VDD+0.3
+Maximum current on any PAD 100mA
+Power Dissipation 800mW
+Storage Temperature -50 ~ 150℃
+Operating Temperature -20 ~ 75℃
+Junction Temperature 150℃
+
+Feature
+
+4-Channel capacitive sensor with auto sensitivity calibration 
+Parallel output interface  
+Independently adjustable sensitivity with external capacitor 
+Adjustable internal frequency with external resister 
+Embedded high frequency noise elimination circuit 
+Low current consumption  
+package : 14SOP 
+
+Application
+
+Membrane switch replacement   
+Sealed control panels, keypads    
+Door key-lock matrix application
+

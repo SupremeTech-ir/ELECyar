@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/10056-ترایاک-bt131-600-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترایاک BT131-600 پکیج TO-92
+
+قیمت:
+31,100
+
+توضیحات کوتاه:
+ترایاک BT131-600 پکیج TO-92
+
+مشخصات فنی:
+پکیج: TO-92
+
+توضیحات کامل:
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification 
+Product Category: Triacs
+RoHS: Details 
+On-State RMS Current - It RMS: 1 A
+Non Repetitive On-State Current: 13.8 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 100 uA
+On-State Voltage: 1.2 V
+Holding Current Ih Max: 5 mA
+Gate Trigger Voltage - Vgt: 700 mV
+Gate Trigger Current - Igt: 3.8 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+

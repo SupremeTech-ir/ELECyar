@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/2482-ترایاک-bt138-600.html
+================================================================================
+
+عنوان:
+ترایاک BT138-600
+
+قیمت:
+103,000
+
+توضیحات کوتاه:
+ترایاک BT138-600 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs 
+On-State RMS Current - It RMS: 12 A 
+Non Repetitive On-State Current: 95 A 
+Rated Repetitive Off-State Voltage VDRM: 600 V 
+On-State Voltage: 1.4 V 
+Holding Current Ih Max: 30 mA 
+Gate Trigger Voltage - Vgt: 0.7 V 
+Gate Trigger Current - Igt: 22 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Mounting Style: Through Hole 
+Package / Case: TO-220AB
+

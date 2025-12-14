@@ -1,0 +1,50 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/1902-تراشه-درایور-تاچ-xpt2046-پکیج-tssop-16.html
+================================================================================
+
+عنوان:
+تراشه درایور تاچ XPT2046 پکیج TSSOP-16
+
+قیمت:
+211,000
+
+توضیحات کوتاه:
+آی سی درایور تاچ  XPT2046 مناسب برای تاچ های مقاومتی  پکیج SMD SOP-16
+
+توضیحات کامل:
+XPT2046 معروف ترین IC دیکودر برای تاچ اسکرین های مقاومتی است که شما می توانید این دسته از ICها را تقریبا در تمام واحدهای مخابراتی پیدا کنید.
+این محصول یک کنترلر تاچ اسکرین مقاومتی 4 سیمه، شامل یک مبدل A/D نوع SAR125 کیلوهرتز 12 بیتی است.
+XPT2046 می تواند مکان لمس شده را توسط دو مبدل A/D تشخیص دهد.
+ می توانید از SPI میکروکنترلر برای خواندن و نوشتن روی این آی سی استفاده کنید.
+
+FEATURES
+
+4-WIRE TOUCH SCREEN INTERFACE
+RATIOMETRIC CONVERSION
+SINGLE SUPPLY: 2.7V to 5V
+UP TO 125kHz CONVERSION RATE
+SERIAL INTERFACE
+PROGRAMMABLE 8- OR 12-BIT RESOLUTION
+2 AUXILIARY ANALOG INPUTS
+FULL POWER-DOWN CONTROL
+DESCRIPTION
+The ADS7843 is a 12-bit sampling Analog-to-Digital Converter
+(ADC) with a synchronous serial interface and low onresistance
+switches for driving touch screens. Typical power
+dissipation is 750?W at a 125kHz throughput rate and a
++2.7V supply. The reference voltage (VREF) can be varied
+between 1V and +VCC, providing a corresponding input
+voltage range of 0V to VREF. The device includes a shutdown
+mode which reduces typical power dissipation to under
+0.5?W. The ADS7843 is specified down to 2.7V operation.
+Low power, high speed, and onboard switches make the
+ADS7843 ideal for battery-operated systems such as personal
+digital assistants with resistive touch screens and other
+portable equipment. The ADS7843 is available in an
+SSOP-16 package and is specified over the –40°C to +85°C
+temperature range.
+APPLICATIONS
+PERSONAL DIGITAL ASSISTANTS
+PORTABLE INSTRUMENTS
+POINT-OF-SALES TERMINALS
+TOUCH SCREEN MONITORS
+

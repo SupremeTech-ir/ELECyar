@@ -1,0 +1,104 @@
+URL: https://eshop.eca.ir/pic/15824-میکروکنترلر-pic16c62b-04sp-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر PIC16C62B-04/SP پکیج DIP
+
+قیمت:
+596,000
+
+توضیحات کوتاه:
+میکروکنترلر PIC16C62B-04/SP با هسته PIC16 (پکیج DIP) با حافظه 2KB و فرکانس کاری 4MHz ساخت شرکت Microchip می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر PIC16C62B-04/SP دارای هسته پردازنده 8 بیتی PIC16 (پکیج DIP) توسط شرکت Microchip ساخته شده است و با فرکانس 4 مگاهرتز کار می کند. این میکروکنترلر 2 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر PIC16C62B-04/SP دارای 22 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر PIC16C62B-04/SP دارای ولتاژ کاری 4 تا 5.5 ولت بوده و در محدود دمایی 0 تا 70 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : PIC16(L)C6x
+دارای هسته 8 بیتی PIC16
+ولتاژ کاری : 4 ولت تا 5.5 ولت
+سرعت: 4 Mhz
+حافظه: 2 kB
+پکیج : PDIP-28
+تعداد پین ها ورودی/خروجی : 22
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : 0 تا 70 درجه سانتیگراد
+
+Introduction
+
+The PIC16C62B-04 / SP microcontroller has an 8-bit PIC16 processor core made by Microchip and operates at a frequency of 4 MHz. This microcontroller provides 2 KB of FLASH memory on the chip. The PIC16C62B-04 / SP microcontroller has 22 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The PIC16C62B-04 / SP microcontroller has an operating voltage of 4 to 5.5 volts and operates in the temperature range of 0 to 70 ° C.
+
+Specification
+
+Manufacturer: Microchip 
+
+Product Category: 8-bit Microcontrollers - MCU 
+
+RoHS: Details 
+
+Series: PIC16(L)C6x 
+
+Mounting Style: Through Hole 
+
+Package / Case: PDIP-28 
+
+Core: PIC16 
+
+Program Memory Size: 2 kB 
+
+Data Bus Width: 8 bit 
+
+ADC Resolution: No ADC 
+
+Maximum Clock Frequency: 4 MHz 
+
+Number of I/Os: 22 I/O 
+
+Data RAM Size: 128 B 
+
+Operating Supply Voltage: 4 V to 5.5 V 
+
+Minimum Operating Temperature: 0 C 
+
+Maximum Operating Temperature: + 70 C 
+
+Height: 3.3 mm 
+
+Length: 34.67 mm 
+
+Product: MCU 
+
+Program Memory Type: EPROM 
+
+Width: 7.24 mm 
+
+Brand: Microchip Technology 
+
+Data ROM Size: 128 B 
+
+Data ROM Type: EPROM 
+
+Interface Type: I2C, SPI, SSP 
+
+Number of Timers/Counters: 3 Timer 
+
+Processor Series: PIC16 
+
+Product Type: 8-bit Microcontrollers - MCU 
+
+Subcategory: Microcontrollers - MCU 
+
+Supply Voltage - Max: 5.5 V 
+
+Supply Voltage - Min: 4 V 
+
+Tradename: PIC
+

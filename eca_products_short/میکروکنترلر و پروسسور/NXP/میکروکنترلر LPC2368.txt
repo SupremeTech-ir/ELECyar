@@ -1,0 +1,63 @@
+URL: https://eshop.eca.ir/nxp/738-میکروکنترلر-lpc2368.html
+================================================================================
+
+عنوان:
+میکروکنترلر LPC2368
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر LPC2368 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 100MHz
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر LPC2368 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت NXP ساخته شده است است و با فرکانس 100 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر LPC2368 دارای 70 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر LPC2368 دارای ولتاژ کاری 3.3 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : NXP
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 3.3 ولت 
+سرعت: 100 Mhz
+حافظه: 512 kB
+پکیج : LQFP-100
+تعداد پین ها ورودی/خروجی : 70 
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Product Category:     ARM Microcontrollers - MCU     
+Mounting Style:     SMD/SMT     
+Package / Case:     LQFP-100     
+Core:     ARM Cortex M3     
+Data Bus Width:     32 bit     
+Maximum Clock Frequency:     100 MHz     
+Program Memory Size:     512 kB     
+Data RAM Size:     64 kB     
+ADC Resolution:     12 bit     
+Operating Supply Voltage:     3.3 V     
+Maximum Operating Temperature:     + 85 C     
+Processor Series:     LPC17     
+Packaging:     Tray     
+Data RAM Type:     SRAM     
+Height:     1.45 mm (Max)     
+Interface Type:     CAN, I2C, SPI, UART     
+Length:     14.1 mm (Max)     
+Minimum Operating Temperature:     - 40 C     
+Number of ADC Channels:     8     
+Number of I/Os:     70 I/O     
+Number of Timers/Counters:     3 Timer     
+Program Memory Type:     Flash     
+Series:     LPC17xx     
+Factory Pack Quantity:     90     
+Supply Voltage - Max:     3.6 V     
+Supply Voltage - Min:     2.4 V     
+Tradename:     LPC     
+Width:     14.1 mm (Max)     
+Unit Weight:     0.025687 oz
+
