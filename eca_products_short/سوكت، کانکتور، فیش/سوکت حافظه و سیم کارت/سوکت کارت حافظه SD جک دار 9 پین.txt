@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/سوکت-حافظه-و-سیم-کارت/24924-سوکت-کارت-حافظه-sd-جک-دار-9-پین.html
+================================================================================
+
+عنوان:
+سوکت کارت حافظه SD جک دار 9 پین
+
+قیمت:
+58,000
+
+توضیحات کوتاه:
+سوکت مموری کارت SD جک دار 9 پین
+
+توضیحات کامل:
+Security Digital Card Connector
+WK Series
+Right Angle, SMT
+Push Push Type
+With Detect Switches
+9 Pos.
+
+SPECIFICATIONS
+
+Mechanical
+Card Insertion Force: 1.5Kg (3.31Lb) max.
+Durability: 10000 Cycles
+
+Electrical
+Operating Voltage: 3.3V
+Operating Current: 100mA
+Contact Current Carrying Capacity : 500mA max.
+Contact Resistance: 30mW max. initial
+Dielectric Withstanding Voltage: 500Vrms AC min.
+Insulation Resistance: 1000MW max. initial
+
+Physical
+Housing: Thermoplastic, UL 94V-0 rated in Black Color
+Contact: Copper Alloy
+Plating: See “ORDERING INFORMATION”
+Operating Temperature: -20℃ to +85℃
+

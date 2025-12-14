@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/2800-تراشه-اپتوکوپلر-moc3022-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر MOC3022 پکیج DIP
+
+قیمت:
+155,000
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر 6 پایه تک کانال با خروجی فتوترایاک
+
+توضیحات کامل:
+آی سی MOC3022 یک اپتوکوپلر تکی با خروجی فتوترایاک می باشد.از کاربردهای این اپتوکوپلر کنترل موتورها و رله های حالت جامد می باشد.
+
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Triac & SCR Output Optocouplers 
+Package / Case: PDIP-6 
+Zero-Crossing Circuit: Without Zero-Crossing Circuit 
+Output Type: PhotoTriac 
+Number of Channels: 1 Channel 
+Isolation Voltage: 5300 Vrms 
+If - Forward Current: 50 mA 
+Vf - Forward Voltage: 1.2 V 
+Pd - Power Dissipation: 300 mW 
+Off-state Output Voltage - VDRM: 400 V 
+Maximum Continuous Output Current: 100 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 100 C 
+Series: MOC3022 
+Height: 3.68 mm 
+Length: 9.4 mm 
+Width: 6.6 mm 
+Brand: Texas Instruments 
+Mounting Style: Through Hole 
+Maximum Trigger Current: 10 mA
+

@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/1713-تقویت-کننده-ولتاژ-پایین-صوتی-lm386-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه تقویت کننده ولتاژ پایین صوتی LM386 پکیج SO-8
+
+قیمت:
+33,400
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر LM386 
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers 
+Series: LM386 
+Product: Audio Amplifiers 
+Class: Class-AB 
+Output Power: 325 mW 
+Mounting Style: SMD/SMT 
+Type: 1-Channel Mono 
+Package / Case: SOIC-8 
+Audio - Load Impedance: 4 Ohms 
+THD plus Noise: 0.2 % 
+Supply Voltage - Max: 12 V 
+Supply Voltage - Min: 4 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Description/Function: Speaker 
+Height: 1.45 mm 
+Input Type: Analog 
+Length: 4.9 mm 
+Output Type: 1-Channel Mono 
+Supply Type: Single 
+Width: 3.9 mm 
+Gain: 20 dB 
+Number of Channels: 1 Channel 
+Ib - Input Bias Current: 250 nA 
+Operating Supply Current: 4 mA 
+Operating Supply Voltage: 5 V, 9 V 
+Output Signal Type: Single 
+Pd - Power Dissipation: 730 mW 
+Product Type: Audio Amplifiers 
+PSRR - Power Supply Rejection Ratio: 50 dB
+

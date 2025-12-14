@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/رگولاتور/1501-رگولاتور-9-ولت-78l09-پلاستیکی-پکیج-to-92.html
+================================================================================
+
+عنوان:
+رگولاتور 9+ ولت 78L09 پلاستیکی پکیج TO-92
+
+قیمت:
+28,500
+
+توضیحات کوتاه:
+رگولاتور 9+ ولت 78L09 پلاستیکی پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators 
+Mounting Style: Through Hole 
+Package / Case: TO-92
+Number of Outputs: 1 Output 
+Polarity: Positive 
+Output Voltage: +9 V 
+Output Current: 100 mA 
+Output Type: Fixed 
+Input Voltage, Min: 10.7 V 
+Input Voltage, Max: 30 V 
+Load Regulation: 90 mV 
+Line Regulation: 175 mV 
+Quiescent Current: 3 mA 
+PSRR / Ripple Rejection - Typ: 57 dB
+

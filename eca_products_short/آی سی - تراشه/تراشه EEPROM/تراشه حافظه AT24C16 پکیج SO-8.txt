@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1900-تراشه-حافظه-at24c16-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C16 پکیج SO-8
+
+قیمت:
+77,900
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C16 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Medium-voltage and Standard-voltage Operation
+5.0 (VCC = 4.5V to 5.5V)
+2.7 (VCC = 2.7V to 5.5V)
+Internally Organized 128 x 8 (1K), 256 x 8 (2K), 512 x 8 (4K),
+1024 x 8 (8K) or 2048 x 8 (16K)
+Two-wire Serial Interface
+Schmitt Trigger, Filtered Inputs for Noise Suppression
+Bi-directional Data Transfer Protocol
+100 kHz (2.7V) and 400 kHz (5V) Compatibility
+Write Protect Pin for Hardware Data Protection
+8-byte Page (1K, 2K), 16-byte Page (4K, 8K, 16K) Write Modes
+Partial Page Writes are Allowed
+Self-timed Write Cycle (5 ms max)
+High-reliability
+Endurance: 1 Million Write Cycles
+Data Retention: 100 Years
+8-lead PDIP and 8-lead JEDEC SOIC Packages
+

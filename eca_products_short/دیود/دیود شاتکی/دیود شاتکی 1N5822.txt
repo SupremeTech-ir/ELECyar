@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/1282-دیود-شاتکی-1n5822.html
+================================================================================
+
+عنوان:
+دیود شاتکی 1N5822
+
+قیمت:
+41,100
+
+توضیحات کوتاه:
+دیود شاتکی 40 ولت 3 آمپر 1N5822
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers 
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package / Case: DO-201AD-2 
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 3 A 
+Vrrm - Repetitive Reverse Voltage: 40 V 
+Vf - Forward Voltage: 525 mV 
+Ifsm - Forward Surge Current: 80 A 
+Ir - Reverse Current: 2 mA 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C
+

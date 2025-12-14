@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/آنتن-gps/5003-آنتن-gps-داخلی-سایز-15x15x6mm.html
+================================================================================
+
+عنوان:
+آنتن GPS داخلی سایز 15x15x6mm
+
+قیمت:
+1,920,000
+
+توضیحات کوتاه:
+آنتن GPS داخلی از نوع Passive با سر فیش IPX مناسب برای انواع دستگاه های موقعیت یاب
+
+توضیحات کامل:
+Introduction 
+15x15x6mm passive GPS antenna / band backplane extension cable / IPX interface / navigation antenna.
+
+Specification 
+Passieve GPS Antenne IPX uFL Extention Kabel Navigatie Draad 2dBi Gain 15x15x6mm
+Beschrijving:
+Kabel lengte: 5.5cm
+Draad impedantie: 50ohm
+Gain:2dBi
+Noise: 1.5
+Interface:IPEX uFL
+

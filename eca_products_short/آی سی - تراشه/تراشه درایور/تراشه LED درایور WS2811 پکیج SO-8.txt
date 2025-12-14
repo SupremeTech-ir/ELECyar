@@ -1,0 +1,55 @@
+URL: https://eshop.eca.ir/تراشه-درایور/25486-تراشه-led-درایور-ws2811-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه LED درایور WS2811 پکیج SO-8
+
+قیمت:
+25,500
+
+توضیحات کوتاه:
+چیپ درایور سه‌کاناله LED با قابلیت کنترل رنگ RGB به‌صورت مستقل ، مناسب برای نوارهای LED آدرس‌پذیر محصول WORLDSEMI
+
+توضیحات کامل:
+آی‌سی WS2811 یکی از پرکاربردترین درایورهای LED دیجیتال است که در پروژه‌های نورپردازی رنگی و نوارهای LED آدرس‌پذیر به‌کار می‌رود. این آی‌سی از خانواده درایورهای LED است و امکان کنترل دقیق هر سه رنگ قرمز، سبز و آبی را به‌صورت مستقل فراهم می‌کند. WS2811 دارای سه خروجی جریان ثابت PWM بوده که برای هر رنگ تا 256 سطح شدت روشنایی (8 بیت) را فراهم می‌سازد.
+
+مشخصات
+
+ولتاژ تغذیه: 3.5 تا 5.7 ولت
+جریان خروجی هر کانال: 16.5 میلی‌آمپر
+سطح خاکستری (Gray Scale) برابر 256 سطح (8 بیت)
+فرکانس PWM برابر 2 کیلوهرتز
+نرخ انتقال داده: 800 کیلوبیت بر ثانیه
+پکیج: SOP-8
+دمای کاری: -40 تا +85 درجه سلسیوس
+ولتاژ پایه‌های OUTR، OUTG، OUTB و DOUT: حداکثر تا 20 ولت
+ولتاژ پایه DIN: حداکثر تا 9.5 ولت
+هر کانال رنگ (قرمز، سبز، آبی) در آی‌سی WS2811 می‌تواند 256 مقدار مختلف شدت نور را تولید کند، که معادل ۸ بیت اطلاعات برای هر رنگ است.
+
+کاربرد
+
+نوارهای LED آدرس‌پذیر
+نورپردازی دیجیتال و دکوراتیو
+تابلوهای LED تمام‌رنگ
+پروژه‌های آردوینو و میکروکنترلر
+سیستم‌های نورپردازی پیکسلی و هوشمند
+پروژه‌های تبلیغاتی و نمای شهری
+
+Introduction
+
+The WS2811 IC is one of the most widely used digital LED drivers used in color lighting projects and addressable LED strips. This IC is part of the LED driver family and allows for precise control of all three colors, red, green, and blue, independently. The WS2811 has three PWM constant current outputs that provide up to 256 levels of brightness (8 bits) for each color.
+
+This chip uses a serial data (DIN) to receive color information and passes the data to the next chip in the chain (DOUT) after processing. This chain structure allows for the control of a large number of LEDs independently and addressably.
+
+Specifications
+
+Supply voltage: 3.5 to 5.7 V
+Output current per channel: 16.5 mA
+Grayscale: 256 levels (8 bits)
+PWM frequency: 2 kHz
+Data transfer rate: 800 kbps
+Package: SOP-8
+Operating temperature: -40 to +85 degrees Celsius
+Output voltage of OUTR, OUTG, OUTB and DOUT pins: up to 20 V
+DIN pin voltage: up to 9.5 V
+

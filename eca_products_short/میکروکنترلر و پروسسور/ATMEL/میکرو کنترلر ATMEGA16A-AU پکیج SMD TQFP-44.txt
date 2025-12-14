@@ -1,0 +1,69 @@
+URL: https://eshop.eca.ir/atmel/1490-میکرو-کنترلر-atmega16a-au-پکیج-smd-tqfp-44.html
+================================================================================
+
+عنوان:
+میکرو کنترلر ATMEGA16A-AU پکیج SMD TQFP-44
+
+قیمت:
+1,500,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA16A-AU با هسته 8 بیتی AVR (پکیج SMD TQFP-44) با حافظه 16KB، فرکانس کاری 16MHz و 44 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA16A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA16A-AU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA16A-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی40- تا 85+ درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : ATmega16A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 16 kB
+پکیج : TQFP-44
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The low power, high performance CMOS 8/16-bit microcontroller is based on the Microchip AVR enhanced RISC architecture. The device features 16KB self programming flash program memory, 1024-byte SRAM, 512-byte EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device acheives 16 MIPS throughput at 16 Mhz at 2.7-5.5V operation. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, allowing you to optimize power consumption versus processing speed.
+
+Specification
+
+Manufacturer: Microchip 
+Product Category: 8-bit Microcontrollers - MCU 
+Series: ATmega16A 
+Mounting Style: SMD/SMT 
+Package / Case: TQFP-44 
+Core: AVR 
+Program Memory Size: 16 kB 
+Data Bus Width: 8 bit 
+ADC Resolution: 10 bit 
+Maximum Clock Frequency: 16 MHz 
+Number of I/Os: 32 I/O 
+Data RAM Size: 1 kB 
+Supply Voltage - Min: 2.7 V 
+Supply Voltage - Max: 5.5 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Brand: Microchip Technology / Atmel 
+Data RAM Type: SRAM 
+Data ROM Size: 512 B 
+Data ROM Type: EEPROM 
+Height: 1 mm 
+Interface Type: 2-Wire, SPI, USART 
+Length: 10 mm 
+Moisture Sensitive: Yes 
+Number of Timers/Counters: 3 Timer 
+Processor Series: megaAVR 
+Product: MCU 
+Product Type: 8-bit Microcontrollers - MCU 
+Program Memory Type:Flash 
+Subcategory: Microcontrollers - MCU 
+Tradename: AVR 
+Width:10 mm
+

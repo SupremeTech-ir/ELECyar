@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/18161-دوبل-دیود-فوق-سریع-stt16r04ct-مارک-st-پکیج-to-220.html
+================================================================================
+
+عنوان:
+دوبل دیود فوق سریع STT16R04CT مارک ST پکیج TO-220
+
+قیمت:
+524,000
+
+توضیحات کوتاه:
+دوبل دیود 400 ولت 30 آمپر STT16R04CT مارک ST پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Manufacturer:STMicroelectronics 
+P/N : STT16R04CT
+Repetitive peak reverse voltage(Vrrm) : 400 V
+Forward rms current If(rms) : 30 A
+Average forward current δ = 0.5, square wave If(AV)
+TC = 150 °C Per diode 8A
+TC = 145 °C Per device 16A
+Surge non repetitive forward current tp I(fsm) = 120 A
+Storage temperature range = -65 to +175 °C
+Maximum operating junction temperature range = -40 to +175 °C
+

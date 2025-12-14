@@ -1,0 +1,57 @@
+URL: https://eshop.eca.ir/خازن-صوتی-و-سیلمیک-silmic/17337-خازن-الکترولیتی-22uf-16v-ژاپنی-مارک-elna-سری-silmic-ii.html
+================================================================================
+
+عنوان:
+خازن الکترولیتی 22uF / 16V ژاپنی مارک ELNA سری SILMIC II
+
+قیمت:
+79,200
+
+توضیحات کوتاه:
+خازن الکترولیتی 22 میکرو فاراد 16 ولت سیلمیک مارک النا ELNA
+
+مشخصات فنی:
+ولتاژ (v): 16
+ظرفیت (uF): 22
+
+توضیحات کامل:
+خازن های High-grade سیلمیک SILMIC یکی از مرغوبترین و محبوب ترین خازنها در مدارات صوتی، آمپلی فایر و پری آمپلی فایر می باشند. خازن های سیلمیک ELNA از پایه های مسی قلع اندود شده ” اکسیژن فری ” جهت به حداقل رساندن اعوجاج های صدا ساخته شده اند.
+
+ویژگی ها
+
+جنس پایه ها از مس با حداکثر خلوص و قلع اندود شده و خالی از اکسیژن برای به حداقل رساندن اعوجاج های صدا
+سرعت شارژ و دشارژ عالی 
+استفاده از تارهای ابریشم بعنوان دی الکتریک
+قدرت تفکیک فوق العاده صدا در سه محدوده low , mid & high
+
+مشخصات
+
+نوع خازن: الکترولیتی
+برند: النا سری سیلمیک
+ظرفیت: 22 میکروفاراد
+ولتاژ کاری: 16 ولت DC
+حداکثر دما قابل تحمل: 85 درجه سانتیگراد
+قطر: 5 میلیمتر
+ارتفاع: 11 میلیمتر
+فاصله پایه ها: 2.3 میلیمتر
+
+Introduction
+
+Elna RFS (SILMIC II) Miniature High-Grade Capacitors for Audio use silk fibers for foil separation instead of paper. By using silk fibers and the fiber's pliability, the RFS (SILMIC II) Series offer high-grade superior acoustic sound for audio design. The RFS Capacitors can be used to relieve the music's harmonic vibration, increase the purity of the sound at high frequency, decrease muddy sound at the middle frequency, and increase high energy bass sound at low frequency.
+
+- Relieves vibration energy
+- Decreases peak feeling sound at the high compass and rough quality sound at the middle compass
+- Increases massive sound at the low compass
+- Oxygen-free copper lead wires for extremely low distortion
+
+Specification
+
+Brand: Elna
+Termination Style: Radial
+Capacitance: 22uF
+Voltage Rating DC: 16 VDC
+Maximum Operating Temperature: -40°C ~ +85°C
+Diameter: 5mm
+Height: 11mm
+Pitch: 2.3mm
+

@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-cmos/20058-تراشه-آژیر-sc1006-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه آژیر SC1006 پکیج SOP-8
+
+قیمت:
+119,000
+
+توضیحات کوتاه:
+آی سی SC1006 نوع CMOS مولد صدای زنگ هشدار پکیج SOP-8 SMD 
+
+توضیحات کامل:
+معرفی
+
+ژنراتور زنگ هشدار SC1006 در واقع یک تراشه CMOS بوده و برای تولید صدای زنگ هشدار در مدارات می توان استفاده نمود ، این تراشه دارای مدار تنظیم کننده ولتاژ داخلی بوده و می تواند مستقیماً به منبع تغذیه متصل نمود از ویژگی های این تراشه کم مصرف بودن و دارای نوسان ساز داخلی و کارکرد در ولتاژ های 12 تا 24 ولت می باشد.
+
+Description
+
+SC1006 is a CMOS process to manufacture the alarm sound generator ASIC, built-in voltage regulator circuit, reset capacitor, can directly enter the high-voltage power supply, and omit the diode and the reset capacitor voltage regulator. SC1006 you can select mono or six-tone cycle of the output.
+
+Features
+
+CMOS Process
+Low-power, high noise immunity
+Built-in oscillator
+Built-in voltage regulator circuits can be directly input 12V-24V power supply
+Built-in reset circuit, provincial and lack of external reset capacitor
+Power control, loop output
+
+Specification
+
+DC Supply Voltage VDD : -0.3V ~ 24V
+Input Voltage Range VIN : -0.3VDD TO VDD +0.3V
+Storage Temperature TSTG : -25℃ TO +125℃
+Operating Temperature TOP : -10℃ TO +70℃
+

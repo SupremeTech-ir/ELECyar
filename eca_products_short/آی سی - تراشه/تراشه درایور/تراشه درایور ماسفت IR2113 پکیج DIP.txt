@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-درایور/22111-تراشه-درایور-ماسفت-ir2113-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه درایور ماسفت IR2113 پکیج DIP
+
+قیمت:
+849,000
+
+توضیحات کوتاه:
+آی سی درایور IR2113 پکیج DIP
+
+توضیحات کامل:
+Description
+
+The IR2110/IR2113 are high voltage, high speed power MOSFET and IGBT drivers with independent high and low side referenced output channels. Proprietary HVIC and latch immune CMOS technologies enable ruggedized monolithic construction. Logic inputs are compatible with standard CMOS or LSTTL output, down to 3.3V logic. The output drivers feature a high pulse current buffer stage designed for minimum driver cross-conduction. Propagation delays are matched to simplify use in high frequency applications. The floating channel can be used to drive an N-channel power MOSFET or IGBT in the high side configuration which operates up to 500 or 600 volts.
+
+Specification
+
+V ofoset : 600v max 
+Io+/- : 2A
+Vout : 10 to 20 volt 
+T on/off : 120 &94 ns 
+Delay Matching : 20ns max
+
+Features
+
+Floating channel designed for bootstrap operation Fully operational to +500V or +600V Tolerant to negative transient voltage dV/dt immune
+Gate drive supply range from 10 to 20V
+Undervoltage lockout for both channels
+3.3V logic compatible
+Separate logic supply range from 3.3V to 20V
+Logic and power ground ±5V offset
+CMOS Schmitt-triggered inputs with pull-down
+Cycle by cycle edge-triggered shutdown logic
+Matched propagation delay for both channels
+Outputs in phase with inputs
+

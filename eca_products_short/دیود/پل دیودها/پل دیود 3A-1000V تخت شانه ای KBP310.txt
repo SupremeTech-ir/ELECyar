@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/پل-دیودها/11916-پل-دیود-3a-1000v-تخت-شانه-ای-kbp310.html
+================================================================================
+
+عنوان:
+پل دیود 3A-1000V تخت شانه ای KBP310
+
+قیمت:
+72,000
+
+توضیحات کوتاه:
+پل دیود 3آمپر 1000ولت
+
+توضیحات کامل:
+Specification
+
+Type:     Single Phase Bridge     
+Mounting Style:     Through Hole     
+Package / Case:     KBP     
+If - Forward Current:     3 A     
+Peak Reverse Voltage:     1000 V     
+Minimum Operating Temperature:     - 55 C     
+Maximum Operating Temperature:     + 150 C     
+Series:     KBP     
+Packaging:     Bulk     
+Product:     Bridge Rectifier     
+Technology:     Si     
+Brand:     GeneSiC Semiconductor     
+Ir - Reverse Current:     3:00 AM     
+Product Type:     Bridge Rectifiers
+

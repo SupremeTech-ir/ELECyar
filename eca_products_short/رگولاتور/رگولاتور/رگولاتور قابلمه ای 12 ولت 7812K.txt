@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/رگولاتور/3481-رگولاتور-قابلمه-ای-12-ولت-7812k.html
+================================================================================
+
+عنوان:
+رگولاتور قابلمه ای 12 ولت 7812K
+
+قیمت:
+545,000
+
+توضیحات کوتاه:
+رگولاتور قابلمه ای 12 ولت 7812K
+
+توضیحات کامل:
+معرفی
+
+رگولاتور LM78H12K قطعه ای جهت کاهش و تثبیت ولتاژ می باشد. این آی سی میتواند با ولتاژ ورودی تا  35 ولت، در خروجی ولتاژ  تثبیت شده 12 ولت مثبت با جریان 1A می باشد. این رگولاتور دارای حفاظت داخلی در برابر حرارت بالا واتصال کوتاه میباشد.
+
+Specification
+
+Output Configuration: Positive
+Output Type: Fixed
+Number of Regulators: 1
+Voltage - Input (Max): 35 V
+Voltage - Input (Min): 11.75 V 
+Voltage - Output (Min/Fixed): 12 V
+Current - Output: 1 A
+Current - Supply (Max): 7 mA
+Mounting Type: Through Hole
+Supplier Package: TO-3-2
+

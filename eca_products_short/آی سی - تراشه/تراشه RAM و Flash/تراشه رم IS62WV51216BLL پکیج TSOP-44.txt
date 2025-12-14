@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/2656-تراشه-رم-is62wv51216bll-پکیج-tsop-44.html
+================================================================================
+
+عنوان:
+تراشه رم IS62WV51216BLL پکیج TSOP-44
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم IS62WV51216BLL پکیج SMD TSOP-44
+
+توضیحات کامل:
+Specification
+
+Manufacturer: ISSI 
+Product Category: SRAM 
+RoHS: Details 
+Memory Size: 8 Mbit 
+Organization: 512 k x 16 
+Access Time: 55 ns 
+Maximum Clock Frequency: 18 MHz 
+Interface Type: Parallel 
+Supply Voltage - Max: 3.6 V 
+Supply Voltage - Min: 2.5 V 
+Supply Current - Max: 25 uA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: SMD/SMT 
+Package / Case: TSOP-44 
+Packaging: Tray 
+Data Rate: SDR 
+Series: IS62WV51216BLL 
+Type: Asynchronous 
+Brand: ISSI 
+Number of Ports: 1 
+Moisture Sensitive: Yes 
+Product Type: SRAM
+

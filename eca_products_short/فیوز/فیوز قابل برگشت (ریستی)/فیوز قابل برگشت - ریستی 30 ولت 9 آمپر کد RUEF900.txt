@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/فیوز-قابل-برگشت-ریستی/10999-فیوز-قابل-برگشت-ریستی-30-ولت-9-آمپر-کد-ruef900.html
+================================================================================
+
+عنوان:
+فیوز قابل برگشت - ریستی 30 ولت 9 آمپر کد RUEF900
+
+قیمت:
+0
+
+توضیحات کوتاه:
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC با ضریب دمایی مثبت (PPTC)
+
+توضیحات کامل:
+معرفی
+
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC ، یک عنصر الکترونیک پسیو با ضریب دمایی مثبت (PPTC) است که برای محافظت در برابر اضافه جریان در مدارهای الکترونیکی استفاده می شود.
+این فیوز ها در حالتی که بیش از جریان مورد نظر از آن جریان عبور کند ، به شدت داغ شده و در صورت ادامه داشتن اضافه جریان ، فیوز قطع می شود . با برگشت دمای فیوز به حالت عادی ، فیوز مجددا وصل خواهد شد .
+
+Specification
+
+Manufacturer: Littelfuse 
+Product Category: Resettable Fuses - PPTC 
+Series: RUEF 
+Mounting Style: PCB Mount 
+Termination Style: Radial 
+Hold Current: 9 A 
+Maximum Voltage: 30 VDC 
+Trip Current: 18 A 
+Current Rating - Max: 100 A 
+Resistance: 20 mOhms 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Lead Spacing: 10.9 mm 
+Packaging: Bulk 
+Brand: Littelfuse 
+Height: 3 mm 
+Length: 29 mm 
+Pd - Power Dissipation: 4.2 W 
+Product Type: Resettable Fuses - PPTC
+

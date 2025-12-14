@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/18033-ماسفت-sg100n03f-نوع-n-channel-تایوانی-مارک-silicongear-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+ماسفت SG100N03F نوع N-Channel تایوانی مارک SiliconGear پکیج TO-220FP
+
+قیمت:
+273,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 58 آمپر SG100N03F تایوانی مارک SiliconGear نوع N-Channel پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand : SiliconGear
+P/N : SG100N03F
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Drain-Source Voltage |Vds|: 100 V
+Maximum Gate-Source Voltage |Vgs|: ±20 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 2.5 V
+Maximum Drain Current |Id|: 58 A
+Package: TO-220FP
+

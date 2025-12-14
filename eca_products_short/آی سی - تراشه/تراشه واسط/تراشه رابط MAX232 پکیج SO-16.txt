@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-واسط/1287-تراشه-رابط-max232-پکیج-so-16.html
+================================================================================
+
+عنوان:
+تراشه رابط MAX232 پکیج SO-16
+
+قیمت:
+104,000
+
+توضیحات کوتاه:
+آی سی رابط MAX232 پکیج SMD SO-16 برای استاندارد RS-232
+
+توضیحات کامل:
+Specification 
+Product Category: RS-232 Interface IC 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SOIC-Narrow-16 
+Series: MAX232 
+Function: Transceiver 
+Data Rate: 120 kb/s 
+Number of Drivers: 2 Driver 
+Number of Receivers: 2 Receiver 
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 4.5 V 
+Operating Supply Current: 10 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Height: 1.5 mm 
+Length: 10 mm 
+Product: RS-232 Transceivers 
+Supply Type: Single Supply 
+Width: 4 mm 
+Brand: Maxim Integrated 
+Shutdown: Without Shutdown 
+Operating Supply Voltage: 5 V 
+Product Type: RS-232 Interface IC 
+Propagation Delay Time: 10 us
+

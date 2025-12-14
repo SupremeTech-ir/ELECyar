@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1808-تراشه-حافظه-at93c46-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT93C46 پکیج DIP
+
+قیمت:
+286,000
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT93C46 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: EEPROM 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Interface Type: 3-Wire, Microwire 
+Memory Size: 1 kbit 
+Organization: 64 x 16 
+Supply Voltage - Min: 1.8 V 
+Supply Voltage - Max: 5.5 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Maximum Clock Frequency: 2 MHz 
+Access Time: 250 ns 
+Data Retention: 100 Year 
+Supply Current - Max: 2 mA 
+Packaging: Tube 
+Brand: Microchip Technology 
+Height: 3.3 mm 
+Length: 9.27 mm 
+Operating Supply Current: 2 mA 
+Operating Supply Voltage: 1.8 V, 5.5 V 
+Product Type: EEPROM
+

@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14707-تراشه-فلیپ-فلاپ-74hc574an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HC574AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+156,000
+
+توضیحات کوتاه:
+آی سی 74HC574AN فلیپ فلاپ نوع D دارای 8 کانال با خروجی 3 حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 2V to 6V
+Input voltage: -0.5V to 7V
+Output voltage: 0V to VCC
+Input current: ±20mA
+Output current: ±35mA
+Maximum operating frequency: 74MHz
+Propagation delay: 15ns (typical)
+Tri-state output with output enable control
+8-bit D-type flip-flop with 3-state outputs
+High noise immunity: CMOS output can tolerate up to 1.5kV of electrostatic discharge (ESD)
+Low power consumption: ICC = 4µA (max) at TA = 25°C
+Available in a 20-pin DIP
+

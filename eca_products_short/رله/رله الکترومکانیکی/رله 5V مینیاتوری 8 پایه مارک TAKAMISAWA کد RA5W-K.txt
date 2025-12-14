@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/12934-رله-5v-مینیاتوری-8-پایه-مارک-takamisawa-کد-ra5w-k.html
+================================================================================
+
+عنوان:
+رله 5V مینیاتوری 8 پایه مارک TAKAMISAWA کد RA5W-K
+
+قیمت:
+551,000
+
+توضیحات کامل:
+Contact Material: Gold, Silver
+Mount: Through Hole
+Number of Pins: 8
+Coil Current:29.94 mA
+Coil Resistance: 167 Ω
+Coil Type: Non-Latching
+Coil Voltage (DC): 5 V
+Contact Current Rating :2 A
+Max Current Rating: 2 A
+Max Operating Temperature: 80 °C
+Max Voltage Rating (AC): 250 V
+Max Voltage Rating (DC): 220 V
+Min Operating Temperature: -40 °C
+Operate Time: 6 ms
+Power Consumption :150 mW
+Termination: Solder
+Throw Configuration: DPDT
+Voltage Rating (AC): 250 V
+Depth:10 mm
+Length: 20.05 mm
+

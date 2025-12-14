@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22841-دوبل-دیود-شاتکی-yg802c06r-60v-10a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG802C06R 60V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+153,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 10 آمپر YG802C06R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+Io: 10 A 
+Vrrm - Repetitive Reverse Voltage: 60 V 
+Vf - Forward Voltage: 0.58 V 
+Ifsm - Forward Surge Current: 80 A 
+Ir - Reverse Current: 5 mA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/8839-تراشه-ولتاژ-رفرنس-ts431bcx-پکیج-sop-23.html
+================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس TS431BCX پکیج SOT-23
+
+قیمت:
+59,220
+
+توضیحات کوتاه:
+آی سی ولتاژ TS431BCX پکیج SMD SOT-23
+
+توضیحات کامل:
+Specification
+
+Mfr: Taiwan Semiconductor Corporation
+Product Status: Active
+Reference Type: Shunt
+Output Type: Programmable
+Voltage - Output (Min/Fixed): 2.495V
+Voltage - Output (Max): 36 V
+Current - Output: 100 mA
+Tolerance: ±0.5%
+Temperature Coefficient:50ppm/°C
+

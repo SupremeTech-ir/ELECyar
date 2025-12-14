@@ -1,0 +1,57 @@
+URL: https://eshop.eca.ir/atmel/338-میکروکنترلر-atmega16a-pu-پکیج-pdip-40.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA16A-PU پکیج PDIP-40
+
+قیمت:
+3,259,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA16A-PU با هسته AVR(پکیج PDIP-40) با حافظه 16KB، فرکانس کاری 16MHz و دارای 40 پایه 
+
+توضیحات کامل:
+میکروکنترلر ATMEGA16A-PU دارای هسته پردازنده 8 بیتی AVR (پکیج PDIP-40) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA16A-PU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA16A-PU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega16A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 16 kB
+پکیج : PDIP-40
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA16A-PU is a 16bit low power high performance CMOS Microcontroller is based on the AVR enhanced RISC architecture. The device features 16kB self-programming flash program memory, 1024B SRAM, 512-byte EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device achieves 16 MIPS throughput at 16MHz at 2.7 to 5.5V operation. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, allowing you to optimize power consumption versus processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers. All the 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU     
+Manufacturer: Microchip     
+RoHS: RoHS Compliant Details     
+Mounting Style: Through Hole     
+Package / Case: PDIP-40     
+Core:  AVR     
+Data Bus Width: 8 bit     
+Maximum Clock Frequency: 16 MHz     
+Program Memory Size: 16 kB     
+Data RAM Size: 1 kB     
+ADC Resolution: 10 bit     
+Operating Supply Voltage: 2.7 V to 5.5 V     
+Maximum Operating Temperature: + 85 C     
+Processor Series: megaAVR     
+Packaging: Tube     
+Brand: Microchip Technology / Atmel     
+Data RAM Type: SRAM     
+Data ROM Size: 512 B     
+Data ROM Type: EEPROM     
+Minimum Operating Temperature: - 40 C     
+Number of ADC Channels: 8     
+Number of I/Os: 32 I/O     
+Number of Timers/Counters: 3 Timer
+

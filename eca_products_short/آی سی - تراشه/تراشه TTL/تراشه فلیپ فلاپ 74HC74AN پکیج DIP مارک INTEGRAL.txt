@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14717-تراشه-فلیپ-فلاپ-74hc74an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HC74AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+160,000
+
+توضیحات کوتاه:
+آی سی فلیپ فلاپ 74HC74AN نوع D دوتایی پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Flip Flops 
+Number of Circuits: 2 
+Logic Family: TTL 
+Logic Type: Bipolar 
+Polarity: Inverting/Non-Inverting 
+Input Type: Single-Ended 
+Output Type: Differential 
+Propagation Delay Time: 40 ns 
+High Level Output Current: - 0.4 mA 
+Low Level Output Current: 16 mA 
+Supply Voltage - Min: 4.75 V 
+Supply Voltage - Max: 5.25 V 
+Mounting Style: SMD/SMT 
+Package / Case: PDIP-14 
+Function: D-Type 
+Operating Temperature Range: 0 C to + 70 C 
+Number of Channels: 2 
+Number of Input Lines: 1 
+Number of Output Lines: 1 
+Operating Supply Voltage: 5 V
+

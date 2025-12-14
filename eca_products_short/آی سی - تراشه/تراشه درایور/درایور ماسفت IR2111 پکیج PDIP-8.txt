@@ -1,0 +1,44 @@
+URL: https://eshop.eca.ir/تراشه-درایور/4623-درایور-ماسفت-ir2111-پکیج-pdip-8.html
+================================================================================
+
+عنوان:
+درایور ماسفت IR2111 پکیج PDIP-8
+
+قیمت:
+882,000
+
+توضیحات کامل:
+آی سی IR2111 یک درایور HALF-BRIDGE می باشد که برای راه اندازی ماسفت و IGBT می شود.
+
+The IR2111 is a high voltage, high speed power MOSFET and IGBT driver with dependent high and low side referenced output channels designed for half-bridge applications. Proprietary HVIC and latch immune CMOS technologies enable ruggedized monolithic construction. Logic input is compatible with standard CMOS outputs. The output drivers feature a high pulse current buffer stage designed for minimum driver cross-conduction. Internal deadtime is provided to avoid shoot-through in the output half-bridge. The floating channel can be used to drive an N-channel power MOSFET or IGBT in the high side configuration which operates up to 600 volts.
+
+Product Category:     Gate Drivers     
+RoHS:     RoHS Compliant Details     
+Mounting Style:     Through Hole     
+Package/Case:     PDIP-8     
+Product:     Half-Bridge Drivers     
+Number of Drivers:     2 Driver     
+Output Current:     200 mA     
+Configuration:     Inverting, Non-Inverting     
+Rise Time:     130 ns     
+Fall Time:     65 ns     
+Supply Voltage - Max:     20 V     
+Supply Voltage - Min:     10 V     
+Operating Supply Current:     180 uA     
+Maximum Operating Temperature:     + 125 C     
+Type:     High and Low Side Driver     
+Features:     Synchronous     
+Height:     5.33 mm (Max)     
+Length:     10.92 mm (Max)     
+Logic Type:     CMOS     
+Maximum Turn-Off Delay Time:     150 ns     
+Maximum Turn-On Delay Time:     750 ns     
+Minimum Operating Temperature:     - 40 C     
+Number of Outputs:     2     
+Operating Supply Voltage:     10 V to 20 V     
+Pd - Power Dissipation:     1000 mW     
+Propagation Delay - Max:     950 ns     
+Factory Pack Quantity:     50     
+Width:     7.11 mm (Max)     
+Unit Weight:     1 g
+

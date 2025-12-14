@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/18471-ماسفت-029n06n-نوع-n-channel-تایوانی-مارک-infineon-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+ماسفت 029N06N نوع N-Channel تایوانی مارک Infineon پکیج TO-220FP
+
+قیمت:
+553,000
+
+توضیحات کوتاه:
+ماسفت 60 ولت 84 آمپر 029N06N تایوانی مارک Infineon نوع N-Channel پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand : Infineon
+Type of Transistor: MOSFET 
+Type of Control Channel: N -Channel 
+Maximum Power Dissipation (Pd): 38 W 
+Maximum Drain-Source Voltage |Vds|: 60 V 
+Maximum Gate-Source Voltage |Vgs|: 20 V 
+Maximum Gate-Threshold Voltage |Vgs(th)|: 3.3 V 
+Maximum Drain Current |Id|: 84A in 25 °C  
+Package: TO220FP
+

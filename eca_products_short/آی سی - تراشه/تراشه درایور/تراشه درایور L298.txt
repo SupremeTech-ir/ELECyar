@@ -1,0 +1,55 @@
+URL: https://eshop.eca.ir/تراشه-درایور/424-تراشه-درایور-l298.html
+================================================================================
+
+عنوان:
+تراشه درایور L298
+
+قیمت:
+696,000
+
+توضیحات کوتاه:
+تراشه درایور L298 دو کاناله با قابلیت کنترل موتورهای DC و استپ موتور، مناسب برای پروژه‌های رباتیک
+
+توضیحات کامل:
+تراشه L298 یک درایور موتور دو کاناله از نوع H-Bridge است که برای کنترل موتورهای DC و استپرموتورهای دو قطبی طراحی شده است. این تراشه قادر است هر کانال را تا 2 آمپر جریان و تا 46 ولت ولتاژ پشتیبانی کند و به همین دلیل در پروژه‌های رباتیک، اتوماسیون و سیستم‌های کنترل حرکت کاربرد فراوانی دارد. L298 امکان کنترل سرعت و جهت چرخش موتور را از طریق ورودی‌های منطقی (Logic Inputs) و PWM فراهم می‌کند. همچنین دارای پایه‌های جداگانه برای تغذیه موتور و مدار منطقی است که استفاده از آن را در کاربردهای مختلف انعطاف‌پذیر می‌سازد.
+
+مشخصات
+
+ولتاژ تغذیه موتور: حداکثر 46 ولت
+ولتاژ تغذیه منطقی: 4.5 تا 7 ولت
+جریان خروجی پیوسته: تا 2 آمپر برای هر کانال
+جریان خروجی لحظه‌ای: تا 3 آمپر (با هیت سینک مناسب)
+توان مصرفی: حداکثر 25 وات
+ورودی‌های منطقی: سازگار با TTL
+حفاظت در برابر دمای بیش از حد (Overtemperature Protection)
+ولتاژ اشباع پایین برای کاهش تلفات
+پکیج: Multiwatt-15V
+
+کاربرد
+
+کنترل موتورهای DC در پروژه‌های رباتیک
+راه‌اندازی استپ موتورهای دو قطبی
+سیستم‌های اتوماسیون صنعتی
+کنترل رله‌ها و سلونوئیدها
+پروژه‌های مبتنی بر آردوینو و میکروکنترلرها
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Motor / Motion / Ignition Controllers & Drivers 
+RoHS: Details 
+Product: Stepper Motor Controllers / Drivers 
+Type: Half Bridge 
+Operating Supply Voltage: 4.8 V to 46 V 
+Output Current: 2 A 
+Operating Supply Current: 13 mA 
+Minimum Operating Temperature: - 25 C 
+Maximum Operating Temperature: + 130 C 
+Mounting Style: Through Hole 
+Package / Case: Multiwatt-15V 
+Number of Outputs: 4 Output 
+Operating Temperature Range: - 25 C to + 130 C 
+Series: L298 
+Brand: STMicroelectronics 
+Product Type: Motor / Motion / Ignition Controllers & Drivers
+

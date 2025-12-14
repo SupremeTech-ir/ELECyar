@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/16149-تراشه-درایور-دکمه-تاچ-خازنی-ftc334b-پکیج-so-16.html
+================================================================================
+
+عنوان:
+تراشه درایور دکمه تاچ خازنی FTC334B پکیج SO-16
+
+قیمت:
+798,000
+
+توضیحات کوتاه:
+آی سی درایور دکمه تاچ خازنس مدل FTC334B با تغذیه وسیع 3 تا 5.5 ولت مناسب برای استفاده در کنترلر دکمه های لمسی لوازم برقی و...
+
+توضیحات کامل:
+Introduction
+
+FTC334B is a professional touch button processing chip, using the latest high-precision digital capacitance measurement technology, which can prevent radiation and power interference, prevent the influence of panel water droplets, and adapt to various power supplies. It can support up to 8 touch button functions. Output a 4-digit binary code, which can be connected to a resistor to make an analog voltage book. With sensitivity option foot, and button indicator port. It is suitable for applications such as home appliances that require high anti-interference products.
+
+Specification
+
+FTC334B 8-Channels Capacitive Touch Key Controller
+Operating Voltage: 3 - 5.5VDC
+Channels: 8 Capacitive Touch
+Output: 4 bits
+Package: SO16L
+— Super strong anti-EMC interference, can prevent the antenna of transmitting equipment such as walkie-talkie with power up to 5W from being close to the touch point.
+— Very simple peripheral circuit, the simplest application peripheral only needs a reference capacitor. (According to customer requirements, if need to improve ESD And EMC, each button needs to be connected with 1 resistor)
+— Waterproof interference, a piece of water droplets covering the touch panel does not affect the effective recognition of the keys.
+— Ultra-wide operating voltage range of 3.0V-5.5V, which can be used in 3.3V systems and 3.0V battery systems that are currently widely used.
+— Power supply voltage change adaptation function, built-in voltage compensation circuit, automatic compensation when the power supply voltage changes within the working range, no Affect the normal operation of the chip.
+— Automatically adapt to changes in environmental temperature and humidity, and the environment slowly adapts to the application of technology, which makes the chip not work continuously for an unlimited time There will be differences in sensitivity.
+— Adjustable sensitivity, the sensitivity can be adjusted by external capacitor capacity to adapt to different designs.
+— Provide a direct output interface of binary code, which is convenient for user system docking.
+— Quick initialization after power-on, the chip can detect environmental parameters including automatic adaptation and button detection within about 300mS. Can start working.
+— Sensitivity is automatically adapted. If the parasitic capacitance of each button lead is different due to the difference in length, it can automatically detect and Adaptation, the sensitivity of different keys is consistent.
+

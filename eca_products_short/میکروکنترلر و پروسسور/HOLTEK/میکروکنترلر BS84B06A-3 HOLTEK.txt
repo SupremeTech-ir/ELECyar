@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/holtek/14288-میکروکنترلر-bs84b06a-3-holtek.html
+================================================================================
+
+عنوان:
+میکروکنترلر BS84B06A-3 HOLTEK
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 20 پایه TOUCH A/D FLASH پکیج SMD ساخت شرکت HOLTEK
+
+توضیحات کامل:
+Introduction
+
+This device is a Flash Memory A/D type 8-bit high performance RISC architecture microcontroller with fully integrated touch key functions. With all touch key functions provided internally and with the convenience of Flash Memory multi-programming features, this device has all the features to offer designers a reliable and easy means of implementing Touch Keyes within their products applications.Analog feature includes a multi-channel 12-bit A/D converter. Protective features such as an internal Watchdog Timer and Low Voltage Reset coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.The touch key functions are fully integrated completely eliminating the need for external components. In addition to the flash program memory, other memory includes an area of RAM Data Memory as well as an area of EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.The device includes fully integrated low and high speed oscillators which require no external components for their implementation. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimise power consumption. Easy communication with the outside world is provided using the internal I2C and SPI interfaces, while the inclusion of flexible I/O programming features, Timer/Event Counter and many other features further enhance device functionality and flexibility.This touch key device will find excellent use in a huge range of modern Touch Key product applications such as instrumentation, household appliances, electronically controlled tools to name but a few.
+
+CPU Features
+
+• Operating Voltage
+fSYS = 8MHz: 2.7~5.5V, fSYS = 12MHz: 2.7~.5.5V, fSYS = 16MHz: 4.5V~5.5V
+• Up to 0.25μs instruction cycle with 16MHz system clock at VDD=5V
+• Power down and wake-up functions to reduce power consumption
+• Fully integrated low and high speed internal oscillators
+Low Speed -- 32kHz, High speed -- 8MHz, 12MHz, 16MHz
+• Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+• All instructions executed in one or two instruction cycles
+• Table read instructions
+• 63 powerful instructions
+• Up to 6-level subroutine nesting
+• Bit manipulation instruction
+
+Peripheral Features
+
+• Flash Program Memory: 3K×16
+• RAM Data Memory: 288×8
+• True EEPROM Memory: 64×8
+• Watchdog Timer function
+• Up to 18 bidirectional I/O lines
+• Single external interrupt input shared with I/O pin
+• Single 8-bit Timer/Event Counter
+• Single Time-Base function for generation of fixed time interrupt signals
+• Multi-channel 12-bit resolution A/D converter
+• I2C and SPI interfaces
+• PMOS Source current adjustable
+• Low voltage reset function
+• Fully integrated 6 touch key functions -- require no external components
+• Package types: 20-pin SOP
+

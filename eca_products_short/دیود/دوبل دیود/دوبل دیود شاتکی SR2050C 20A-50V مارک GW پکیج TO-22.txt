@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/24265-دوبل-دیود-شاتکی-sr2050c-20a-50v-مارک-gw-پکیج-to-220.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2050C 20A-50V مارک GW پکیج TO-220
+
+قیمت:
+173,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 50 ولت 20 آمپر SR2050C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A     
+Vrrm - Repetitive Reverse Voltage: 50 V     
+Vf - Forward Voltage: 0.75 V     
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220 
+Minimum Operating Temperature : - 65 C     
+Maximum Operating Temperature : + 150 C
+

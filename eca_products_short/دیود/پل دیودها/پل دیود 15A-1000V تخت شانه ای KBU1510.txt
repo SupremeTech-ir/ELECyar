@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/پل-دیودها/15458-پل-دیود-15a-1000v-تخت-شانه-ای-kbu1510.html
+================================================================================
+
+عنوان:
+پل دیود 15A-1000V تخت شانه ای KBU1510
+
+قیمت:
+265,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 15 آمپر KBU1510
+
+توضیحات کامل:
+Specification
+Product Category:     Bridge Rectifiers     
+RoHS:      Details     
+Type:     Single Phase Bridge     
+Mounting Style:     Through Hole     
+Package/Case:     KBU     
+If - Forward Current:     15 A     
+Peak Reverse Voltage:     1000 V     
+Minimum Operating Temperature:     - 55 C     
+Maximum Operating Temperature:     + 150 C     
+Series:     KBU     
+Packaging:     Bulk     
+Product:     Bridge Rectifier     
+Technology:     Si     
+Brand:     GeneSiC Semiconductor     
+Ir - Reverse Current:     15 A     
+Product Type:     Bridge Rectifiers     
+Factory Pack Quantity:     300     
+Subcategory:     Diodes & Rectifiers
+

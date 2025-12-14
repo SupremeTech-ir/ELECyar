@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/642-تراشه-ساعت-تقویم-ds1307-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ساعت - تقویم DS1307 پکیج DIP
+
+قیمت:
+144,000
+
+توضیحات کوتاه:
+آی سی ساعت - تقویم DS1307 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+DS 1307 یک آی سی ساعت / تقویم با قابلیت شمارش ثانیه ، دقیقه ، ساعت ، روز هفته ، روز ماه ، ماه و سال می باشد. این آی سی علاوه بر قابلیت نگهداری ساعت و تقویم ، 56 بایت رم آزاد نیز دارد که می توان برای نگهداری داده از آن استفاده نمود . این آی سی توسط پروتکل ارتباط سریال I2C به میکروکنترلر و ... متصل می شود که توسط پورت ارتباط سریال داخلی MSSP قابل پیاده سازی است .
+
+Specification
+
+Product Category: Real Time Clock 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+RTC Bus Interface: Serial, I2C 
+Date Format: YY-MM-DD 
+Time Format: HH:MM:SS 
+RTC Memory Size: 56 B 
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 4.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Function: Calendar, Clock 
+Series: DS1307 
+Brand: Maxim Integrated 
+Operating Supply Current: 1.5 mA 
+Product Type: Real Time Clocks
+

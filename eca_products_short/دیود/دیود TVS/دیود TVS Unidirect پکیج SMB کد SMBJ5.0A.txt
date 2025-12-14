@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/دیود-tvs/20438-دیود-tvs-unidirect-پکیج-smb-کد-smbj50a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ5.0A
+
+قیمت:
+16,000
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 5.0 ولت 600 وات SMBJ5.0A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes 
+Product Type: TVS Diodes 
+Polarity: Unidirectional 
+Working Voltage: 5 V 
+Number of Channels: 1 Channel 
+Termination Style: SMD/SMT 
+Package/Case: DO-214AA-2 
+Breakdown Voltage: 6.4 V 
+Clamping Voltage: 9.2 V 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Vesd - Voltage ESD Contact: - 
+Vesd - Voltage ESD Air Gap: - 
+Cd - Diode Capacitance: - 
+Ipp - Peak Pulse Current: 65.2 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

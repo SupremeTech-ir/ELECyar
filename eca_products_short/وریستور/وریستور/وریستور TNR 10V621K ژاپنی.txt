@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/وریستور/25293-وریستور-tnr-10v621k-ژاپنی.html
+================================================================================
+
+عنوان:
+وریستور TNR 10V621K ژاپنی
+
+قیمت:
+64,500
+
+توضیحات کوتاه:
+وریستور 620 ولت  کد TNR10V621K300 ژاپنی
+
+توضیحات کامل:
+Features
+
+Large surge capability (the surge current ratings of TNR V series, by 8/20 µs, are about two
+times larger than TNR G series).
+Large energy capability (1.5 time larger than TNR G series).
+One rank smaller TNR V has same peak current as TNR G.
+Excellent voltage non-linear coefficient.
+Low clamping voltage.
+Symmetrical V-I characteristics (No polarity).
+Fast response.
+Stable characteristics against repeated surges.
+Superior temperature characteristics.
+High reliability
+●UL, CSA and VDE recognized components
+UL 1449 3rd File : E323623
+UL 1414 File : E65426 (Except "12V")
+CSA File : LR97864
+VDE File : 118623
+
+Applications
+
+Protection for semiconductors from over voltage.
+Protection for electronic instruments from lightning surges.
+Absorption of on-off surges from motors and relays.
+◆PART NUMBERING SYSTEM
+Operating Temperature Range: -40 to +85℃
+Storage Temperature Range: -50 to +125℃
+

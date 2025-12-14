@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-واسط/15276-تراشه-ترنسیور-max3085-معادل-تراشه-max485-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور MAX3085 معادل تراشه MAX485 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی MAX3085 انتقال دهنده (Transceivers) Half Duplex برای استاندارهای RS485 و RS422
+
+توضیحات کامل:
+Introduction
+The MAX3080–MAX3089 high-speed transceivers for RS-485/RS-422 communication contain one driver and one receiver. These devices feature fail-safe circuitry, which guarantees a logic-high receiver output when the receiver inputs are open or shorted. This means that the receiver output will be a logic high if all transmitters on a terminated bus are disabled (high impedance). The MAX3080/MAX3081/MAX3082 feature reduced slew-rate drivers that minimize EMI and reduce reflections caused by improperly terminated cables, allowing error-free data transmission up to 115kbps. The MAX3083/MAX3084/MAX3085 offer higher driver output slew-rate limits, allowing transmit speeds up to 500kbps. The MAX3086/MAX3087/MAX3088’s driver slew rates are not limited, making transmit speeds up to 10Mbps possible. The MAX3089’s slew rate is selectable between 115kbps, 500kbps, and 10Mbps by driving a selector pin with a single three-state driver.
+
+Specification
+Data Rate: 500 kbps
+Interface: RS-422, RS-485
+Logic Function: Transceiver
+Max Operating Temperature: 85 °C
+Max Power Dissipation: 667 mW
+Max Supply Voltage: 5.25 V
+Min Operating Temperature: -40 °C
+Min Supply Voltage: 4.75 V
+Number of Drivers: 1
+Number of Receivers: 1
+Number of Transceivers: 1
+Number of Transmitters: 1
+Operating Supply Current: 600 µA
+Operating Supply Voltage: 5 V
+Simplex/Duplex: Half Duplex
+Package:SOIC-8
+

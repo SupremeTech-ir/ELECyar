@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/سایر-دیودها/23080-دیود-sr1t.html
+================================================================================
+
+عنوان:
+دیود SR1T
+
+قیمت:
+9,000
+
+توضیحات کوتاه:
+دیود SR1T پکیج DO-41
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers 
+RoHS: Details 
+Vr - Reverse Voltage: 1.3 kV 
+If - Forward Current: 1 A 
+Type: Standard Recovery Rectifiers 
+Configuration: Single 
+Vf - Forward Voltage: 1.1 V 
+Max Surge Current: 30 A 
+Ir - Reverse Current: 5 uA 
+Recovery Time: 1.5 us 
+Minimum Operating Temperature: - 50 C 
+Maximum Operating Temperature: + 150 C 
+Brand: Diotec Semiconductor 
+Subcategory: Diodes & Rectifiers
+

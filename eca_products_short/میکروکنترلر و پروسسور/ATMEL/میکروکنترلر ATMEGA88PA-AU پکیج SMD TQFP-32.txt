@@ -1,0 +1,59 @@
+URL: https://eshop.eca.ir/atmel/5236-میکروکنترلر-atmega88pa-au-پکیج-smd-tqfp-32.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA88PA-AU پکیج SMD TQFP-32
+
+قیمت:
+1,320,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA88PA-AU با هسته 8 بیتی AVR (پکیج SMD) با حافظه 8KB، فرکانس کاری 20MHz و 32 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA88PA-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD TQFP-32) بوده و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA88PA-AU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA88PA-AU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega88PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: TQFP-32
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA88PA-AU is a 8-bit high-performance picoPower AVR RISC-based Microcontroller combines 8kB ISP flash memory with read-while-write capabilities, 512B EEPROM, 1kB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator and five software selectable power saving modes. The device operates between 1.8 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU     
+Manufacturer: Microchip     
+RoHS: RoHS Compliant Details     
+Mounting Style: SMD/SMT     
+Package / Case: TQFP-32     
+Core: AVR     
+Data Bus Width: 8 bit     
+Maximum Clock Frequency: 20 MHz     
+Program Memory Size: 8 kB     
+Data RAM Size: 1 kB     
+Operating Supply Voltage:1.8 V to 5.5 V     
+Maximum Operating Temperature:+ 85 C     
+Processor Series:  megaAVR     
+Packaging: Tray     
+Brand: Microchip Technology / Atmel     
+Data RAM Type: SRAM     
+Data ROM Size: 512 B     
+Data ROM Type: EEPROM     
+Interface Type:SPI, TWI, UART     
+Length: 7 mm     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C
+Number of I/Os: 23 I/O     
+Number of Timers/Counters: 3 Timer
+

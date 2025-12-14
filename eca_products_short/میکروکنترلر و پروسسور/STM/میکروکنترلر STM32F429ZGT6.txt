@@ -1,0 +1,69 @@
+URL: https://eshop.eca.ir/stm/5312-میکروکنترلر-stm32f429zgt6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F429ZGT6
+
+قیمت:
+5,969,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F429ZGT6 با هسته ARM Cortex M4 با حافظه 1MB و فرکانس کاری 180MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F429ZGT6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 180 مگاهرتز کار می کند. این میکروکنترلر 1 مگا بایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F429ZGT6 دارای 114 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F429ZGT6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F429ZG
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 180 Mhz
+حافظه: 1 مگابایت
+تعداد پین ها ورودی/خروجی : 114
+پکیج : LQFP-144
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: ARM Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: LQFP-144 
+Series: STM32F429ZG 
+Core: ARM Cortex M4 
+Data Bus Width: 32 bit 
+Maximum Clock Frequency: 180 MHz 
+Program Memory Size: 1024 kB 
+Data RAM Size: 260 kB 
+ADC Resolution: 12 bit 
+Number of I/Os: 114 I/O 
+Operating Supply Voltage: 1.7 V to 3.6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Product: MCU+FPU 
+Program Memory Type: Flash 
+Brand: STMicroelectronics 
+Data RAM Type: SRAM 
+Interface Type: CAN, I2C, SAI, SPI, UART/USART, USB 
+Analog Supply Voltage: 1.7 V to 3.6 V 
+DAC Resolution: 12 bit 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 24 Channel 
+Number of Timers/Counters: 14 Timer 
+Processor Series: STM32F429 
+Product Type: ARM Microcontrollers - MCU 
+Subcategory: Microcontrollers - MCU 
+Supply Voltage - Max: 3.6 V 
+Supply Voltage - Min: 1.7 V 
+Tradename: STM32 
+Watchdog Timers: Watchdog Timer 
+Unit Weight: 0.045518 oz
+

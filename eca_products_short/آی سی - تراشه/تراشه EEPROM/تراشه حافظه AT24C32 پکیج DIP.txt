@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1936-تراشه-حافظه-at24c32-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C32 پکیج DIP
+
+قیمت:
+77,900
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C32 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Low-Voltage and Standard-Voltage Operation
+2.7 (VCC = 2.7V to 5.5V)
+1.8 (VCC = 1.8V to 5.5V)
+Low-Power Devices (ISB = 2 µA at 5.5V) Available
+Internally Organized 4096 x 8, 8192 x 8
+2-Wire Serial Interface
+Schmitt Trigger, Filtered Inputs for Noise Suppression
+Bidirectional Data Transfer Protocol
+100 kHz (1.8V, 2.5V, 2.7V) and 400 kHz (5V) Clock Rate
+Write Protect Pin for Hardware Data Protection
+32-Byte Page Write Mode (Partial Page Writes Allowed)
+Self-Timed Write Cycle (10 ms max)
+High Reliability
+Endurance: 1 Million Write Cycles
+Data Retention: 100 Years
+Automotive Grade and Extended Temperature Devices Available
+8-Pin JEDEC PDIP, 8-Pin JEDEC SOIC, 8-Pin EIAJ SOIC, and 8-pin TSSOP Packages
+

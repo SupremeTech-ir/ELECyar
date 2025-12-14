@@ -1,0 +1,43 @@
+URL: https://eshop.eca.ir/تراشه-واسط/824-تراشه-مبدل-سطح-ولتاژ-max232-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل سطح ولتاژ MAX232 پکیج DIP
+
+قیمت:
+195,000
+
+توضیحات کوتاه:
+آی سی MAX232 یک مبدل دو طرفه سطح ولتاژ است و با کمک آن می توان میکرو را به پورت سریال متصل کرد.
+
+توضیحات کامل:
+معرفی
+MAX232 یک مبدل دو طرفه سطح ولتاژ است که از آن برای تطبیق سطوح ولتاژی منطقی (5ولت) با سطح ولتاژ پورت سریال (12 ولت) استفاده می شود و با کمک آن می توان میکرو و ... را به پورت سریال متصل کرد . برای اطلاعات بیشتر می توانید دیتاشیت آی سی را مطالعه کنید .
+
+Specification 
+Manufacturer: Texas Instruments 
+Product Category: RS-232 Interface IC 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: PDIP-16 
+Series: MAX232 
+Function: Transceiver 
+Data Rate: 120 kb/s 
+Number of Drivers: 2 Driver 
+Number of Receivers: 2 Receiver 
+Duplex: Full Duplex 
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 4.5 V 
+Operating Supply Current: 10 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tube 
+Height: 4.57 mm 
+Length: 19.3 mm 
+Product: RS-232 Transceivers 
+Supply Type: Single Supply 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Operating Supply Voltage: 5 V 
+Product Type: RS-232 Interface IC
+

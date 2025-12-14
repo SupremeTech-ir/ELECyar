@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1897-تراشه-حافظه-at24c02-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C02 پکیج DIP
+
+قیمت:
+77,200
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C02 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Low-voltage and Standard-voltage Operation – 2.7 (VCC = 2.7V to 5.5V) – 1.8 (VCC = 1.8V to 5.5V)
+Internally Organized 128 x 8 (1K), 256 x 8 (2K), 512 x 8 (4K), 1024 x 8 (8K) or 2048 x 8 (16K)
+Two-wire Serial Interface
+Schmitt Trigger, Filtered Inputs for Noise Suppression
+Bidirectional Data Transfer Protocol
+100 kHz (1.8V) and 400 kHz (2.7V, 5V) Compatibility
+Write Protect Pin for Hardware Data Protection
+8-byte Page (1K, 2K), 16-byte Page (4K, 8K, 16K) Write Modes
+Partial Page Writes Allowed
+Self-timed Write Cycle (5 ms max)
+High-reliability – Endurance: 1 Milli
+

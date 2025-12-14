@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/23988-ماسفت-irf3710s-نوع-n-channel-پکیج-to-263-d2pak.html
+================================================================================
+
+عنوان:
+ماسفت IRF3710S نوع N-Channel پکیج TO-263 (D2PAK)
+
+قیمت:
+303,000
+
+توضیحات کوتاه:
+ماسفت IRF3710STRLPBF از نوع N-Channel ولتاژ 100 ولت و جریان 57 آمپر پکیج TO-263-3
+
+مشخصات فنی:
+پکیج: TO-263 (D2PAK)
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت‌ها بیشتر به عنوان کلیدهای الکترونیکی یا تقویت کننده‌های سورس مشترک مورد استفاده قرار میگیرند. این ماسفت برای کاربردهای مختلفی مانند منابع تغذیه سوئیچینگ، درایورهای موتور و مدارهای تقویت‌کننده مناسب است.
+
+Specification
+
+Product Category: MOSFETs 
+Transistor Type: N-Channel   
+Technology: Si
+Mounting Style: SMD/SMT 
+Package / Case: D2PAK-3 (TO-263-3) 
+Transistor Polarity: N-Channel 
+Number of Channels: 1 Channel 
+Vds - Drain-Source Breakdown Voltage: 100 V 
+Id - Continuous Drain Current: 57 A 
+Rds On - Drain-Source Resistance: 23 mOhms 
+Vgs - Gate-Source Voltage: - 20 V, + 20 V 
+Vgs th - Gate-Source Threshold Voltage: 4 V 
+Qg - Gate Charge: 130 nC 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C 
+Pd - Power Dissipation: 200 W 
+Channel Mode: Enhancement
+Configuration: Single 
+Fall Time: 47 ns 
+Forward Transconductance - Min: 32 S 
+Product Type: MOSFETs 
+Rise Time: 58 ns
+Subcategory: Transistors 
+Typical Turn-Off Delay Time: 45 ns 
+Typical Turn-On Delay Time: 12 ns
+

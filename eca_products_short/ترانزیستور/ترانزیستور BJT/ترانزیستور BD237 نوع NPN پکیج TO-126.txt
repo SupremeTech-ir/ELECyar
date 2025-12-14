@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/18716-ترانزیستور-bd237-نوع-npn-پکیج-to-126.html
+================================================================================
+
+عنوان:
+ترانزیستور BD237 نوع NPN پکیج TO-126
+
+قیمت:
+31,100
+
+توضیحات کوتاه:
+ترانزیستور BD237 نوع NPN پکیج TO-126 ولتاژ 80V جریان 2A
+
+مشخصات فنی:
+پکیج: TO-126 (SOT32)
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category : Bipolar Transistors - BJT 
+Mounting Style : Through Hole 
+Transistor Polarity : NPN 
+Collector- Emitter Voltage VCEO Max : 80 V 
+Collector- Base Voltage VCBO : 100 V 
+Emitter- Base Voltage VEBO : 5 V 
+Collector-Emitter Saturation Voltage : 600 mV 
+Maximum DC Collector Current : 2 A 
+Pd - Power Dissipation : 25 W
+Minimum Operating Temperature : - 55 C 
+Maximum Operating Temperature : + 150 C
+Continuous Collector Current : 2 A 
+DC Collector/Base Gain hfe Min : 40
+

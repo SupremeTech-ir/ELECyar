@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/آنتن-wifigsmgprs/11966-آنتن-gsm-تاشو-8-سانت-سیم-دار-با-سر-فیش-ufl.html
+================================================================================
+
+عنوان:
+آنتن GSM تاشو 8 سانت سیم دار با سرفیش UFL
+
+قیمت:
+1,240,000
+
+توضیحات کامل:
+این آنتن علاوه بر قابلیت تاشدن، دارای ساق پیچ و واشر و مهره است که موجب می شود نصب آن در باکس یا محل دلخواه کاربر بسیار آسان تر گردد . 
+
+دارای قطر سرپیچ : 4.5 میلی متری
+
+Specification 
+Antenna Cover TPEE (Black) 
+Frequency Range: 850/900/1800/1900 MHz
+Antenna Base: PBT (Black)
+Impedance: 50 Î©
+Gain:3 dbi  
+VSWR: 2.0 Max
+Electrical Wave: 1/2Î», Dipole
+Connector Type: IPEX 20351-112R-37 (U.FL) 
+Directional :Omni 180^
+Cable Type:RG178 coaxial cable 
+Polarization :Vertical
+Antenna Length(mm): 80
+Cable Length(mm): 40
+

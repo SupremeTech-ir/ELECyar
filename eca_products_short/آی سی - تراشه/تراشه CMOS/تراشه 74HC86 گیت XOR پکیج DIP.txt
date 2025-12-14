@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-cmos/475-تراشه-74hc86-گیت-xor-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74HC86 گیت XOR پکیج DIP
+
+قیمت:
+108,000
+
+توضیحات کوتاه:
+آی سی 74HC86 شامل 4 گیت XOR دو ورودی پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Logic Gates 
+Product: Single-Function Gate 
+Logic Function: XOR 
+Logic Family: HC 
+Number of Gates: 4 Gate 
+Number of Input Lines: 2 Input 
+Number of Output Lines: 1 Output 
+High Level Output Current: - 5.2 mA 
+Low Level Output Current: 5.2 mA 
+Propagation Delay Time: 21 ns 
+Supply Voltage - Max: 6 V 
+Supply Voltage - Min: 2 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-14 
+Function: Quad 2 Input 
+Series: SN74HC86 
+Logic Type: 2-Input Exclusive-OR 
+Number of Bits: 4 bit 
+Operating Supply Current: 20 uA 
+Operating Supply Voltage: 5 V
+

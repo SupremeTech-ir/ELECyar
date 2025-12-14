@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/1640-تراشه-ساعت-تقویم-ds1307-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه ساعت - تقویم DS1307 پکیج SO-8
+
+قیمت:
+110,000
+
+توضیحات کوتاه:
+آی سی ساعت - تقویم DS1307 پکیج SO-8
+
+توضیحات کامل:
+معرفی
+
+DS 1307 یک آی سی ساعت / تقویم با قابلیت شمارش ثانیه ، دقیقه ، ساعت ، روز هفته ، روز ماه ، ماه و سال می باشد . این آی سی علاوه بر قابلیت نگهداری ساعت و تقویم ، 56 بایت رم آزاد نیز دارد که می توان برای نگهداری داده از آن استفاده نمود . این آی سی توسط پروتکل ارتباط سریال I2C به میکروکنترلر و ... متصل می شود که توسط پورت ارتباط سریال داخلی MSSP قابل پیاده سازی است .
+
+Specification 
+
+Manufacturer: Maxim Integrated 
+Product Category: Real Time Clock 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SO-8 
+RTC Bus Interface: Serial, I2C 
+Date Format: YY-MM-DD 
+Time Format: HH:MM:SS 
+Battery Backup Switching: Backup Switching 
+RTC Memory Size: 56 B 
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 4.5 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Function: Calendar, Clock 
+Series: DS1307Z 
+Brand: Maxim Integrated 
+Operating Supply Current: 1.5 mA 
+Product Type: Real Time Clocks
+

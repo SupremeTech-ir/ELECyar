@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/2716-تراشه-اپتوکوپلر-tlp250-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر TLP250 پکیج DIP
+
+قیمت:
+617,000
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر TLP250 با خروجی فتوترانزیستور
+
+توضیحات کامل:
+Specification
+OP.CP TRN.10 TO 35V 11mA 2500Vrms
+Transistor Inverter 
+Inverter For Air Conditionor 
+IGBT Gate Drive 
+Power MOS FET Gate Drive 
+The TOSHIBA TLP250 consists of a GaAlAs light emitting diode and a 
+integrated photodetector. 
+This unit is 8−lead DIP package. 
+TLP250 is suitable for gate driving circuit of IGBT or power MOS FET. 
+•  Input threshold current: IF=5mA(max.) 
+•  Supply current (ICC): 11mA(max.) 
+•  Supply voltage (VCC): 10−35V 
+•  Output current (IO): ±1.5A (max.) 
+•  Switching time (tpLH/tpHL): 1.5µs(max.) 
+•  Isolation voltage: 2500Vrms(min.) 
+•  UL recognized: UL1577, file No.E67349 
+•  Option (D4) type
+

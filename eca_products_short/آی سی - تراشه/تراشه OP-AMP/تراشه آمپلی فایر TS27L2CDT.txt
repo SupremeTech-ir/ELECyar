@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/3907-ts27l2c.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TS27L2CDT
+
+قیمت:
+126,000
+
+توضیحات کامل:
+PRECISION VERY LOW POWER CMOS DUAL OPERATIONAL AMPLIFIERS
+
+VERY LOW POWER CONSUMPTION :
+10μA/op
+n OUTPUT VOLTAGE CAN SWING TO GROUND
+n EXCELLENT PHASE MARGIN ON CAPACITIVE LOADS
+n STABLE AND LOW OFFSET VOLTAGE
+n THREE INPUT OFFSET VOLTAGE SELECTIONS
+
+DESCRIPTION
+These devices are low cost, low power dual operational
+amplifiers designed to operate with single
+or dual supplies. These operational amplifiers use
+the ST silicon gate CMOS process allowing an excellent
+consumption-speed ratio. These series are
+ideally suited for low consumption applications.
+

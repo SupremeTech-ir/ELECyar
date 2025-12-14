@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/26502-ماسفت-قدرت-2sk2611-نوع-n-channel-مارک-toshiba-پکیج-to-3p.html
+================================================================================
+
+عنوان:
+ماسفت قدرت 2SK2611 نوع N-Channel مارک TOSHIBA پکیج TO-3P
+
+قیمت:
+632,400
+
+توضیحات کوتاه:
+ترانزیستور MOSFET قدرت ولتاژ‌بالا با تحمل 900V، جریان 9A و طراحی ویژه برای سوییچینگ سریع در منابع تغذیه و درایو موتورهای صنعتی.
+
+مشخصات فنی:
+پکیج: TO-3P
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ترانزیستور 2SK2611 ساخت شرکت TOSHIBA یک MOSFET کانال N از نسل π-MOSIII است که برای کاربردهای ولتاژ بالا و سوییچینگ سریع طراحی شده است. این قطعه با ولتاژ تحمل 900 V و جریان مداوم 9 A عملکرد پایداری را در مدارهای قدرت ارائه می‌دهد و به دلیل مقاومت حالت روشن کنترل‌شده، امکان مدیریت حرارتی مناسب و راندمان بالا را فراهم می‌کند. وجود ساختار π-MOS باعث کاهش تأخیرهای کلیدزنی و بهبود رفتار در بارهای القایی می‌شود. این قطعه با توان اتلاف 150 W و پکیج TO-3P که قابلیت انتقال حرارت بالایی دارد، انتخابی مناسب برای سیستم‌های منبع تغذیه سوئیچینگ، درایو موتور، رله‌های قدرت و مدارات تبدیل انرژی است. سرعت کلیدزنی بالا، جریان نشتی بسیار پایین و استحکام در برابر ولتاژهای گذرای بالا از دیگر ویژگی‌های کلیدی این نوع MOSFET صنعتی است.
+
+مشخصات
+
+ولتاژ درین-به-سورس (V_DS): 900 V
+ولتاژ گیت-به-سورس مجاز (V_GS): ±30 V
+جریان مداوم درین (I_D): 9 A
+مقاومت حالت روشن R_DS(on) در V_GS = 10 V و I_D = 4 A: مقدار typ برابر 1.1 Ω و مقدار max برابر 1.4 Ω
+ضریب انتقال جریان |Yfs| در V_DS = 15 V و I_D = 4 A: مقدار typ برابر 7.0 S
+جریان نشتی در حالت خاموش I_DSS در V_DS = 720 V و V_GS = 0: مقدار max برابر 100 µA
+ولتاژ آستانه گیت (V_GS(th)) در I_D = 1 mA: بین 2.0 تا 4.0 V
+توان اتلاف کلی (P_D) در T_C = 25 °C: مقدار 150 W
+دمای کاری مجاز (T_ch): حداکثر 150 °C
+نوع پکیج: TO-3P سه پایه
+
+کاربردهای رایج
+
+این MOSFET برای سیستم‌های ولتاژ بالا و بارهای القایی مناسب است و در مدارهایی که نیاز به کلیدزنی سریع، تحمل ولتاژ زیاد و پایداری حرارتی دارند استفاده می‌شود. در تجهیزات صنعتی، منابع تغذیه سوئیچینگ، کنترل موتورهای AC و DC، درایوهای قدرت و رله‌های صنعتی کاربرد گسترده دارد.
+
+منبع تغذیه سوئیچینگ (SMPS)
+مبدّل‌های DC-DC ولتاژ بالا
+درایو موتورهای AC و DC
+کنترل رله‌های قدرت صنعتی
+تجهیزات تبدیل انرژی
+بارهای القایی با ولتاژ بالا
+سیستم‌های صنعتی با نیاز به سوییچینگ سریع
+اینورترها و شارژرهای صنعتی
+سیستم‌های کنترل بار سنگین
+تجهیزات آزمایشگاهی قدرت
+
+The 2SK2611 transistor from Toshiba is an N-channel MOSFET of the π-MOSIII generation designed for high-voltage and fast-switching applications. With a withstand voltage of 900 V and a continuous current of 9 A, this device offers stable performance in power circuits and, due to its controlled on-state resistance, allows for good thermal management and high efficiency. The presence of the π-MOS structure reduces switching delays and improves behavior in inductive loads. With a power dissipation of 150 W and a TO-3P package with high heat transfer capability, this device is a good choice for switching power supply systems, motor drives, power relays and energy conversion circuits. High switching speed, very low leakage current and robustness against high transient voltages are other key features of this type of industrial MOSFET.
+
+Specifications
+
+Drain-to-source voltage (V_DS): 900 V
+Permitted gate-to-source voltage (V_GS): ±30 V
+Continuous drain current (I_D): 9 A
+On-state resistance R_DS(on) at V_GS = 10 V and I_D = 4 A: typ. 1.1 Ω and max. 1.4 Ω
+Current transfer coefficient |Yfs| At V_DS = 15 V and I_D = 4 A: Typical value of 7.0 S
+Off-state leakage current I_DSS at V_DS = 720 V and V_GS = 0: Max value of 100 µA
+Gate threshold voltage (V_GS(th)) at I_D = 1 mA: Between 2.0 and 4.0 V
+Total power dissipation (P_D) at T_C = 25 °C: 150 W
+Permissible operating temperature (T_ch): Maximum 150 °C
+Package type: TO-3P three-pin
+

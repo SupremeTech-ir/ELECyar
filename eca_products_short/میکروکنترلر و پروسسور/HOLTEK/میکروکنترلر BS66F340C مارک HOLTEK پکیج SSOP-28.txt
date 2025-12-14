@@ -1,0 +1,67 @@
+URL: https://eshop.eca.ir/holtek/24568-میکروکنترلر-bs66f340c-مارک-holtek-پکیج-ssop-28.html
+================================================================================
+
+عنوان:
+میکروکنترلر BS66F340C مارک HOLTEK پکیج SSOP-28
+
+قیمت:
+466,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی هولتک با قابلیت کلید لمسی پکیج SSOP-28 
+
+توضیحات کامل:
+این سری از میکروکنترلرهای ۸ بیتی با معماری RISC و حافظه فلش A/D عملکرد بالا، دارای عملکرد کامل کلید لمسی داخلی هستند. علاوه بر حافظه برنامه فلش، دارای حافظه داده RAM و حافظه EEPROM برای ذخیره‌سازی داده‌های غیر فراموشی مثل شماره‌های سریال و داده‌های کالیبراسیون می‌باشند. ویژگی‌های حفاظتی شامل تایمر Watchdog داخلی، بازنشانی ولتاژ پایین و تشخیص ولتاژ پایین با ایمنی نویز بالا و حفاظت در برابر الکتریسیته ساکن (ESD) می‌باشند. این دستگاه‌ها مناسب کاربردهای مدرن کلید لمسی مانند کنترل از راه دور، ابزارهای اندازه‌گیری و لوازم خانگی هستند.
+
+Description
+
+The series of devices are A/D Flash Memory type 8-bit high performance RISC architecture microcontrollers with fully integrated touch key functions. With all touch key functions provided internally and with the convenience of Flash Memory multi-programming features, each device has all the features to offer designers a reliable and easy means of implementing touch keys within their products applications.
+
+In addition to the Flash program memory, other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc. Analog feature includes a multi-channel 12-bit A/D converter. Protective features such as an internal Watchdog Timer, Low Voltage Reset and Low Voltage Detector coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+
+A full choice of external and internal, high and low speed oscillators are provided and can be flexibly used for different applications. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimise power consumption. Easy communication with the outside world is provided using the internal SPI, I2C and UART interfaces, while the inclusion of flexible I/O programming features, Time Base functions, Timer Modules and many other features further enhance device functionality and flexibility.
+
+The touch key devices will find excellent use in a huge range of modern Touch Key product applications such as remote control, instrumentation, household appliances such as electric rice cookers and electronically controlled tools to name but a few.
+
+CPU Features 
+
+Operating voltage
+-- fSYS =4MHz: 2.2V~5.5V
+-- fSYS =8MHz: 2.2V~5.5V
+-- fSYS =12MHz: 2.7V~5.5V
+-- fSYS =16MHz: 3.3V~5.5V
+Up to 0.25μs instruction cycle with 16MHz system clock at VDD =5V
+Power down and wake-up functions to reduce power consumption
+Oscillator types
+- External High Speed Crystal – HXT
+- Internal High Speed 8/12/16MHz RC – HIRC
+- Internal Low Speed 32kHz RC – LIRC
+- External Low Speed 32.768kHz Crystal – LXT
+Fully integrated internal oscillators require no external components
+Multi-mode operation: FAST, SLOW, IDLE and SLEEP
+All instructions executed in one to three instruction cycles
+Table read instructions
+115 powerful instructions
+Up to 12-level subroutine nesting
+Bit manipulation instruction
+
+Peripheral Features 
+
+Flash Program Memory: 4K×16~16K×16
+Data Memory: 512×8~1024×8
+True EEPROM Memory: 128×8
+In Application Programming function – IAP
+Watchdog Timer function
+Up to 46 bidirectional I/O lines
+Programmable I/O port source current and sink current for LED driver applications
+Two external interrupt lines shared with I/O pins
+Multiple Timer Modules for time measurement, input capture, compare match output or PWM output or single pulse output function
+Dual Time-Base functions for generation of fixed time interrupt signals
+8 external channel 12-bit resolution A/D converter with internal reference voltage VBG
+Up to 28 fully integrated touch key functions without requiring external components
+Serial Interface Module – SIM for SPI or I2C
+Fully-duplex Universal Asynchronous Receiver and Transmitter Interface – UART
+Low voltage reset function
+Low voltage detect function
+Package types: 28-pin SSOP, 44/48-pin LQFP
+

@@ -1,0 +1,50 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/1002-ماسفت-irfz44n-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRFZ44N نوع N-Channel پکیج TO-220
+
+قیمت:
+185,000
+
+توضیحات کوتاه:
+ماسفت قدرت 55 ولت 49 آمپر IRFZ44N نوع N-Channel پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET
+Technology: Si
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 55 V
+Id - Continuous Drain Current: 49 A
+Rds On - Drain-Source Resistance: 17.5 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+Pd - Power Dissipation: 94 W
+Configuration: Single
+Channel Mode: Enhancement
+Height: 15.65 mm
+Length: 10 mm
+Transistor Type: 1 N-Channel
+Type: HEXFET Power MOSFET
+Width: 4.4 mm
+Brand: Infineon / IR 
+Forward Transconductance - Min: 19 S
+Fall Time: 45 ns
+Product Type: MOSFET
+Rise Time: 60 ns
+Factory Pack Quantity: 100
+Subcategory: MOSFETs
+Typical Turn-Off Delay Time: 44 ns
+Typical Turn-On Delay Time: 12 ns
+Unit Weight: 0.211644 oz
+

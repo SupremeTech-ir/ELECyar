@@ -1,0 +1,61 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/11683-رله-9v-مینیاتوری-5-پایه-بوبین-کنار-تایوانی-مارک-song-chuan-کد-842a-1c-c.html
+================================================================================
+
+عنوان:
+رله 9V مینیاتوری 5 پایه بوبین کنار تایوانی مارک SONG CHUAN کد 842A-1C-C
+
+قیمت:
+302,000
+
+توضیحات کوتاه:
+رله کوچک با بوبین 9 ولت و سه آمپر خروجی AC، مناسب برای کنترل بارهای پراکنده در مدارات الکترونیکی و الکتریکی سبک
+
+توضیحات کامل:
+این رله از نوع مینیاتوری با بوبین 9V DC است که وقتی بوبین با ولتاژ تغذیه شود، کنتاکت آن (SPST Normally-Open) بسته شده و مسیر جریان را برقرار می‌سازد. توان عبوری تا 3A AC در 125VAC امکان کنترل تجهیزات کم‌مصرف یا مدارات فرمان را فراهم می‌کند. مقاومت بوبین 255Ω و توان مصرفی بوبین حدود 850 mW است، که مصرف نسبتاً کم و پاسخ سریع را تضمین می‌کند. با ابعاد کوچک و پین‌های مناسب برای نصب از نوع Through-Hole (سوراخ‌کاری)، این رله برای پروژه‌های DIY، دستگاه‌های کنترلی خانگی یا صنعتی سبک، ماژول‌های رله و بردهای فرمان مناسب است.
+
+مشخصات
+
+ولتاژ بوبین: 9V DC
+توان خروجی کنتاکت: 125VAC / 3A
+فرم کنتاکت: 1 Form A (SPST Normally-Open)
+مقاومت بوبین: 255 Ω
+توان مصرفی بوبین: ~850 mW
+نوع نصب: Through-Hole
+تعداد پایانه: 5 (پنج-پین)
+
+کاربردهای رایج
+
+مدارات رله در دستگاه‌های خانگی
+ماژول‌های کنترل بار کم (مثل چراغ، فن کوچک، موتورها یا بارهای AC سبک)
+پروژه‌های DIY و بردهای آزمایشی
+اتوماسیون خانگی (Home Automation)
+سیستم‌های فرمان و کنترل صنعتی سبک
+محافظت و جداسازی مدارات فرمان از بارهای AC
+مدارات کنترل با میکروکنترلر (MCU)
+لوازم برقی با مصرف متوسط
+نمونه-سازی-های الکترونیکی
+
+This is a small-form-factor relay with a 9 V DC coil. When the coil is energized, the relay closes its SPST Normally-Open contact, allowing current to flow through the load circuit. It can switch loads up to 3 A at 125 VAC, making it ideal for controlling small electrical devices or signal-level switching circuits. The coil resistance is 255 Ω, with a coil power consumption of roughly 850 mW, ensuring low power draw and quick response. Its through-hole mounting and 5-pin configuration ease integration into PCB boards, and its small size makes it suitable for DIY projects, home automation modules, and light-duty control systems.
+
+Specifications
+
+Coil voltage: 9 V DC
+Contact configuration: 1 Form A (SPST Normally-Open)
+Contact rating: 125 VAC / 3 A
+Coil resistance: 255 Ω
+Coil power consumption: ~850 mW
+Mounting style: Through-Hole
+Number of pins: 5
+
+Common Applications
+
+Relay control circuits in home appliances
+Modules for switching light loads (lights, small fans, low-power motors, AC loads)
+DIY electronics projects and prototype boards
+Home automation systems
+Light industrial control and automation
+Isolation between control logic and AC loads
+Microcontroller-based switching circuits
+Electrical devices with moderate load
+Electronics prototyping and testing
+

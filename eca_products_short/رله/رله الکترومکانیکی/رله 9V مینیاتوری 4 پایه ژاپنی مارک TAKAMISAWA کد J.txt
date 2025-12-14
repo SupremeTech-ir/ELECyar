@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/12910-رله-9v-مینیاتوری-4-پایه-ژاپنی-مارک-takamisawa-کد-jy9h-k.html
+================================================================================
+
+عنوان:
+رله 9V مینیاتوری 4 پایه ژاپنی مارک TAKAMISAWA کد JY9H-K
+
+قیمت:
+409,500
+
+توضیحات کامل:
+Contact Material: Cadmium, Gold, Silver
+Number of Pins:  4
+Coil Current :22.22 mA
+Coil Resistance :405 Ω
+Coil Voltage (DC) : 9 V
+Contact Current Rating : 5 A
+Max Operating Temperature: 90 °C
+Min Operating Temperature: -40 °C
+Operate Time: 6 ms
+Power Consumption: 200 mW
+Resistance:  405 Ω
+Termination: PC Pin
+Throw Configuration :SPST
+Voltage Rating (AC): 250 V
+Depth: 9.8 mm
+Length: 20 mm
+

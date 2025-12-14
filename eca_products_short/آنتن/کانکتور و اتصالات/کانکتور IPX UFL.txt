@@ -1,0 +1,44 @@
+URL: https://eshop.eca.ir/کانکتور-و-اتصالات/2161-کانکتور-ipx-ufl.html
+================================================================================
+
+عنوان:
+کانکتور IPX UFL
+
+قیمت:
+52,900
+
+توضیحات کوتاه:
+کانکتور IPX UFL جهت اتصال آنتن‌ها به برد های ارتباطی بی‌سیم 
+
+توضیحات کامل:
+کانکتور IPX UFL یک کانکتور مینیاتوری RF (فرکانس رادیویی) است که به‌طور گسترده‌ای در دستگاه‌های ارتباطی بی‌سیم مدرن مانند گوشی‌های هوشمند، تبلت‌ها و دستگاه‌های اینترنت اشیا (IOT) برای اتصال آنتن‌ها به ماژول‌های رادیویی استفاده می‌شود. این کانکتور کوچک، با امپدانس 50 اهم، قابلیت عملکرد در فرکانس‌های  100 مگاهرتز تا 6 گیگاهرتز را دارد. طراحی جمع‌وجور و اتصال آسان آن این کانکتور را برای استفاده در PCB‌های پر تراکم ایده‌آل می‌سازد، در حالی که اتصال قابل اعتماد و با حداقل اتلاف سیگنال را فراهم می‌کند.
+
+کاربرد
+
+اتصال آنتن‌ها به ماژول‌های Wi-Fi، بلوتوث، GPS
+استفاده در دستگاه‌های الکترونیکی 
+اتصال آنتن‌های داخلی و خارجی به PCB در دستگاه‌های IOT
+استفاده در تنظیمات آزمایشی برای مدارهای RF
+
+Specification
+
+1. ELECTRICAL 
+1.1 Current Rating: 1A
+1.2 Voltage Rating: 60VAC
+1.3 Contact Resistance:
+Inner Contact | Initlally: 20mΩ
+Ground Contact | Initially: 10mΩ
+1.4 Insulation Resistance: 500ΜΩ
+1.5 Dielectric Withstanding Voltage: 200VAC for 1 minute
+1.6 VSWR: 100MHz to 3GHz 1.3Max
+3GHz to 6GHz 1.4Max
+1.7 Nominal Characteristic Impedance : 502
+1.8 Applicable Frequency: 100MHz to 6GHz
+2. MECHANICAL
+2.1 Durability: 30 Cycle
+3. ENVIRONMENTAL
+3.1 Operating temperature range: -40°C to +85°C
+3.2 Storage temperature range: -40°C to +85°C
+4. SOLDER ABILITY
+4.1 Recommended IR Reflow Temperature: 260°C
+

@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/5580-دیود-سریع-fr107.html
+================================================================================
+
+عنوان:
+دیود سریع FR107
+
+قیمت:
+16,380
+
+توضیحات کامل:
+Part Number : FR107
+
+Product Category:     Rectifiers       
+Mounting Style:     Axial     
+Package / Case:     DO-41-2     
+Vr - Reverse Voltage:     1000 V     
+If - Forward Current:     1 A     
+Type:     Fast Recovery Rectifiers     
+Configuration:     Single     
+Vf - Forward Voltage:     1.2 V     
+Max Surge Current:     30 A     
+Ir - Reverse Current:     5 uA     
+Recovery Time:     500 ns     
+Packaging:     Reel     
+Height:     2.7 mm     
+Length:     5.2 mm     
+Maximum Operating Temperature:     + 150 C     
+Minimum Operating Temperature:     - 65 C     
+Product:     Rectifiers     
+Factory Pack Quantity:     5000     
+Width:     2.7 mm     
+Part # Aliases:     R0
+
+     DATASHEET
+

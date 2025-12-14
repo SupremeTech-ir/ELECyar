@@ -1,0 +1,84 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/7231-رله-مخابراتی-5v-دو-کنتاکت-مارک-tianbo-کد-hjr1-2cl-05v.html
+================================================================================
+
+عنوان:
+رله مخابراتی 5V دو کنتاکت مارک TIANBO کد HJR1-2CL-05V
+
+قیمت:
+552,000
+
+توضیحات کوتاه:
+رله 1 آمپر 120 ولت AC و 2 آمپر 24 ولت DC دارای 2 کنتاکت 8 پایه تیانبو TIANBO
+
+توضیحات کامل:
+رله HJR1-2CL-05V ساخت شرکت TIANBO از نوع رله‌های مخابراتی با دو کنتاکت جابجایی (2 Form C یا DPDT) بوده و برای مصارف الکترونیکی و کنترلی که نیاز به عملکرد دقیق، حساس و قابل اعتماد دارند طراحی شده است. این رله با ساختار کوچک و استاندارد DIP به راحتی در بردهای الکترونیکی نصب می‌شود و با توان تحریک پایین، مصرف انرژی را به حداقل می‌رساند. این رله دارای توان تحریک 0.36 وات، عایق‌بندی بالا بین کنتاکت‌ها و سیم‌پیچ، مقاومت بالا در برابر شوک و لرزش و زمان پاسخ سریع است. قابلیت تحمل ولتاژ سوئیچینگ تا 240VAC یا 60VDC و جریان حداکثری 2 آمپر، آن را برای کنترل بارهای سبک ایده‌آل می‌سازد. با تاییدیه‌های ایمنی نظیر UL، cUL و TÜV، این رله انتخابی قابل اطمینان در طراحی‌های صنعتی حساس محسوب می‌شود.
+
+مشخصات
+
+ولتاژ کاری: 5VDC
+توان سیم‌پیچ: 0.36W
+مقاومت سیم‌پیچ: 56Ω
+جریان تحریک: 89.2mA
+حداکثر ولتاژ جذب: 3.75VDC
+حداقل ولتاژ رهاسازی: 0.5VDC
+نوع کنتاکت: DPDT (دو پل دو Throw - 2Z)
+جنس کنتاکت: آلیاژ نقره
+حداکثر ولتاژ سوئیچینگ: 240VAC / 60VDC
+حداکثر جریان سوئیچینگ: 2A
+حداکثر توان سوئیچینگ: 120VA / 60W
+حداقل بار: 1mA در 5VDC
+مقاومت کنتاکت: حداکثر 100mΩ در 6VDC 1A
+زمان جذب: 8ms
+زمان رهاسازی: 4ms
+مقاومت عایقی: حداقل 100MΩ در 500VDC
+تحمل شوک عملیاتی: 10G
+تحمل شوک تخریبی: 50G
+مقاومت در برابر لرزش: 10-55Hz، دامنه 1.5mm
+دمای کاری: از 30- تا 85+ درجه سانتی‌گراد
+رطوبت کاری: 40% تا 85%
+
+کاربردهای رایج
+
+رله HJR1-2CL-05V به دلیل حساسیت بالا، مصرف پایین و اندازه کوچک، انتخابی مناسب برای مدارهای کنترلی، مخابراتی، تجهیزات اندازه‌گیری و اتوماسیون صنعتی است. همچنین در کاربردهایی که فضای محدود و دقت بالا نیاز است بسیار پرکاربرد می‌باشد.
+
+کنترل تجهیزات مخابراتی
+مدارهای فرمان میکروکنترلری
+تجهیزات آزمایشگاهی دقیق
+مدارهای زمان‌سنج الکترونیکی
+بردهای کنترل صنعتی
+کنترل روشنایی کم‌مصرف
+مدارهای حفاظت ولتاژ پایین
+ماژول‌های کنترل رله چندکاناله
+سیستم‌های هشدار و آلارم
+اتوماسیون خانگی و صنعتی
+
+The TIANBO HJR1-2CL-05V is a compact and highly sensitive telecom relay featuring a DPDT (2 Form C) contact configuration. Designed for applications requiring precision, reliability, and low coil power consumption, this relay operates with a nominal coil voltage of 5VDC and a coil power of just 0.36W, making it ideal for power-efficient systems. It comes in a DIP package suitable for through-hole PCB mounting and offers a sealed construction to enhance durability in harsh environments. The relay provides high insulation between coil and contacts, ensuring safe and stable operation, and is capable of switching up to 240VAC or 60VDC at a maximum current of 2A. It has fast response times (operate time: 8ms, release time: 4ms), robust mechanical endurance, and complies with UL, cUL, and TÜV safety standards. This makes it suitable for use in telecommunication devices, control systems, and other precision electronic circuits.
+
+Specifications
+
+Coil Voltage: 5VDC
+Coil Power: 0.36W
+Coil Resistance: 56Ω
+Rated Coil Current: 89.2mA
+Max Operate Voltage: 3.75VDC
+Min Release Voltage: 0.5VDC
+Contact Type: DPDT (2 Form C)
+Contact Material: Silver Alloy
+Max Switching Voltage: 240VAC / 60VDC
+Max Switching Current: 2A
+Max Switching Power: 120VA / 60W
+Minimum Load: 1mA at 5VDC
+Contact Resistance: Max 100mΩ at 6VDC 1A
+Operate Time: 8ms
+Release Time: 4ms
+Insulation Resistance: ≥100MΩ at 500VDC
+Shock Resistance (Operating): 10G
+Shock Resistance (Destructive): 50G
+Vibration Resistance: 10–55Hz, 1.5mm amplitude
+Operating Temperature: -30°C to +85°C
+Humidity Range: 40%–85%
+Electrical Life: 100,000 operations at 30 ops/min
+Mechanical Life: 10,000,000 operations at 300 ops/min
+Weight: Approx. 5g
+Safety Approvals: UL, cUL, TÜV
+

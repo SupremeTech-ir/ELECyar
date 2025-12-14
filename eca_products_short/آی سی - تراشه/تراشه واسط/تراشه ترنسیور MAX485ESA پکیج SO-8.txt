@@ -1,0 +1,64 @@
+URL: https://eshop.eca.ir/تراشه-واسط/21404-تراشه-ترنسیور-max485esa-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور MAX485ESA پکیج SO-8
+
+قیمت:
+49,700
+
+توضیحات کوتاه:
+تراشه MAX485ESA یک ترنسیور کم‌مصرف برای ارتباطات RS-485 و RS-422 با سرعت بالا تا 2.5 مگابیت‌برثانیه در پکیج SMD نوع SO-8
+
+توضیحات کامل:
+MAX485ESA یک ترنسیور کم‌مصرف و نیمه‌دوطرفه (Half-Duplex) است که برای انتقال داده‌ها بر بستر استاندارد RS-485 یا RS-422 طراحی شده است. این تراشه شامل یک درایور و یک گیرنده می‌باشد و امکان برقراری ارتباط تا فاصله‌های طولانی و در محیط‌های نویزی را فراهم می‌کند.
+ویژگی برجسته‌ی این تراشه توان مصرفی پایین (حدود 300 میکروآمپر در حالت عادی) و قابلیت انتقال داده با سرعت حداکثر 2.5 مگابیت‌برثانیه است. همچنین، مدار داخلی محافظت در برابر اتصال کوتاه و قطع حرارتی (thermal shutdown) دارد که باعث افزایش پایداری و طول عمر دستگاه می‌شود. ورودی گیرنده دارای قابلیت Fail-Safe است، به این معنی که در صورت قطع اتصال یا حالت ورودی باز، خروجی منطقی بالا تولید می‌کند تا از خطای داده جلوگیری شود.
+پایه‌های کنترل RE (Receiver Enable) و DE (Driver Enable) امکان فعال یا غیرفعال کردن جداگانه‌ی درایور و گیرنده را فراهم می‌کنند. این ویژگی، تراشه را برای سیستم‌های چند‌نقطه‌ای (Multipoint Bus) ایده‌آل می‌سازد.
+
+مشخصات 
+
+ولتاژ تغذیه (Vcc): 4.75 تا 5.25 ولت
+نوع ارتباط: RS-485 / RS-422 Half-Duplex
+نرخ انتقال داده (Data Rate): تا 2.5 Mbps
+جریان مصرفی: حدود 300 µA (در حالت فعال)
+محدوده دمای کاری: °C85~40-
+مقاومت ورودی گیرنده: 12 kΩ
+تعداد دستگاه قابل اتصال در باس: تا 32 واحد
+حفاظت در برابر اتصال کوتاه و حرارت زیاد
+پکیج: SO-8
+
+کابردهای رایج
+
+ارتباطات صنعتی مبتنی بر RS-485
+شبکه‌های کنترل محلی (LAN صنعتی)
+تبدیل سطح سیگنال بین TTL و RS-485
+سیستم‌های اندازه‌گیری و داده‌برداری
+تجهیزات اتوماسیون و کنترل از راه دور
+ماژول‌های ارتباطی برای میکروکنترلرها و PLC
+
+Specification
+
+Manufacturer: Analog Devices Inc. 
+Product Category: RS-422/RS-485 Interface IC 
+Series: MAX485 
+Mounting Style: SMD/SMT 
+Package / Case: SOIC-8 
+Function: Transceiver 
+Number of Drivers: 1 Driver 
+Number of Receivers: 1 Receiver 
+Data Rate: 2.5 Mb/s 
+Supply Voltage - Max: 5 V 
+Supply Voltage - Min: 5 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Reel 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Brand: Analog Devices / Maxim Integrated 
+Duplex: Half Duplex 
+Height: 1.5 mm 
+Length: 5 mm 
+Operating Supply Current: 500 uA 
+Operating Supply Voltage: 5 V 
+Product Type: RS-422/RS-485 Interface IC
+

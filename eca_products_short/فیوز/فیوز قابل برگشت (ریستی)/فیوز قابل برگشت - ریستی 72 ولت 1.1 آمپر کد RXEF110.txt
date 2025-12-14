@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/فیوز-قابل-برگشت-ریستی/10620-فیوز-قابل-برگشت-ریستی-72-ولت-11-آمپر-کد-rxef110.html
+================================================================================
+
+عنوان:
+فیوز قابل برگشت - ریستی 72 ولت 1.1 آمپر کد RXEF110
+
+قیمت:
+38,000
+
+توضیحات کوتاه:
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC با ضریب دمایی مثبت (PPTC)
+
+توضیحات کامل:
+معرفی
+
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC ، یک عنصر الکترونیک پسیو با ضریب دمایی مثبت (PPTC) است که برای محافظت در برابر اضافه جریان در مدارهای الکترونیکی استفاده می شود.
+این فیوز ها در حالتی که بیش از جریان مورد نظر از آن جریان عبور کند ، به شدت داغ شده و در صورت ادامه داشتن اضافه جریان ، فیوز قطع می شود . با برگشت دمای فیوز به حالت عادی ، فیوز مجددا وصل خواهد شد .
+
+Specification
+
+Product Category: Resettable Fuses - PPTC
+Series: RXEF
+P/N: XF110 
+Termination Style: Radial
+Hold Current: 1.1 A
+Maximum Voltage: 72 V
+Trip Current: 2.2 A
+Current Rating - Max: 40 A
+Resistance: 380 mOhms
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Lead Spacing: 5.8 mm
+Packaging: Bulk
+Diameter: 12.8 mm 
+Length: 3 mm 
+Type: PolySwitch Resettable Fuses  
+Mounting Style: PCB Mount 
+Pd - Power Dissipation: 1.5 W 
+Product Type: Resettable Fuses - PPTC
+

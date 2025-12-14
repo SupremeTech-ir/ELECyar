@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/16069-تراشه-آپ-امپ-4558d-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ 4558D پکیج SO-8
+
+قیمت:
+57,400
+
+توضیحات کوتاه:
+آی سی آپ امپ 4558D پکیج SMD
+
+توضیحات کامل:
+Introduction
+
+The 4558D is a dual high-gain operational amplifier with internal compensation circuit and constructed on a single silicon chip. It offers excellent characteristics by combining the parameters adjusted for a monolithic chip. The channel separation characteristic is suitable for measuring instruments.
+
+Specification
+
+Operating Voltage ( ±4V~±18V )
+High Voltage Gain ( 100dB typ. )
+High Input Resistance ( 5MΩ typ. )Bipolar Technology
+Package Outline DIP8, DMP8, SIP8
+SOP8 JEDEC 150mil, SSOP8
+

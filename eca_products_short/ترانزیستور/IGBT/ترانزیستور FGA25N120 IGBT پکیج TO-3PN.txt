@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/igbt/22056-ترانزیستور-fga25n120-igbt-پکیج-to-3pn.html
+================================================================================
+
+عنوان:
+ترانزیستور FGA25N120 IGBT پکیج TO-3PN
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 25 آمپر مدل FGA25N120 پکیج TO-3PN
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors 
+Technology: Si 
+Package/Case: TO-3PN
+Mounting Style: Through Hole 
+Configuration: Single 
+Collector- Emitter Voltage VCEO Max: 1200 V 
+Collector-Emitter Saturation Voltage: 2 V 
+Maximum Gate Emitter Voltage: - 20 V, 20 V 
+Continuous Collector Current at 25 C: 25 A 
+Pd - Power Dissipation: 312 W 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C
+

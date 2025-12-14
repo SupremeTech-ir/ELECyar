@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/igbt/5557-ترانزیستور-igbt-irgp4063.html
+================================================================================
+
+عنوان:
+IGBT IRGP4063
+
+قیمت:
+0
+
+توضیحات کامل:
+part number: IRGP4063DPBF
+Configuration:     Single     
+Collector- Emitter Voltage VCEO Max:     600 V     
+Collector-Emitter Saturation Voltage:     2.14 V     
+Maximum Gate Emitter Voltage:     +/- 20 V     
+Continuous Collector Current at 25 C:     96 A     
+Pd - Power Dissipation:     330 W     
+Mounting Style:     Through Hole     
+Package / Case:     TO-247-3     
+Packaging:     Tube     
+Height:     20.7 mm     
+Length:     15.87 mm     
+Minimum Operating Temperature:     - 55 C
+
+datasheet
+

@@ -1,0 +1,71 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/17793-تراشه-حافظه-فلش-w25q16jv-پکیج-soic-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q16JV پکیج SOIC-8
+
+قیمت:
+298,000
+
+توضیحات کوتاه:
+تراشه حافظه فلش W25Q16JV با پکیج SOIC-8 و عملکرد بالا برای ذخیره‌سازی و اجرای کد از طریق SPI
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q16JV در پکیج SOIC-8 یک راه‌حل ذخیره‌سازی جمع‌وجور و کم‌مصرف است که برای سیستم‌هایی با محدودیت در فضا و تعداد پین‌ها طراحی شده است. این تراشه به ویژه برای استفاده در برنامه‌هایی مانند ذخیره‌سازی داده‌ها، اجرای کد از طریق SPI و ذخیره صدا، متن و داده‌ها مناسب است. با عملکرد بالا و توان مصرفی پایین، این تراشه به توسعه‌دهندگان این امکان را می‌دهد تا اطلاعات را به طور موثر و سریع ذخیره و بازیابی کنند. همچنین، به دلیل ویژگی‌های امنیتی پیشرفته و انعطاف‌پذیری در برنامه‌ریزی و پاک‌سازی داده‌ها، برای استفاده در طیف وسیعی از کاربردها مناسب است.
+
+Description
+
+The W25Q16JV (16M-bit) Serial Flash memory provides a storage solution for systems with limited space, pins and power. The 25Q series offers flexibility and performance well beyond ordinary Serial Flash devices. They are ideal for code shadowing to RAM, executing code directly from Dual/Quad SPI (XIP) and storing voice, text and data. The device operates on a single 2.7V to 3.6V power supply with current consumption as low as 1μA for power-down. The W25Q16JV array is organized into 8,192 programmable pages of 256-bytes each. Up to 256 bytes can
+be programmed at a time. Pages can be erased in groups of 16 (4KB sector erase), groups of 128 (32KBblock erase), groups of 256 (64KB block erase) or the entire chip (chip erase). The W25Q16JV has 512 erasable sectors and 32 erasable blocks respectively. The small 4KB sectors allow for greater flexibility in applications that require data and parameter storage. (See figure 2.)
+The W25Q16JV supports the standard Serial Peripheral Interface (SPI), and a high performance Dual/Quad output as well as Dual/Quad I/O SPI: Serial Clock, Chip Select, Serial Data I/O0 (DI), I/O1 (DO), I/O2, and I/O3. SPI clock frequencies of up to 133MHz are supported allowing equivalent clock rates of 266MHz (133MHz x 2) for Dual I/O and 532MHz (133MHz x 4) for Quad I/O when using the Fast Read Dual/Quad I/O instructions. These transfer rates can outperform standard Asynchronous 8 and 16-bit Parallel Flash memories.
+Additionally, the device supports JEDEC standard manufacturer and device ID and SFDP Register, a 64-bit Unique Serial Number and three 256-bytes Security Registers..
+
+Features
+
+·New Family of SpiFlash Memories
+– W25Q16JV: 16M-bit / 2M-byte (2,097,152)
+– Standard SPI: CLK, /CS, DI, DO
+– Dual SPI: CLK, /CS, IO0, IO1
+– Quad SPI: CLK, /CS, IO0, IO1, IO2, IO3
+– Software & Hardware Reset
+
+·Highest Performance Serial Flash
+– 133MHz Single, Dual/Quad SPI clocks
+– 266/532MHz equivalent Dual/Quad SPI
+– 66MB/S continuous data transfer rate
+– Min. 100K Program-Erase cycles per sector
+– More than 20-year data retention
+
+·Efficient “Continuous Read”
+– Continuous Read with 8/16/32/64-Byte Wrap
+– As few as 8 clocks to address memory
+– Allows true XIP (execute in place) operation
+– Outperforms X16 Parallel Flash
+
+· Low Power, Wide Temperature Range
+– Single 2.7V to 3.6V supply
+– -40°C to +85°C operating range
+– -40°C to +105°C operating range
+– <1μA Power-down (typ.)
+· Flexible Architecture with 4KB sectors
+– Uniform Sector/Block Erase (4K/32K/64K-Byte)
+– Program 1 to 256 byte per programmable page
+– Erase/Program Suspend & Resume
+· Advanced Security Features
+– Software and Hardware Write-Protect
+– Power Supply Lock-Down and
+– Special OTP protection(2)
+– Top/Bottom, Complement array protection
+– Individual Block/Sector array protection
+– 64-Bit Unique ID for each device
+– Discoverable Parameters (SFDP) Register
+– 3X256-Bytes Security Registers with OTP locks
+– Volatile & Non-volatile Status Register Bits
+· Space Efficient Packaging
+– 8-pin SOIC 150-mil / 208-mil
+– 8-pad USON 2X3mm/4x3-mm
+– 8-pad XSON 4x4-mm
+– 8-pad WSON 6x5-mm
+– 8-ball WLCSP
+– Contact Winbond for KGD and other options
+

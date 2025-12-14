@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/تراشه-درایور/20466-تراشه-درایور-l297d-پکیج-dip-بازسازی-شده.html
+================================================================================
+
+عنوان:
+تراشه درایور L297D پکیج DIP بازسازی شده
+
+قیمت:
+786,000
+
+توضیحات کوتاه:
+آی سی درایور استپر موتور L297D 
+
+توضیحات کامل:
+SPECIFICATION
+
+Manufacturer: STMicroelectronics 
+Product Category: Motor / Motion / Ignition Controllers & Drivers 
+RoHS: Details 
+Product: Stepper Motor Controllers / Drivers 
+Type: Stepping Motor Controller 
+Operating Supply Voltage: 7 V 
+Operating Supply Current: 80 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 150 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-20 
+Packaging: Tube 
+Operating Temperature Range: - 40 C to + 150 C 
+Output Voltage: 0.8 V 
+Series: L297 
+Brand: STMicroelectronics 
+Product Type: Motor / Motion / Ignition Controllers & Drivers
+

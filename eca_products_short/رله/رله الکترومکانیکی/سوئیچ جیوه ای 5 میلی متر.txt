@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/11216-سوئیچ-جیوه-ای-5-میلی-متر.html
+================================================================================
+
+عنوان:
+سوئیچ جیوه ای 5 میلی متر
+
+قیمت:
+126,000
+
+توضیحات کوتاه:
+کلید الکترومکانیکی حساس به زاویه، با استفاده از جیوه برای تشخیص تغییرات موقعیت و وضعیت، مناسب برای پروژه‌های الکترونیکی و صنعتی.
+
+توضیحات کامل:
+سوئیچ جیوه‌ای 5 میلی‌متر یک کلید الکترومکانیکی است که با استفاده از خاصیت رسانایی جیوه، تغییرات زاویه یا وضعیت را تشخیص می‌دهد. این سوئیچ از یک لوله شیشه‌ای مهر و موم شده تشکیل شده است که درون آن مقدار کمی جیوه قرار دارد. با تغییر زاویه سوئیچ، جیوه به سمت الکترودها حرکت کرده و باعث برقراری یا قطع جریان الکتریکی می‌شود. این ویژگی، سوئیچ را برای کاربردهایی که نیاز به تشخیص تغییرات موقعیت دارند، مناسب می‌سازد.
+
+مشخصات
+
+نوع عملکرد: کلید حساس به زاویه (Tilt Switch)
+وضعیت کنتاکت: عموماً باز (Normally Open)
+ولتاژ کاری: تا 20 ولت DC
+جریان مجاز: تا 300 میلی‌آمپر
+زاویه عملکرد: بین 5 تا 10 درجه
+مقاومت کنتاکت: حدود 0.2 اهم
+ابعاد: طول 13 ± 1 میلی‌متر، قطر 4 تا 5 میلی‌متر
+نوع نصب: نصب از طریق سوراخ (Through Hole)
+جنس بدنه: شیشه‌ای
+تعداد پایه: 2 پایه
+
+کاربردهای رایج
+سوئیچ جیوه‌ای 5 میلی‌متر به دلیل حساسیت بالا به تغییرات زاویه و طراحی ساده، در بسیاری از پروژه‌های الکترونیکی و صنعتی مورد استفاده قرار می‌گیرد. این سوئیچ در سیستم‌هایی که نیاز به تشخیص تغییرات موقعیت یا وضعیت دارند، مانند سیستم‌های هشدار، تجهیزات ایمنی، و پروژه‌های DIY، کاربرد دارد. همچنین، در محیط‌هایی که نیاز به سوئیچ بدون سایش مکانیکی و با عمر طولانی است، این سوئیچ گزینه‌ای مناسب محسوب می‌شود.
+
+سیستم‌های هشدار و امنیتی
+تجهیزات ایمنی صنعتی
+پروژه‌های DIY و آموزشی
+تشخیص تغییرات موقعیت در رباتیک
+کنترل روشنایی بر اساس زاویه
+تجهیزات پزشکی و آزمایشگاهی
+
+Introduction
+
+AOOD rotating electrical connectors (also called mercury slip rings or liquid metal slip rings) use a unique design principle unlike the sliding, brush contact of a slip ring. The connection is made through a pool of liquid metal molecularly bonded to the contact, which provides a low-resistance, stable connection. During rotation, the fluid maintains the electrical connection between the contacts without any wear. They are the best solutions for those have low electrical noise, high speed or super high current transfer requirements systems.
+
+Specification
+
+Very low electric noise
+Very low cost
+Very low contact resistance
+No maintenance and high reliability
+Single pole current can up to 7500mA
+
+Applications
+
+Welding machines
+Cutting machines
+Textile machines
+Strain gages
+sanitary towel machines
+

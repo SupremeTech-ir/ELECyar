@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/2718-تراشه-اپتوکوپلر-tlp541-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر TLP541 پکیج DIP
+
+قیمت:
+329,000
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر TPL541 
+
+توضیحات کامل:
+معرفی
+
+آی سی TLP541 یک اپتوکوپلر تک کانال می باشد که شامل یک فتوتریستور نوری همراه با یک دیود مادون قرمز در خروجی می باشد.
+
+Specification
+
+Product Category: Triac & SCR Output Optocouplers
+Package / Case: PDIP-6
+Zero-Crossing Circuit: Without Zero-Crossing Circuit
+Output Type: PhotoSCR
+Number of Channels: 1 Channel
+Isolation Voltage: 2500 Vrms
+If - Forward Current: 70 mA
+Vf - Forward Voltage: 1.15 V
+Off-state Output Voltage - VDRM: 400 V
+Maximum Continuous Output Current: 150 mA
+Minimum Operating Temperature: - 30 C
+Maximum Operating Temperature: + 85 C
+Series: TLP541
+Height: 3.65 mm
+Length: 7.12 mm
+Width: 6.4 mm
+Brand: Toshiba
+Mounting Style: Through Hole
+Maximum Trigger Current: 7 mA
+Maximum Turn-On Time: 10 us
+Product Type: Triac & SCR Output Optocouplers
+

@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/آنتن-gps/21456-آنتن-gps-داخلی-اکتیو-سایز-12x12x4mm.html
+================================================================================
+
+عنوان:
+آنتن GPS داخلی اکتیو سایز 12x12x4mm
+
+قیمت:
+1,260,000
+
+توضیحات کوتاه:
+آنتن GPS داخلی از نوع ACTIVE با سر فیش IPX مناسب برای انواع دستگاه های موقعیت یاب
+
+توضیحات کامل:
+Specification 
+
+Model: GBSA-210
+
+Ceramic size: 12x12x4mm
+
+Bottom plate size: 12x23x6mm
+
+Frequency: 1561/1575.42MHZ
+
+Connector: IPX
+
+Power consumption: 1mA 3.3V ultra-low current
+
+Impedance: 50 ohms
+

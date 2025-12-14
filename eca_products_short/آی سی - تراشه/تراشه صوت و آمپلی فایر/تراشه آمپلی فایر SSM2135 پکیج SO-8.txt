@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/14261-تراشه-آمپلی-فایر-ssm2135-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر SSM2135 پکیج SO-8
+
+قیمت:
+497,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر SSM2135
+
+توضیحات کامل:
+Specification
+
+Mfr: Analog Devices Inc.
+Amplifier Type: Audio    
+Slew Rate: 0.9V/µs
+Current - Supply: 3.7mA
+Voltage - Supply, Single/Dual (±): 4V ~ 36V, ±2V ~ 18V
+Operating Temperature: -40°C ~ 85°C
+Mounting Type: Surface Mount
+Package / Case: 8-SOIC (0.154"", 3.90mm Width)
+Supplier Device Package: 8-SOIC
+Gain Bandwidth Product: 3.5MHz
+Current - Input Bias: 300nA
+Voltage - Input Offset: 200µV
+Current - Output / Channel: 30mA
+Excellent sonic characteristics
+High output drive capability
+5.2 nV/√Hz equivalent input noise @ 1 kHz
+0.003% THD + N (VOUT = 1 V p-p @ 1 kHz)
+3.5 MHz gain bandwidth
+Unity-gain stable
+Low cost
+
+Applications
+
+Multimedia audio systems
+Microphone preamplifiers
+Headphone drivers
+Differential line receivers
+Balanced line drivers
+Audio ADC input buffers
+Audio DAC l-V converters and filters
+Pseudoground generators
+

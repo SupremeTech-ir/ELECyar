@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/1823-تریستور-bt169.html
+================================================================================
+
+عنوان:
+تریستور BT169
+
+قیمت:
+33,000
+
+توضیحات کوتاه:
+تریستور BT169 پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+THYRISTOR, 0.8A, 400V, TO-92
+Peak Repetitive Off-State Voltage, Vdrm:400V
+Gate Trigger Current Max, Igt:200µA
+Current It av:0.5A
+On State RMS Current IT(rms):0.8A
+Peak Non Rep Surge Current Itsm 50Hz:8A
+Holding Current Max Ih:5mA
+Gate Trigger Voltage Max Vgt:0.5V
+Operating Temperature Range:-40°C to +150°C
+Current Itsm:9A; Package / Case:TO-92
+Repetitive Reverse Voltage Vrrm Max:400V
+Termination Type:Through Hole
+Thyristor Type:Thyristor
+

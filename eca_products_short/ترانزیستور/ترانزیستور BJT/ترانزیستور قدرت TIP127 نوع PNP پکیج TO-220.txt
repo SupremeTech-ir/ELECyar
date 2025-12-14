@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/845-ترانزیستور-قدرت-tip127-نوع-pnp-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ترانزیستور قدرت TIP127 نوع PNP پکیج TO-220
+
+قیمت:
+105,000
+
+توضیحات کوتاه:
+ترانزیستور قدرت TIP127 نوع PNP پکیج TO-220 ولتاژ 100V جریان 5A
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: TIP127
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 65 W
+Maximum Collector-Base Voltage |Vcb|: 100 V
+Maximum Collector-Emitter Voltage |Vce|: 100 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 5 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Collector Capacitance (Cc): 300 pF
+Forward Current Transfer Ratio (hFE), MIN: 1000
+Package: TO-220AB
+
