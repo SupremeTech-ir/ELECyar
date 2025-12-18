@@ -1,0 +1,1358 @@
+عنوان:
+اپتوکوپلر 4N25 پکیج DIP-6
+
+قیمت:
+97,600
+
+توضیحات کوتاه:
+اوپتوکوپلر تک‌کاناله با LED مادون‌قرمز و فتوترانزیستور NPN، مناسب ایزولاسیون تا 5000 Vrms و انتقال سیگنال در محیط‌های نویزی.
+
+توضیحات کامل:
+اوپتوکوپلر 4N25 شامل یک LED مادون‌قرمز گالیوم‌آرسناید و یک فتوترانزیستور NPN با پایه بیس است که امکان کنترل دقیق تقویت، سرعت سوئیچ و حساسیت خروجی را فراهم می‌کند. این ایزولاتور نوری با ایجاد جداسازی الکتریکی کامل بین بخش ورودی و خروجی، از نویز، تداخل زمین و ضربات ولتاژ جلوگیری می‌کند و در مدارات سوئیچینگ، تشخیص AC، فیدبک منابع تغذیه و سیستم‌های مخابراتی کاربرد گسترده دارد. ایزولاسیون 5000 Vrms، خازن ورودی-خروجی کمتر از 0.5 pF و CTR مناسب (20٪ تا 50٪ در جریان 0mA) این قطعه را به گزینه‌ای مطمئن در طراحی صنعتی، ابزار دقیق و اتوماسیون تبدیل می‌کند. پکیج DIP-6 نیز نصب آسان، ایمنی بالا و فاصله خزشی مناسب را تضمین می‌کند.
+
+مشخصات
+
+ولتاژ ایزولاسیون: مقدار 5000Vrms
+جریان مستقیم LED (I_F max): مقدار 60mA
+ولتاژ مستقیم LED در I_F = 50 mA: بین 1.3V تا 1.5V
+جریان برگشتی LED (V_R = 3 V): مقدار 0.1µA تا 100µA
+ولتاژ کلکتور–امیتر (V_CEO): مقدار 70V
+ولتاژ کلکتور–بیس (V_CBO): مقدار 70V
+ولتاژ امیتر–کلکتور (V_ECO): مقدار 7V
+جریان کلکتور (I_C max): مقدار 50mA
+CTR در V_CE = 10 V و I_F = 10 mA: مقدار min برابر 20% و typ برابر 50%
+جریان نشت C-E در تاریکی (V_CE = 10 V): بین 5 nA تا 50 nA
+زمان rise/fall در 10 mA: مقدار typ برابر 2 µs
+خازن ورودی–خروجی: مقدار max برابر 0.5 pF
+نوع پکیج: DIP-6 استاندارد
+
+کاربردهای رایج
+
+این اوپتوکوپلر برای ایزولاسیون سیگنال، کاهش نویز، حفاظت از میکروکنترلر و انتقال سیگنال بین مدارهای با اختلاف پتانسیل بالا بسیار کاربردی است. در منابع تغذیه، سیستم‌های مخابراتی، تشخیص AC و کنترل صنعتی استفاده فراوان دارد.
+
+فیدبک منابع تغذیه سوئیچینگ
+ایزولاسیون ورودی میکروکنترلر
+تشخیص ولتاژ AC
+درایو رله و ترایاک
+ایمنی زمین و قطع نویز
+ابزار دقیق و اندازه‌گیری ایزوله
+سیستم‌های مخابراتی
+ایزولاسیون سیگنال در مدارات صنعتی
+کنترل تجهیزات خانگی
+استفاده در کاربردهای تلفنی
+
+Specifications
+
+Isolation voltage: 5000Vrms
+LED forward current (I_F max): 60mA
+LED forward voltage at I_F = 50 mA: 1.3V to 1.5V
+LED reverse current (V_R = 3 V): 0.1µA to 100µA
+Collector-emitter voltage (V_CEO): 70V
+Collector-base voltage (V_CBO): 70V
+Emitter-collector voltage (V_ECO): 7V
+Collector current (I_C max): 50mA
+CTR at V_CE = 10 V and I_F = 10 mA: min 20% and typ 50%
+C-E leakage current in the dark (V_CE = 10 V): 5 nA to 50 nA
+Rise/fall time at 10 mA: typ 2 µs
+Input-output capacitor: max value 0.5 pF
+Package type: DIP-6 standard
+
+
+========================================================================================================================
+
+عنوان:
+اپتوکوپلر 4N28 پکیج DIP-6
+
+قیمت:
+104,000
+
+توضیحات کوتاه:
+اوپتوکوپلر تک‌کاناله با LED مادون‌قرمز و فتوترانزیستور NPN، مناسب برای ایزولاسیون سیگنال، فیدبک منابع تغذیه و کاربردهای صنعتی با نویز پایین.
+
+توضیحات کامل:
+اوپتوکوپلر 4N28 یک ایزولاتور نوری استاندارد از خانواده مشهور 4N2x است که شامل یک LED مادون‌قرمز و فتوترانزیستور NPN با اتصال پایه بیس می‌باشد. وجود پایه بیس امکان کنترل حساسیت، کاهش زمان سوئیچ و تنظیم رفتار دینامیکی فتوترانزیستور را فراهم می‌کند. این قطعه با فراهم‌کردن ایزولاسیون الکتریکی تا 5000 Vrms، حذف نویز و جلوگیری از انتقال نوسانات زمین، در مدارات حساس و صنعتی کاربردهای گسترده دارد. کارکرد پایدار، جریان ورودی کم، CTR مناسب و سرعت کلیدزنی بهتر در مقایسه با نسخه‌های بدون بیس، 4N28 را به انتخابی متداول در فیدبک پاور، تشخیص AC، ایزولاسیون میکروکنترلر و پردازش سیگنال تبدیل می‌کند. پکیج DIP-6 نیز نصب آسان، فاصله امن پایه‌ها و قابلیت اطمینان بالا را تضمین می‌کند.
+
+مشخصات
+
+ولتاژ ایزولاسیون: مقدار 5000Vrms
+جریان مستقیم LED (I_F max): مقدار 60mA
+ولتاژ مستقیم LED در I_F = 10 mA: مقدار typ برابر 1.2V
+ولتاژ معکوس LED (V_R): مقدار 6V
+CTR در V_CE = 5 V و I_F = 10 mA: مقدار typ برابر 20% تا 50% (بسته به برند)
+ولتاژ کلکتور-امیتر (V_CEO): مقدار 30V
+ولتاژ کلکتور-بیس (V_CBO): مقدار 70V
+ولتاژ امیتر-کلکتور (V_ECO): مقدار 7V
+جریان کلکتور (I_C max): مقدار 50mA
+زمان rise (t_r): مقدار typ برابر 3µs
+زمان fall (t_f): مقدار typ برابر 2µs
+ظرفیت LED تا فوتوترانزیستور (C_in-out): مقدار typ برابر 0.5 pF
+نوع پکیج: DIP-6
+
+کاربردهای رایج
+
+این اوپتوکوپلر برای ایزولاسیون سیگنال، انتقال امن داده‌های آنالوگ/دیجیتال و حذف نویز در سیستم‌های کنترلی و قدرت به کار می‌رود. در مدارهای فیدبک، رله‌درایور، تشخیص AC، حفاظت میکروکنترلر و سیستم‌های مخابراتی صنعتی استفاده می‌شود.
+
+فیدبک منابع تغذیه سوئیچینگ
+ایزولاسیون ورودی میکروکنترلر
+تشخیص ولتاژ AC
+درایو رله و ترایاک
+سیستم‌های ابزار دقیق
+ایزولاسیون در محیط‌های پرنویز
+ارتباط الکترونیک قدرت و منطقی
+کنترل بارهای صنعتی
+تجهیزات مخابراتی و تلفنی
+مدارهای اندازه‌گیری ایزوله
+
+Specifications
+
+Isolation voltage: 5000Vrms
+LED forward current (I_F max): 60mA
+LED forward voltage at I_F = 10 mA: 1.2V typ
+LED reverse voltage (V_R): 6V
+CTR at V_CE = 5 V and I_F = 10 mA: 20% to 50% typ (depending on brand)
+Collector-emitter voltage (V_CEO): 30V
+Collector-base voltage (V_CBO): 70V
+Emitter-collector voltage (V_ECO): 7V
+Collector current (I_C max): 50mA
+Rise time (t_r): 3µs typ
+Fall time (t_f): 2µs typ
+LED to phototransistor capacitance (C_in-out): 0.5 pF typ
+Package type: DIP-6
+
+
+========================================================================================================================
+
+عنوان:
+اپتوکوپلر 4N33 پکیج DIP-6
+
+قیمت:
+123,000
+
+توضیحات کوتاه:
+اوپتوکوپلر فوتودارلینگتون با بهره جریان بسیار بالا و ایزولاسیون 5300Vrms، مناسب تقویت سیگنال و انتقال ایزوله در مدارهای صنعتی پکیج DIP-6
+
+توضیحات کامل:
+اوپتوکوپلر 4N33 یک ایزولاتور نوری با LED مادون‌قرمز گالیوم‌آرسناید در ورودی و فوتودارلینگتون با پایه بیس در خروجی است. ساختار دارلینگتون باعث افزایش چشمگیر بهره انتقال جریان شده و این مدل را برای کاربردهایی که نیاز به CTR بسیار بالا دارند، ایده‌آل می‌کند. طبق دیتاشیت، نسبت انتقال جریان این قطعه حداقل 500% است که در مقایسه با اوپتوکوپلرهای فوتوترانزیستور معمولی چند برابر بیشتر است. وجود پایه بیس امکان کنترل حساسیت، کاهش زمان سوئیچ و تنظیم سطح تقویت را فراهم می‌کند. ایزولاسیون 5300Vrms و مقاومت عایقی تا 10¹²Ω انتقال سیگنال بین بخش پرقدرت و کم‌قدرت مدار را ایمن می‌سازد. این قطعه در محیط‌های نویزی، منابع تغذیه سوئیچینگ، مدارات فیدبک، تریاق‌درایوها و سیستم‌های ابزار دقیق کاربرد فراوان دارد. پکیج استاندارد DIP-6 نیز نصب سریع و سازگاری با بردبورد و مدارهای صنعتی را ممکن می‌کند.
+
+مشخصات
+
+ولتاژ ایزولاسیون: مقدار 5300Vrms
+جریان مستقیم LED (I_F max): مقدار 60mA
+ولتاژ مستقیم LED در I_F = 50 mA: مقدار 1.25V تا 1.5V
+ولتاژ معکوس LED: مقدار 3V
+CTR در V_CE = 10 V و I_F = 10 mA: مقدار min برابر 500%
+ولتاژ کلکتور–امیتر (V_CEO): مقدار 30V
+ولتاژ کلکتور–بیس (V_CBO): مقدار 50V
+ولتاژ امیتر–کلکتور (V_ECO): مقدار 5V
+جریان کلکتور (I_C max): مقدار 100mA
+جریان نشتی C–E در V_CE = 10 V: مقدار typ برابر 1nA و max برابر 100nA
+زمان روشن شدن (t_on): مقدار typ برابر 5 µs
+زمان خاموش شدن (t_off): مقدار max برابر 100µs در IF = 200 mA
+مقاومت عایقی: مقدار ≥10¹²Ω در 25 °C
+ظرفیت کوپلینگ: مقدار typ برابر 1.5pF
+نوع پکیج: DIP-6
+
+کاربردهای رایج
+
+این اوپتوکوپلر برای تقویت و انتقال ایزوله سیگنال‌هایی که نیاز به CTR بسیار بالا دارند مناسب است. در فیدبک منابع تغذیه، درایو تریاک، سیستم‌های کنترل صنعتی، تشخیص ولتاژ AC، ارتباط مدارهای قدرت و منطق، و ابزار دقیق کاربرد گسترده دارد.
+
+فیدبک منابع تغذیه سوئیچینگ
+درایو ترایاک و رله
+ایزولاسیون سیگنال‌های آنالوگ
+تشخیص AC در ورودی‌ها
+سیستم‌های ابزار دقیق
+حفاظت ورودی میکروکنترلر
+مدارات صنعتی با نویز بالا
+مخابرات و سیستم‌های تلفنی
+اندازه‌گیری ایزوله
+کنترل بارهای AC و DC
+
+Specifications
+
+Isolation voltage: 5300Vrms
+LED forward current (I_F max): 60mA
+LED forward voltage at I_F = 50 mA: 1.25V to 1.5V
+LED reverse voltage: 3V
+CTR at V_CE = 10 V and I_F = 10 mA: min 500%
+Collector-emitter voltage (V_CEO): 30V
+Collector-base voltage (V_CBO): 50V
+Emitter-collector voltage (V_ECO): 5V
+Collector current (I_C max): 100mA
+C–E leakage current at V_CE = 10 V: typ 1nA and max 100nA
+Turn-on time (t_on): typ 5 µs
+Turn-off time (t_off): max 100µs at IF = 200 mA
+Insulation resistance: ≥10¹²Ω at 25 °C
+Coupling capacitance: 1.5pF typ.
+Package type: DIP-6
+
+
+========================================================================================================================
+
+عنوان:
+اپتوکوپلر گیت درایور ماسفت PC923L پکیج SMD
+
+قیمت:
+325,000
+
+توضیحات کوتاه:
+اپتوکوپلر PC923L ایزولاتور پرسرعت و ایزوله با خروجی دارلینگتون برای سوئیچ مستقیم IGBT و MOSFET در کاربردهای صنعتی پکیج SMD
+
+توضیحات کامل:
+اپتوکوپلر PC923L یک ایزولاتور نوری با توان بالا و طراحی اختصاصی برای درایو مستقیم ترانزیستورهای قدرت مانند IGBT و MOSFET است. این قطعه شامل یک دیود نوری (IRED) و یک OPIC (Optical IC) در پکیج SMD با ساختار دو قالبی (Double Mold) می‌باشد. خروجی دارلینگتون داخلی، قابلیت هدایت جریان تا 0.6A را فراهم می‌کند که برای کاربردهای سنگین و صنعتی بسیار مناسب است. PC923L دارای سرعت پاسخ‌دهی بالا با زمان انتقال کمتر از 0.5µs، ولتاژ کاری گسترده از 15V تا 35V، توان مصرفی پایین و ایزولاسیون ولتاژی بالا برابر با 5000Vrms است. این قطعه همچنین دارای نرخ مقاومت به نویز (CMR) حداقل 15kV/µs می‌باشد که عملکرد پایدار آن را در محیط‌های پرنویز تضمین می‌کند. تمامی این ویژگی‌ها باعث شده‌اند این اپتوکوپلر در طراحی‌های پیشرفته تجهیزات الکترونیکی و کنترلی صنعتی جایگاه ویژه‌ای پیدا کند.
+
+مشخصات
+
+ولتاژ کاری: 15V تا 35V
+جریان ورودی (IF): حداکثر 20mA
+ولتاژ فروارد دیود (VF): معمولی 1.6V، حداکثر 1.75V
+جریان برگشتی دیود (IR): حداکثر 10µA
+ظرفیت خازنی ورودی (Ct): معمولی 150pF
+ولتاژ برگشتی دیود (VR): حداکثر 5V
+جریان خروجی پیک (IO1P / IO2P): حداکثر 0.6A
+جریان نشتی خروجی (IOH): حداکثر 500nA
+جریان مصرفی در حالت High (ICCH): معمولی 1.3mA، حداکثر 3.0mA
+جریان مصرفی در حالت Low (ICCL): معمولی 1.3mA، حداکثر 3.0mA
+زمان انتقال "L → H" (tPLH): معمولی 0.3µs، حداکثر 0.5µs
+زمان انتقال "H → L" (tPHL): معمولی 0.3µs، حداکثر 0.5µs
+زمان Rise (tr): معمولی 0.2µs
+زمان Fall (tf): معمولی 0.2µs، حداکثر 0.5µs
+ولتاژ ایزولاسیون (Viso): 5000Vrms
+مقاومت ایزولاسیون (RSO): حداقل 5×10¹⁰Ω
+نویز پذیری (CMH/ CML): حداقل ±15kV/µs
+توان مصرفی کلی (PTOT): حداکثر 550mW
+دمای کاری: 40- تا 85+ درجه سانتی‌گراد
+دمای نگهداری: 55- تا 125+ درجه سانتی‌گراد
+نوع پکیج: SMD، نوع Gullwing Lead، 8 پایه
+
+کاربردهای رایج
+
+این اپتوکوپلر در مدارهای قدرتی که نیاز به ایزولاسیون بالا و پاسخ‌گویی سریع دارند، به‌ویژه در درایورهای IGBT و MOSFET کاربرد دارد. طراحی آن به‌گونه‌ای است که امکان استفاده در سیستم‌های کنترل دقیق اینورتر، تجهیزات سرمایشی و گرمایشی و کاربردهای صنعتی حساس را فراهم می‌سازد. به‌دلیل سطح بالای ایزولاسیون، در محیط‌هایی با نویز بالا نیز عملکرد پایدار دارد.
+
+کنترل اینورتر یخچال‌های صنعتی
+درایور مستقیم IGBT در اینورترهای تهویه مطبوع
+اینورترهای کنترل دقیق توان
+مدارهای درایور صنعتی با ایزولاسیون بالا
+کنترلرهای تجهیزات گرمایشی با کارایی بالا
+ایزولاسیون نوری در بردهای قدرت
+تجهیزات پزشکی دارای مدار ایزوله‌شده
+مدارهای کنترلی در رباتیک صنعتی
+تجهیزات اندازه‌گیری ولتاژ بالا
+کنترل جریان در منابع تغذیه سوئیچینگ
+
+Specification
+
+Electrical Specifications (PC923L - SMD Package)
+Forward voltage (VF): 1.6V typical, 1.75V max (IF = 10mA, Ta = 25°C)
+Reverse current (IR): 10µA max (VR = 5V, Ta = 25°C)
+Terminal capacitance (Ct): 150pF typical (V = 0V, f = 1MHz)
+Input reverse voltage (VR): 5V max
+Input forward current (IF): 20mA max
+Supply voltage (Vcc): 15V to 35V
+High-level output current (peak): 0.6A max (Pulse width ≤ 0.5µs, Duty cycle ≤ 0.01)
+Low-level output voltage (VOL1): 0.2V typical, 0.4V max (IOL = 0.1A)
+Output leakage current (IOH): 500nA max (VO = 35V)
+High-level supply current (ICCH): 1.3mA typical, 3.0mA max (Vcc = 24V, RL = ∞)
+Low-level supply current (ICCL): 1.3mA typical, 3.0mA max (Vcc = 24V, RL = ∞)
+"L to H" threshold input current (IFHL): 1.0mA typical, 3.0mA max (Vcc = 24V)
+Propagation delay time "L → H" (tPLH): 0.3µs typical, 0.5µs max
+Propagation delay time "H → L" (tPHL): 0.3µs typical, 0.5µs max
+Rise time (tr): 0.2µs typical
+Fall time (tf): 0.2µs typical, 0.5µs max
+Common mode transient immunity (high level, CMH): ±15kV/µs min (VCM = 1500V, Vcc = 24V)
+Common mode transient immunity (low level, CML): ±15kV/µs min
+Isolation resistance (RSO): ≥5×10¹⁰Ω (DC = 500V, RH = 60%)
+Isolation voltage (Viso): 5000Vrms (AC, 1 min)
+Total power dissipation: 550mW max
+Operating temperature range: −40°C to +85°C
+Storage temperature range: −55°C to +125°C
+Soldering temperature: 270°C (for 10s)
+Package type: SMD, Gullwing leads, 8-pin
+
+
+========================================================================================================================
+
+عنوان:
+اپتوکوپلر گیت درایور ماسفت PC925L پکیج DIP
+
+قیمت:
+660,000
+
+توضیحات کوتاه:
+اوپتوکوپلر PC925L تقویت‌کننده با ایزولاسیون الکتریکی بالا، مناسب برای انتقال سیگنال با نویز کم و جداسازی کامل مدارهای ورودی و خروجی.
+
+توضیحات کامل:
+اوپتوکوپلر PC925L یک ایزولاتور نوری با مدار تقویت‌کننده داخلی است که برای انتقال سیگنال بین دو بخش مدار بدون اتصال الکتریکی مستقیم طراحی شده است. این قطعه از یک LED داخلی و یک فتوترانزیستور تقویت‌شده تشکیل شده و در مدارهای دیجیتال و آنالوگ با کمترین نویز و بیشترین ایمنی الکتریکی استفاده می‌شود. طراحی این سری امکان دریافت سیگنال با جریان ورودی کم، تبدیل آن به خروجی تقویت‌شده و در عین حال رعایت فاصله ایزولاسیون بالا را فراهم می‌کند. پکیج DIP-8 باعث افزایش فاصله خزشی و هوایی شده و ایمنی لازم برای کاربردهای صنعتی و تغذیه را تضمین می‌کند. این اوپتوکوپلر برای درایو گیت IGBT و MOSFET، فیدبک منابع تغذیه سوئیچینگ، سیستم‌های صنعتی و تبادل سیگنال در محیط‌های نویزی بسیار مناسب است.
+
+مشخصات
+
+ولتاژ ایزولاسیون: مقدار 5000Vrms
+جریان ورودی LED (I_F): مقدار typ برابر 7mA
+جریان خروجی (I_O): مقدار max برابر 50mA
+گین انتقال جریان (CTR) در 5 mA: مقدار typ برابر 200%
+فرکانس قطع (f_C): مقدار typ برابر 80kHz
+زمان روشن شدن (t_on): مقدار typ برابر 3µs
+زمان خاموش شدن (t_off): مقدار typ برابر 3µs
+ولتاژ کلکتور-امیتر (V_CEO): مقدار 35V
+توان LED: مقدار max برابر 70mW
+دمای کاری (T_opr): از ‎−30 °C تا ‎+85 °C
+نوع پکیج: DIP-8
+
+کاربردهای رایج
+
+این اوپتوکوپلر در مدارهایی استفاده می‌شود که نیاز به جداسازی کامل ولتاژ، کاهش نویز و انتقال دقیق سیگنال دارند. در فیدبک منابع تغذیه سوئیچینگ، درایو ترانزیستورهای قدرت، سیستم‌های صنعتی و کنترل‌های ایمن کاربردهای گسترده دارد.
+
+فیدبک منابع تغذیه سوئیچینگ
+درایو MOSFET و IGBT
+ایزولاسیون سیگنال در سیستم‌های صنعتی
+جداسازی ورودی کنترلرها و میکروکنترلرها
+انتقال سیگنال در محیط‌های پرنویز
+مدارهای اندازه‌گیری ایزوله
+کنترل سرعت موتور
+اینترفیس مدارهای AC و DC
+تجهیزات آزمایشگاهی ایزوله
+ایمنی الکترونیکی و حفاظتی
+
+Specifications
+
+Isolation voltage: 5000Vrms
+LED input current (I_F): 7mA typ
+Output current (I_O): 50mA max
+Current transfer gain (CTR) at 5mA: 200% typ
+Cut-off frequency (f_C): 80kHz typ
+Turn-on time (t_on): 3µs typ
+Turn-off time (t_off): 3µs typ
+Collector-emitter voltage (V_CEO): 35V
+LED power: 70mW max
+Operating temperature (T_opr): −30°C to +85°C
+Package type: DIP-8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ACS108-6S درایور و سوئیچ بار AC ولتاژ 600V پکیج SOT-223
+
+قیمت:
+280,000
+
+توضیحات کوتاه:
+تراشه ACS108-6S درایور و سوئیچ بار AC با توان 0.8A و تحمل ولتاژ 600V، دارای حفاظت اضافه‌ولتاژ و dV/dt بالا برای کنترل مستقیم بارهای AC کوچک.
+
+توضیحات کامل:
+ACS108-6S یک سوئیچ AC هوشمند و مقاوم از خانواده ACS است که برای کنترل مستقیم بارهای AC با توان کم تا متوسط طراحی شده است. این تراشه از فناوری Crowbar Overvoltage Protection استفاده می‌کند که به‌صورت خودکار اضافه‌ولتاژهای ناشی از بارهای القایی، نویز خط AC یا نوسانات شدید شبکه را محدود و جذب می‌کند.ساختار داخلی شامل درایور گیت سطح‌بالا، سوئیچ AC با قابلیت تحمل 600V و بخش محافظت از اضافه‌ ولتاژ است. این قطعه امکان اتصال مستقیم به میکروکنترلر را دارد و برای بارهای القایی مانند پمپ، شیر برقی، فن، رله، قفل برقی و میکرو‌موتور مناسب است.به دلیل ایمنی بالا، dV/dt بسیار زیاد و حذف نیاز به اسنابر یا واریستور در اکثر کاربردها، ACS108-6S گزینه‌ای عالی برای طراحی‌های صنعتی، لوازم خانگی و کنترلرهای AC کم‌حجم است. پکیج TO-92 نیز نصب ساده، خنک‌سازی قابل مدیریت و هزینه پایین را فراهم می‌کند.
+
+مشخصات
+
+جریان RMS قابل تحمل (IT(RMS)): مقدار 0.8A در Tlead=75°C (TO-92)
+ولتاژ بلاکینگ (VDRM / VRRM): مقدار 600V
+جریان تحریک گیت (IGT): مقدار max برابر 10mA (کوادرات II و III)
+ولتاژ تحریک گیت (VGT): مقدار max برابر 1V
+جریان نگهداری (IH): مقدار max برابر 25mA
+جریان لچینگ (IL): مقدار max برابر 30mA
+حداکثر dV/dt استاتیک: مقدار min برابر 500V/µs
+پیک جریان غیرتکراری (ITSM): مقدار 7.6A در 60Hz و 7.3A در 50 Hz
+حداکثر ولتاژ تحمل ضربه (VPP): مقدار 2kV مطابق IEC 61000-4-5
+ولتاژ کلمپ (VCL): مقدار min برابر 650V در ICL=0.1 mA
+زمان‌های سوئیچ:
+
+t_on در حد چند میکروثانیه
+رفتار خاموشی کنترل‌شده در بارهای القایی سبک
+
+توان اتلاف: حدود 150°C/W (Rth j-a) در مدل TO-92
+دمای کاری: از ‎−30 °C تا ‎+125 °C
+نوع پکیج: TO-92
+
+کاربردهای رایج
+
+این قطعه برای کنترل بارهای AC کوچک و القایی در کاربردهایی که نیاز به ایزولاسیون ساده، ایمنی بالا، نویز کم و تحمل ولتاژ شدید دارند بسیار مناسب است. در طراحی لوازم خانگی، سیستم‌های اتوماسیون، کنترل بارهای کم‌جریان و جایگزین ترایاک در مدارهای حساس استفاده می‌شود.
+
+کنترل پمپ، فن، شیر برقی و میکرو‌موتورهای AC
+راه‌اندازی رله و سلونوئیدهای کوچک
+کنترل در لوازم خانگی (قهوه‌ساز، ماشین لباسشویی، ظرفشویی)
+سیستم‌های اتوماسیون و قفل‌های برقی
+جایگزین کم‌هزینه برای ترایاک در کاربردهای با نویز زیاد
+کنترل بارهای القایی با خاموشی امن
+مدارات AC کم‌جریان در ابزار صنعتی
+تجهیزات با نیاز به تحمل Surge تا 2 kV
+
+Specifications
+
+RMS current withstand (IT(RMS)): 0.8A at Tlead=75°C (TO-92)
+Blocking voltage (VDRM / VRRM): 600V
+Gate drive current (IGT): max 10mA (quadrature II and III)
+Gate drive voltage (VGT): max 1V
+Holding current (IH): max 25mA
+Latching current (IL): max 30mA
+Max static dV/dt: min 500V/µs
+Non-repetitive peak current (ITSM): 7.6A at 60Hz and 7.3A at 50 Hz
+Max impulse withstand voltage (VPP): 2kV according to IEC 61000-4-5
+Clamp voltage (VCL): min 650V at ICL=0.1 mA
+Switching times:
+t_on in multiples Microseconds
+Controlled shutdown behavior at light inductive loads
+Power dissipation: Approx. 150°C/W (Rth j-a) in TO-92 model
+Operating temperature: From −30 °C to +125 °C
+Package type: TO-92
+
+
+========================================================================================================================
+
+عنوان:
+تراشه LED درایور WS2811 پکیج SO-8
+
+قیمت:
+24,300
+
+توضیحات کوتاه:
+چیپ درایور سه‌کاناله LED با قابلیت کنترل رنگ RGB به‌صورت مستقل ، مناسب برای نوارهای LED آدرس‌پذیر محصول WORLDSEMI
+
+توضیحات کامل:
+آی‌سی WS2811 یکی از پرکاربردترین درایورهای LED دیجیتال است که در پروژه‌های نورپردازی رنگی و نوارهای LED آدرس‌پذیر به‌کار می‌رود. این آی‌سی از خانواده درایورهای LED است و امکان کنترل دقیق هر سه رنگ قرمز، سبز و آبی را به‌صورت مستقل فراهم می‌کند. WS2811 دارای سه خروجی جریان ثابت PWM بوده که برای هر رنگ تا 256 سطح شدت روشنایی (8 بیت) را فراهم می‌سازد.
+
+مشخصات
+
+ولتاژ تغذیه: 3.5 تا 5.7 ولت
+جریان خروجی هر کانال: 16.5 میلی‌آمپر
+سطح خاکستری (Gray Scale) برابر 256 سطح (8 بیت)
+فرکانس PWM برابر 2 کیلوهرتز
+نرخ انتقال داده: 800 کیلوبیت بر ثانیه
+پکیج: SOP-8
+دمای کاری: -40 تا +85 درجه سلسیوس
+ولتاژ پایه‌های OUTR، OUTG، OUTB و DOUT: حداکثر تا 20 ولت
+ولتاژ پایه DIN: حداکثر تا 9.5 ولت
+هر کانال رنگ (قرمز، سبز، آبی) در آی‌سی WS2811 می‌تواند 256 مقدار مختلف شدت نور را تولید کند، که معادل ۸ بیت اطلاعات برای هر رنگ است.
+
+کاربرد
+
+نوارهای LED آدرس‌پذیر
+نورپردازی دیجیتال و دکوراتیو
+تابلوهای LED تمام‌رنگ
+پروژه‌های آردوینو و میکروکنترلر
+سیستم‌های نورپردازی پیکسلی و هوشمند
+پروژه‌های تبلیغاتی و نمای شهری
+
+Introduction
+
+The WS2811 IC is one of the most widely used digital LED drivers used in color lighting projects and addressable LED strips. This IC is part of the LED driver family and allows for precise control of all three colors, red, green, and blue, independently. The WS2811 has three PWM constant current outputs that provide up to 256 levels of brightness (8 bits) for each color.
+
+This chip uses a serial data (DIN) to receive color information and passes the data to the next chip in the chain (DOUT) after processing. This chain structure allows for the control of a large number of LEDs independently and addressably.
+
+Specifications
+
+Supply voltage: 3.5 to 5.7 V
+Output current per channel: 16.5 mA
+Grayscale: 256 levels (8 bits)
+PWM frequency: 2 kHz
+Data transfer rate: 800 kbps
+Package: SOP-8
+Operating temperature: -40 to +85 degrees Celsius
+Output voltage of OUTR, OUTG, OUTB and DOUT pins: up to 20 V
+DIN pin voltage: up to 9.5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه RM9003A درایور LED پکیج SO-8
+
+قیمت:
+50,900
+
+توضیحات کوتاه:
+تراشه RM9003A درایور ال ای دی 5-8 وات پکیج SO-8
+
+توضیحات کامل:
+Introduction
+
+RM9003X is a single ­channel LED constant current drive control chip, which can directly drive high voltage LED string and integrate 600V high voltage MOS tube. The output current can be set by the external resistor in the range of 5 mA ~ 100mA, and the output current does not change with the input voltage. RM9003X series chip application line is simple and has few external components. The program cost is low.
+
+Specification
+
+Simple peripheral circuit, without magnetic components
+More chips in parallel application
+LED current can be set externally
+Application solutions without EMI problems
+Have a over­temperature adjusting function
+
+Applications
+
+The filament lamp, ball bubble lamp, such as T torch LED lamps and lanterns.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه RM9003B درایور LED پکیج SOT-89
+
+قیمت:
+33,900
+
+توضیحات کوتاه:
+تراشه RM9003B درایور ال ای دی پکیج SOT89-3
+
+توضیحات کامل:
+Introduction
+
+RM9003X is a single ­channel LED constant current drive control chip, which can directly drive high voltage LED string and integrate 600V high voltage MOS tube. The output current can be set by the external resistor in the range of 5 mA ~ 100mA, and the output current does not change with the input voltage. RM9003X series chip application line is simple and has few external components. The program cost is low.
+
+Specification
+
+Simple peripheral circuit, without magnetic components
+More chips in parallel application
+LED current can be set externally
+Application solutions without EMI problems
+Have a over­temperature adjusting function
+
+Applications
+
+The filament lamp, ball bubble lamp, such as T torch LED lamps and lanterns.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه RM9003B درایور LED پکیج TO-252-3
+
+قیمت:
+59,000
+
+توضیحات کوتاه:
+آی سی RM9003B درایور ال ای دی 10-15 وات پکیج TO252-3
+
+توضیحات کامل:
+Introduction
+
+RM9003X is a single ­channel LED constant current drive control chip, which can directly drive high voltage LED string and integrate 600V high voltage MOS tube. The output current can be set by the external resistor in the range of 5 mA ~ 100mA, and the output current does not change with the input voltage. RM9003X series chip application line is simple and has few external components. The program cost is low.
+
+Specification
+
+Simple peripheral circuit, without magnetic components
+More chips in parallel application
+LED current can be set externally
+Application solutions without EMI problems
+Have a over­temperature adjusting function
+
+Applications
+
+The filament lamp, ball bubble lamp, such as T torch LED lamps and lanterns.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور L297D پکیج DIP بازسازی شده
+
+قیمت:
+749,000
+
+توضیحات کوتاه:
+آی سی درایور استپر موتور L297D
+
+توضیحات کامل:
+SPECIFICATION
+
+Manufacturer: STMicroelectronics
+Product Category: Motor / Motion / Ignition Controllers & Drivers
+RoHS: Details
+Product: Stepper Motor Controllers / Drivers
+Type: Stepping Motor Controller
+Operating Supply Voltage: 7 V
+Operating Supply Current: 80 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Packaging: Tube
+Operating Temperature Range: - 40 C to + 150 C
+Output Voltage: 0.8 V
+Series: L297
+Brand: STMicroelectronics
+Product Type: Motor / Motion / Ignition Controllers & Drivers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور L298
+
+قیمت:
+673,000
+
+توضیحات کوتاه:
+تراشه درایور L298 دو کاناله با قابلیت کنترل موتورهای DC و استپ موتور، مناسب برای پروژه‌های رباتیک
+
+توضیحات کامل:
+تراشه L298 یک درایور موتور دو کاناله از نوع H-Bridge است که برای کنترل موتورهای DC و استپرموتورهای دو قطبی طراحی شده است. این تراشه قادر است هر کانال را تا 2 آمپر جریان و تا 46 ولت ولتاژ پشتیبانی کند و به همین دلیل در پروژه‌های رباتیک، اتوماسیون و سیستم‌های کنترل حرکت کاربرد فراوانی دارد. L298 امکان کنترل سرعت و جهت چرخش موتور را از طریق ورودی‌های منطقی (Logic Inputs) و PWM فراهم می‌کند. همچنین دارای پایه‌های جداگانه برای تغذیه موتور و مدار منطقی است که استفاده از آن را در کاربردهای مختلف انعطاف‌پذیر می‌سازد.
+
+مشخصات
+
+ولتاژ تغذیه موتور: حداکثر 46 ولت
+ولتاژ تغذیه منطقی: 4.5 تا 7 ولت
+جریان خروجی پیوسته: تا 2 آمپر برای هر کانال
+جریان خروجی لحظه‌ای: تا 3 آمپر (با هیت سینک مناسب)
+توان مصرفی: حداکثر 25 وات
+ورودی‌های منطقی: سازگار با TTL
+حفاظت در برابر دمای بیش از حد (Overtemperature Protection)
+ولتاژ اشباع پایین برای کاهش تلفات
+پکیج: Multiwatt-15V
+
+کاربرد
+
+کنترل موتورهای DC در پروژه‌های رباتیک
+راه‌اندازی استپ موتورهای دو قطبی
+سیستم‌های اتوماسیون صنعتی
+کنترل رله‌ها و سلونوئیدها
+پروژه‌های مبتنی بر آردوینو و میکروکنترلرها
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Motor / Motion / Ignition Controllers & Drivers
+RoHS: Details
+Product: Stepper Motor Controllers / Drivers
+Type: Half Bridge
+Operating Supply Voltage: 4.8 V to 46 V
+Output Current: 2 A
+Operating Supply Current: 13 mA
+Minimum Operating Temperature: - 25 C
+Maximum Operating Temperature: + 130 C
+Mounting Style: Through Hole
+Package / Case: Multiwatt-15V
+Number of Outputs: 4 Output
+Operating Temperature Range: - 25 C to + 130 C
+Series: L298
+Brand: STMicroelectronics
+Product Type: Motor / Motion / Ignition Controllers & Drivers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور LM3914N پکیج DIP
+
+قیمت:
+256,000
+
+توضیحات کوتاه:
+آی سی  درایور LM3914N
+
+توضیحات کامل:
+Specification
+
+Product Category: LED Lighting Drivers
+Number of Channels: 10 Channel
+Output Current: 2 mA to 30 mA
+Input Voltage: 3 V to 20 V
+Supply Current - Max: 9200 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: MDIP
+Series: LM3914
+Packaging: Tube
+Features: Internal voltage reference, Programmable output current
+Height: 3.9 mm
+Length: 22.86 mm
+Operating Temperature Range: 0 C to + 70 C
+Output Type: Current Mode
+Type: Linear
+Width: 6.35 mm
+Pd - Power Dissipation: 1365 mW
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور MAX7219 پکیج SO-24
+
+قیمت:
+278,000
+
+توضیحات کوتاه:
+آی سی درایور سون سگمنت تا 8 دیجیت MAX7219 / GC7219
+
+توضیحات کامل:
+Specification
+
+Product Category: LED Display Drivers
+Series: MAX7219
+Number of Digits: 8
+Number of Segments: 64
+Package / Case: SO-24
+Operating Supply Voltage: 4 V to 5.5 V
+Supply Current - Max: 330 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Product: LED Display Drivers
+High Level Output Current: -2 mA
+Low Level Output Current: 5 mA
+Pd - Power Dissipation: 1066 mW
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ULN2003 پکیج SO-16
+
+قیمت:
+32,100
+
+توضیحات کوتاه:
+آی سی درایور ULN2003 پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Product Category: Darlington Transistors
+Configuration: Array 7
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Maximum DC Collector Current: 0.5 A
+Mounting Style: SMD/SMT
+Package / Case: SO-16
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Series: ULN2003
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Height: 1.65 mm
+Length: 10 mm
+Width: 4 mm
+Brand: STMicroelectronics
+Product Type: Darlington Transistors
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ULN2004 پکیج DIP
+
+قیمت:
+134,000
+
+توضیحات کوتاه:
+آی سی درایور ULN2004 شامل 7 زوج دارلینگتون پکیج DIP
+
+توضیحات کامل:
+این آی سی شامل 7 زوج دارلینگتون است که برای تقویت جریان به کار می روند و در مواردی نظیر راه اندازی موتورهای پله ای به عنوان بافر و تقویت کننده جریان عمل می کنند .
+
+Specification
+
+Product Category: Darlington Transistors
+Configuration: Array 7
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Maximum DC Collector Current: 0.5 A
+Mounting Style: Through Hole
+Package / Case: PDIP-16
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Series: ULN2004X
+Height: 4.57 mm
+Length: 19.3 mm
+Width: 6.35 mm
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ULN2803 پکیج DIP
+
+قیمت:
+109,000
+
+توضیحات کوتاه:
+آی سی درایور ترانزیستور دارلینگتون هشت آرایه ULN2803
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Darlington Transistors
+RoHS: Details
+Configuration: Octal
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Maximum DC Collector Current: 0.5 A
+Mounting Style: Through Hole
+Package / Case: PDIP-18
+Minimum Operating Temperature: - 20 C
+Maximum Operating Temperature: + 85 C
+Series: ULN2803A
+Height: 3.68 mm
+Length: 23.24 mm
+Width: 7.1 mm
+Brand: STMicroelectronics
+Continuous Collector Current: 500 mA
+Product Type: Darlington Transistors
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ULN2804A پکیج DIP
+
+قیمت:
+244,000
+
+توضیحات کوتاه:
+آی سی درایور ULN2804A
+
+توضیحات کامل:
+معرفی
+
+این آی سی شامل 8 زوج دارلینگتون است که برای تقویت جریان به کار می روند و در مواردی نظیر راه اندازی موتور های پله ای و ... به عنوان بافر و تقویت کننده جریان عمل می کنند .
+
+Specification
+
+Product Category: Darlington Transistors
+RoHS: Details
+Configuration: Octal
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Maximum DC Collector Current: 0.5 A
+Mounting Style: Through Hole
+Package / Case: PDIP-18
+Minimum Operating Temperature: - 20 C
+Maximum Operating Temperature: + 85 C
+Series: ULN2804A
+Packaging: Tube
+Height: 3.68 mm
+Length: 23.24 mm
+Width: 7.1 mm
+Brand: STMicroelectronics
+Continuous Collector Current: 500 mA
+Product Type: Darlington Transistors
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور استپر موتور L297 پکیج DIP
+
+قیمت:
+988,000
+
+توضیحات کوتاه:
+آی سی درایور استپر موتور L297 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Motor / Motion / Ignition Controllers & Drivers
+RoHS: Details
+Product: Stepper Motor Controllers / Drivers
+Type: Stepping Motor Controller
+Operating Supply Voltage: 7 V
+Operating Supply Current: 80 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Packaging: Tube
+Operating Temperature Range: - 40 C to + 150 C
+Output Voltage: 0.8 V
+Series: L297
+Brand: STMicroelectronics
+Product Type: Motor / Motion / Ignition Controllers & Drivers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور سون سگمنت TM1637 پکیج SOP-20
+
+قیمت:
+142,000
+
+توضیحات کوتاه:
+تراشه درایور سون سگمنت TM1637 پکیج SOP-20
+
+توضیحات کامل:
+تراشه TM1637 یک درایور است که به طور خاص برای راه‌اندازی سون سگمنت طراحی شده است. این تراشه قابلیت کنترل حداکثر 6 رقم را دارد
+
+Specification
+
+Frequency 500 kHz
+Input Voltage MIN -500 mV
+Input Voltage MAX 500 mV
+Supply Current 50 mA
+Minimum Operating Temperature -40 °C
+Maximum Operating Temperature +85 °C
+Brand Titan Micro
+Package SOP-20
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ماسفت FAN73892 پکیج SOIC-28
+
+قیمت:
+620,000
+
+توضیحات کوتاه:
+درایور FAN73892 گیت سه‌فاز برای ماسفت یا IGBT با ولتاژ کاری تا 600 ولت و قابلیت محافظت در برابر اضافه‌جریان پکیج SOIC-28
+
+توضیحات کامل:
+تراشه FAN73892 یک درایور گیت مجتمع سه‌فاز از نوع نیم‌پل است که برای کنترل ترانزیستورهای قدرت ماسفت یا IGBT در سیستم‌های ولتاژ بالا طراحی شده است. این تراشه با داشتن کانال‌های شناور تا 600 ولت، قابلیت راه‌اندازی سمت High-side را با استفاده از روش بوت‌استرپ فراهم می‌سازد. هر شش کانال خروجی دارای تطابق زمانی دقیق، جریان درایو بالا (حدود 350 میلی‌آمپر منبع و 650 میلی‌آمپر سربکشی)، و حفاظت کامل از طریق مدارهای داخلی هستند. از ویژگی‌های کلیدی این درایور می‌توان به محافظت در برابر اضافه‌جریان، قفل زیرولتاژ (UVLO) برای تمام کانال‌ها، فیلتر ورودی، خاموشی نرم (Soft Turn-Off) و قابلیت تنظیم زمان پاک‌سازی خطا اشاره کرد. این تراشه به‌ویژه برای اینورترهای موتور سه‌فاز، لوازم خانگی صنعتی و مبدل‌های قدرت طراحی شده و عملکرد قابل اعتمادی در محیط‌های دارای نویز بالا دارد.
+
+مشخصات
+
+ولتاژ کاری تغذیه منطقی (VDD): از 10 تا 20V
+ولتاژ تغذیه شناور High-side (VB): از VS+10 تا VS+20V
+ولتاژ شناور سمت High-side (VS): تا 600V
+ولتاژ خروجی High-side (HOx): از VS تا VB
+ولتاژ خروجی Low-side (LOx): از COM تا VDD
+جریان خروجی (منبع): معمولاً 350mA
+جریان خروجی (سربکشی): معمولاً 650mA
+جریان مصرفی حالت بی‌کار VDD: حداکثر 200μA
+فرکانس کاری ورودی نمونه‌برداری‌شده: تا 20kHz
+تطابق تأخیر سوئیچینگ بین کانال‌ها: ±50ns
+زمان خیز: 20 تا 100ns
+زمان افت: 10 تا 80ns
+زمان تأخیر روشن‌سازی: حدود 500ns
+زمان پاک‌سازی خطا: حدود 1.3ms
+ولتاژ ورودی منطقی: سازگار با 3.3V و 5.0V
+محافظت UVLO: برای هر شش کانال (High و Low)
+پشتیبانی از ولتاژ منفی VS تا: ‎-9.8 V
+پکیج: SOIC-28
+
+کاربردهای رایج
+
+FAN73892 به عنوان یک درایور قدرتمند گیت سه‌فاز، مناسب برای سیستم‌های کنترلی با نیاز به عملکرد مطمئن در شرایط ولتاژ بالا، نویز زیاد و دقت زمانی بالا طراحی شده است. استفاده از آن در مدارهای اینورتر و درایو موتورهای صنعتی باعث کاهش پیچیدگی و افزایش قابلیت اطمینان سیستم می‌شود.
+
+درایور اینورتر سه‌فاز برای موتورهای BLDC و AC
+کنترل موتور در کولر گازی، ماشین لباس‌شویی و یخچال
+سیستم‌های اینورتر صنعتی مانند چرخ خیاطی و ابزارهای قدرت
+مبدل‌های توان بالا در تجهیزات اتوماسیون
+سیستم‌های HVAC با کنترل دور موتور
+کاربرد در تجهیزات برقی سنگین با نیاز به حفاظت پیشرفته
+منابع تغذیه سوییچینگ سه‌فاز
+سیستم‌های محرک صنعتی با ساختار نیم‌پل
+تجهیزات جوشکاری یا القایی الکترونیکی
+راه‌انداز موتورهای فشار متوسط در صنایع
+
+Specifications
+
+Operating Conditions
+Logic Supply Voltage (VDD): 10 V to 20 V
+High-Side Floating Supply Voltage (VB1–VB3): VS +10 V to VS +20 V
+High-Side Floating Supply Offset Voltage (VS1–VS3): up to 600 V
+Ambient Operating Temperature: −40 °C to +125 °C
+
+Gate Drive Output (per channel)
+High-Side Output Voltage (HO1–HO3): VS to VB
+Low-Side Output Voltage (LO1–LO3): COM to VDD
+Output Sourcing Current (typical): 350 mA
+Output Sinking Current (typical): 650 mA
+Output Rise Time: 20 ns to 100 ns
+Output Fall Time: 10 ns to 80 ns
+
+Input Logic
+Input Voltage Compatibility: 3.3 V and 5.0 V TTL/CMOS
+Logic HIGH Threshold (VIH): Min 2.5 V
+Logic LOW Threshold (VIL): Max 0.8 V
+Input Filtering Time (tFLTIN): 250 ns typical
+
+Protection & Fault Handling
+Under-Voltage Lockout (UVLO) for VDD and VBS: Active on all channels
+UVLO Threshold for VDD (typical): 8.5 V (rising), 8.0 V (falling)
+Over-Current Protection Threshold: 500 mV (typical)
+Soft Turn-Off Current: 40 mA
+Fault-Clear Delay Time (tFLTCLR): 1.3 ms typical
+Fault Output Type: Open-drain
+Maximum Negative VS Tolerance: −9.8 V
+
+Timing Performance
+Turn-On Propagation Delay (tON): 350–650 ns
+Turn-Off Propagation Delay (tOFF): 350–650 ns
+Dead Time (internal): 230–350 ns
+Propagation Delay Matching: <50 ns between channels
+
+Package
+Package Type: SOIC-28 (Wide-body)
+Power Dissipation: Up to 1.4 W (with proper PCB)
+Thermal Resistance (θJA): 70 °C/W
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ماسفت IR2113 پکیج DIP
+
+قیمت:
+809,000
+
+توضیحات کوتاه:
+آی سی درایور IR2113 پکیج DIP
+
+توضیحات کامل:
+Description
+
+The IR2110/IR2113 are high voltage, high speed power MOSFET and IGBT drivers with independent high and low side referenced output channels. Proprietary HVIC and latch immune CMOS technologies enable ruggedized monolithic construction. Logic inputs are compatible with standard CMOS or LSTTL output, down to 3.3V logic. The output drivers feature a high pulse current buffer stage designed for minimum driver cross-conduction. Propagation delays are matched to simplify use in high frequency applications. The floating channel can be used to drive an N-channel power MOSFET or IGBT in the high side configuration which operates up to 500 or 600 volts.
+
+Specification
+
+V ofoset : 600v max
+Io+/- : 2A
+Vout : 10 to 20 volt
+T on/off : 120 &94 ns
+Delay Matching : 20ns max
+
+Features
+
+Floating channel designed for bootstrap operation Fully operational to +500V or +600V Tolerant to negative transient voltage dV/dt immune
+Gate drive supply range from 10 to 20V
+Undervoltage lockout for both channels
+3.3V logic compatible
+Separate logic supply range from 3.3V to 20V
+Logic and power ground ±5V offset
+CMOS Schmitt-triggered inputs with pull-down
+Cycle by cycle edge-triggered shutdown logic
+Matched propagation delay for both channels
+Outputs in phase with inputs
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ماسفت L6386D پکیج SO-14
+
+قیمت:
+448,000
+
+توضیحات کوتاه:
+درایور L6386D درایور گیت دو کاناله برای ماسفت یا IGBT در مدارهای نیم‌پل تا ولتاژ 600 ولت پکیج SO-8
+
+توضیحات کامل:
+تراشه L6386D ساخت شرکت STMicroelectronics، یک درایور گیت دو کاناله (High-side و Low-side) است که امکان راه‌اندازی نیم‌پل‌های قدرت را با استفاده از ماسفت یا IGBT فراهم می‌سازد. این تراشه با تکنولوژی BCD طراحی شده و دارای بخش High-side شناور با قابلیت تحمل تا 600 ولت می‌باشد. ورودی‌های منطقی آن با سطوح TTL و CMOS سازگار هستند و عملکرد پایدار را در گستره‌ی وسیعی از ولتاژها تضمین می‌کنند. این تراشه مجهز به دیود بوست داخلی، محافظ زیرولتاژ (UVLO) برای هر دو کانال، و همچنین خروجی با توان درایو بالا است. سرعت سوئیچینگ بالا، قابلیت اطمینان، و حفاظت داخلی، آن را به گزینه‌ای ایده‌آل برای استفاده در منابع تغذیه سوئیچینگ، درایو موتور، و سیستم‌های الکترونیک قدرت تبدیل کرده است.
+
+مشخصات
+
+ولتاژ کاری: حداکثر 17V
+راه‌اندازی سویچ‌های قدرت High-side: تا 600V
+ولتاژ خروجی High-side: تا 580V
+جریان خروجی (Source): حداکثر 400mA
+جریان خروجی (Sink): حداکثر 650mA
+فرکانس کاری: تا 400kHz
+زمان خیز: حدود 50ns
+زمان افت: حدود 30ns
+توان مصرفی: حداکثر 750mW
+پکیج: SO-14
+
+کاربردهای رایج
+
+این تراشه مناسب استفاده در سیستم‌هایی است که نیاز به کنترل دقیق گیت و سوئیچینگ سریع در ولتاژهای بالا دارند. درایوهای صنعتی، منابع تغذیه و اینورترها از جمله کاربردهای متداول آن هستند.
+
+کنترل ماسفت یا IGBT در مدار نیم‌پل
+منابع تغذیه سوئیچینگ ولتاژ بالا
+درایو موتورهای DC، AC یا BLDC
+روشنایی صنعتی با سیستم‌های سوئیچینگ
+سیستم‌های تهویه صنعتی (HVAC)
+کنترل فرکانس متغیر موتور (VFD)
+اینورترهای خانگی یا صنعتی
+اتوماسیون صنعتی با ولتاژ بالا
+مبدل‌های قدرت بالا در سیستم‌های DC‑DC
+سیستم‌های جوشکاری یا القایی الکترونیکی
+
+Specifications
+
+Operating voltage (VCC): up to 17 V
+High-side floating supply voltage (VBOOT–VOUT): up to 600 V
+High-side output voltage (VOUT): up to 580 V
+Output current (Source): up to 400 mA
+Output current (Sink): up to 650 mA
+Operating frequency: up to 400 kHz
+Rise time (typical): 50 ns (with 1 nF load)
+Fall time (typical): 30 ns (with 1 nF load)
+Total power dissipation: up to 750 mW
+Logic input compatibility: TTL/CMOS, hysteresis included
+Under-voltage lockout (UVLO): available on both high-side and low-side
+Package type: SO-14
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور ماسفت L6388ED پکیج SO-8
+
+قیمت:
+410,000
+
+توضیحات کوتاه:
+درایور L6388ED دو کاناله برای کنترل گیت ماسفت یا IGBT با قابلیت عملکرد در مدارهای نیم‌پل تا 600 ولت پکیج SO-8
+
+توضیحات کامل:
+تراشه L6388ED از شرکت STMicroelectronics، یک درایور گیت دو کاناله (High-side و Low-side) است که برای راه‌اندازی نیم‌پل‌های ماسفت یا IGBT طراحی شده است. این قطعه امکان راه‌اندازی سویچ‌های قدرت تا 600 ولت را فراهم می‌کند و از ورودی‌های منطقی سازگار با استانداردهای TTL و CMOS (3.3، 5 یا 15ولت) پشتیبانی می‌نماید. از ویژگی‌های مهم این تراشه می‌توان به دیود بوست داخلی، زمان مرده (Dead-Time) قابل اطمینان برای جلوگیری از روشن‌شدن همزمان دو ترانزیستور، و عملکرد سریع سوئیچینگ اشاره کرد. این درایور مناسب کاربردهای صنعتی، منابع تغذیه سوئیچینگ، موتور درایورها و سیستم‌های روشنایی با ولتاژ بالا می‌باشد.
+
+مشخصات
+
+ولتاژ کاری: حداکثر 17V
+راه‌اندازی سویچ‌های قدرت High-side: تا 600V
+ولتاژ خروجی High-side: حدود 580V
+جریان خروجی (Source): حداکثر 400mA
+جریان خروجی (Sink): حداکثر 650mA
+فرکانس کاری: تا 400kHz
+زمان‌ خیز (Rise time): حدود 70ns
+زمان‌ افت (Fall time): حدود 40ns
+توان مصرفی: حداکثر 750mW
+پکیج: SOI-8
+
+کاربردهای رایج
+
+این تراشه در سیستم‌هایی که نیاز به سوئیچینگ سریع، ایزولاسیون سطح ولتاژ بالا و کنترل دقیق گیت دارند، بسیار کاربردی است. مناسب برای درایوهای صنعتی، منابع تغذیه سوئیچینگ و اینورترهای کنترل موتور می‌باشد.
+
+درایور ماسفت یا IGBT در مدارهای نیم‌پل
+منابع تغذیه سوئیچینگ
+سیستم‌های روشنایی صنعتی
+هیترهای القایی
+کنترل‌کننده‌های اینورتر موتور
+درایور تجهیزات تهویه صنعتی (HVAC)
+اتوماسیون خطوط تولید صنعتی
+کنترل سرعت موتورهای AC یا BLDC
+منابع تغذیه درایور LED قدرت
+سیستم‌های الکترونیک قدرت با ولتاژ بالا
+
+Specifications
+
+Brand:STMicroelectronics
+Logic Type: CMOS, TTL
+Output Current: 0.65 A
+Supply Voltage: 17V
+Pin Count: 8
+Package Type: SO-8
+Number of Outputs: 2
+Driver Type: MOSFET
+Topology: Half Bridge
+High and Low Sides Dependency: Independent
+Number of Drivers: 2
+Bridge Type: Half Bridge
+Polarity: Non-Inverting
+Mounting Type: Surface Mount
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور موتور AN6650 پکیج DIP
+
+قیمت:
+100,840
+
+توضیحات کوتاه:
+تراشه درایور موتور AN6650 یک آی‌سی کنترل سرعت موتور DC با ولتاژ کاری 1.8V تا 7V و مدار مرجع داخلی، مناسب دستگاه‌های صوتی و موتورهای کم‌مصرف.
+
+توضیحات کامل:
+تراشه AN6650 یک آی‌سی یکپارچه برای کنترل سرعت موتورهای DC کوچک است که در دستگاه‌های نوار کاست، مکانیزم‌های مکانیکی سبک و موتورهای کم‌ولتاژ کاربرد دارد. طبق دیتاشیت، این قطعه دارای ولتاژ کاری وسیع از 1.8V تا 7V است و با استفاده از مرجع ولتاژ داخلی و مدار Start Circuit، امکان کنترل نرم و پایدار سرعت موتور را ایجاد می‌کند. بلوک‌دیاگرام دارای ورودی مقایسه‌گر، خروجی تنظیم فاز موتور و دو پایه زمین در آرایش داخلی قرار دارند که باعث ثبات بیشتر در کنترل سرعت می‌شود.این تراشه به‌دلیل تعداد کم قطعات خارجی، سادگی طراحی، توان مصرفی پایین و قابلیت کنترل ولتاژ دقیق، یکی از متداول‌ترین آی‌سی‌ها برای کنترل موتورهای DC کوچک در دستگاه‌های الکترونیکی مصرفی است. پکیج DIP-8 نیز امکان نصب سریع و استاندارد را فراهم می‌کند.
+
+مشخصات
+
+ولتاژ تغذیه (V_CC): از 1.8V تا 7V
+حداکثر ولتاژ تغذیه: مقدار 7.5V
+جریان مصرفی (I_CC): مقدار typ برابر 2mA در VCC=3V
+ولتاژ مرجع (V_REF): مقدار 1.20V تا 1.35V در VCC=3V
+ولتاژ استارت (V_CC(S)): مقدار 1.0V تا 1.2V
+ولتاژ اشباع خروجی (V_SAT): مقدار 0.2V تا 0.5V در VCC=1.8V و بار 4.7Ω
+جریان بیشینه پایانه 7 (I7): مقدار 1000mA
+حداکثر جریان تغذیه (I_CC max): مقدار 1000mA
+توان اتلاف (P_D): مقدار 750mW برای DIP-8
+دمای کاری (T_OPR): از ‎−20 °C تا ‎+85 °C
+نوع پکیج: DIP-8
+
+کاربردهای رایج
+
+AN6650 برای کنترل دقیق سرعت موتورهای DC کوچک مناسب است و در سیستم‌های صوتی، مکانیزم‌های حرکتی، دستگاه‌های الکترونیکی مصرفی و ابزارهای سبک کاربرد گسترده دارد. عملکرد پایدار، سادگی مدار و نیاز اندک به قطعات جانبی آن را در پروژه‌های موتور کوچک بسیار محبوب ساخته است.
+
+کنترل سرعت موتورهای DC کم‌مصرف
+دستگاه‌های نوار کاست و Tape Mechanism
+تجهیزات صوتی و تصویری قدیمی
+محرک‌های مکانیکی کوچک
+سیستم‌های الکترومکانیکی کم‌ولتاژ
+ابزار دقیق و مکانیزم‌های حرکتی سبک
+پروژه‌های آموزشی و تعمیرات دستگاه‌های قدیمی
+موتورهای مورد استفاده در هد واحدهای مغناطیسی
+کنترل‌کننده سرعت در مکانیزم‌های چرخشی
+سروو مکانیزم‌های ساده با ولتاژ پایین
+
+Specifications
+
+Supply Voltage (V_CC): 1.8 V to 7 V
+Maximum Supply Voltage: 7.5 V
+Current Consumption (I_CC): 2 mA typ. at VCC=3V
+Reference Voltage (V_REF): 1.20 V to 1.35 V at VCC=3V
+Start Voltage (V_CC(S)): 1.0 V to 1.2 V
+Output Saturation Voltage (V_SAT): 0.2 V to 0.5 V at VCC=1.8V and 4.7Ω load
+Maximum Terminal 7 Current (I7): 1000 mA
+Maximum Supply Current (I_CC max): 1000 mA
+Power Dissipation (P_D): 750 mW for DIP-8
+Operating Temperature (T_OPR): −20 °C to +85 °C
+Package Type: DIP-8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایورAP3031 جریان ثابت 1.4A LED پکیج SOT-23-6
+
+قیمت:
+179,000
+
+توضیحات کوتاه:
+درایور افزاینده ولتاژ برای تغذیه آرایه‌های LED با قابلیت کنترل جریان تا 1.4 آمپر
+
+توضیحات کامل:
+تراشه AP3031 یک مبدل افزاینده DC-DC مبتنی بر سلف است که به‌طور خاص برای راه‌اندازی آرایه‌های LED طراحی شده است. این آی‌سی با استفاده از تکنولوژی کنترل PWM با فرکانس ثابت 1MHz، امکان استفاده از قطعات خارجی با ابعاد بسیار کوچک را فراهم می‌کند. ولتاژ فیدبک پایین 200mV به دقت بالا در تنظیم جریان LED کمک می‌کند. از دیگر ویژگی‌های برجسته این تراشه می‌توان به محافظت در برابر ولتاژ خروجی بیش‌ازحد، راه‌اندازی نرم (Soft Start)، محدودسازی جریان در هر سیکل و محافظ حرارتی اشاره کرد. قابلیت خاموشی و مد آماده‌به‌کار باعث می‌شود این تراشه برای کاربردهای Dimming با فرکانس بالا مناسب باشد. AP3031 در پکیج SOT-23-6 عرضه می‌شود که برای مدارهای فشرده ایده‌آل است.
+
+مشخصات
+
+نوع پکیج: SOT-23-6
+ولتاژ ورودی: بین 2.7 تا 16 ولت
+جریان سوئیچینگ: حداکثر 1.4 آمپر (محدودشده در هر سیکل)
+ولتاژ فیدبک: 200 میلی‌ولت
+فرکانس سوئیچینگ: 1MHz
+بازده تبدیل: تا 92٪ (برای ورودی 9V و جریان 260mA)
+جریان مصرفی در حالت بی‌باری: حداکثر 5mA
+جریان مصرفی در حالت خاموشی: حداکثر 80μA
+حفاظت در برابر ولتاژ خروجی بیش‌ازحد: حدود 17.5V
+دمای کاری: بین 40- تا 85+ درجه سانتی‌گراد
+مقاومت حرارتی محیط به پیوند: 265°C/W
+
+کاربردهای رایج
+
+این تراشه به‌طور گسترده‌ای در سیستم‌های نورپردازی LED، به‌ویژه نور پس‌زمینه‌ی نمایشگرهای LCD با اندازه‌ی 7 تا 10 اینچ استفاده می‌شود. همچنین در تجهیزات پرتابل مانند فریم‌های دیجیتال عکس، گیرنده‌های GPS و DVDهای پرتابل نیز کاربرد دارد.
+
+استفاده در نمایشگرهای LCD از 7 تا 10 اینچ
+نور پس‌زمینه‌ی LED در فریم‌های عکس دیجیتال
+درایور LED در دستگاه‌های قابل‌حمل مانند GPS
+کاربرد در شارژرهای پرتابل به‌عنوان بوستر ولتاژ
+استفاده در گیرنده‌های قابل‌حمل تلویزیونی و تصویری
+قابل‌استفاده در مدارات نیازمند dimming با فرکانس بالا
+درایور آرایه‌های LED چندتایی (مثل 3×13 LED)
+محافظ LED در شرایط قطع مدار یا باز ماندن
+مدارات با محدودیت فضا به‌دلیل ابعاد کوچک پکیج
+
+Specification
+
+Product Category: LED Lighting Drivers
+Input Voltage: 2.7 V to 16 V
+Operating Frequency:1 MHz
+Supply Current - Max: 5 mA
+Output Current: 1.4 A
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: SMD/SMT
+Package/Case: SOT-23-6
+Number of Outputs: 1 Output
+Output Type: Current Mode
+Packaging: Reel
+Series: AP3031
+Topology: Boost
+
+
+========================================================================================================================
+
+عنوان:
+درایور ماسفت IR2110
+
+قیمت:
+1,270,000
+
+توضیحات کوتاه:
+درایور ولتاژ بالا و سرعت بالا IR2110 برای کنترل ماسفت و IGBT
+
+توضیحات کامل:
+درایور MOSFET و IGBT مدل IR2110 یک درایور ولتاژ بالا و سرعت بالا است که برای کنترل مستقل ماسفت‌های سمت بالا و پایین طراحی شده است. با استفاده از تکنولوژی‌های پیشرفته HVIC و CMOS، این درایور مقاومت بالایی در برابر نویز و قفل‌شدگی دارد و عملکردی پایدار ارائه می‌دهد. ورودی‌های آن با منطق CMOS و LSTTL سازگار بوده و تا ولتاژ 3.3 ولت کار می‌کنند. کانال شناور این درایور می‌تواند ماسفت یا IGBT نوع N را در پیکربندی سمت بالا و تا ولتاژ 500 ولت هدایت کند. ویژگی‌های دیگری مانند زمان‌های پاسخ‌دهی سریع، تأخیرهای انتقال متناسب، و جریان خروجی 2 آمپر، آن را به گزینه‌ای ایده‌آل برای کاربردهای فرکانس بالا تبدیل کرده است.
+
+ویژگی ها:
+
+ طراحی کانال شناور برای عملیات بوت‌استرپ
+عملکرد در ولتاژهای بالا
+مقاوم در برابر ولتاژهای گذرای منفی
+مقاوم در برابر تغییرات سریع ولتاژ (dV/dt)
+محدوده ولتاژ تغذیه گیت درایو
+قفل شدن کم‌ولتاژ برای هر دو کانال
+سازگار با منطق 3.3 ولت
+ورودی‌های CMOS با تریگر اشمیت و مقاومت پایین‌کش
+منطق خاموشی لبه‌تراش در هر سیکل
+ تأخیر انتقال متناسب برای هر دو کانال
+خروجی‌ها هم‌فاز با ورودی‌ها
+
+Specification
+
+Product Category: Gate Drivers
+RoHS: RoHS Compliant Details
+Mounting Style: Through Hole
+Package/Case: PDIP-14
+Product: Half-Bridge Drivers
+Number of Drivers: 2 Driver
+Output Current: 2 A
+Configuration: Non-Inverting
+Rise Time: 35 ns
+Fall Time: 25 ns
+Supply Voltage - Max: 20 V
+Supply Voltage - Min: 10 V
+Operating Supply Current: 340 uA
+Maximum Operating Temperature: + 125 C
+Type: High and Low Side
+Features: Independent
+Height: 5.33 mm (Max)
+Length: 20.19 mm (Max)
+Logic Type: CMOS, LSTTL
+Maximum Turn-Off Delay Time: 94 ns
+Maximum Turn-On Delay Time: 120 ns
+Minimum Operating Temperature: - 40 C
+Number of Outputs: 2
+Pd - Power Dissipation: 1.6 W
+Propagation Delay - Max: 150 ns
+Factory Pack Quantity: 25
+Width: 7.11 mm (Max)
+Unit Weight: 1.620 g
+
+
+========================================================================================================================
+
+عنوان:
+درایور ماسفت IR2111 پکیج PDIP-8
+
+قیمت:
+840,000
+
+توضیحات کامل:
+آی سی IR2111 یک درایور HALF-BRIDGE می باشد که برای راه اندازی ماسفت و IGBT می شود.
+
+The IR2111 is a high voltage, high speed power MOSFET and IGBT driver with dependent high and low side referenced output channels designed for half-bridge applications. Proprietary HVIC and latch immune CMOS technologies enable ruggedized monolithic construction. Logic input is compatible with standard CMOS outputs. The output drivers feature a high pulse current buffer stage designed for minimum driver cross-conduction. Internal deadtime is provided to avoid shoot-through in the output half-bridge. The floating channel can be used to drive an N-channel power MOSFET or IGBT in the high side configuration which operates up to 600 volts.
+
+Product Category:     Gate Drivers
+RoHS:     RoHS Compliant Details
+Mounting Style:     Through Hole
+Package/Case:     PDIP-8
+Product:     Half-Bridge Drivers
+Number of Drivers:     2 Driver
+Output Current:     200 mA
+Configuration:     Inverting, Non-Inverting
+Rise Time:     130 ns
+Fall Time:     65 ns
+Supply Voltage - Max:     20 V
+Supply Voltage - Min:     10 V
+Operating Supply Current:     180 uA
+Maximum Operating Temperature:     + 125 C
+Type:     High and Low Side Driver
+Features:     Synchronous
+Height:     5.33 mm (Max)
+Length:     10.92 mm (Max)
+Logic Type:     CMOS
+Maximum Turn-Off Delay Time:     150 ns
+Maximum Turn-On Delay Time:     750 ns
+Minimum Operating Temperature:     - 40 C
+Number of Outputs:     2
+Operating Supply Voltage:     10 V to 20 V
+Pd - Power Dissipation:     1000 mW
+Propagation Delay - Max:     950 ns
+Factory Pack Quantity:     50
+Width:     7.11 mm (Max)
+Unit Weight:     1 g
+

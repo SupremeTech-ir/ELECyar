@@ -1,0 +1,954 @@
+عنوان:
+تراشه 74HC04 گیت NOT پکیج SO-14
+
+قیمت:
+62,500
+
+توضیحات کوتاه:
+آی سی منطقی 74HC04 شامل 6 گیت NOT پکیج SO14
+
+توضیحات کامل:
+Specification
+
+Wide supply voltage range from 2.0 V to 6.0 V
+CMOS low power dissipation
+High noise immunity
+Latch-up performance exceeds 100 mA per JESD 78 Class II Level B
+Complies with JEDEC standards:
+JESD8C (2.7 V to 3.6 V)
+JESD7A (2.0 V to 6.0 V)
+Input levels: For 74HC04: CMOS level
+Package: SO14
+Multiple package options:
+Specified from -40 °C to +85 °C and from -40 °C to +125 °C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC14D گیت NOT پکیج SO-14
+
+قیمت:
+61,200
+
+توضیحات کوتاه:
+آی سی منطقی اشمیت تریگر 74HC14D شامل 6 گیت NOT پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 2V to 6V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±25mA
+Maximum propagation delay time: 14ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Six independent Schmitt-trigger inverter gates
+Schmitt-trigger input
+TTL-compatible input voltage level
+CMOS-compatible output voltage level
+Hysteresis on input to improve noise immunity and signal integrity
+14-pin SO14 package
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC86 گیت XOR پکیج DIP
+
+قیمت:
+103,000
+
+توضیحات کوتاه:
+آی سی 74HC86 شامل 4 گیت XOR دو ورودی پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: XOR
+Logic Family: HC
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 5.2 mA
+Low Level Output Current: 5.2 mA
+Propagation Delay Time: 21 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Package / Case: PDIP-14
+Function: Quad 2 Input
+Series: SN74HC86
+Logic Type: 2-Input Exclusive-OR
+Number of Bits: 4 bit
+Operating Supply Current: 20 uA
+Operating Supply Voltage: 5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HCT86AN گیت XOR پکیج DIP مارک INTEGRAL
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی 74HCT86AN گیت OR دارای 4 کاناله 2 ورودی پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Gates 4 Pcs
+Number of Input 2 Input
+Function XOR
+Number of Output 1 Output
+Propagation Delay Time 32 ns
+Mounting Style Through Hole
+Supply Voltage (Min) 4.5 V
+Supply Voltage (Max) 5.5 V
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature +125 C°
+Brand INTEGRAL
+Package DIP-14
+
+
+========================================================================================================================
+
+عنوان:
+تراشه CD4001 گیت NOR پکیج SO-14
+
+قیمت:
+81,200
+
+توضیحات کوتاه:
+تراشه لاجیک 4 کانال 2 ورودی NOR با تکنولوژی CMOS پکیج SMD SO-14
+
+توضیحات کامل:
+Specification
+
+Product Category:     Logic Gates
+RoHS:      Details
+Product:     Single-Function Gate
+Logic Function:     NOR
+Logic Family:     CD4000
+Number of Gates:     4 Gate
+Number of Input Lines:     2 Input
+Number of Output Lines:     1 Output
+High Level Output Current:     - 1.5 mA
+Low Level Output Current:     1.5 mA
+Propagation Delay Time:     120 ns
+Supply Voltage - Max:     18 V
+Supply Voltage - Min:     3 V
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 125 C
+Mounting Style:     SMD/SMT
+Package/Case:     SO-14
+Packaging:     Tube
+Function:     CMOS Quad 2-In
+Height:     1.58 mm
+Input Type:     CMOS
+Length:     8.65 mm
+Operating Temperature Range:     - 55 C to + 125 C
+Output Type:     CMOS
+Quiescent Current:     20 nA
+Series:     CD4001B
+Width:     3.91 mm
+Logic Type:     2-Input NOR
+Number of Bits:     4 bit
+Operating Supply Current:     15 uA
+Operating Supply Voltage:     10 V
+Product Type:     Logic Gates
+Subcategory:     Logic ICs
+
+
+========================================================================================================================
+
+عنوان:
+تراشه CD4023BN گیت NAND پکیج DIP مارک INTEGRAL
+
+قیمت:
+96,200
+
+توضیحات کوتاه:
+آی سی CD4023BN گیت NAND سه کانال سه ورودی CMOS پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Logic Function: NAND
+Number of Gates: 3 Gate
+Number of Input Lines: 3 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 1.5 mA
+Low Level Output Current: 1.5 mA
+Propagation Delay Time: 60 ns
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 3 V
+Package / Case: PDIP-14
+Function: Triple 3-Input
+Operating Temperature Range: - 55 C to + 125 C
+Quiescent Current: 20 nA
+Logic Type: 3-Input NAND
+Number of Bits: 3 bit
+Operating Supply Current: 15 uA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه CD4093 گیت NAND پکیج DIP
+
+قیمت:
+85,000
+
+توضیحات کوتاه:
+4093 شامل 4 گیت NAND از نوع دو ورودی و اشمیت تریگری و با تکنولوژِی MOS می باشد.
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Logic Gates
+RoHS: Details
+Product: Single-Function Gate
+Logic Function: NAND
+Logic Family: CD4000
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 1.5 mA
+Low Level Output Current: 1.5 mA
+Propagation Delay Time: 380 ns
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 3 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: PDIP-14
+Packaging: Tube
+Function: NAND
+Height: 4.57 mm
+Input Type: Schmitt Trigger
+Length: 19.3 mm
+Operating Temperature Range: - 55 C to + 125 C
+Output Type: CMOS
+Quiescent Current: 40 nA
+Series: CD4093B
+Width: 6.35 mm
+Brand: Texas Instruments
+Logic Type: CMOS
+Number of Bits: 4 bit
+Operating Supply Current: 60 uA
+Operating Supply Voltage: 10 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه اشمیت تریگر CD40106 پکیج DIP
+
+قیمت:
+74,200
+
+توضیحات کوتاه:
+تراشه اشمیت تریگر خروجی وارون ساز شش کانال CMOS
+
+توضیحات کامل:
+Specification
+
+Logic Function: Inverter
+Input Type: Schmitt Trigger
+Number of Elements per Chip: 6
+Schmitt Trigger Input: Yes
+Maximum Propagation Delay Time @ Maximum CL: 120 ns @ 15 V, 140 ns @ 10 V, 280 ns @ 5 V
+Maximum High Level Output Current: -4.2mA
+Maximum Low Level Output Current: 4.2mA
+Mounting Type: Through Hole
+Package Type: PDIP
+Pin Count: 14
+Logic Family: 4000
+Propagation Delay Test Condition: 50pF
+Minimum Operating Temperature: -55 °C
+Minimum Operating Supply Voltage: 3 V
+Maximum Operating Supply Voltage: 18 V
+Maximum Operating Temperature: +125 °C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه انکودر EV1527 پکیج SOP-8
+
+قیمت:
+48,300
+
+توضیحات کوتاه:
+آی سی انکودرEV1527  با کد گذاری 20 بیتی و مصرف انرژی پایین برای سیستم‌های کنترل از راه دور
+
+توضیحات کامل:
+تراشه EV1527 یک انکودر با تکنولوژی CMOS ساخته شده و دارای حداکثر 20 بیت برای تولید تا یک میلیون کد منحصر به فرد است. این ویژگی باعث کاهش تصادم کدها و جلوگیری از اسکن کدهای غیرمجاز می‌شود. تکنولوژی OTP اجازه می‌دهد که داده‌ها تنها یکبار برنامه‌ریزی شوند و پس از آن دائمی شده و قابل تغییر یا حذف نباشند. این تراشه در سیستم‌های کنترل از راه دور بی‌سیم مانند ریموت کنترل‌ها، سیستم‌های امنیتی و دستگاه‌های خانه هوشمند به کار می‌رود و امنیت و کارایی بالایی را در ارتباطات بی‌سیم فراهم می‌کند.
+
+ویژگی ها
+
+تکنولوژی CMOS
+جریان آماده به کار پایین: 1.0میکرو آمپر
+ولتاژ کاری: 3  تا 12 ولت DC
+تا 4 پین داده
+مجموع 1048576 کد آدرس
+نوسان‌ساز با یک مقاومت
+دمای نگهداری: -40 تا 125 درجه سانتی‌گراد
+دمای کاری: -20 تا 70 درجه سانتی‌گراد
+حداکثر توان اتلاف: 300 میلی وات
+پکیج: SMD SOP8
+
+کاربرد
+
+آی سی EV1527 در  ریموت کنترل‌ها برای کنترل درب‌های گاراژ، سیستم‌های روشنایی و لوازم خانگی، در سیستم‌های امنیتی برای ارسال سیگنال‌های هشدار و کنترل سنسورهای بی‌سیم، و در سیستم‌های خانه هوشمند و کنترل صنعتی برای مدیریت دستگاه‌ها و تجهیزات مختلف به کار می‌رود. با تولید 1,048,576 کد منحصر به فرد، امنیت و کارایی بالایی را در ارتباطات بی‌سیم فراهم می‌کند.
+
+فهرست مقاومت‌های کالیبراسیون نوسان‌ساز در زیر نشان داده شده است:
+
+Description
+
+The EV1527 is OTP Encoder utilizing CMOS technology process. EV1527 hai a maximum of 20 bits providing up to 1 million codes.It can reduce any code collision and unauthorized code scanning possibilities. An OTP (One-Time Programmable) encoder refers to a device or circuit that is designed to encode information using a one-time programmable method. OTP technology allows data to be programmed into a device only once, after which the programmed information becomes permanent and cannot be altered or erased.
+
+Features
+
+Compatible : EV1527, RT1527, FP1527
+CMOS Technology
+Low stand by Current : 1.0uA
+Wide range of Operating Voltage : Vcc＝3.0～12V
+Up to 4 data pins
+Total 1048576 address codes
+Single Resistor Oscillator
+Package: SOP8
+
+Pinout Information
+
+OCSI Oscillator input pull-up R to Vcc I
+Vcc Positive power supply
+GND Ground
+Dout Data output pin O
+K0 Data input with pull-low R I
+K1 Data input with pull-low R I
+K2 Data input with pull-low R I
+K3 Data input with pull-low R I
+
+
+========================================================================================================================
+
+عنوان:
+تراشه انکودر PT2262 پکیج DIP
+
+قیمت:
+177,000
+
+توضیحات کوتاه:
+آی سی CMOS انکودر PT2262 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+ی سی فرستنده PT2262 از رایج ترین ریموت کنترلر های شرکت PTC می باشد. این آی سی فرستنده انحصاری PT2272 است . این آی سی از تکنولوژیCMOS بوده و محدوده ولتاژ کاری آن از ۳ تا ۱۵ ولت می باشد.
+برای اینکه فرستنده و گیرنده کار بکنند باید آدرس فرستنده و گیرنده یکی باشد. لازم به ذکر است که آی سی فرستنده PT2262 می تواند هم اطلاعات ۴ بیتی و هم اطلاعات ۶ بیتی ارسال کند.
+از کاربردهای PT2262 می توان به سیستمهای دزدگیر اتومبیل،کنترل درب پارکینگ،کنترل از راه دور فن ،سیستمهای حفاظتی و کنترل از راه دور در صنایع اشاره کرد.
+
+Description
+
+PT2262 is a remote control encoder paired with PT2272 utilizing CMOS Technology. It encodes data
+and address pins into a serial coded waveform suitable for RF or IR modulation. PT2262 has a
+maximum of 12 bits of tri-state address pins providing up to 531,441 (or 312) address codes; thereby,
+drastically reducing any code collision and unauthorized code scanning possibilities.
+
+Features
+
+CMOS Technology
+Low Power Consumption
+Very High Noise Immunity
+Up to 12 Tri-State Code Address Pins
+Up to 6 Data Pins
+Wide Range of Operating Voltage: Vcc = 4 ~ 15 Volts
+Single Resistor Oscillator
+Latch or Momentary Output Type
+Available in DIP and SOP
+
+
+========================================================================================================================
+
+عنوان:
+تراشه اینورتر TC4069UBP ژاپنی مارک TOSHIBA پکیج DIP
+
+قیمت:
+524,000
+
+توضیحات کوتاه:
+تراشه اینورتر و بافر 6 کانال CMOS ژاپنی TC4069UBP
+
+توضیحات کامل:
+Introduction
+
+TC4069UB contains six circuits of inverters. Since the internal circuit is composed of a single stage inverter, this is suitable for the applications of CR oscillator circuits, crystal oscillator circuits and linear amplifiers in addition to its application as inverters.Because of one stage gate configuration, the propagation time has been reduced.
+
+Specification
+
+Brand: TOSHIBA
+TC4069UBP Inverting
+DC Supply Voltage: -0.5 ~ +20 V
+Input Voltage: -0.5 ~ +0.5 V
+Output Voltage: -0.5 ~ +0.5
+DC Input Current: ±10 mA
+Power Dissipation: 300 mW
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HC240AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+117,000
+
+توضیحات کوتاه:
+آی سی بافر مدل 74HC240AN سه حالته 8 کاناله با خروجی سه حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 8 Input
+Number of Output Lines: 8 Output
+Polarity: Inverting
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Function: Buffer/Line Driver
+Output Type: 3-State
+Quiescent Current: 8 uA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HC244 پکیج DIP
+
+قیمت:
+208,800
+
+توضیحات کوتاه:
+آی سی بافر 74HC244 شامل 8 بافر سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 2V to 6V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±25mA
+Maximum propagation delay time: 12ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Octal buffer/line driver with 3-state outputs function
+Eight input/output pins (1A to 8A and 1Y to 8Y)
+Two active-low output enable control pins (OE1 and OE2)
+TTL-compatible input voltage level
+CMOS-compatible output voltage level
+20-pin DIP
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HC245 پکیج DIP
+
+قیمت:
+309,000
+
+توضیحات کوتاه:
+تراشه CMOS مدل 74HC245 بافر دو جهته اطلاعات 8 بیتی مناسب پیاده‌سازی باس‌های مشترک
+
+توضیحات کامل:
+Specification
+
+Product Category: Bus Transceivers
+Logic Family: HC
+Input Level: CMOS
+Output Level: CMOS
+Output Type: 3-State
+High Level Output Current: - 6 mA
+Low Level Output Current: 6 mA
+Propagation Delay Time: 22 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Package / Case: PDIP-20
+Packaging: Tube
+Function: Tri-State Octal Bus
+Height: 4.57 mm
+Length: 24.33 mm
+Number of Circuits: 8
+Product: Standard Transceiver
+Series: SN74HC245
+Technology: CMOS
+Width: 6.35 mm
+Brand: Texas Instruments
+Mounting Style: Through Hole
+Number of Channels: 8
+Supply Current - Max: 8 uA
+Operating Supply Voltage: 2 V to 6 V
+Polarity: Non-Inverting
+Product Type: Bus Transceivers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HCT125AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+128,000
+
+توضیحات کوتاه:
+آی سی بافر 74HCT125AN شامل  4 کانال با خروجی 3 حالته  پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Input 4 Input
+Polarity Non-Inverting Type
+Number of Output 4 Output
+Mounting Style Through Hole
+Supply Voltage (Min) 4.5 V
+Supply Voltage (Max) 5.5 V
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature +125 C°
+Brand INTEGRAL
+Package DIP-14
+
+
+========================================================================================================================
+
+عنوان:
+تراشه دیکودر SC/PT2272-L4 پکیج DIP
+
+قیمت:
+186,000
+
+توضیحات کامل:
+معرفی
+
+آی سی فرستنده  pt2262   وگیرنده pt2272-xy   از رایج ترین ریموت کنترلر های شرکت PTC   می باشند.آی سی PT2272   گیرنده انحصاری   PT 2262 است. یعنی برای این ای سی گیرنده نمی توان از فرستنده دیگری استفاده کردو همین طور عکس ان.
+
+این ای سی از تکنولوژی   CMOS می باشد و محدوده ولتاژ کاری ان ها از ۳ تا ۱۵ ولت می باشد.
+هر دو ای سی ۱۸ پایه هستند و می توانند تا حداکثر ۱۲ پایه و حداقل ۶ پایه برای ادرس داشته باشند.
+پایه های ادرس می توانند در سه حالت ۱:زمین ۲:مثبت ۳: NC قرار گیرند.
+برای اینکه فرستنده و گیرنده کار بکنند باید ادرس فرستنده و گیرنده یکی باشد.
+
+در آی سی PT2272-L4 خروجی ها ۴ بیتی می باشد. در نوع L4 دیتای خروجی تا برقراری ارتباط بعدی دیتا در پایه های مربوط باقی خواهند ماند
+
+.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه شمارنده 4020BD پکیج SOP-16 مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی 4020BD شمارنده باینری دارای ورودی های اشمیت تریگر پکیج SMD SOIC-16 مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Product Category: Counter Shift Registers
+Counter Type: Binary
+Counting Sequence: Up
+Number of Circuits: 1
+Number of Bits: 14 bit
+Package / Case: SOIC-16
+Logic Type: CMOS
+Number of Input Lines: 1
+Propagation Delay Time: 3900 ns, 1725 ns, 1200 ns
+Supply Voltage - Min: 3 V
+Supply Voltage - Max: 18 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Function: Counter/Divider
+Brand: Integral
+Mounting Style: SMD/SMT
+
+
+========================================================================================================================
+
+عنوان:
+تراشه شمارنده 74HC193AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+134,000
+
+توضیحات کوتاه:
+آی سی 74HC193AN شمارنده باینری 4 بیتی بالا شمار / پایین شمار سنکرون پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Bits 4 bit
+Counter Type Binary
+Counting Method SYNCHRONOUS
+Counting Sequence Up, Down
+Mounting Style SMD/SMT
+Supply Voltage (Min) 2 V
+Supply Voltage (Max) 6 V
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature +85 C°
+Brand Philips Semiconductor
+Package DIP-16
+
+
+========================================================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HC174AD پکیج SOP-16 مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+تراشه فلیپ فلاپ شش تایی نوع D دارای کلاک مشترک CMOS پکیج SMD - SOP16  مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Product Category: Flip Flops
+Number of Circuits: 7
+Logic Type: D-Type Flip-Flop
+Polarity: Non-Inverting
+Input Type: CMOS
+Output Type: CMOS
+Propagation Delay Time: 165 ns
+High Level Output Current: - 5.2 mA
+Low Level Output Current: 5.2 mA
+Supply Voltage - Min: 2 V
+Supply Voltage - Max: 6 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: SMD/SMT
+Package / Case: SOP-16
+Function: Hex High Speed CMOS
+Operating Temperature Range: - 55 C to + 125 C
+Quiescent Current: 8 uA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HC574AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+149,000
+
+توضیحات کوتاه:
+آی سی 74HC574AN فلیپ فلاپ نوع D دارای 8 کانال با خروجی 3 حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 2V to 6V
+Input voltage: -0.5V to 7V
+Output voltage: 0V to VCC
+Input current: ±20mA
+Output current: ±35mA
+Maximum operating frequency: 74MHz
+Propagation delay: 15ns (typical)
+Tri-state output with output enable control
+8-bit D-type flip-flop with 3-state outputs
+High noise immunity: CMOS output can tolerate up to 1.5kV of electrostatic discharge (ESD)
+Low power consumption: ICC = 4µA (max) at TA = 25°C
+Available in a 20-pin DIP
+
+
+========================================================================================================================
+
+عنوان:
+تراشه لچ 74HC373D پکیج SO-20
+
+قیمت:
+214,000
+
+توضیحات کوتاه:
+آی سی 74HC373D لچ 8 تایی تایپ D پکیج SO20 SMD
+
+توضیحات کامل:
+Specification
+
+Product Category: Latches
+Number of Circuits: 8 Circuit
+Logic Type: CMOS
+Logic Family: HC
+Polarity: Non-Inverting
+Quiescent Current: 8 uA
+Number of Output Lines: 8 Line
+High Level Output Current: - 7.8 mA
+Propagation Delay Time: 12 ns at 5 V
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Package / Case: SO20
+Function: Transparent
+Mounting Style: SMD/SMT
+Number of Channels: 8 Channels
+Number of Input Lines: 8 Line
+Operating Supply Voltage: 5 V
+Output Type: 3-State
+Product Type: Latches
+Reset Type: No Reset
+Subcategory: Logic ICs
+Type: D-Type
+
+
+========================================================================================================================
+
+عنوان:
+تراشه لچ 74HC573D پکیج SO-20
+
+قیمت:
+149,000
+
+توضیحات کوتاه:
+آی سی 74HC573D لچ پکیج SO-20 SMD
+
+توضیحات کامل:
+Features
+
+Wide supply voltage range from 2.0 to 6.0 V
+CMOS low power dissipation
+High noise immunity
+Input levels:
+For 74HC573: CMOS level
+For 74HCT573: TTL level
+Inputs and outputs on opposite sides of package allowing easy interface with microprocessors
+Useful as input or output port for microprocessors and microcomputers
+3-state non-inverting outputs for bus-oriented applications
+Common 3-state output enable input
+Latch-up performance exceeds 100 mA per JESD 78 Class II Level B
+Complies with JEDEC standards:
+JESD8C (2.7 V to 3.6 V)
+JESD7A (2.0 V to 6.0 V)
+ESD protection:
+HBM JESD22-A114F exceeds 2000 V
+MM JESD22-A115-A exceeds 200 V
+Multiple package options
+Specified from -40 °C to +85 °C and from -40 °C to +125 °C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مالتی پلکسر 4052BN پکیج DIP مارک INTEGRAL
+
+قیمت:
+117,600
+
+توضیحات کوتاه:
+آی سی 4052BN مالتی پلکسر / دی مالتی پلکسر 4 کانال تفاضلی پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Introduction
+
+The IW4052B analog multiplexer/demultiplexer is digitally controlled analog switches having low ON impedance and very low OFF leakage current. Control of analog signals up to 20V peak-topeak can be achieved by digital signal amplitudes of 4.5 to 20V (if VCC - GND = 3V, a VCC - VEE of up to 13 V can be controlled; for VCC - VEE level differences above 13V a VCC - GND of at least 4.5V is required).
+
+Specification
+
+Operating Voltage Range: 3.0 to 18 V
+Maximum input current of 1μA at 18 V over full
+package-temperature range; 100 nA at 18 V and 25°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مالتی پلکسر 74HC158P پکیج DIP
+
+قیمت:
+190,400
+
+توضیحات کوتاه:
+تراشه مالتی پلکسر / انکودر 4 کاناله دو ورودی خروجی وارون ساز
+
+توضیحات کامل:
+Specification
+
+Product Category: Encoders, Decoders, Multiplexers & Demultiplexers
+Product: Selectors / Multiplexers
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+Propagation Delay Time: 32 ns
+Supply Voltage - Min: 2 V
+Supply Voltage - Max: 6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Package / Case:  PDIP-16
+Function: Quad 2 to 1
+Input Voltage: - 0.5 V to 7.0 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مالتی پلکسر CD4051 پکیج SO-16
+
+قیمت:
+80,600
+
+توضیحات کوتاه:
+آی سی 4051 مالتی پلکسر / دمالتی پلکسر 8 به 1 با تکنولوژِی MOS پکیج SO-16 SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Multiplexer Switch ICs
+Series: CD4051B
+Product: Multiplexers/Demultiplexers
+Mounting Style: SMD/SMT
+Package / Case: SO-Narrow-16
+Number of Channels: 8 Channel
+Configuration: 1 x 8:1
+Supply Voltage - Min: 5 V
+Supply Voltage - Max: 18 V
+Minimum Dual Supply Voltage: +/- 2.5 V
+Maximum Dual Supply Voltage: +/- 10 V
+On Resistance - Max: 240 Ohms
+On Time - Max: 720 ns
+Off Time - Max: 450 ns
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Packaging: Tube
+Bandwidth: 20 Mhz
+Brand: Texas Instruments
+Height: 1.58 mm
+Length: 9.9 mm
+Operating Supply Voltage: 5 V to 18 V
+Pd - Power Dissipation: 700 mW
+Product Type: Multiplexer Switch ICs
+Propagation Delay Time: 60 ns
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مالتی پلکسر CD4512BM96 پکیج SOP-16
+
+قیمت:
+258,000
+
+توضیحات کوتاه:
+آی سی CMOS اینکودر دیکودر پلکسر و مالتی پلکسر CD4512BM96 پکیج SMD SOP-16
+
+توضیحات کامل:
+Specification
+
+Product Category: Encoders, Decoders, Multiplexers & Demultiplexers
+RoHS: Details
+Product: Selectors / Multiplexers
+Logic Family: CD4000
+Number of Input Lines: 8 Input
+Number of Output Lines: 1 Output
+Propagation Delay Time: 140 ns
+Supply Voltage - Min: 3 V
+Supply Voltage - Max: 18 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: SMD/SMT
+Package / Case: SOP-16
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Function: Multiplexer
+Height: 1.58 mm
+Length: 9.9 mm
+Number of Circuits: Octal
+Operating Temperature Range: - 55 C to + 125 C
+Quiescent Current: 80 nA
+Series: CD4512B
+Technology: CMOS
+Width: 3.91 mm
+Brand: Texas Instruments
+Logic Type: Data Selectors/Multiplexers
+Supply Current - Max: 0.08 uA
+High Level Output Current: - 1.5 mA
+Low Level Output Current: 1.5 mA
+Maximum Clock Frequency: 8 MHz
+Operating Supply Voltage: 3 V to 18 V
+Product Type: Encoders, Decoders, Multiplexers & Demultiplexers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه منطقی 74HC123AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HC123AN مولتی ویبراتور مونواستابل 2 کاناله پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 2V to 6V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±5.2mA
+Maximum propagation delay time: 45 ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Triggerable from the negative-going edge of input pulse
+Monostable time determined by external resistor and capacitor
+Retriggerable on both inputs (A and B)
+Active-low reset input (R) terminates output pulse
+Output pulse width can range from 30 ns to 10 seconds
+16-pin DIP package (AN suffix)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مولتی ویبراتور CD4528BN پکیج DIP مارک INTEGRAL
+
+قیمت:
+95,600
+
+توضیحات کوتاه:
+آی سی CD4528BN مولتی ویبراتور مونو استیبل دوبل با قابلیت ریست / تحریک
+
+توضیحات کامل:
+Specification
+
+Product Category: Monostable Multi vibrator
+Elements per Chip: 2
+Logic Type: Monostable Multi vibrator
+Package / Case: PDIP-16 Wide
+Supply Current - Max: 0.02 mA
+Propagation Delay Time: 500 ns, 250 ns, 150 ns
+High Level Output Current: - 1.8 mA
+Low Level Output Current: 4.2 mA
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 3 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Product Type: Monostable Multi Vibrator
+Subcategory: Logic ICs
+

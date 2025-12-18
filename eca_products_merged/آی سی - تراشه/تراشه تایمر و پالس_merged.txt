@@ -1,0 +1,434 @@
+عنوان:
+تراشه اسیلاتور - تایمر MIC1557YM5 پکیج SOT-23-5
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی اسیلاتور و تایمر RC قابل برنامه ریزی MIC1557YM5
+
+توضیحات کامل:
+Specification
+
+General Description
+The MIC1555 IttyBitty™ CMOS RC timer/oscillator and
+MIC1557 IttyBitty CMOS RC oscillator are designed to
+provide rail-to-rail pulses for precise time delay or
+frequency generation.
+
+Manufacturer: Microchip
+Product Category: Timers & Support Products
+RoHS: Details
+Type: Standard
+Number of Internal Timers: 1 Timer
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 2.7 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: SMD/SMT
+Package / Case: SOT-23
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Height: 1.1 mm
+Length: 2.9 mm
+Width: 1.6 mm
+Brand: Microchip Technology / Micrel
+Shutdown: Shutdown
+High Level Output Current: 20 mA
+Low Level Output Current: - 20 mA
+Product Type: Timers & Support Products
+
+Applications
+• Precision timer
+• Pulse generation
+• Sequential timing
+• Time-delay generation
+• Missing pulse detector
+• Micropower oscillator to 5MHz
+• Charge-pump driver
+• LED blinker
+• Voltage converter
+• Linear sweep generator
+• Variable frequency and duty cycle oscillator
+• Isolated feedback for power supplies
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تایمر ICM7555 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تایمر ICM7555 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Maxim Integrated
+Product Category: Timers & Support Products
+RoHS: Details
+Series: ICM7555
+Type: Standard
+Number of Internal Timers: 1 Timer
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 20 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Packaging: Tube
+Height: 4.45 mm
+Length: 9.91 mm
+Width: 7.87 mm
+Brand: Maxim Integrated
+Pd - Power Dissipation: 200 mW
+Product Type: Timers & Support Products
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تایمر NE555 پکیج DIP
+
+قیمت:
+31,500
+
+توضیحات کوتاه:
+تراشه زمان سنج،نوسانگر و تولید پالس NE555 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+آی سی NE555 یکی از آی سی های نسبتا مشهور که مولد موج مربعی است و در صنعت الکترونیک کاربرد زیادی دارد ,  می باشد. از این آی سی میتوان در مدار نوسان ساز های مربعی ,در تایمر ها , در مدار های آژیر و غیره استفاده نمود. این آی سی دارای دقت فوق العاده زیاد و خطای کم می باشد و بوسیله ی آن می توان تایمر هایی از مدت زمانهای کم تا چندین ساعت را ایجاد کرد .
+
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Timers & Support Products
+RoHS: Details
+Series: NE555
+Type: Standard
+Number of Internal Timers: 1 Timer
+Supply Voltage - Max: 16 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Packaging: Tube
+Height: 4.57 mm
+Length: 9.81 mm
+Width: 6.35 mm
+Brand: Texas Instruments
+High Level Output Current: 200 mA
+Low Level Output Current: - 200 mA
+Operating Supply Current: 2000 uA
+Product Type: Timers & Support Products
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تایمر NE555 پکیج SO-8
+
+قیمت:
+23,700
+
+توضیحات کوتاه:
+آی سی زمان سنج، نوسانگر و تولید پالس NE555 پکیج SO-8 SMD
+
+توضیحات کامل:
+معرفی
+
+آی سی NE555 یکی از آی سی های نسبتا مشهور که مولد موج مربعی است و در صنعت الکترونیک کاربرد زیادی دارد ,  می باشد. از این آی سی میتوان در مدار نوسان ساز های مربعی ,در تایمر ها , در مدار های آژیر و غیره استفاده نمود.
+این آی سی دارای دقت فوق العاده زیاد و خطای کم می باشد و بوسیله ی آن می توان تایمر هایی از مدت زمانهای کم تا چندین ساعت را ایجاد کرد .
+
+Specification
+
+Number of Internal Timers: 1 Timer
+Supply Voltage - Max: 16 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Height: 1.58 mm
+Length: 4.9 mm
+Width: 3.91 mm
+Brand: Texas Instruments
+High Level Output Current: 200 mA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تایمر دوبل NE556 پکیج DIP
+
+قیمت:
+92,400
+
+توضیحات کوتاه:
+آی سی تایمر دوبل NE556 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Timers & Support Products
+RoHS: Details
+Series: NE556
+Type: Standard
+Number of Internal Timers: 2 Timer
+Supply Voltage - Max: 16 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: PDIP-14
+Packaging: Tube
+Height: 3.3 mm
+Length: 19.05 mm
+Width: 6.35 mm
+Brand: STMicroelectronics
+High Level Output Current: 200 mA
+Low Level Output Current: - 200 mA
+Product Type: Timers & Support Products
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تایمر دوبل NE556 پکیج SOP-14 مارک UMW
+
+قیمت:
+136,000
+
+توضیحات کوتاه:
+تراشهٔ تایمر دوبل مبتنی بر دو مدار 555 مستقل برای تولید وقفه یا نوسان با دقت بالا، مناسب برای کاربردهای صنعتی و الکترونیکی.
+
+توضیحات کامل:
+NE556 تراشه‌ای است با دو مدار تایمر مستقل (مشابه NE555)، که در یک پکیج SOP‑14 (یا SO‑14) جای گرفته‌اند. این تراشه قادر به اجرای مدهای استابل (Astable) و مونواستابل (Monostable) با استفاده از مدار‌های RC خارجی است. خروجی‌های آن امکان درایو مستقیم بارهایی تا حدود 200 mA را دارند و با منطق TTL سازگار هستند. با پایداری دمایی بسیار بالا (حدود 0.005٪ بر درجه سانتی‌گراد) و عملکرد در گستره فرکانسی از میکروثانیه تا ساعت، NE556 گزینه‌ای دقیق و قابل اعتماد برای تولید تأخیر، PWM، مولد پالس، و سایر کاربردهای تایمینگ است. این تراشه تنها تغذیه و زمین را با دو تایمر اشتراک می‌گذارد و سایر پایه‌ها، برای هر تایمر، جداگانه هستند
+
+مشخصات
+
+ولتاژ کاری: 4.5V تا 16V
+فرکانس کاری: تا 500kHz
+جریان مصرفی: حدود 4mA
+جریان خروجی: حداکثر ±200mA
+پایداری حرارتی: 0.005٪ بر °C
+محدوده دمای کاری: 0 °C تا 70 °C
+پکیج: SOP-14 (SMD)
+
+کاربردهای رایج
+
+تراشه NE556 به دلیل ترکیب دو تایمر مستقل در یک بسته، گزینه‌ای مناسب برای مدارهایی با نیاز به زمان‌بندی دقیق است. این قطعه در پروژه‌های آموزشی، طراحی صنعتی، تجهیزات کنترلی و ابزار دقیق به‌طور گسترده مورد استفاده قرار می‌گیرد.
+
+تولید تأخیرهای زمانی (Time Delay Generators)
+فرم‌دهی پالس (Pulse Shaping)
+مدولاسیون عرض پالس (PWM)
+تقسیم فرکانس (Frequency Dividers)
+ژنراتور پالس (Pulse Generators)
+تولید تن صدا (Tone-Burst Generators)
+کنترل ترتیبی (Sequential Timers)
+تشخیص پالس گمشده (Missing-Pulse Detectors)
+زمان‌سنج‌های کاربردی (Application Timers)
+رمزگذارهای لمسی (Touch-Tone Encoders)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ساعت - تقویم DS1307 پکیج DIP
+
+قیمت:
+136,000
+
+توضیحات کوتاه:
+آی سی ساعت - تقویم DS1307 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+DS 1307 یک آی سی ساعت / تقویم با قابلیت شمارش ثانیه ، دقیقه ، ساعت ، روز هفته ، روز ماه ، ماه و سال می باشد. این آی سی علاوه بر قابلیت نگهداری ساعت و تقویم ، 56 بایت رم آزاد نیز دارد که می توان برای نگهداری داده از آن استفاده نمود . این آی سی توسط پروتکل ارتباط سریال I2C به میکروکنترلر و ... متصل می شود که توسط پورت ارتباط سریال داخلی MSSP قابل پیاده سازی است .
+
+Specification
+
+Product Category: Real Time Clock
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+RTC Bus Interface: Serial, I2C
+Date Format: YY-MM-DD
+Time Format: HH:MM:SS
+RTC Memory Size: 56 B
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Function: Calendar, Clock
+Series: DS1307
+Brand: Maxim Integrated
+Operating Supply Current: 1.5 mA
+Product Type: Real Time Clocks
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ساعت - تقویم DS1307 پکیج SO-8
+
+قیمت:
+105,000
+
+توضیحات کوتاه:
+آی سی ساعت - تقویم DS1307 پکیج SO-8
+
+توضیحات کامل:
+معرفی
+
+DS 1307 یک آی سی ساعت / تقویم با قابلیت شمارش ثانیه ، دقیقه ، ساعت ، روز هفته ، روز ماه ، ماه و سال می باشد . این آی سی علاوه بر قابلیت نگهداری ساعت و تقویم ، 56 بایت رم آزاد نیز دارد که می توان برای نگهداری داده از آن استفاده نمود . این آی سی توسط پروتکل ارتباط سریال I2C به میکروکنترلر و ... متصل می شود که توسط پورت ارتباط سریال داخلی MSSP قابل پیاده سازی است .
+
+Specification
+
+Manufacturer: Maxim Integrated
+Product Category: Real Time Clock
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SO-8
+RTC Bus Interface: Serial, I2C
+Date Format: YY-MM-DD
+Time Format: HH:MM:SS
+Battery Backup Switching: Backup Switching
+RTC Memory Size: 56 B
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Function: Calendar, Clock
+Series: DS1307Z
+Brand: Maxim Integrated
+Operating Supply Current: 1.5 mA
+Product Type: Real Time Clocks
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ساعت - تقویم MC146818 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی RTC ساعت و تقویم دقیق با حافظه CMOS
+
+توضیحات کامل:
+Specification
+
+Product Category: Real-Time Clock
+Brand: Motorola
+Maximum Operating Temperature: +85°C
+Minimum Operating Temperature: -40°C
+Mounting Style: DIP
+Package / Case: DIP-24
+Operating Supply Voltage: 3.3V
+Part # Aliases: MC146818
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ساعت - تقویم PCF8583P پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی ساعت تقویم دقیق PCF8583P
+
+توضیحات کامل:
+Specification
+
+Product Category: Real Time Clock
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: DIP-8
+RTC Bus Interface: Serial, 2-Wire, I2C
+Date Format: YY-MM-DD
+Time Format: HH:MM:SS:hh (12 hr, 24 hr)
+Battery Backup Switching: No Backup Switching
+RTC Memory Size: 240 B
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 1 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Function: Alarm, Calendar, Clock, Interrupt, SQW, Timer
+Brand: NXP Semiconductors Product Type: Real Time Clocks
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ساعت و تقویم DS1307 دقیق پکیج DIP تولید فیلیپین
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه ساعت - تقویم DS1307 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+DS 1307 یک آی سی ساعت / تقویم با قابلیت شمارش ثانیه ، دقیقه ، ساعت ، روز هفته ، روز ماه ، ماه و سال می باشد. این آی سی علاوه بر قابلیت نگهداری ساعت و تقویم ، 56 بایت رم آزاد نیز دارد که می توان برای نگهداری داده از آن استفاده نمود . این آی سی توسط پروتکل ارتباط سریال I2C به میکروکنترلر و ... متصل می شود که توسط پورت ارتباط سریال داخلی MSSP قابل پیاده سازی است .
+
+Specification
+
+Product Category: Real Time Clock
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+RTC Bus Interface: Serial, I2C
+Date Format: YY-MM-DD
+Time Format: HH:MM:SS
+RTC Memory Size: 56 B
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Function: Calendar, Clock
+Series: DS1307
+Brand: Maxim Integrated
+Operating Supply Current: 1.5 mA
+Product Type: Real Time Clocks
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مولد پالس D71084C پکیج DIP
+
+قیمت:
+1,320,000
+
+توضیحات کوتاه:
+D71084C آی سی درایور و مولد پالس ساعت
+
+توضیحات کامل:
+Specification
+
+Brand: NEC Japan
+
+Clock pulse generator/driver for microprocessor including the V20 and V30 and their peripherals using NEC's high-speed CMOS technology.
+

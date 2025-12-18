@@ -1,0 +1,864 @@
+عنوان:
+وریستور 14N471K برند JVR
+
+قیمت:
+66,700
+
+توضیحات کوتاه:
+وریستور 300 ولت با تلرانس 10 درصد کد JVR 14N471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors 14D471K
+Diameter : 15mm
+Termination Style: Radial
+Voltage Rating AC: 300 VAC
+Voltage Rating DC: 385 VDC
+Varistor Voltage: 470 V
+Clamping Voltage: 775 V
+Peak Surge Current: 4500 A
+Surge Energy Rating: 140 J
+Capacitance: 390 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+
+
+========================================================================================================================
+
+عنوان:
+وریستور ENC151D-07A ژاپنی مارک FUJI
+
+قیمت:
+20,600
+
+توضیحات کوتاه:
+وریستور 150 ولت کد ژاپنی ENC151D-07A مارک FUJI
+
+توضیحات کامل:
+وریستور FUJI مدل ENC151D-07A یک قطعه محافظ ولتاژ از نوع Metal Oxide Varistor (MOV) با ساختار دیسکی و کیفیت ساخت ژاپنی است. این قطعه در برابر افزایش ناگهانی ولتاژ (Surge) واکنش نشان داده و با کاهش مقاومت داخلی خود، انرژی اضافه را جذب می‌کند تا از آسیب دیدن سایر قطعات حساس جلوگیری شود. ویژگی بارز این وریستور، محدوده ولتاژ عملکرد 135 تا 165 ولت، حداکثر ولتاژ قابل تحمل 250 ولت، توان جذب انرژی تا 6 ژول و تحمل جریان لحظه‌ای بالا تا 2500 آمپر می‌باشد. طراحی فیزیکی این مدل با دیسک 5 میلی‌متری و ضخامت حداکثر 2.2 میلی‌متر، امکان نصب آسان در مدارهای فشرده را فراهم می‌سازد. دقت مشخصات، پاسخ‌دهی سریع و ساختار مقاوم آن را به گزینه‌ای ایده‌آل برای کاربردهای صنعتی، منابع تغذیه، کنترلرها و دستگاه‌های حساس تبدیل کرده است.
+
+مشخصات
+
+ولتاژ وریستور (V1mA): 150 ولت
+محدوده تلرانس ولتاژ وریستور: 135 تا 165 ولت
+حداکثر ولتاژ قابل تحمل AC: 95 ولت
+حداکثر ولتاژ قابل تحمل DC: 125 ولت
+حداکثر ولتاژ کلمپینگ (V@25A): 250 ولت
+توان اتلاف: 0.6 وات
+انرژی قابل جذب: 6 ژول
+حداکثر جریان لحظه‌ای: 2500 آمپر
+ظرفیت خازنی (1kHz): 500 پیکوفاراد
+قطر دیسک: 5.0 میلی‌متر
+ضخامت دیسک: 2.2 میلی‌متر
+فاصله پایه‌ها (A): 5.0 میلی‌متر
+
+کاربردهای رایج
+
+وریستور FUJI ENC151D-07A در محافظت مدارهای الکترونیکی در برابر اضافه ولتاژ ناگهانی بسیار موثر است. این قطعه در سیستم‌های صنعتی، منابع تغذیه، تجهیزات مخابراتی، ابزارهای کنترلی و لوازم خانگی کاربرد دارد. پایداری بالا و واکنش سریع آن، از تجهیزات حساس در برابر صدمات ناشی از رعدوبرق یا نویزهای ولتاژی جلوگیری می‌کند.
+
+محافظت در منابع تغذیه سوئیچینگ
+مدارات کنترل صنعتی
+تجهیزات مخابراتی و شبکه
+اینورترها و درایوهای موتور
+بردهای الکترونیکی ابزار دقیق
+محافظ الکترونیکی خانگی
+سیستم‌های UPS
+تابلوهای برق فشار ضعیف
+تجهیزات اتوماسیون صنعتی
+ماژول‌های اندازه‌گیری و کنتورهای دیجیتال
+
+Specification
+
+Varistor Voltage (V₁mA): 150 V
+Varistor Voltage Tolerance Range: 135–165 V
+Maximum Allowable Voltage (AC): 95 V
+Maximum Allowable Voltage (DC): 125 V
+Clamping Voltage (V@25A): 250 V
+Power Dissipation: 0.6 W
+Energy Absorption: 6 J
+Maximum Peak Current: 2500 A
+Capacitance (1kHz): 500 pF
+Disc Diameter: 5.0 mm
+Disc Thickness: 2.2 mm
+Lead Spacing (A): 5.0 mm
+
+
+========================================================================================================================
+
+عنوان:
+وریستور INR 10D751
+
+قیمت:
+35,300
+
+توضیحات کوتاه:
+وریستور 750 ولت کد INR 10D751
+
+توضیحات کامل:
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+وریستور TNR 10V621K ژاپنی
+
+قیمت:
+61,400
+
+توضیحات کوتاه:
+وریستور 620 ولت  کد TNR10V621K300 ژاپنی
+
+توضیحات کامل:
+Features
+
+Large surge capability (the surge current ratings of TNR V series, by 8/20 µs, are about two
+times larger than TNR G series).
+Large energy capability (1.5 time larger than TNR G series).
+One rank smaller TNR V has same peak current as TNR G.
+Excellent voltage non-linear coefficient.
+Low clamping voltage.
+Symmetrical V-I characteristics (No polarity).
+Fast response.
+Stable characteristics against repeated surges.
+Superior temperature characteristics.
+High reliability
+●UL, CSA and VDE recognized components
+UL 1449 3rd File : E323623
+UL 1414 File : E65426 (Except "12V")
+CSA File : LR97864
+VDE File : 118623
+
+Applications
+
+Protection for semiconductors from over voltage.
+Protection for electronic instruments from lightning surges.
+Absorption of on-off surges from motors and relays.
+◆PART NUMBERING SYSTEM
+Operating Temperature Range: -40 to +85℃
+Storage Temperature Range: -50 to +125℃
+
+
+========================================================================================================================
+
+عنوان:
+وریستور TVR 10621
+
+قیمت:
+42,300
+
+توضیحات کوتاه:
+وریستور 620 ولت کد TVR 10621
+
+توضیحات کامل:
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 05D391K
+
+قیمت:
+17,700
+
+توضیحات کوتاه:
+وریستور 390 ولت با تلرانس 10 درصد کد 05D391K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: 05D
+Diameter : 5mm
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 320 VDC
+Clamping Voltage: 675 V
+Peak Surge Current: 2.5 kA
+Capacitance: 65 pF
+Minimum Operating Temperature: -40 C
+Maximum Operating Temperature: +85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D151K
+
+قیمت:
+16,300
+
+توضیحات کوتاه:
+وریستور 150 ولت با تلرانس 10 درصد کد 07D151K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Product: MOV
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating AC: 95 VAC
+Voltage Rating DC: 165 VDC
+Varistor Voltage: 150 V
+Clamping Voltage: 250 V
+Diameter: 7 mm
+Peak Surge Current: 1.2 kA
+Surge Energy Rating: 9.7 J
+Capacitance: 330 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product Type: Varistors
+Subcategory: Varistors
+Tolerance: 10 %
+Width: 6.8 mm
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D180K
+
+قیمت:
+14,700
+
+توضیحات کوتاه:
+وریستور 18 ولت با تلرانس 10 درصد کد 07D180K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-07DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 20 VDC
+Clamping Voltage: 36 V
+Diameter: 7 mm
+Peak Surge Current: 250 A
+Surge Energy Rating: 900 mJ
+Capacitance: 2800 pF
+Minimum Operating Temperature: -40 C
+Maximum Operating Temperature: +85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D181K
+
+قیمت:
+13,100
+
+توضیحات کوتاه:
+وریستور 180 ولت با تلرانس 10 درصد کد 07D181K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series:  MOV-07DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 198 VDC
+Clamping Voltage: 300 V
+Diameter: 7 mm
+Peak Surge Current: 1.2 kA
+Surge Energy Rating: 11.7 J
+Capacitance: 280 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D221K
+
+قیمت:
+12,300
+
+توضیحات کوتاه:
+وریستور 220 ولت با تلرانس 10 درصد کد 07D221K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-07DxxxK
+Mounting Style: PCB Mount
+Voltage Rating AC: 140 VAC
+Voltage Rating DC: 180 VDC
+Varistor Voltage: 220 V
+Clamping Voltage: 360 V
+Peak Surge Current: 1.75 kA
+Surge Energy Rating: 19 J
+Capacitance: 230 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D271K
+
+قیمت:
+12,100
+
+توضیحات کوتاه:
+وریستور 270 ولت با تلرانس 10 درصد کد 07D271K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-07DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 297 VDC
+Clamping Voltage: 455 V
+Diameter:  7 mm
+Peak Surge Current: 1.2 kA
+Surge Energy Rating: 18 J
+Capacitance: 185 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D361K
+
+قیمت:
+12,300
+
+توضیحات کوتاه:
+وریستور 360 ولت با تلرانس 10 درصد کد 07D361K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-07DxxxK
+Mounting Style: PCB Mount
+Termination Style:  Radial
+Voltage Rating DC: 396 VDC
+Clamping Voltage: 595 V
+Diameter: 7 mm
+Peak Surge Current: 1.2 kA
+Surge Energy Rating: 25 J
+Capacitance: 140 pF
+Minimum Operating Temperature: -40 C
+Maximum Operating Temperature: +85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D431K
+
+قیمت:
+10,000
+
+توضیحات کوتاه:
+وریستور 430 ولت با تلرانس 10 درصد کد 07D431K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 473 VDC
+Clamping Voltage: 710 V
+Diameter: 7 mm
+Peak Surge Current: 1.2 kA
+Surge Energy Rating: 28 J
+Capacitance: 115 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D471K
+
+قیمت:
+11,200
+
+توضیحات کوتاه:
+وریستور 470 ولت با تلرانس 10 درصد کد 07D471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-07DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 517 VDC
+Clamping Voltage: 775 V
+Diameter: 7 mm
+Peak Surge Current: 1.2 kA
+Surge Energy Rating: 30 J
+Capacitance: 105 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 07D560K
+
+قیمت:
+14,300
+
+توضیحات کوتاه:
+وریستور 56 ولت با تلرانس 10 درصد کد 07D560K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-07DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 62 VDC
+Clamping Voltage:  110 V
+Diameter: 7 mm
+Peak Surge Current: 250 A
+Surge Energy Rating: 3.1 J
+Capacitance:  890 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 10D271K
+
+قیمت:
+33,800
+
+توضیحات کوتاه:
+وریستور 270 ولت با تلرانس 10 درصد کد 10D271K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-10DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 270 VDC
+Clamping Voltage: 455 V
+Diameter: 10 mm
+Peak Surge Current: 2.5 kA
+Surge Energy Rating: 40 J
+Capacitance: 370 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 10D391K
+
+قیمت:
+19,900
+
+توضیحات کوتاه:
+وریستور 390 ولت با تلرانس 10 درصد کد 10D391K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-10DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 429 VDC
+Clamping Voltage: 650 V
+Diameter: 10 mm
+Peak Surge Current: 2.5 kA
+Surge Energy Rating: 60 J
+Capacitance: 260 pF
+Minimum Operating Temperature: -40 C
+Maximum Operating Temperature: +85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 10D471K
+
+قیمت:
+18,300
+
+توضیحات کوتاه:
+وریستور 470 ولت با تلرانس 10 درصد کد 10D471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: MOV-10DxxxK
+Mounting Style: PCB Mount
+Termination Style: Radial
+Voltage Rating DC: 517 VDC
+Clamping Voltage: 775 V
+Diameter: 10 mm
+Peak Surge Current: 2.5 kA
+Surge Energy Rating: 70 J
+Capacitance: 210 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 14D201K
+
+قیمت:
+42,000
+
+توضیحات کوتاه:
+وریستور 200 ولت با تلرانس 10 درصد کد 14D201K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: 14D
+Termination Style: Radial
+Voltage Rating AC: 130 VAC
+Voltage Rating DC: 200 VDC
+Varistor Voltage: 200 V
+Clamping Voltage: 340 V
+Diameter: 14 mm
+Peak Surge Current: 4.5 KA
+Surge Energy Rating: 57 J
+Capacitance: 1000 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 20D131K کد Z131-20UL
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 130 ولت با تلرانس 10 درصد کد Z131-20UL
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Diameter : 20mm
+Termination Style: Radial
+Voltage Rating AC: 130 VAC
+Voltage Rating DC: 175 VDC
+Varistor Voltage: 224 V
+Clamping Voltage: 340 V
+Peak Surge Current: 12 kA
+Surge Energy Rating: 150 J
+Capacitance: 20010 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 20D151K کد Z151-20UL
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 150 ولت با تلرانس 10 درصد کد Z151-20UL
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Diameter : 20mm
+Termination Style: Radial
+Voltage Rating AC: 150 VAC
+Voltage Rating DC: 200 VDC
+Varistor Voltage: 259 V
+Clamping Voltage: 395 V
+Peak Surge Current: 12 kA
+Surge Energy Rating: 170 J
+Capacitance: 1701 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 20D201K
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 200 ولت با تلرانس 10 درصد کد 20D201K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: 20D
+Diameter : 20mm
+Termination Style: Radial
+Voltage Rating AC: 130 VAC
+Voltage Rating DC: 170 VDC
+Varistor Voltage: 200 V
+Clamping Voltage: 340 V
+Peak Surge Current: 6.50 kA
+Surge Energy Rating: 95 J
+Capacitance: 2000 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 20D241K
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 240 ولت با تلرانس 10 درصد کد 20D241K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: 20D
+Termination Style: Radial
+Voltage Rating AC: 150 VAC
+Voltage Rating DC: 200 VDC
+Varistor Voltage: 240 V
+Clamping Voltage: 395 V
+Diameter: 20 mm
+Peak Surge Current: 6.50 kA
+Surge Energy Rating: 108 J
+Capacitance: 1650 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 20D471K
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 470 ولت با تلرانس 10 درصد کد 20D471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Series: 20D
+Termination Style: Radial
+Voltage Rating AC: 300 VAC
+Voltage Rating DC: 385 VDC
+Varistor Voltage: 470 V
+Clamping Voltage: 775 V
+Diameter: 20 mm
+Peak Surge Current: 6.5 KA
+Surge Energy Rating: 204 J
+Capacitance: 850 pF
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+Tolerance: 10 %
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR 70D131K کد Z131-70UL
+
+قیمت:
+156,000
+
+توضیحات کوتاه:
+وریستور 130 ولت با تلرانس 10 درصد کد Z131-20UL
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Diameter : 20mm
+Termination Style: Radial
+Voltage Rating AC: 130 VAC
+Voltage Rating DC: 175 VDC
+Varistor Voltage: 224 V
+Clamping Voltage: 340 V
+Peak Surge Current: 9 kA
+Surge Energy Rating: 130
+Capacitance: 1571pF @1kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Subcategory: Varistors
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR E299DD
+
+قیمت:
+24,300
+
+توضیحات کوتاه:
+وریستور VDR E299DD یک قطعه محافظ در برابر ولتاژهای گذرا و نوسانات شدید، با ولتاژ عملکرد 17 ولت (RMS)
+
+توضیحات کامل:
+وریستور (VDR) مدل E299DD از محصولات شرکت Philips بوده و با فناوری سرامیکی اکسید روی (ZnO) تولید شده است. این قطعه به‌منظور حفاظت از تجهیزات الکترونیکی در برابر نوسانات شدید ولتاژی، اضافه ولتاژ ناگهانی و شوک‌های الکتریکی استفاده می‌شود. در حالت عادی، وریستور دارای مقاومت بسیار بالا است و هیچ جریانی را عبور نمی‌دهد. اما به‌محض وقوع اضافه ولتاژ، مقاومت آن به‌شدت کاهش یافته و جریان اضافی را به سمت زمین هدایت می‌کند، در نتیجه مانع آسیب رسیدن به تجهیزات حساس می‌شود. این وریستور به‌خاطر عملکرد سریع و قابلیت اطمینان بالا، در بسیاری از تجهیزات صنعتی و الکترونیکی پرکاربرد است.
+
+مشخصات
+
+ولتاژ نامی (AC RMS): 17V
+ولتاژ نامی (DC): 22V
+ولتاژ حفاظتی (حداکثر): 43V در جریان 1mA
+جریان ضربه‌ای (حداکثر): 250A
+توان اتلافی (حداکثر): 0.25W
+قطر دیسک: 10 میلی‌متر
+بازه دمای کاری: 40°C- تا 125°C+
+ظرفیت خازنی: 1500pF
+قطر: 12.5 میلی‌متر
+
+کاربردهای رایج
+
+وریستور به‌طور ویژه برای حفاظت از مدارهای ولتاژ پایین در دستگاه‌های الکترونیکی، تجهیزات ارتباطی و صنعتی استفاده می‌شود و به‌طور خاص در کاربردهای زیر قابل استفاده است:
+
+محافظت از منبع تغذیه سوئیچینگ (SMPS)
+تجهیزات مخابراتی و تلفن
+سیستم‌های کنترل صنعتی
+مدارهای فرمان و کنترل
+حفاظت از خطوط دیتای حساس
+لوازم خانگی الکترونیکی
+مدارهای الکترونیکی خودرو
+حفاظت از تجهیزات صوتی و تصویری
+مدارهای سنسوری و اندازه‌گیری
+تجهیزات پزشکی و ابزار دقیق
+
+
+========================================================================================================================
+
+عنوان:
+وریستور VDR KK210K ژاپنی مارک Ishizuka Electronics
+
+قیمت:
+30,500
+
+توضیحات کوتاه:
+وارستور 210V مناسب برای حفاظت از مدار در برابر ولتاژ گذرا و افزایش ایمنی تجهیزات الکترونیکی.
+
+توضیحات کامل:
+این وریستور از نوع دیسکی فلزی (MOV) با قابلیت پاسخ سریع به ولتاژهای گذرا است و سطح ولتاژ را پس از رسیدن به آستانه عملکردش به سرعت در محدوده ایمن نگه می‌دارد. ساختار آکسیال با لیدهای مستقیم امکان نصب راحت روی بردهای سوراخ‌دار را فراهم کرده و مناسب برای جذب انرژی گذرا در منابع تغذیه، تجهیزات صنعتی و لوازم خانگی است. ساختار MOV عمر بالا، ESR بسیار کم و قابلیت کلمپینگ مناسب را ارائه می‌دهد. مطابق با استانداردهای UL، CSA و VDE ساخته شده و برای محیط‌های صنعتی و مصرفی مقاوم سازی شده است.
+
+مشخصات
+
+ولتاژ وریستور (V₁mA) برابر 210V ±10 %
+بیشینه ولتاژ مجاز پیوسته DC برابر ≈ 150V RMS
+بیشینه ولتاژ کلamping (8/20 µs) برابر ≈300V
+حداکثر جریان surge (8/20 µs) برابر 10A
+ظرفیت تقریبی: 0.25 µF در فرکانس 1kHz
+دمای کاری: 40- °C تا 105+ °C
+
+کاربردهای رایج
+
+این وارستور برای محافظت موثر تجهیزات در برابر ولتاژ ناگهانی طراحی شده و کاربرد گسترده‌ای در صنایع و مصرف‌کننده‌ها دارد، مانند حفاظت از دیود، ترانزیستور، آی‌سی، ترایاک و در اینورترها. مناسب برای نصب بر روی بردهای الکترونیکی برای افزایش پایداری و امنیت عملکرد.
+
+محافظت مدار هنگام نوسانات ولتاژ
+جذب surge در ورودی منابع تغذیه
+جلوگیری از آسیب به نیمه‌هادی‌ها
+انتقال ایمن سیگنال‌های حساس
+کاربرد در لوازم خانگی پرتوان مانند ماشین‌های لباسشویی
+استفاده در تجهیزات صنعتی و فرمان‌دهنده‌ها
+محافظت در اینورترها و UPS
+کاربرد در سیستم‌های اندازه‌گیری حساس
+جلوگیری از نویز و spike در خطوط کنترل
+حفاظت ECU در تجهیزات الکترونیکی خودرو
+
+
+========================================================================================================================
+
+عنوان:
+وریستور ZNR V10621U مارک Matsushita Panasonic
+
+قیمت:
+51,000
+
+توضیحات کوتاه:
+وریستور 620 ولت  کد V10621U مارک Matsushita Panasonic
+
+توضیحات کامل:
+Features
+
+Large withstanding surge current capability in compact sizes
+Large “Energy Handling Capability” absorbing transient overvoltages in compact sizes
+Wide range of varistor voltages
+RoHS compliant
+
+Recommended applications
+
+Transistor, diode, IC, thyristor or triac semiconductor protection
+Surge protection in consumer electronic equipment
+Surge protection in communication, measuring or controller electronics
+Surge protection in electronic home appliances, gas or petroleum appliances
+
+Applicable standards
+
+UL1449 (VZCA2/UL, VZCA8/C-UL)
+VDE IEC61051-1，-2，-2-2，IEC60950-1 Annex.Q, IEC62368-1 G8.1
+CSA C22.2 N 269.5
+CQC (GB/T10193, GB/T10194, GB4943.1)
+

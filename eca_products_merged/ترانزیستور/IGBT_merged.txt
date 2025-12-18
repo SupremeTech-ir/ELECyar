@@ -1,0 +1,807 @@
+عنوان:
+7N60B IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+Manufacturer:IXYS
+
+Product Category:IGBT Transistors
+
+RoHS:RoHS Compliant Details
+
+Configuration:Single
+
+Collector- Emitter Voltage VCEO Max:600 V
+
+Collector-Emitter Saturation Voltage:2 V
+
+Maximum Gate Emitter Voltage:+/- 20 V
+
+Maximum Operating Temperature:+ 150 C
+
+Package / Case:TO-220-3
+
+Packaging:Tube
+
+Brand:IXYS
+
+Continuous Collector Current Ic Max:14 A
+
+Minimum Operating Temperature:- 55 C
+
+Mounting Style:Through Hole
+
+Series:IXGP7N60
+
+Factory Pack Quantity:50
+
+Unit Weight:0.081130 oz
+
+
+========================================================================================================================
+
+عنوان:
+HGT1N40N60 IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+Specification
+
+Mfr: ON Semiconductor
+Configuration: Single
+Vce(on) (Max) @ Vge, Ic: 2.7V @ 15V, 40A
+Input: Standard
+NTC Thermistor: No
+Operating Temperature: -55°C ~ 150°C (TJ)
+Voltage - Collector-Emitter Breakdown (Max): 600V
+Current - Collector (Ic) (Max): 110A
+Power - Max: 298W
+Current - Collector Cutoff (Max): 250µA
+
+
+========================================================================================================================
+
+عنوان:
+HGTG11N120CN IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+Specification
+
+Manufacturer: ON Semiconductor
+Product Category: IGBT Transistors
+RoHS: Details
+Technology: Si
+Package / Case: TO-247-3
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 1200 V
+Collector-Emitter Saturation Voltage: 2.1 V
+Maximum Gate Emitter Voltage: 20 V
+Continuous Collector Current at 25 C: 43 A
+Pd - Power Dissipation: 298 W
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Series: HGTG11N120CN
+Packaging: Tube
+Continuous Collector Current Ic Max: 43 A
+Height: 20.82 mm
+Length: 15.87 mm
+Width: 4.82 mm
+Brand: ON Semiconductor / Fairchild
+Continuous Collector Current: 55 A
+Gate-Emitter Leakage Current: +/- 250 nA
+Product Type: IGBT Transistors
+
+
+========================================================================================================================
+
+عنوان:
+IGBT IRGP4063
+
+قیمت:
+0
+
+توضیحات کامل:
+part number: IRGP4063DPBF
+Configuration:     Single
+Collector- Emitter Voltage VCEO Max:     600 V
+Collector-Emitter Saturation Voltage:     2.14 V
+Maximum Gate Emitter Voltage:     +/- 20 V
+Continuous Collector Current at 25 C:     96 A
+Pd - Power Dissipation:     330 W
+Mounting Style:     Through Hole
+Package / Case:     TO-247-3
+Packaging:     Tube
+Height:     20.7 mm
+Length:     15.87 mm
+Minimum Operating Temperature:     - 55 C
+
+datasheet
+
+
+========================================================================================================================
+
+عنوان:
+IGBT TSG15N120CN 1200V/15A
+
+قیمت:
+0
+
+توضیحات کامل:
+Part Number : TSG15N120CN
+
+Category:
+Discrete Devices
+IGBT
+Discrete IGBT
+Collector Current IC Max. (A):     15
+Collector-Emitter-Voltage VCES Max. (V):     1200
+Description:     1200V, 15A, IGBT
+Fall Time Typ. (ns):     86
+Gate-Emitter-Threshold Voltage Max. (V):     7
+Gate-Emitter-Threshold Voltage Min. (V):     3
+Gate-Emitter-Threshold Voltage Typ. (V):     5
+Package:     TO-3PN
+Status:     Obsolete
+VCE Sat. Typ. (V):     1.9
+With FRD
+
+     DATASHEET
+
+
+========================================================================================================================
+
+عنوان:
+IRG4PC50W IGBT
+
+قیمت:
+0
+
+توضیحات کوتاه:
+IGBT Transistors 600V Warp 60-150kHz
+
+توضیحات کامل:
+part number: IRG4PC50WPBF
+
+Configuration:     Single
+Collector- Emitter Voltage VCEO Max:     600 V
+Collector-Emitter Saturation Voltage:     2.3 V
+Maximum Gate Emitter Voltage:     +/- 20 V
+Continuous Collector Current at 25 C:     55 A
+Continuous Collector Current at 100 C:     27 A
+Pd - Power Dissipation:     200 W
+Mounting Style:     Through Hole
+Package / Case:     TO-247-3
+Packaging:     Tube
+Height:     20.7 mm (Max)
+Length:     15.87 mm (Max)
+Minimum Operating Temperature:     - 55 C
+datasheet
+
+
+========================================================================================================================
+
+عنوان:
+IRG4PH50UDPBF IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+part number: IRG4PH50UDPBF
+Configuration:     Single
+Collector- Emitter Voltage VCEO Max:     1.2 kV
+Collector-Emitter Saturation Voltage:     3.7 V
+Maximum Gate Emitter Voltage:     +/- 20 V
+Continuous Collector Current at 25 C:     45 A
+Pd - Power Dissipation:     200 W
+Mounting Style:     Through Hole
+Package / Case:     TO-247-3
+Maximum Operating Temperature:     + 150 C
+Packaging:     Tube
+Continuous Collector Current Ic Max:     45 A
+Height:     20.3 mm
+Length:     15.9 mm
+Minimum Operating Temperature:     - 55 C
+
+datasheet
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGA25N120 IGBT پکیج TO-3PN
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 25 آمپر مدل FGA25N120 پکیج TO-3PN
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors
+Technology: Si
+Package/Case: TO-3PN
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 1200 V
+Collector-Emitter Saturation Voltage: 2 V
+Maximum Gate Emitter Voltage: - 20 V, 20 V
+Continuous Collector Current at 25 C: 25 A
+Pd - Power Dissipation: 312 W
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGH30N60 IGBT پکیج TO-247
+
+قیمت:
+1,210,000
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 600 ولت 30 آمپر مدل FGH30N60 پکیج TO-247
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors
+Technology: Si
+Package/Case: TO-247
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 600 V
+Collector-Emitter Saturation Voltage: 1.4 V
+Maximum Gate Emitter Voltage: - 20 V, 20 V
+Continuous Collector Current at 25 C: 60 A
+Pd - Power Dissipation: 480 W
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGH60N60 IGBT پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 600 ولت 60 آمپر مدل FGH60N60 پکیج TO-247
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors
+Technology: Si
+Package/Case: TO-247
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 600 V
+Collector-Emitter Saturation Voltage: 1.9 V
+Maximum Gate Emitter Voltage: - 20 V, 20 V
+Continuous Collector Current at 25 C: 60 A
+Pd - Power Dissipation: 600 W
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW25N120VD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 25 آمپر مدل 25N120VD پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW25N120VD
+Type: IGBT
+Marking Code: 25G120VD
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 260
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 25
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.85
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 45
+Collector Capacity (Cc), typ, pF: 105
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW30G120H IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 30 آمپر مدل 30G120H پکیج TO-247 ژاپنی Fuji
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW30G120H
+Type: IGBT
+Marking Code: 30G120H
+Maximum Power Dissipation (Pc), W: 2
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 53
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 15
+Maximum Junction Temperature (Tj), ℃: 150
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW30N60VD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 600 ولت 30 آمپر مدل 30G60VD پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW30N60VD
+Type: IGBT
+Marking Code: 30G60VD
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 230
+Maximum Collector-Emitter Voltage |Vce|, V: 600
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 30
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.6
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 60
+Collector Capacity (Cc), typ, pF: 145
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW40N120HD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 40 آمپر مدل 40G120H پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW40N120HD
+Type: IGBT
+Marking Code: 40G120HD / 40G120H
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 340
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.8
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 60
+Collector Capacity (Cc), typ, pF: 130
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW40N120V IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 40 آمپر مدل 40N120V پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type of Transistor: IGBT
+Marking Code: 40G120VD
+Type Designator: FGW40N120VD(40G120VD)
+Type of IGBT Channel: N-Channel
+Maximum Collector Power Dissipation: 340
+Maximum Collector-Emitter Voltage: 1200
+Maximum Gate-Emitter Voltage: 20
+Collector-Emitter saturation Voltage: 1.85
+Maximum Collector Current: 40
+Maximum Operating Junction Temperature: 175
+Collector Capacitance: 135
+Rise Time: 75
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW40N120W IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 40 آمپر FGW40N120W پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW40N120W
+Type: IGBT
+Marking Code: 40G120W
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 360
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 54
+Collector Capacity (Cc), typ, pF: 110
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور FGW60N65WD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 650 ولت 60 آمپر مدل 60G65WD پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW60N65WD
+Type: IGBT
+Marking Code: 60G65WD
+Maximum Power Dissipation (Pc), W: 230
+Maximum Collector-Emitter Voltage |Vce|, V: 650
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 60
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 15
+Maximum Junction Temperature (Tj), ℃: 150
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور G80N60UFD IGBT پکیج TO-3PN
+
+قیمت:
+1,390,000
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 600 ولت 80 آمپر مدل G80N60UFD پکیج TO-3PN
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors
+Technology: Si
+Package/Case: TO-247
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 600 V
+Collector-Emitter Saturation Voltage: 2.1 V
+Maximum Gate Emitter Voltage: - 20 V, 20 V
+Continuous Collector Current at 25 C: 80 A
+Pd - Power Dissipation: 195 W
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور GT30F126 IGBT پکیج TO-220FP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 330 ولت 200 آمپر IGBT نوع N کانال
+
+توضیحات کامل:
+Specification
+
+Type Designator: GT30F126
+Type: IGBT
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 25
+Maximum Collector-Emitter Voltage |Vce|, V: 330
+Maximum Collector Current |Ic| @25℃, A: 200(pulse)
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.5
+Package: TO220FP
+
+توجه : دارای پایه های قلع اندود میباشد.
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور GT30F131 IGBT پکیج TO-263
+
+قیمت:
+341,000
+
+توضیحات کوتاه:
+ترانزیستور GT30F131 یک IGBT نسل ششم با توان بالا و افت ولتاژ برای درایوهای پلاسما، منابع تغذیه سوئیچینگ و کاربردهای ولتاژ متوسط
+
+توضیحات کامل:
+ترانزیستور GT30F131 از نوع IGBT با فناوری نسل ششم بوده و به‌منظور دستیابی به سرعت سوئیچینگ بالا و کاهش تلفات رسانشی بهینه‌سازی شده است. این قطعه از ترکیب ساختار MOSFET و ترانزیستور دوقطبی برای دستیابی به ولتاژ شکست بالا و جریان زیاد بهره می‌برد. ویژگی مهم آن ولتاژ اشباع پایین (VCE(sat)) برابر با 1.9 V در جریان 120 A است که باعث کاهش چشمگیر تلفات حرارتی در بارهای سنگین می‌شود. همچنین با تحمل جریان لحظه‌ای تا 200 A و توان تلفاتی 26 W در دمای 25°C، عملکرد پایدار در مدارهای سوئیچینگ با چگالی توان بالا را تضمین می‌کند. این مدل در پکیج سطحی TO-263 عرضه شده و برای مونتاژ SMD مناسب است.
+
+مشخصات
+
+ولتاژ کلکتور–امیتر (VCES): 360 V
+جریان کلکتور پیک (Icp): 200 A
+ولتاژ اشباع کلکتور–امیتر (VCE(sat)): 1.9 V @ IC = 120 A
+توان تلفاتی (PC): 26 W @ Tc = 25°C
+نسل فناوری: نسل 6
+نوع پکیج: TO-263 (مشابه TO-220SM(MXN))
+دمای کاری پیوسته: تا 150°C
+
+کاربردهای رایج
+
+ترانزیستور GT30F131 در کاربردهایی که نیاز به سوئیچینگ سریع و جریان بالا دارند مورد استفاده قرار می‌گیرد، به‌ویژه در مدارهای منبع تغذیه تلویزیون‌های پلاسما، ماژول‌های درایور، و مبدل‌های توان با فرکانس متوسط.
+
+پلاسما دیسپلی (PDP)
+منابع تغذیه سوئیچینگ
+درایور ولتاژ بالا
+مبدل‌های DC-DC صنعتی
+اینورترهای ولتاژ متوسط
+سیستم‌های روشنایی پرقدرت
+تجهیزات تست صنعتی
+درایو کنترل توان برای لامپ‌های گازی
+سیستم‌های بازیابی انرژی در پنل‌های PDP
+منابع تغذیه رزونانسی
+
+Specification
+
+Type Designator: GT30F131
+Type: IGBT
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 140
+Maximum Collector-Emitter Voltage |Vce|, V: 360
+Maximum Collector Current |Ic| @25℃, A: 200(pulse)
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.9
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور GT30G124 IGBT پکیج TO-220FP
+
+قیمت:
+490,000
+
+توضیحات کوتاه:
+ترانزیستور قدرت 430 ولت 200 آمپر IGBT نوع N کانال
+
+توضیحات کامل:
+Specification
+
+Type Designator: GT30G124
+Type: IGBT
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 25
+Maximum Collector-Emitter Voltage |Vce|, V: 430
+Maximum Collector Current |Ic| @25℃, A: 200(pulse)
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.5
+Package: TO220FP
+
+توجه : دارای پایه های قلع اندود میباشد.
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور IGBT کد KGT15N120NDH کره ای مارک KEC پکیج TO-3PN - کارکرده
+
+قیمت:
+953,000
+
+توضیحات کوتاه:
+ترانزیستور قدرت 15N120NDH کره ای مارک KEC پکیج TO-3PN - کارکرده و پایه وسط قطع شده
+
+توضیحات کامل:
+Specification
+
+Type Designator: KGT15N120ND
+Type: IGBT
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 190
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 30
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 1.85
+Maximum Junction Temperature (Tj), ℃: 150
+Rise Time (tr), typ, nS: 30
+Collector Capacity (Cc), typ, pF: 60pF
+Package: TO3P(N)E
+
+ این کالا کارکرده و پایه وسط قطع شده است
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور IKW40N120 IGBT پکیج TO-247
+
+قیمت:
+1,250,000
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 80 آمپر IGBT
+
+توضیحات کامل:
+Specification
+
+ Type Designator: IKW40N120
+
+Type: IGBT
+
+Marking Code: K40T120 / 40T120FES
+
+Type of IGBT Channel: N-Channel
+
+Maximum Power Dissipation (Pc), W: 483
+
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+
+Maximum Collector Current |Ic| @25℃, A: 80
+
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.05
+
+Package: TO-247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور IRGP20B120UD IGBT تایوانی مارک INTERNATIONAL RECTIFIER پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 20 آمپر مدل GP20B120 پکیج TO-247 تایوانی INTERNATIONAL RECTIFIER
+
+توضیحات کامل:
+Specification
+
+Type Designator: IRGP20B120UD-E
+Type: IGBT + Anti-Parallel Diode
+Type of IGBT Channel: N
+Maximum Power Dissipation (Pc), W: 300
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 3.05
+Maximum G-E Threshold Voltag |VGE(th)|, V: 6
+Maximum Junction Temperature (Tj), ℃: 150
+Rise Time (tr), typ, nS: 20
+Collector Capacity (Cc), typ, pF: 210
+Total Gate Charge (Qg), typ, nC: 169
+Package: TO247
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور K25T1202 IGBT تایوانی مارک Infineon پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور1200 ولت 25 امپر K25T1202 IGBT تایوانی مارک Infineon پکیج TO-247
+
+توضیحات کامل:
+Specification
+
+roduct Category: IGBT Transistors
+Technology: Si
+Package/Case: TO-3PN
+Mounting Style: Through Hole
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 1200 V
+Collector-Emitter Saturation Voltage: 1.7 V
+Maximum Gate Emitter Voltage: - 20 V, 20 V
+Continuous Collector Current at 25 C: 25 A
+Pd - Power Dissipation: 190 W
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور K40H1203 IGBT پکیج TO-247
+
+قیمت:
+1,130,000
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 1200 ولت 40 آمپر مدل K40H1203 پکیج TO-247
+
+توضیحات کامل:
+Specification
+
+Type Designator: IKW40N120H3
+Type: IGBT
+Marking Code: K40H1203
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 483
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.05
+Package: TO-247
+
+
+========================================================================================================================
+
+عنوان:
+ماژول تریستور قدرت IRKT136/12
+
+قیمت:
+0
+
+توضیحات کوتاه:
+SCR Modules 1200V 135A Doubler Circuit Positive Phase Control Thyristor/Thyristor INT-A-Pak
+
+توضیحات کامل:
+این ماژول تریستور ایتالیایی اصل بوده ولی کارکرده است. کیفیت و عملکرد تست شده و مطمئن می باشد. قیمت کم به دلیل تعداد بالای موجودی می باشد.
+
+Description:
+
+Product Category: SCR Modules
+On-State RMS Current - It RMS: 300 A
+Non Repetitive On-State Current: 3200 A
+Rated Repetitive Off-State Voltage VDRM: 1.2 kV
+Off-State Leakage Current @ VDRM IDRM: 50 mA
+On-State Voltage: 1.55 V
+Holding Current Ih Max: 200 mA
+Gate Trigger Voltage - Vgt: 2.5 V
+Gate Trigger Current - Igt: 150 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Chassis
+Package / Case: INT-A-PAK
+Packaging: Bulk
+Breakover Current IBO Max: 3360 A
+Current Rating: 135 A
+Product: SCR Modules
+Circuit Type: Thyristors / Thyristors
+

@@ -1,0 +1,1791 @@
+عنوان:
+میکروکنترلر GD32F103RET6
+
+قیمت:
+2,880,000
+
+توضیحات کوتاه:
+میکروکنترلر GD32F103RET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 108MHz ساخت شرکت GD
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر GD32F103RET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3  است که با فرکانس حداکثر 108 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه و 64 کیلوبایت حافظه SRAM فراهم می کند. میکروکنترلر GD32F103RET6 دارای حداکثر سه ADC با رزولوشن 12 بیتی، چهار تایمر 16 بیتی، سه SPI، دو I2C، سه USART و یک CAN می باشد.
+
+میکروکنترلر GD32F103RET6 دارای ولتاژ کاری 2.6 تا 3.6 ولت بوده و در محدود دمایی -48 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+دارای هسته 32 بیتی ARM Cortex M3
+
+حافظه FLASH میکرو : 512 کیلوبایت
+
+حافظه SRAM میکرو : 64 کیلو بایت
+
+دارای 4 تایمر 16 بیتی
+
+تعداد پین های GPIO میکرو : 51
+
+ماکزیمم سرعت: 108Mhz
+
+دارای ADC با رزولوشن 12 بیت
+
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+
+.است STM32F103RET6 امکانات میکروکنترلر و پایه ها دقیقا مشابه
+
+لازم به ذکر است که میکروکنترلر از نظر کارایی بانسخه شرکت STM هیچ تفاوتی نداشته و تمامی کامپایلرها و برنامه های نسخه STM بر روی این میکروکنترلر نیز قابل اجرا می باشد.
+
+Introduction
+
+GD32® is a new 32-bit high performance, low power consumption universal microcontroller family powered by the ARM® Cortex®-M3 RISC core, which targeted at various MCU application areas. GD32® family integrates features to simplify system design and provide customers wide range of comprehensive and superior cost effective MCU portfolios with proven technology and great innovation. Building on GigaDevice advanced patented "gFlash" memory technology and mass production experiences, it provides new form of MCUs which offers customer high functionality and quality. GD32® family includes entry line, performance line and connectivity line currently.
+
+GD32® MCU incorporates the 32-bit ARM® Cortex®-M3 processor core operating at 108 MHz max frequency with Flash accesses zero wait states to obtain maximum efficiency. It provides up to 3024 KB on-chip Flash memory and up to 96 KB SRAM memory. An extensive range of enhanced I/Os and peripherals connected to two APB buses.  The device offers up to three 12-bit 1MSPS ADCs, up to ten general-purpose 16-bit timers plus one PWM advanced timer, as well as standard and advanced communication interfaces: up to three SPIs, two I2Cs, five USARTs, an USB 2.0 OTG FS and two CANs. The device operates from a 2.6 to 3.6 V power supply and available in -40 to +85°C temperature range. Three power saving modes provides the flexibility for maximum optimization between wakeup latency and power consumption, an especially important consideration in low power applications.
+
+GD32® series MCUs also bring much advantage to the end-user. The max speed of GD32® MCU has increased 50% than the market competing products. Code execution efficiency of the same frequency has enhanced 30%-40%. Current consumption of the same frequency has reduced 20%-30%. These performances provide maximum capability and bandwidth options for various market requirements.
+
+The above features make the GD32® MCUs suitable for a wide range of applications. It is ideal for use in industrial control, user interface, motor drives, power monitor and alarm systems, consumer and handheld equipment, solar photovoltaic control, touch panel, PC peripherals and so on
+
+Specification
+
+Speed and Memory
+Maximum Speed Up to 108MHz
+Flash Memory 512K
+RAM 64K
+PSRAM -
+
+Connectivity
+USART 5x
+I2C 2x
+SPI 3x
+CAN 1x
+I2S 2x
+SDIO 1x
+
+Analog Interface
+12bit ADC 3 Units
+12bit ADC 16 Channels
+12bit DAC 2 Units
+
+Packages  LQFP64
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F030C8T6
+
+قیمت:
+646,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F030C8T6 با هسته ARM Cortex M0 با حافظه 64KB و فرکانس کاری 48MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F030C8T6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 48 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F030C8T6 دارای 39 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F030C8T6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 48 Mhz
+حافظه: 64 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 39
+ماکزیمم سرعت: 48Mhz
+پکیج : 48-LQFP
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Product Attribute Attribute Value Search Similar
+
+Manufacturer: STMicroelectronics
+
+Series: STM32F0
+
+Core Processor: ARM® Cortex®-M0
+
+Core Size: 32-Bit
+
+Speed: 48MHz
+
+Connectivity: I²C, SPI, UART/USART
+
+Peripherals: DMA, POR, PWM, WDT
+
+Number of I/O: 39
+
+Program Memory Size: 64KB (64K x 8)
+
+Voltage - Supply (Vcc/Vdd): 2.4V ~ 3.6V
+
+Operating Temperature: -40°C ~ 85°C (TA)
+
+Package / Case: 48-LQFP
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F030F4P6
+
+قیمت:
+449,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F030F4P6 با هسته ARM Cortex M0 با حافظه 16KB و فرکانس کاری 48MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F030F4P6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 48 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F030F4P6 دارای 15 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F030F4P6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 48 Mhz
+حافظه: 16 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 15
+پکیج : TSSOP-20
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F030F4P6 microcontroller has a 32-bit ARM Cortex M0 processor core made by STMicroelectronics and operates at a frequency of 48 MHz. This microcontroller provides 16 KB of FLASH memory on the chip. The STM32F030F4P6 microcontroller has 15 input / output pins and communication protocols: I2C, SPI UART / USART.
+The STM32F030F4P6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Series: STM32F0
+Core Processor: ARM® Cortex®-M0
+Flash Memory Size: 16 kB
+Frequency: 48 MHz
+Interface: I2C, SPI, UART, USART
+Operating Temperature: -40 85 °C
+Supply Voltage 2.4 V - 3.6 V
+Package: TSSOP-20
+I/O pins: 15
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F030K6T6
+
+قیمت:
+529,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F030K6T6 با هسته ARM Cortex M0 با حافظه 32KB و فرکانس کاری 48MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F030K6T6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 48 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F030K6T6 دارای 15 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F030K6T6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 48 Mhz
+حافظه: 32 kB
+تعداد پین ها ورودی/خروجی : 26
+پکیج :  LQFP-32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F030F4P6 microcontroller has a 32-bit ARM Cortex M0 processor core made by STMicroelectronics and operates at a frequency of 48 MHz. This microcontroller provides 32KB of FLASH memory on the chip. The STM32F030F4P6 microcontroller has 26 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM32F030F4P6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-32
+Series: STM32F030K6
+Core: ARM Cortex M0
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 48 MHz
+Program Memory Size: 32 kB
+Data RAM Size: 4 kB
+ADC Resolution: 12 bit
+Number of I/Os: 26
+Operating Supply Voltage: 2.4 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Product: MCU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: I2C, SPI, USART
+I/O Voltage: 2.4 V to 3.6 V
+Moisture Sensitive: Yes
+Number of ADC Channels: 12 Channel
+Processor Series: STM32F030
+Product Type: ARM Microcontrollers - MCU
+Factory Pack Quantity: 1500
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2.4 V
+Watchdog Timers: Watchdog Timer, Windowed
+Unit Weight: 0.028219 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F051C8T6
+
+قیمت:
+1,290,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F051C8T6 معماری ARM Cortex M0 مقدار 64 کیلوبایت حافظه  flash و 8 کیلوبایت RAM و فرکانس 48 مگاهرتز با پکیج LQFP-48
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F051C8T6 دارای پردازنده 32 بیتی و معماری ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 64 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F429ZGT6 دارای 39 پین ورودی/خروجی می باشد.
+
+میکروکنترلر STM32F051C8   دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی 40- تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F051C8
+دارای هسته 32 بیتی ARM Cortex M0
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 48Mhz
+حافظه فلش : 64 کیلوبایت
+تعداد پین ها ورودی/خروجی : 17
+پکیج : LQFP-48
+دمای کاری : 40- تا 85+ درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+Series: STM32F051C8
+Mounting Style: SMD/SMT
+Package / Case: LQFP-48
+Core: ARM Cortex M0
+Program Memory Size: 64 kB
+Data Bus Width: 32 bit
+ADC Resolution: 12 bit
+Maximum Clock Frequency: 48 MHz
+Number of I/Os: 39 I/O
+Data RAM Size: 8 kB
+Supply Voltage - Min: 2 V
+Supply Voltage - Max: 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Moisture Sensitive: Yes
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Program Memory Type: Flash
+Subcategory: Microcontrollers - MCU
+Tradename: STM32
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F100C8T6B
+
+قیمت:
+4,040,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F100C8T6B با هسته ARM Cortex M3 با حافظه 64KB و فرکانس کاری 24MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر  STM32F100C8T6B دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 24 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر  STM32F100C8T6B دارای 37 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F100C8T6B دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F0
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 24 Mhz
+حافظه: 64 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 37
+ماکزیمم سرعت: 48Mhz
+پکیج : 48-LQFP
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer:     STMicroelectronics
+Product Category:     ARM Microcontrollers - MCU
+RoHS:     RoHS Compliant Details
+Core:     ARM Cortex M3
+Data Bus Width:     32 bit
+Maximum Clock Frequency:     24 MHz
+Program Memory Size:     64 kB
+Data RAM Size:     8 kB
+Brand:     STMicroelectronics
+ADC Resolution:     12 bit
+Operating Supply Voltage:     2 V to 3.6 V
+Maximum Operating Temperature:     + 85 C
+Package / Case:     LQFP-48
+Mounting Style:     SMD/SMT
+Data RAM Type:     SRAM
+Interface Type:     I2C, SPI, USART
+Minimum Operating Temperature:     - 40 C
+Number of ADC Channels:     10
+Number of I/Os:     37 I/O
+Packaging:     Tray
+Processor Series:     ARM Cortex-M
+Program Memory Type:     Flash
+Series:     STM32F1
+Factory Pack Quantity:     250
+Tradename:     STM32
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F101CBT6
+
+قیمت:
+2,330,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F101CBT6 با هسته ARM Cortex M3 با حافظه 128KB و فرکانس کاری 36MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F101CBT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 36 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F101CBT6 دارای 37 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F101CBT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F101CB
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 36 Mhz
+حافظه: 128 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 37
+ماکزیمم سرعت: 48Mhz
+پکیج : LQFP-48
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Series: STM32F101CB
+Mounting Style: SMD/SMT
+Package / Case: LQFP-48
+Core: ARM Cortex M3
+Program Memory Size: 128 kB
+Data Bus Width: 32 bit
+ADC Resolution: 12 bit
+Maximum Clock Frequency: 36 MHz
+Number of I/Os: 37 I/O
+Data RAM Size: 16 kB
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1.4 mm
+Length: 7 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 7 mm
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: I2C, SPI, USART
+Moisture Sensitive: Yes
+Number of ADC Channels: 10 Channel
+Number of Timers/Counters: 3 Timer
+Processor Series: ARM Cortex M
+Product Type:  ARM Microcontrollers - MCU
+Subcategory:  Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2 V
+Tradename: STM32
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103C8T6
+
+قیمت:
+957,000
+
+توضیحات کوتاه:
+میکروکنترلر 32 بیتی STM32F103C8T6 از خانواده‌ی ARM Cortex-M3 با سرعت 72MHz، حافظه فلش 64KB و SRAM بیست کیلوبایتی، مناسب برای کاربردهای صنعتی و کنترلی دقیق
+
+توضیحات کامل:
+STM32F103C8T6 یکی از محبوب‌ترین میکروکنترلرهای خانواده STM32F1 ساخت شرکت STMicroelectronics است که بر پایه هسته ARM Cortex-M3 طراحی شده و توان پردازشی بالایی در کنار مصرف توان پایین ارائه می‌دهد. این تراشه دارای فلش داخلی 64KB برای ذخیره برنامه و SRAM با ظرفیت 20KB است. همچنین از مجموعه گسترده‌ای از واسط‌های ارتباطی از جمله USB 2.0 Full-Speed، CAN 2.0B، سه USART، دو SPI و دو I2C پشتیبانی می‌کند. وجود دو مبدل آنالوگ به دیجیتال (ADC) با دقت 12 بیت و تا 16 کانال، قابلیت کنترل دقیق سیگنال‌ها را فراهم می‌سازد. میکروکنترلر در بازه ولتاژ کاری 2.0 تا 3.6 ولت و فرکانس کاری تا 72MHz عمل کرده و شامل هفت تایمر سخت‌افزاری با قابلیت PWM، Watchdog و زمان‌سنج سیستم است. طراحی آن در پکیج LQFP48 با ابعاد 7×7 میلی‌متر، امکان استفاده در مدارهای فشرده و حرفه‌ای را می‌دهد.
+
+مشخصات
+
+ولتاژ کاری: 2.0 تا 3.6 ولت
+فرکانس کاری: تا 72MHz
+حافظه فلش: 64KB
+حافظه SRAM: 20KB
+تعداد تایمرها: 7 عدد
+ADC: دو عدد 12 بیتی با حداکثر 16 کانال
+رابط‌های ارتباطی: 2×I2C، 2×SPI، 3×USART، 1×CAN، 1×USB Full-Speed
+تعداد پایه‌های ورودی/خروجی: 37 پایه (قابل نگاشت و 5V tolerant)
+پکیج: LQFP48 با ابعاد 7×7mm
+دمای کاری: منفی 40 تا مثبت 85 درجه سانتی‌گراد (تا 105°C در نسخه Extended)
+
+کاربردهای رایج
+
+به دلیل ترکیب توان پردازشی بالا، امکانات متنوع و هزینه مناسب، میکروکنترلر STM32F103C8T6 در بسیاری از پروژه‌های صنعتی و الکترونیکی مورد استفاده قرار می‌گیرد. این تراشه در کنترل موتور، رباتیک، سیستم‌های هوشمند خانگی، تجهیزات پزشکی، ابزارهای قابل حمل، PLC و سامانه‌های اندازه‌گیری دقیق کاربرد دارد.
+
+کنترلرهای موتور DC و سروو
+سیستم‌های رباتیک و اتوماسیون صنعتی
+تجهیزات پزشکی و ابزار دقیق
+سیستم‌های امنیتی و هشداردهنده
+کنترل هوشمند ساختمان (BMS)
+بردهای آموزشی و توسعه مانند Blue Pill
+دستگاه‌های قابل‌حمل و GPS
+سیستم‌های ارتباطی مبتنی بر CAN
+چاپگر و اسکنر صنعتی
+تجهیزات اندازه‌گیری و سنجش محیطی
+
+Introduction
+
+The STM32F103C8T6 microcontroller has a 32-bit ARM Cortex M3 processor core made by STMicroelectronics and operates at a frequency of 72 MHz. This microcontroller provides 64KB of FLASH memory on the chip. The STM32F103C8T6 microcontroller has 37 input / output pins and communication protocols: I2C, SPI UART / USART. The STM32F103C8T6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-48
+Series: STM32F103C8
+Core: ARM Cortex M3
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 72 MHz
+Program Memory Size: 64 kB
+Data RAM Size: 20 kB
+ADC Resolution: 12 bit
+Number of I/Os: 37 I/O
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1.4 mm
+Length: 7 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 7 mm
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SPI, USART, USB
+Moisture Sensitive: Yes
+Number of ADC Channels: 10
+Number of Timers/Counters: 3 Timer
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2 V
+Tradename: STM32
+Unit Weight: 0.006349 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103CBT6
+
+قیمت:
+1,237,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103CBT6 با هسته ARM Cortex M3 با حافظه 128KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F103CBT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103CBT6 دارای 37 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F103CBT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F101CB
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 128 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 37
+پکیج : LQFP-48
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-48
+Series: STM32F103CB
+Core: ARM Cortex M3
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 72 MHz
+Program Memory Size: 128 kB
+Data RAM Size: 20 kB
+ADC Resolution: 12 bit
+Number of I/Os: 37 I/O
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1.4 mm
+Length: 7 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 7 mm
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SPI, USART, USB
+Moisture Sensitive: Yes
+Number of ADC Channels: 10
+Number of Timers/Counters: 4 Timer
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Factory Pack Quantity: 1500
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2 V
+Tradename: STM32
+Unit Weight: 0.006409 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103RCT6
+
+قیمت:
+1,630,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103RCT6 با هسته ARM Cortex M3 با حافظه 256KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F103RCT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103RCT6 دارای 51 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F103RCT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F1
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 256 kB
+پکیج : LQFP-64
+تعداد پین ها ورودی/خروجی : 51
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F103RCT6 microcontroller has a 32-bit ARM Cortex M3 processor core made by STMicroelectronics and operates at a frequency of 72 MHz. This microcontroller provides 256KB of FLASH memory on the chip. The STM32F103RCT6 microcontroller has 51 input / output pins and communication protocols: I2C, SPI UART / USART.
+The STM32F103RCT6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer STMicroelectronics
+Product Category ARM Microcontrollers - MCU
+Core ARM Cortex M3
+Data Bus Width 32 bit
+Maximum Clock Frequency 72 MHz
+Program Memory Size 256 kB
+Data RAM Size 48 kB
+A/D Channels Available 16
+A/D Bit Size 12 bit
+Operating Supply Voltage 2 V to 3.6 V
+Maximum Operating Temperature + 85 C
+Package / Case LQFP-64
+Mounting Style SMD/SMT
+Brand STMicroelectronics
+Data RAM Type SRAM
+Interface Type CAN, I2C, SPI, USART, USB
+Length 10 mm
+Minimum Operating Temperature - 40 C
+Number of I/Os 51 I/O
+Number of Timers 8 Timer
+On-Chip DAC With DAC
+Packaging Tray
+Processor Series ARM Cortex-M
+Program Memory Type Flash
+Series STM32F1
+Factory Pack Quantity 160
+Tradename STM32
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103RET6
+
+قیمت:
+2,700,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103RET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F103RET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103RET6 دارای 51 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F103RET6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F1
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 512 kB
+پکیج : LQFP-64
+تعداد پین ها ورودی/خروجی : 51
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F103RET6 microcontroller has a 32-bit ARM Cortex M3 processor core made by STMicroelectronics and operates at a frequency of 72 MHz. This microcontroller provides 512KB of FLASH memory on the chip. The STM32F103RET6 microcontroller has 51 input / output pins and communication protocols: I2C, SPI UART / USART.
+The STM32F103RET6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Series: STM32F1
+Mounting Style: SMD/SMT
+Package / Case: LQFP-64
+Core: ARM Cortex M3
+Program Memory Size: 512 kB
+Data Bus Width: 32 bit
+ADC Resolution: 12 bit
+Maximum Clock Frequency: 72 MHz
+Number of I/Os: 51
+Data RAM Size: 64 kB
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Data RAM Type: SRAM
+Height: 1.4 mm
+Interface Type: CAN, I2C, SPI, USART, USB
+Length: 10 mm
+Moisture Sensitive: Yes
+Number of ADC Channels: 16 Channel
+Number of Timers/Counters: 8 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103VCT6
+
+قیمت:
+1,880,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103VCT6 با هسته ARM Cortex M3 با حافظه 256KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F103VCT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103VCT6 دارای 80 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F103VCT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F103VC
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 256 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 80
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-100
+Series: STM32F103VC
+Core: ARM Cortex M3
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 72 MHz
+Program Memory Size: 256 kB
+Data RAM Size: 48 kB
+ADC Resolution: 12 bit
+Number of I/Os: 80 I/O
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1.4 mm
+Length: 14 mm
+Program Memory Type: Flash
+Width: 14 mm
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SPI, USART, USB
+Moisture Sensitive: Yes
+Number of ADC Channels: 16
+Number of Timers/Counters: 8 Timer
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Factory Pack Quantity: 540
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2 V
+Tradename: STM32
+Unit Weight: 0.046530 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103VET6
+
+قیمت:
+2,357,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103VET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F103VET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103VET6 دارای 80 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F103VET6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F103VE
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 512 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 80
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+Manufacturer STMicroelectronics
+Type of integrated circuit ARM microcontroller
+Flash memory capacity 512kB
+Clock frequency 72MHz
+Mounting SMD
+Number of inputs/outputs 80
+SRAM memory capacity 64kB
+Case LQFP100
+Supply voltage 2...3.6V DC
+Number of 16bit timers 8
+Kind of architecture Cortex M3
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F103ZET6
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103ZET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F103ZET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103ZET6 دارای 112 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F103ZET6 دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F103ZE
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 512 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 112
+پکیج : LQFP-144
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+Series: STM32F103ZE
+Mounting Style: SMD/SMT
+Package / Case: LQFP-144
+Core: ARM Cortex M3
+Program Memory Size: 512 kB
+Data Bus Width: 32 bit
+ADC Resolution: 12 bit
+Maximum Clock Frequency: 72 MHz
+Number of I/Os: 112 I/O
+Data RAM Size: 64 kB
+Supply Voltage - Min: 2 V
+Supply Voltage - Max: 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Data RAM Type: SRAM
+Height: 1.4 mm
+Interface Type: CAN, I2C, SPI, USART, USB
+Length: 20 mm
+Width: 20 mm
+Moisture Sensitive: Yes
+Number of ADC Channels: 16 Channel
+Number of Timers/Counters: 8 Timer
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Program Memory Type: Flash
+Subcategory: Microcontrollers - MCU
+Tradename: STM32
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F105R8T6
+
+قیمت:
+12,300,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F105R8T6 با هسته ARM Cortex M3 با حافظه 64KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F105R8T6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F105R8T6 دارای 51 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F105R8T6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F105R8
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 64 کیلو بایت
+دارای 10 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 51
+پکیج : LQFP-64
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-64
+Series: STM32F105R8
+Core: ARM Cortex M3
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 72 MHz
+Program Memory Size: 64 kB
+Data RAM Size: 64 kB
+ADC Resolution: 12 bit
+Number of I/Os: 51 I/O
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1.4 mm
+Length: 10 mm
+Program Memory Type: Flash
+Width: 10 mm
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SPI, USART
+Moisture Sensitive: Yes
+Number of ADC Channels: 16
+Number of Timers/Counters: 10 Timer
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2 V
+Tradename: STM32
+Unit Weight: 0.012088 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F105RBT6
+
+قیمت:
+2,040,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F105RBT6 با هسته ARM Cortex M3 با حافظه 128KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F105RBT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F105RBT6 دارای 51 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F105RBT6 دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F1
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 128 kB
+پکیج : LQFP-64
+تعداد پین ها ورودی/خروجی : 51
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F105RBT6 microcontroller has a 32-bit ARM Cortex M3 processor core made by STMicroelectronics and operates at a frequency of 72 MHz. This microcontroller provides 256KB of FLASH memory on the chip. The STM32F105RBT6 microcontroller has 51 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM32F105RBT6 microcontroller has a working voltage of 2 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Series: STM32F1
+Mounting Style: SMD/SMT
+Package / Case: LQFP-64
+Core: ARM Cortex M3
+Program Memory Size: 128 kB
+Data Bus Width: 32 bit
+ADC Resolution: 12 bit
+Maximum Clock Frequency:72 MHz
+Number of I/Os: 51
+Data RAM Size: 64 kB
+Operating Supply Voltage:2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Data RAM Type:SRAM
+Height: 1.4 mm
+Interface Type: CAN, I2C, SPI, USART
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F107RCT6
+
+قیمت:
+3,637,000
+
+توضیحات کوتاه:
+ میکروکنترلر STM32F107RCT6 با هسته ARM Cortex M3 با حافظه 256KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F107RCT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F107RCT6 دارای 51 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F107RCT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F1
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 256 kB
+پکیج : LQFP-64
+تعداد پین ها ورودی/خروجی : 51
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F107RCT6 microcontroller has a 32-bit ARM Cortex M3 processor core made by STMicroelectronics and operates at a frequency of 72 MHz. This microcontroller provides 256KB of FLASH memory on the chip. The STM32F107RCT6 microcontroller has 51 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM32F107RCT6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-64
+Series: STM32F107RC
+Core: ARM Cortex M3
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 72 MHz
+Program Memory Size: 256 kB
+Data RAM Size: 64 kB
+ADC Resolution: 12 bit
+Number of I/Os: 51 I/O
+Operating Supply Voltage: 2 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1.4 mm
+Length: 10 mm
+Program Memory Type: Flash
+Width: 10 mm
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SPI, USART
+Moisture Sensitive: Yes
+Number of ADC Channels: 16
+Number of Timers/Counters: 10 Timer
+Processor Series: ARM Cortex M
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2 V
+Tradename: STM32
+Unit Weight: 0.012088 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F107VCT6
+
+قیمت:
+3,130,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F107VCT6 با هسته ARM Cortex M3 با حافظه 256KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F107VCT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F107VCT6 دارای 80 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F107VCT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F107VC
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 256 کیلو بایت
+دارای 10 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 80
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+STM32F107VC
+Mainstream Connectivity line, ARM Cortex-M3 MCU with 256 Kbytes Flash, 72 MHz CPU, Ethernet MAC, CAN and USB 2.0 OTG
+
+    Core: ARM 32-bit Cortex™-M3 CPU
+    72 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+    Single-cycle multiplication and hardware division
+    Memories
+    64 to 256 Kbytes of Flash memory
+    64 Kbytes of general-purpose SRAM
+    Clock, reset and supply management
+    2.0 to 3.6 V application supply and I/Os
+    POR, PDR, and programmable voltage detector (PVD)
+    3-to-25 MHz crystal oscillator
+    Internal 8 MHz factory-trimmed RC
+    Internal 40 kHz RC with calibration
+    32 kHz oscillator for RTC with calibration
+    Low power
+    Sleep, Stop and Standby modes
+    VBAT supply for RTC and backup registers
+    2 × 12-bit, 1 μs A/D converters (16 channels)
+    Conversion range: 0 to 3.6 V
+    Sample and hold capability
+    Temperature sensor
+    up to 2 MSPS in interleaved mode
+    2 × 12-bit D/A converters
+    DMA: 12-channel DMA controller
+    Supported peripherals: timers, ADCs, DAC, I2Ss, SPIs, I2Cs and USARTs
+    Debug mode
+    Serial wire debug (SWD) & JTAG interfaces
+    Cortex-M3 Embedded Trace Macrocell™
+    Up to 80 fast I/O ports
+    51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+    CRC calculation unit, 96-bit unique ID
+    Up to 10 timers with pinout remap capability
+    Up to four 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+    1 × 16-bit motor control PWM timer with dead-time generation and emergency stop
+    2 × watchdog timers (Independent and Window)
+    SysTick timer: a 24-bit downcounter
+    2 × 16-bit basic timers to drive the DAC
+    Up to 14 communication interfaces with pinout remap capability
+    Up to 2 × I2C interfaces (SMBus/PMBus)
+    Up to 5 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+    Up to 3 SPIs (18 Mbit/s), 2 with a multiplexed I2S interface that offers audio class accuracy via advanced PLL schemes
+    2 × CAN interfaces (2.0B Active) with 512 bytes of dedicated SRAM
+    USB 2.0 full-speed device/host/OTG controller with on-chip PHY that supports HNP/SRP/ID with 1.25 Kbytes of dedicated SRAM
+    10/100 Ethernet MAC with dedicated DMA and SRAM (4 Kbytes): IEEE1588 hardware support, MII/RMII available on all packages
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F407IGT6
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر STM32F407IGT6 با هسته ARM Cortex M4 با حافظه 1MB و فرکانس کاری 168MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F407IGT6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 168 مگاهرتز کار می کند. این میکروکنترلر 1 مگابایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F407IGT6 دارای 140 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F407IGT6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F407IG
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 168 Mhz
+حافظه: 1 مگابایت
+دارای 10 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 140
+پکیج : LQFP-176
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-176
+Series: STM32F407IG
+Core: ARM Cortex M4
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 168 MHz
+Program Memory Size: 1024 kB
+Data RAM Size: 192 kB
+ADC Resolution: 12 bit
+Number of I/Os: 140 I/O
+Operating Supply Voltage: 1.8 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product: MCU+FPU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SDIO, I2S / SPI, UART / USART, USB
+DAC Resolution: 12 bit
+Moisture Sensitive: Yes
+Number of ADC Channels: 24 Channel
+Processor Series: STM32F40
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.8 V
+Watchdog Timers: Watchdog Timer, Windowed
+Unit Weight: 0.067010 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F407VET6
+
+قیمت:
+8,850,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F407VET6 با هسته ARM Cortex M4 با حافظه 512KB و فرکانس کاری 168MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F407VET6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 168 مگاهرتز کار می کند. این میکروکنترلر 512 کیلو بایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F407VET6 دارای 82 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F407VET6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F407VE
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 168 Mhz
+حافظه: 512 کیلوبایت
+تعداد پین ها ورودی/خروجی : 82
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-100
+Series: STM32F407VE
+Core: ARM Cortex M4
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 168 MHz
+Program Memory Size: 512 kB
+Data RAM Size: 192 kB
+ADC Resolution: 12 bit
+Number of I/Os: 82 I/O
+Operating Supply Voltage: 1.8 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product: MCU+FPU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SDIO, I2S / SPI, UART / USART, USB
+DAC Resolution: 12 bit
+Moisture Sensitive: Yes
+Number of ADC Channels: 16 Channel
+Processor Series: STM32F40
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.8 V
+Watchdog Timers: Watchdog Timer, Windowed
+Unit Weight: 0.046530 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F407VGT6
+
+قیمت:
+3,688,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F407VGT6 با هسته ARM Cortex M4 با حافظه 1MB و فرکانس کاری 168MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F407VGT6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 168 مگاهرتز کار می کند. این میکروکنترلر 1 مگا بایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F407VGT6 دارای 82 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر STM32F407VGT6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F407VG
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 168 Mhz
+حافظه: 1 مگابایت
+تعداد پین ها ورودی/خروجی : 82
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-100
+Series: STM32F407VG
+Core: ARM Cortex M4
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 168 MHz
+Program Memory Size: 1024 kB
+Data RAM Size: 192 kB
+ADC Resolution: 12 bit
+Number of I/Os: 82 I/O
+Operating Supply Voltage: 1.8 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product: MCU+FPU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SDIO, I2S / SPI, UART / USART, USB
+DAC Resolution: 12 bit
+Moisture Sensitive: Yes
+Number of ADC Channels: 16 Channel
+Processor Series: STM32F40
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.8 V
+Watchdog Timers: Watchdog Timer, Windowed
+Unit Weight: 0.045856 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F407ZET6
+
+قیمت:
+4,360,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F407VET6 با هسته ARM Cortex M4 با حافظه 512KB و فرکانس کاری 168MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F407ZET6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 168 مگاهرتز کار می کند. این میکروکنترلر 512 کیلو بایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F407ZET6 دارای 114 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F407ZET6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F407ZE
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 168 Mhz
+حافظه: 512 کیلوبایت
+تعداد پین ها ورودی/خروجی : 114
+پکیج : LQFP-144
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-144
+Series: STM32F407ZE
+Core: ARM Cortex M4
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 168 MHz
+Program Memory Size: 512 kB
+Data RAM Size: 192 kB
+ADC Resolution: 12 bit
+Number of I/Os: 114 I/O
+Operating Supply Voltage: 1.8 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product: MCU+FPU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SDIO, I2S / SPI, UART / USART, USB
+DAC Resolution: 12 bit
+Moisture Sensitive: Yes
+Number of ADC Channels: 24 Channel
+Processor Series: STM32F40
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.8 V
+Watchdog Timers: Watchdog Timer, Windowed
+Unit Weight: 0.045518 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F407ZGT6
+
+قیمت:
+4,089,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F407ZGT6 با هسته ARM Cortex M4 با حافظه 1MB و فرکانس کاری 168MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F407ZGT6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 168 مگاهرتز کار می کند. این میکروکنترلر 1 مگا بایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F407ZGT6 دارای 114 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F407ZGT6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F407ZG
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 168 Mhz
+حافظه: 1 مگابایت
+تعداد پین ها ورودی/خروجی : 114
+پکیج : LQFP-144
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-144
+Series: STM32F407ZG
+Core: ARM Cortex M4
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 168 MHz
+Program Memory Size: 1024 kB
+Data RAM Size: 192 kB
+ADC Resolution: 12 bit
+Number of I/Os: 114 I/O
+Operating Supply Voltage: 1.8 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product: MCU+FPU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SDIO, I2S / SPI, UART / USART, USB
+DAC Resolution: 12 bit
+Moisture Sensitive: Yes
+Number of ADC Channels: 24 Channel
+Processor Series: STM32F40
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.8 V
+Watchdog Timers: Watchdog Timer, Windowed
+Unit Weight: 0.045518 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32F429ZGT6
+
+قیمت:
+5,641,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F429ZGT6 با هسته ARM Cortex M4 با حافظه 1MB و فرکانس کاری 180MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F429ZGT6 دارای هسته پردازنده 32 بیتی ARM Cortex M4 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 180 مگاهرتز کار می کند. این میکروکنترلر 1 مگا بایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F429ZGT6 دارای 114 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F429ZGT6 دارای ولتاژ کاری 1.8 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F429ZG
+دارای هسته 32 بیتی ARM Cortex M4
+ولتاژ کاری : 1.8 ولت تا 3.6 ولت
+سرعت: 180 Mhz
+حافظه: 1 مگابایت
+تعداد پین ها ورودی/خروجی : 114
+پکیج : LQFP-144
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-144
+Series: STM32F429ZG
+Core: ARM Cortex M4
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 180 MHz
+Program Memory Size: 1024 kB
+Data RAM Size: 260 kB
+ADC Resolution: 12 bit
+Number of I/Os: 114 I/O
+Operating Supply Voltage: 1.7 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Product: MCU+FPU
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: SRAM
+Interface Type: CAN, I2C, SAI, SPI, UART/USART, USB
+Analog Supply Voltage: 1.7 V to 3.6 V
+DAC Resolution: 12 bit
+Moisture Sensitive: Yes
+Number of ADC Channels: 24 Channel
+Number of Timers/Counters: 14 Timer
+Processor Series: STM32F429
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.7 V
+Tradename: STM32
+Watchdog Timers: Watchdog Timer
+Unit Weight: 0.045518 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32G030C8T6
+
+قیمت:
+803,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32G030C8T6 با هسته +ARM Cortex M0 با حافظه 64KB و فرکانس کاری 64MHz ساخت شرکت ST
+
+توضیحات کامل:
+میکروکنترلر STM32G030C8T6 دارای هسته پردازنده 32 بیتی ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 64 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32G030C8T6 دارای 40 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32G030C8T6 دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32G030C8T6
+دارای هسته 32 بیتی +ARM Cortex M0
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 64Mhz
+حافظه فلش : 64 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 44
+پکیج : LQFP-48
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer STMicroelectronics
+Type of integrated circuit ARM microcontroller
+Flash memory capacity 64kB
+Clock frequency 64MHz
+Mounting SMD
+Number of inputs/outputs 44
+SRAM memory capacity 8kB
+Case LQFP-48
+Supply voltage 2...3.6V DC
+Number of 16bit timers 8
+Kind of architecture Cortex M0+
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM32G030K6T6
+
+قیمت:
+829,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32G030K6T6 با هسته +ARM Cortex M0 با حافظه 32KB و فرکانس کاری 64MHz ساخت شرکت ST
+
+توضیحات کامل:
+میکروکنترلر STM32G030K6T6 دارای هسته پردازنده 32 بیتی +ARM Cortex M0 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 64 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32G030K6T6 دارای 29 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32G030K6T6   دارای ولتاژ کاری 2 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32G030K6T6
+دارای هسته 32 بیتی +ARM Cortex M0
+ولتاژ کاری : 2 ولت تا 3.6 ولت
+سرعت: 64 Mhz
+حافظه: 32 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 29
+پکیج : LQFP-32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer STMicroelectronics
+Type of integrated circuit ARM microcontroller
+Flash memory capacity 32kB
+Clock frequency 64MHz
+Mounting SMD
+Number of inputs/outputs 29
+SRAM memory capacity 8kB
+Case LQFP-32
+Supply voltage 2-3.6V DC
+Number of 16bit timers 8
+Kind of architecture Cortex M0+
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM8S003F3P6
+
+قیمت:
+237,000
+
+توضیحات کوتاه:
+میکروکنترلر STM8S003F3P6 با هسته STM8 با حافظه 8KB و فرکانس کاری 16MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM8S003F3P6 دارای هسته پردازنده 8 بیتی STM8 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM8S003F3P6 دارای 16 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM8S003F3P6 دارای ولتاژ کاری 2.95 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+دارای هسته 8 بیتی STM8
+ولتاژ کاری : 2.95 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 8 kB
+پکیج : TSSOP-20
+تعداد پین ها ورودی/خروجی : 16
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM8S003F3P6 microcontroller has an 8-bit STM8 processor core made by STMicroelectronics and operates at a frequency of 16 MHz. This microcontroller provides 8 KB of FLASH memory on the chip. The STM8S003F3P6 microcontroller has 16 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM8S003F3P6 microcontroller has an operating voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer:     STMicroelectronics
+Product Category: 8-bit Microcontrollers - MCU
+Core: STM8
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 8 kB
+Data RAM Size: 1 kB
+A/D Channels Available: 5
+A/D Bit Size: 10 bit
+Operating Supply Voltage: 2.95 V to 5.5 V
+Operating Temperature: + 85 C  - 40 C
+Package / Case: TSSOP-20
+Mounting Style: SMD/SMT
+Brand:     STMicroelectronics
+Data RAM Type: RAM
+Data ROM Size: 128 B
+Data ROM Type: EEPROM
+Interface Type:  I2C, SPI, UART
+Number of Timers:     3 Timer
+On-Chip DAC: Without DAC
+Packaging: Tube
+Processor Series: STM8S
+Program Memory Type: Flash
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر STM8S003K3T6C
+
+قیمت:
+620,000
+
+توضیحات کوتاه:
+میکروکنترلر STM8S003K3T6C با هسته STM8 با حافظه 8KB و فرکانس کاری 16MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM8S003K3T6C دارای هسته پردازنده 8 بیتی STM8 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM8S003K3T6C دارای 28 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM8S003K3T6C دارای ولتاژ کاری 2.95 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+دارای هسته 8 بیتی STM8
+ولتاژ کاری : 2.95 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 8 kB
+پکیج : LQFP-32
+تعداد پین ها ورودی/خروجی : 28
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM8S003K3T6C microcontroller has an 8-bit STM8 processor core made by STMicroelectronics and operates at a frequency of 16 MHz. This microcontroller provides 8 KB of FLASH memory on the chip. The STM8S003K3T6C microcontroller has 28 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM8S003K3T6C microcontroller has an operating voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: 8-bit Microcontrollers - MCU
+Mounting Style: SMD/SMT
+Package / Case: LQFP-32
+Core: STM8
+Program Memory Size: 8 kB
+Data Bus Width: 8 bit
+ADC Resolution: 10 bit
+Maximum Clock Frequency: 16 MHz
+Number of I/Os: 21 I/O
+Data RAM Size: 1 kB
+Operating Supply Voltage: 2.95 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Program Memory Type: Flash
+Brand: STMicroelectronics
+Data RAM Type: RAM
+Data ROM Size: 128 B
+Data ROM Type: EEPROM
+Interface Type: I2C, SPI, UART
+Moisture Sensitive: Yes
+Number of ADC Channels: 4 Channel
+Number of Timers/Counters: 7 Timer
+Processor Series: STM8S003x
+Product Type: 8-bit Microcontrollers - MCU
+Factory Pack Quantity: 1500
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 2.95 V
+

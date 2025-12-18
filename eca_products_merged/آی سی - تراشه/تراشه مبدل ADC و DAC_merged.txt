@@ -1,0 +1,405 @@
+عنوان:
+تراشه صوتی UPD6379AGR پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+مبدل 2 کاناله 16 بیتی D/A برای برنامه صوتی UPD6379AGR پکیج SOP-8
+
+توضیحات کامل:
+Introduction
+
+The µPD6379 and 6379A are 2-channel 16-bit D/A converters for digital audio signal demodulation. These D/A converters employ the resistor string conversion method which has been tested by existing model µPD6376 but they are more compact and require fewer external components than the µPD6376. In addition, low-voltage models, the
+µPD6379L and 6379AL (minimum operating supply voltage +3.0 V) are also available for applications in portable
+Resistor string conversion method 0-point digital shift circuit × 4 oversampling Sampling frequency: 200 kHz MAX. Signal processing format for 2's complement, MSB first, and backward justification data accommodated Left and right in-phase output High performance (at VDD +5.0 V) S/N ratio: 100 dB TYP. Dynamic range: 96 dB TYP. Low-voltage models available Bipolar LR clock (LRCK) Low power dissipation: 10 mW TYP. (with 6379AL at VDD +3.3 V)
+LRCK Supply voltage +3.3 V (VDD +5.0 V (VDD 5.5 V) LRCK = L when L-ch data is input LRCK = H when L-ch data is input
+Few external components Internal output operational amplifier Only one electrolytic capacitor required for smoothing reference voltage, instead of two capacitors required by existing D/A converters Small package: 8-pin plastic SOP mm (225))
+The information in this document is subject to change without notice. Before using this document, please confirm that this is the latest version. Not all devices/types available in every country. Please check with local NEC representative for availability and additional information. Document No. S11588EJ4V0DS00 (4th edition) Date Published November 1999 N CP(K) Printed in Japan
+Part number Package 8-pin plastic SOP (225)) 8-pin plastic SOP (225)) 8-pin plastic SOP (225)) 8-pin plastic SOP mm (225))
+
+Specification
+
+Resistor string conversion method
+0-point digital shift circuit
+4 oversampling
+Sampling frequency: 200 kHz MAX.
+Signal processing format for 2’s complement, MSB first, and backward justification data accommodated
+Left and right in-phase output
+High performance (at VDD = +5.0 V)
+S/N ratio: 100 dB TYP.
+Dynamic range: 96 dB TYP.
+Low-voltage models available
+Bipolar LR clock (LRCK)
+Low power dissipation: 10 mW TYP.
+(with mPD6379L, 6379AL at VDD = +3.3 V)
+LRCK LRCK = L LRCK = H
+Supply voltage when L-ch data is input when L-ch data is input
++3.3 V (VDD = +3.0 to 5.5 V) mPD6379L mPD6379AL
++5.0 V (VDD = +4.5 to 5.5 V) mPD6379 mPD6379A
+Few external components
+Internal output operational amplifier
+Only one electrolytic capacitor required for smoothing reference voltage, instead of two capacitors required by
+existing D/A converters
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال AD7582KN پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال 4 کاناله 12 بیتی AD7582KN پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Analog Devices Inc.
+Product Category: Analog to Digital Converters - ADC
+Series: AD7582
+Mounting Style: Through Hole
+Package / Case: PDIP-28
+Resolution: 12 bit
+Number of Channels: 4 Channel
+Interface Type:  Parallel
+Sampling Rate: 10 kS/s
+Input Type: Single-Ended
+Architecture: SAR
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Input Voltage: 5 V
+Number of Converters: 1 Converter
+Output Type:  TTL
+Power Consumption: 75 mW
+Brand: Analog Devices
+Reference Type: External
+DNL - Differential Nonlinearity: +/- 1 LSB
+Gain Error: +/- 0.25 LSB
+Number of ADC Inputs:  4 Input
+Operating Supply Voltage: 5 V, 15 V
+Pd - Power Dissipation: 155 mW
+Product Type: ADCs - Analog to Digital Converters
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADC0804 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه مبدل آنالوگ به دیجیتال 8 بیتی ADC0804 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+ADC0804 is a very commonly used 8-bit analog to digital convertor. It is a single channel IC, i.e., it can take only one analog signal as input. The digital outputs vary from 0 to a maximum of 255. The step size can be adjusted by setting the reference voltage at pin9. When this pin is not connected, the default reference voltage is the operating voltage, i.e., Vcc. The step size at 5V is 19.53mV (5V/255), i.e., for every 19.53mV rise in the analog input, the output varies by 1 unit. To set a particular voltage level as the reference value, this pin is connected to half the voltage. For example, to set a reference of 4V (Vref), pin9 is connected to 2V (Vref/2), thereby reducing the step size to 15.62mV (4V/255).
+ADC0804 needs a clock to operate. The time taken to convert the analog value to digital value is dependent on this clock source. An external clock can be given at the Clock IN pin. ADC 0804 also has an inbuilt clock which can be used in absence of external clock. A suitable RC circuit is connected between the Clock IN and Clock R pins to use the internal clock.
+
+Specification
+
+Category: Integrated Circuits (ICs)Data Acquisition: Analog to Digital Converters (ADC)
+Mfr: Texas Instruments
+Package:Tube
+Product Status: Obsolete
+Number of Bits: 8
+Sampling Rate (Per Second): 10k
+Number of Inputs: 1
+Input Type: Differential
+Data Interface: Parallel
+Configuration: ADC
+Number of A/D Converters: 1
+Architecture: SAR
+Reference Type: External, Supply
+Voltage - Supply, Analog: 4.5V ~ 6.3V
+Voltage - Supply, Digital: 4.5V ~ 6.3V
+Operating Temperature: -40°C ~ 85°C
+Package / Case:20-DIP (0.300", 7.62mm)
+Supplier Device Package: 20-PDIP
+Mounting Type: Through Hole
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADC0820 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال 8 بیتی ADC0820 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog to Digital Converters - ADC
+RoHS: Details
+Series: ADC0820
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Resolution: 8 bit
+Number of Channels: 2 Channel
+Sampling Rate: 400 kS/s
+Input Type: Single-Ended
+Interface Type: Parallel
+Architecture: Half-Flash
+Reference Type: External
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Height: 4.45 mm
+Length: 26.54 mm
+Number of Converters: 2 Converter
+Output Type: CMOS
+Width: 7.87 mm
+Brand: Maxim Integrated
+INL - Integral Nonlinearity: +/- 1 LSB
+Operating Supply Voltage: 5 V
+Pd - Power Dissipation: 450 mW
+Product Type: ADCs - Analog to Digital Converters
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADC0831 پکیج DIP
+
+قیمت:
+3,240,000
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال تک کانال 8 بیتی پکیج DIP-8
+
+توضیحات کامل:
+Introduction
+The ADC0831 series are 8-bit successive approximation A/D converters with a serial I/O and configurable input multiplexers with up to 8 channels. The serial I/O is configured to comply with the NSC MICROWIRE™ serial data exchange standard for easy interface to the COPS™ family of processors, and can interface with standard shift registers or µPs. The 2-, 4- or 8-channel multiplexers are software configured for single-ended or differential inputs as well as channel assignment.
+The differential analog voltage input allows increasing the common-mode rejection and offsetting the analog zero input voltage value. In addition, the voltage reference input can be adjusted to allow encoding any smaller analog voltage span to the full 8 bits of resolution.
+
+Specification
+
+Manufacturer: Parallax
+Product Category: Analog to Digital Converters - ADC
+Mounting Style: Through Hole
+Package / Case: DIP-8
+Resolution: 8 bit
+Number of Channels: 1 Channel
+Interface Type: SPI
+Input Type: Differential/Single-Ended
+Architecture: SAR
+Analog Supply Voltage:5 V
+Digital Supply Voltage: 5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Brand: Parallax
+Number of Converters: 1 Converter
+Operating Supply Voltage: 5 V
+Pd - Power Dissipation: 0.8 W
+Product Type: ADCs - Analog to Digital Converters
+Reference Voltage: 5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADS1230 پکیج TSSOP-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال دقیق 20 بیتی ADS1230  پکیج TSSOP-16
+
+توضیحات کامل:
+Introduction
+
+The ADS1230 is a precision 20-bit analog-to-digital converter (ADC). With an onboard low-noise programmable gain amplifier (PGA), onboard oscillator, and precision 20-bit delta-sigma ADC, the ADS1230 provides a complete front-end solution for bridge sensor applications including weigh scales, strain gauges, and pressure sensors.
+
+The low-noise PGA has a gain of 64 or 128, supporting a full-scale differential input of ±39mV or ±19.5mV, respectively. The delta-sigma ADC has 20-bit effective resolution and is comprised of a 3rd-order modulator and 4th-order digital filter. Two data rates are supported: 10SPS (with both 50Hz and 60Hz rejection) and 80SPS. The ADS1230 can be clocked by the internal oscillator or an external clock source. Offset calibration is performed on-demand, and the ADS1230 can be put in a low-power standby mode or shut off completely in power-down mode.
+
+All of the features of the ADS1230 are controlled by dedicated pins; there are no digital registers to program. Data are output over an easily-isolated serial interface that connects directly to the MSP430 and other microcontrollers.
+The ADS1230 is available in a TSSOP-16 package and is specified from -40°C to +85°C.
+
+Specification
+
+Resolution (Bits): 20
+Number of input channels: 1
+Sample rate (Max) (kSPS): 0.08
+Interface type: SPI
+Architecture: Delta-Sigma
+Input type: Differential, Single-Ended
+Multi-channel configuration: —
+Reference mode: Ext
+Input range (Max): 0.039(V)
+Input range (Min): 0(V)
+Features: 50/60 Hz Rejection, Oscillator, PGA
+Operating temperature range: -40(C) to 85(C)
+Power consumption (Typ): 2.9(mW)
+Analog voltage AVDD (Min): 2.7(V)
+Analog voltage AVDD (Max): 5.3(V)
+Digital supply (Min): 2.7(V)
+Digital supply (Max): 5.3(V)
+
+Applications
+
+Weigh Scales
+Strain Gauges
+Pressure Sensors
+Industrial Process Control
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ولتمتر ICL7107 پکیج DIP
+
+قیمت:
+1,069,000
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال پارت نامبر ICL7107 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+این آی سی یک مبدل آنالوگ به دیجیتال 3.5 رقمی است  که ورودی آنالوگ را به صورت دیجیتال بر روی سون سگمنت نشان میدهد.از خصوصیات این آی سی ،خواندن صفر برای ورودی صفر ولت در همه رنجها و نیز پلاریته صحیح در صفر برای تشخیص نول واقعی می باشد.این قطعه برای نمایش اعداد ولتمتر مناسب می باشد.
+
+Specificatiop
+
+Product Category: LED Display Drivers
+Series: ICL7107
+Number of Digits: 3.5
+Number of Segments: 7
+Operating Supply Voltage: 4.75 V to 5.25 V
+Supply Current - Max: 1.8 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ویدیو TDA8754HL پکیج LQFP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال ویدیو TDA8754HL پکیج LQFP SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: NXP
+Product Category: Analog to Digital Converters - ADC
+Mounting Style: SMD/SMT
+Package / Case: SOT-486 LQFP-144pin
+Resolution: 8 bit
+Number of Channels: 3 Channel
+Interface Type: I2C
+Sampling Rate: 140 MS/s
+Input Type: Single-Ended
+Analog Supply Voltage: 3.3 V
+Digital Supply Voltage: 3.3 V
+SNR - Signal to Noise Ratio: 48 dB
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Brand: NXP Semiconductors
+DNL - Differential Nonlinearity: +/- 0.6 bit
+Height: 1.6 mm
+INL - Integral Nonlinearity: +/- 1.3 bit
+Input Voltage: 1 V
+Length: 22.15 mm
+Number of ADC Inputs: 6 Input
+Number of Converters: 3 Converter
+Operating Supply Current: 180 mA
+Operating Supply Voltage: 3 V to 3.6 V
+Pd - Power Dissipation: 1.3 W
+Power Consumption: 1000 mW
+Product Type: ADCs - Analog to Digital Converters
+Sample and Hold: Yes
+Subcategory: Data Converter ICs
+Supply Type: Analog, Digital
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min:3 V
+Type: Video ADC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل دیجیتال به آنالوگ DAC0800LCN پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل دیجیتال به آنالوگ پارت نامبر DAC0800LCN پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Digital to Analog Converters - DAC
+Series: DAC0800
+Resolution: 8 bit
+Sampling Rate: 6.6 MS/s
+Number of Channels: 1 Channel
+Settling Time: 100 ns
+Output Type: Current Unbuffered
+Interface Type: Parallel
+Analog Supply Voltage: +/- 4.5 V to +/- 18 V
+Digital Supply Voltage: +/- 4.5 V to +/- 18 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: PDIP-16
+Brand: Texas Instruments
+DNL - Differential Nonlinearity: -
+Features: Current Output
+Gain Error: 0.2 % FSR
+INL - Integral Nonlinearity: +/- 0.5 LSB
+Power Consumption: 33 mW
+Product Type: DACs - Digital to Analog Converters
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل دیجیتال به آنالوگ DAC0808 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل دیجیتال به آنالوگ 8 بیتی DAC0808 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+این آی سی یک مبدل 8 بیتی دیجیتال به آنالوگ است که با سیستم های میکروپروسسوری مطابقت دارد و برای میکروهایی که این مبدل را به صورت داخلی ندارند قابل استفاده است
+
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Digital to Analog Converters - DAC
+Series: DAC0808
+Resolution: 8 bit
+Sampling Rate: 6.6 MS/s
+Number of Channels: 1 Channel
+Settling Time: 100 ns
+Output Type: Current Unbuffered
+Interface Type: Parallel
+Analog Supply Voltage: +/- 4.5 V to +/- 18 V
+Digital Supply Voltage: +/- 4.5 V to +/- 18 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: PDIP-16
+Packaging: Tube
+

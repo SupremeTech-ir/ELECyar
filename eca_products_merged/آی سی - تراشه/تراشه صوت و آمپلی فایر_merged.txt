@@ -1,0 +1,1091 @@
+عنوان:
+تراشه آمپلی فایر HXJ8002 پکیج SOP-8
+
+قیمت:
+203,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صدا HXJ8002 پکیج SOP-8
+
+توضیحات کامل:
+Introduction
+The 8002 is an audio power amplifier primarily designed for demanding applications in low-power portable
+systems. It is capable of delivering 3 watts of continuous average power to an 3Ω BTL load with less than 10%
+distortion (THD) from a 5VDC power supply. the 8002 does not require output coupling capacitors or bootstrap
+capacitors, and therefore is ideally suited for mobile phone and other low voltage applications where minimal power
+consumption is a primary requirement.the 8002 features a low-power consumption shutdown mode.the 8002 contains
+advanced pop & click circuitry which eliminates noise which would otherwise occur during turn-on and turn-off
+transitions. The 8002 is unity-gain stable and can be configured by external gain-setting resistors
+
+Specification
+
+Power Output at 5.0V, 10% THD+N, 3Ω 3W (typ)
+Power Output at 5.0V,10% THD+N,4Ω 2.65W (typ)
+Power Output at 5.0V,10% THD+N,8Ω 1.8W (typ)
+Shutdown Current 0.6µA (typ)
+Available in space-saving packages: SOP
+Improved pop & click circuitry eliminates noise during turn-on and turn-off transitions
+2.20- 5.5V operation
+No output coupling capacitors, snubber networks or bootstrap capacitors required
+Unity-gain stable
+External gain configuration capability
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر KA2211
+
+قیمت:
+0
+
+توضیحات کامل:
+تقویت کننده صوت 5.8 واjت
+این تراشه به دلیل توقف خط تولید، قدیمی می باشد.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر LM388 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر LM388 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+The LM833 is a standard low-cost monolithic dual general-purpose op-amp employing bipolar technology with innovative high-performance concepts for audio systems applications. With high frequency PNP transistors, the LM833 offers low voltage noise (4.5nV/Hz^0.5), 15 MHz gain bandwidth product, 7.0 V/5s slew rate, 0.3 mV input offset voltage with 2.05.0 volt/0 C temperature coefficient of input offset voltage. The LM833 output stage exhibits no deadband crossover distortion, large output voltage swing, excellent phase and gain margins, low open loop high frequency output impedance and symmetrical source/sink AC frequency response.
+
+Specification
+
+Series: LM833-N
+Product: Audio Amplifiers
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 36 V
+Supply Voltage - Min: 10 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 3.3 mm
+Length: 9.27 mm
+Supply Type: Dual
+Width: 6.35 mm
+Brand: Texas Instruments
+Number of Channels: 2 Channel
+Shutdown: No Shutdown
+CMRR - Common Mode Rejection Ratio: 80 dB to 100 dB
+Dual Supply Voltage: +/- 9 V, +/- 12 V, +/- 15 V
+en - Input Voltage Noise Density: 4.5 nV/sqrt Hz at +/- 15 V
+GBP - Gain Bandwidth Product: 15 MHz
+Ib - Input Bias Current: 1 uA
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 5 V
+Operating Supply Current: 2.5 mA
+Operating Supply Voltage: 10 V to 36 V, +/- 5 V to +/- 18 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+Product Type:Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 80 dB
+SR - Slew Rate: 7 V/us
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر LM4871 سه وات پکیج SO-8
+
+قیمت:
+31,900
+
+توضیحات کوتاه:
+آی سی صوتی آمپلی فایر LM4871 سه وات
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Audio Amplifiers
+Series: LM4871
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 3 W
+Mounting Style: SMD/SMT
+Type: 1-Channel Mono
+Package / Case: SOIC-8
+Audio - Load Impedance: 3 Ohms
+THD plus Noise: 0.25 %
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Reel
+Packaging: Cut Tape
+Packaging: MouseReel
+Brand: Texas Instruments
+Number of Channels: 1 Channel
+Operating Supply Voltage: 2 V to 5.5 V
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 60 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر M5218A پکیج DIP
+
+قیمت:
+345,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر 5218A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر SSM2135 پکیج SO-8
+
+قیمت:
+473,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر SSM2135
+
+توضیحات کامل:
+Specification
+
+Mfr: Analog Devices Inc.
+Amplifier Type: Audio
+Slew Rate: 0.9V/µs
+Current - Supply: 3.7mA
+Voltage - Supply, Single/Dual (±): 4V ~ 36V, ±2V ~ 18V
+Operating Temperature: -40°C ~ 85°C
+Mounting Type: Surface Mount
+Package / Case: 8-SOIC (0.154"", 3.90mm Width)
+Supplier Device Package: 8-SOIC
+Gain Bandwidth Product: 3.5MHz
+Current - Input Bias: 300nA
+Voltage - Input Offset: 200µV
+Current - Output / Channel: 30mA
+Excellent sonic characteristics
+High output drive capability
+5.2 nV/√Hz equivalent input noise @ 1 kHz
+0.003% THD + N (VOUT = 1 V p-p @ 1 kHz)
+3.5 MHz gain bandwidth
+Unity-gain stable
+Low cost
+
+Applications
+
+Multimedia audio systems
+Microphone preamplifiers
+Headphone drivers
+Differential line receivers
+Balanced line drivers
+Audio ADC input buffers
+Audio DAC l-V converters and filters
+Pseudoground generators
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2003
+
+قیمت:
+189,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA2003
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: TDA2003A
+Product: Audio Amplifiers
+Output Power: 10 W
+Mounting Style: Through Hole
+Type: Single
+Package / Case: Pentawatt
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Packaging: Tube
+Brand: STMicroelectronics
+Number of Channels: 1 Channel
+Operating Supply Current: 44 mA
+Operating Supply Voltage: 8 V to 18 V
+Pd - Power Dissipation: 20 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 36 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2030A
+
+قیمت:
+205,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده آمپلی فایر 18 وات TDA2030A
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA2030A
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 18 W
+Mounting Style: Through Hole
+Type: 1-Channel Mono
+Package / Case: Pentawatt
+Audio - Load Impedance: 8 Ohms
+THD plus Noise: 0.5 %
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Description/Function: Speaker
+Height: 9.2 mm
+Input Type: Differential
+Length: 10.4 mm
+Output Current: 3500 mA
+Supply Type: Dual
+Width: 4.8 mm
+Brand: STMicroelectronics
+Gain: 80 dB
+Number of Channels: 1 Channel
+Dual Supply Voltage: +/- 9 V, +/- 12 V, +/- 15 V, +/- 18 V
+Ib - Input Bias Current: 2 uA
+Maximum Dual Supply Voltage: +/- 22 V
+Minimum Dual Supply Voltage: +/- 6 V
+Operating Supply Current: 80 mA
+Operating Supply Voltage: 22 V
+Output Signal Type: Single
+Pd - Power Dissipation: 20000 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 54 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2050
+
+قیمت:
+201,000
+
+توضیحات کوتاه:
+تراشه آمپلی فایر 32 وات 25 ولت TDA2050
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: TDA2050
+Product: Audio Amplifiers
+Output Power: 32 W
+Mounting Style: Through Hole
+Type: Single
+Supply Voltage - Max: ±25 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Number of Channels: 1 Channel
+Operating Supply Current: 5 A
+Pd - Power Dissipation: 25 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 45 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2822M پکیج DIP
+
+قیمت:
+58,200
+
+توضیحات کوتاه:
+آی سی تقویت کننده صدا آمپلی فایر TDA2822M پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA2822M
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 2 W
+Mounting Style: Through Hole
+Type: 1-Channel Mono or 2-Channel Stereo
+Package / Case: PDIP-8
+Audio - Load Impedance: 32 Ohms
+THD plus Noise: 0.2 %
+Supply Voltage - Max: 15 V
+Supply Voltage - Min: 1.8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Description/Function: Headphone/Speaker
+Height: 3.32 mm
+Input Type: Single
+Length: 10.92 mm
+Output Current: 1000 mA
+Supply Type: Single
+Width: 6.6 mm
+Brand: STMicroelectronics
+Gain: 39 dB
+Number of Channels: 2 Channel
+Ib - Input Bias Current: 100 nA
+Operating Supply Current: 1 A
+Operating Supply Voltage: 3 V, 5 V, 9 V, 12 V
+Output Signal Type: Differential, Single
+Pd - Power Dissipation: 1400 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 40 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2822M پکیج SO-8
+
+قیمت:
+37,200
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر با توان خروجی دوبل، مناسب استفاده در حالت استریو یا پل با ولتاژ کاری پایین
+
+توضیحات کامل:
+تراشه TDA2822M یک آی‌سی تقویت‌کننده صوتی دوبل با ولتاژ پایین است که در پکیج SO-8 ارائه می‌شود. این تراشه مناسب استفاده در سیستم‌های صوتی قابل‌حمل مانند رادیو، پخش‌کننده‌های CD و دستگاه‌های باتری‌خور است. قابلیت استفاده در دو حالت استریو (دو کانال مستقل) یا پل (Bridge) جهت افزایش توان خروجی، انعطاف مناسبی برای طراحی فراهم می‌سازد. از ویژگی‌های مهم این تراشه می‌توان به ولتاژ تغذیه پایین از 1.8V، جریان بیکاری پایین، اعوجاج کم و پایداری بالا اشاره کرد. TDA2822M به‌راحتی قابل استفاده در پروژه‌های صوتی با اسپیکرهای 4 تا 32 اهم بوده و در فرکانس 1kHz تا 1 وات توان خروجی در حالت پل ارائه می‌دهد.
+
+مشخصات
+
+پکیج تراشه: SO-8
+نوع تقویت‌کننده: صوتی دوبل
+ولتاژ تغذیه: 1.8V تا 15V
+جریان بیکاری: 15mA
+توان خروجی (حالت استریو):
+- 300mW در 9V با بار 8Ω- 380mW در 6V با بار 8Ω- 220mW در 6V با بار 16Ω- 60mW در 4.5V با بار 32Ω
+توان خروجی (حالت پل):
+- 1000mW در 6V با بار 8Ω- 800mW در 6V با بار 16Ω- 320mW در 4.5V با بار 32Ω- 350mW در 3V با بار 4Ω
+اعوجاج کل هارمونیک (THD): حداکثر 0.2% در توان‌های معمول
+بهره تقویت ولتاژ (Gain): حدود 39dB
+مقاومت ورودی: 100kΩ
+نویز ورودی کل: حدود 2.5μV
+جداشدگی کانال‌ها: 50dB در 1kHz
+محدوده دمای کاری: 40- تا 150+ درجه سانتی‌گراد
+توان تلفاتی کل: 0.5W در دمای 50°C
+
+کاربردهای رایج
+
+این تراشه برای مدارهای صوتی کم‌مصرف ایده‌آل است و در پروژه‌های صوتی ساده و قابل‌حمل، اسباب‌بازی‌های صوتی، تقویت‌کننده هدفون، ماژول‌های بلوتوث و کیت‌های آموزشی کاربرد فراوان دارد.
+
+مدارهای آمپلی‌فایر استریو باتری‌خور
+سیستم‌های صوتی پرتابل
+مدار تقویت هدفون
+مدار تقویت اسپیکر لپ‌تاپ یا MP3 Player
+کیت‌های صوتی آموزشی
+اسباب‌بازی‌های صوتی
+آمپلی‌فایرهای کوچک بلوتوث
+پروژه‌های DIY صوتی با تغذیه پایین
+استفاده در بردهای توسعه صوتی
+تقویت صدای خروجی ماژول‌های رادیویی و وایرلس
+
+Specification
+
+Product: Audio Amplifier
+Class: Class-AB
+Output Power:2 W
+Type:1-Channel Mono or 2-Channel Stereo
+Package / Case: SMD
+Audio - Load Impedance:32 Ohm
+THD plus Noise:0.2 %
+Supply Voltage - Max:15 V
+Supply Voltage - Min:1.8 V
+Maximum Operating Temperature:+ 150 C
+Description/Function: Headphone/Speaker
+Gain:39 dB
+Height:3.32 mm
+Ib - Input Bias Current:100 nA
+Input Type: Single
+Length:10.92 mm
+Minimum Operating Temperature:- 40 C
+Number of Channels:2 Channel
+Operating Supply Current:1 A
+Operating Supply Voltage:3 V, 5 V, 9 V, 12 V
+Output Current:1000 mA
+Output Signal Type: Differential, Single
+Pd - Power Dissipation:1400 mW
+PSRR - Power Supply Rejection Ratio:40 dB
+Series:TDA2822M
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7053 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7053
+
+توضیحات کامل:
+Descrption
+
+The TDA7053 is an integrated class-B stereo power amplifier in a 16-lead dual-in-line (DIL) plastic package. The device,consisting of two BTL amplifiers, is primarily developed for portable audio applications but may also be used in mains-fed applications.
+2 x 1W portable/mains-fed stereo power amplifier
+
+Features
+
+No external components
+No switch-ON/OFF clicks
+Good overall stability
+Low power consumption
+Short-circuit-proof
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7265 مارک ST
+
+قیمت:
+1,910,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر 25 وات TDA7265
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+Class: Class-AB
+Output Power: 25 W
+THD plus Noise: 0.02 %
+Package/Case: Multiwatt-11
+Audio - Load Impedance: 8 Ohms
+Supply Voltage - Min: 5 V
+Supply Voltage - Max: 25 V
+Minimum Operating Temperature: - 20 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Series: TDA7265
+Brand: STMicroelectronics
+Description/Function: Speaker
+Dual Supply Voltage: +/- 9 V, +/- 12 V, +/- 15 V, +/- 18 V, +/- 24 V
+Gain: 80 dB
+Ib - Input Bias Current: 500 nA
+Maximum Dual Supply Voltage: +/- 25 V
+Minimum Dual Supply Voltage: +/- 5 V
+Number of Channels: 2 Channel
+Operating Supply Current: 4.5 A
+Operating Supply Voltage: 25 V
+Output Signal Type: Single
+Pd - Power Dissipation: 30 W
+Product: Audio Amplifiers
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 60 dB
+Subcategory: Audio ICs
+Type: 2-Channel Stereo
+Vos - Input Offset Voltage: 20 mV
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7266SA
+
+قیمت:
+903,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7266SA
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA7266SA
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 7 W
+Mounting Style: Through Hole
+Type: 2-Channel Stereo
+Package / Case: Clipwatt-15
+Audio - Load Impedance: 8 Ohms
+THD plus Noise: 0.05 %
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 3 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Description/Function: Speaker
+Height: 11 mm
+Input Type: Single
+Length: 19.85 mm
+Output Current: 2000 mA
+Supply Type: Single
+Width: 3.2 mm
+Brand: STMicroelectronics
+Gain: 26 dB
+Number of Channels: 2 Channel
+Operating Supply Voltage: 11 V
+Output Signal Type: Differential
+Pd - Power Dissipation: 20000 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 56 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7297
+
+قیمت:
+1,860,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7297 دو کانال 15 وات کلاس AB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA7297
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 15 W
+Mounting Style: Through Hole
+Type: 2-Channel Stereo
+Package / Case: Multiwatt-15
+Audio - Load Impedance: 8 Ohms
+THD plus Noise: 0.1 %
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 6.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Description/Function: Speaker
+Height: 10.7 mm
+Input Type: Single
+Length: 19.6 mm
+Output Current: 2 A
+Supply Type: Single
+Width: 5 mm
+Brand: STMicroelectronics
+Gain: 32 dB
+Number of Channels: 2 Channel
+Operating Supply Current: 2 A
+Operating Supply Voltage: 9 V, 12 V, 15 V
+Output Signal Type: Differential
+Pd - Power Dissipation: 33000 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 56 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7297SA
+
+قیمت:
+648,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7297SA دو کانال 10 وات کلاس AB
+
+توضیحات کامل:
+Specification
+
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 10 W
+Mounting Style: Through Hole
+Type: 2-Channel Stereo
+Package / Case: Clipwatt-15
+Audio - Load Impedance: 8 Ohms
+THD plus Noise: 1 %
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 6.5 V
+Maximum Operating Temperature: + 70 C
+Minimum Operating Temperature: 0 C
+Description/Function: Speaker
+Input Type: Single
+Output Current: 2000 mA
+Supply Type: Single
+Brand: STMicroelectronics
+Gain: 32 dB
+Number of Channels: 2 Channel
+Operating Supply Voltage: 9 V, 12 V, 15 V
+Output Signal Type: Differential
+Pd - Power Dissipation: 30000 mW
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7360 مارک ST
+
+قیمت:
+1,150,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی پل/استریو 22 وات با آشکارساز برش TDA7360
+
+توضیحات کامل:
+معرفی
+
+تراشه TDA7360 یک آمپلی فایر صوتی کلاس AB با تکنولوژی جدید است که در پکیج Multiwatt طراحی شده است. این تراشه با پیکربندی خروجی کاملاً مکمل PNP/NPN، توان خروجی بالایی را بدون نیاز به خازن‌های بوت استرپ ارائه می‌دهد. ویژگی‌های برجسته آن شامل حذف نویز روشن/خاموش، جریان استندبای بسیار کم، تقویت ثابت 20 دسی‌بل استریو، و تأخیر روشن/خاموش قابل برنامه‌ریزی است. همچنین، دارای مدار تشخیص برش و سیستم محافظت از اتصال کوتاه، بارهای القایی، دمای بالای تراشه و ولتاژ بارگذاری می‌باشد، که عملکرد قابل اعتمادی را در شرایط مختلف  فراهم می‌کند.
+
+ویژگی
+
+نیاز به قطعات خارجی بسیار کم
+بدون سلول‌های Boucherot
+بدون خازن‌های بوت استرپ
+توان خروجی بالا
+بدون نویز on/off
+جریان استندبای بسیار کم
+تقویت ثابت (20 دسی‌بل استریو)
+تأخیر on/of قابل برنامه‌ریزی
+تشخیص دهنده برش
+محافظت در برابر اتصال کوتاه خروجی AC-DC به زمین و به ولتاژ تغذیه
+پشتیبانی از بارهای بسیار القایی
+حفاظت از بلندگو
+محافظت در برابر دمای بالای تراشه
+مقاوم در برابر ولتاژ بارگذاری (Load Dump)
+محافظت در برابر قطع شدن ناگهانی زمین مدار.
+مقاومت در برابر تخلیه الکترواستاتیک (ESD)
+
+کاربرد
+
+TDA7360 یک تقویت‌کننده صوتی استریو با توان بالا است که معمولاً در سیستم‌های صوتی خودرو و سیستم‌های صوتی خانگی استفاده می‌شود. این آی‌سی قادر به ارائه توان خروجی بالا با کیفیت صدای خوب و اعوجاج کم است و شامل حفاظت در برابر ولتاژ بیش از حد و دمای بیش از حد می‌باشد.
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7375
+
+قیمت:
+0
+
+توضیحات کوتاه:
+Audio Amplifiers 2X35W PWR AMPLIFIER
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA7375V
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 40 W
+Mounting Style: Through Hole
+Type: 2-Channel Stereo or 4-Channel Stereo
+Package / Case: Multiwatt-15
+Audio - Load Impedance: 4 Ohms
+THD plus Noise: 0.03 %
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Qualification: AEC-Q100
+Packaging: Tube
+Description/Function: Speaker
+Height: 10.7 mm
+Input Type: Single
+Length: 19.6 mm
+Output Current: 3500 mA
+Supply Type: Single
+Width: 5 mm
+Brand: STMicroelectronics
+Gain: 26 dB
+Number of Channels: 4 Channel
+Operating Supply Voltage: 18 V
+Output Signal Type: Differential, Single
+Pd - Power Dissipation: 36 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 50 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7377
+
+قیمت:
+1,200,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده آمپلی فایر 2x30 وات TDA7377
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+Series: TDA7377
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 35 W
+Mounting Style: Through Hole
+Type: 2-Channel Stereo or 4-Channel Stereo
+Package / Case: Multiwatt-15
+Audio - Load Impedance: 4 Ohms
+Supply Voltage - Max: 18 V
+Supply Voltage - Min: 8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Qualification: AEC-Q100
+Packaging: Tube
+Brand: STMicroelectronics
+Number of Channels: 2 Channel
+Operating Supply Voltage: 8 V to 18 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7388
+
+قیمت:
+1,270,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7388
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: TDA7388
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 4X45 W
+Type: Rail-to-Rail
+Package / Case: Flexiwatt-25
+THD plus Noise: 0.1 %
+Qualification: AEC-Q100
+Packaging: Tube
+Brand: STMicroelectronics
+Gain: 26 dB
+Operating Supply Current: 350 mA
+Operating Supply Voltage: 18 V
+Pd - Power Dissipation: 80 W
+Product Type: Audio Amplifiers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7498E پکیج PowerSSO-36
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی 2x160 وات دوگانه BTL کلاس D
+
+توضیحات کامل:
+Introduction
+
+The TDA7498E is a dual BTL class-D audio amplifier with single power supply designed for home systems and active speaker applications. It comes in a 36-pin PowerSSO package with exposed pad up (EPU) to facilitate mounting a separate heatsink.
+
+Specification
+
+160-W + 160-W output power at THD = 10% with RL = 4 Ω and VCC = 36 V
+1 x 220 W output power mono parallel BTL at THD = 10% with RL = 3 Ω and VCC = 36 V
+Wide-range single-supply operation (14 - 36 V)
+High efficiency (η = 85%)
+Parallel BTL function using the MODE pin
+Four selectable, fixed gain settings of nominally 23.8 dB, 29.8 dB, 33.3 dB and 35.8 dB
+Differential inputs minimize common-mode noise
+Standby and mute features
+Smart protection
+Thermal overload protection
+Small offset less than 20 mV
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7498MV پکیج Power SSO-36
+
+قیمت:
+3,090,000
+
+توضیحات کوتاه:
+آی سی تقویت صوتی آمپلی فایر کلاس D مونو 100 وات
+
+توضیحات کامل:
+Introduction
+
+The TDA7498MV is a BTL class-D audio amplifier with single power supply designed for home systems and active speaker applications. It comes in a 36-pin PowerSSO package with exposed pad up (EPU) to facilitate mounting a separate heatsink.
+
+Specification
+
+100 W output power at THD = 10% with RL = 6 Ω and VCC = 36 V
+80 W output power at THD = 10% with RL = 8 Ω and VCC = 34 V
+Wide-range single-supply operation (14 - 39 V)
+High efficiency (η = 90%)
+Four selectable, fixed gain settings of nominally 25.6 dB, 31.6 dB, 35.1 dB and 37.6 dB
+Differential inputs minimize common-mode noise
+Standby and mute features
+Short-circuit protection
+Thermal overload protection
+Externally synchronizable
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7850
+
+قیمت:
+5,720,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی چهارکاناله استریو 4x50 وات کلاس AB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA7850
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 50 W
+Mounting Style: Through Hole
+Type: 4-Channel Stereo
+Package/Case: Flexiwatt-25
+Audio - Load Impedance: 4 Ohms
+THD plus Noise: 0.015 %
+Supply Voltage - Max: 18 V
+Qualification: AEC-Q100
+Description/Function: Speaker
+Height: 15.7 mm
+Input Type: Single
+Length: 29.23 mm
+Supply Type: Single
+Width: 4.5 mm
+Brand: STMicroelectronics
+Gain: 26 dB
+Number of Channels: 4 Channel
+Output Signal Type: Differential
+Pd - Power Dissipation: 80 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 75 dB
+Subcategory: Audio ICs
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آمپلی فایرLM4881M پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر LM4881M
+
+توضیحات کامل:
+Specification
+
+Manufacturer:Texas Instruments
+Product Category:Audio Amplifiers
+RoHS: RoHS Compliant Details
+Product: Headphone Amplifiers
+Class: Class-AB
+Output Power: 0.15 W
+THD plus Noise: 0.02 %
+Operating Supply Voltage:2.7 V to 5.5 V
+Maximum Operating Temperature:+ 85 C
+Mounting Style:SMD/SMT
+Package / Case:SOIC-8
+Packaging:Tube
+Audio Load Resistance:8 Ohms
+Brand: Texas Instruments
+Input Offset Voltage:5 mV
+Minimum Operating Temperature:- 40 C
+Number of Channels:2 Channel
+Series: LM4881
+Factory Pack Quantity:95
+Supply Current: 3.6 mA
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 2.7 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آژیر SC1006 پکیج SOP-8
+
+قیمت:
+113,000
+
+توضیحات کوتاه:
+آی سی SC1006 نوع CMOS مولد صدای زنگ هشدار پکیج SOP-8 SMD
+
+توضیحات کامل:
+معرفی
+
+ژنراتور زنگ هشدار SC1006 در واقع یک تراشه CMOS بوده و برای تولید صدای زنگ هشدار در مدارات می توان استفاده نمود ، این تراشه دارای مدار تنظیم کننده ولتاژ داخلی بوده و می تواند مستقیماً به منبع تغذیه متصل نمود از ویژگی های این تراشه کم مصرف بودن و دارای نوسان ساز داخلی و کارکرد در ولتاژ های 12 تا 24 ولت می باشد.
+
+Description
+
+SC1006 is a CMOS process to manufacture the alarm sound generator ASIC, built-in voltage regulator circuit, reset capacitor, can directly enter the high-voltage power supply, and omit the diode and the reset capacitor voltage regulator. SC1006 you can select mono or six-tone cycle of the output.
+
+Features
+
+CMOS Process
+Low-power, high noise immunity
+Built-in oscillator
+Built-in voltage regulator circuits can be directly input 12V-24V power supply
+Built-in reset circuit, provincial and lack of external reset capacitor
+Power control, loop output
+
+Specification
+
+DC Supply Voltage VDD : -0.3V ~ 24V
+Input Voltage Range VIN : -0.3VDD TO VDD +0.3V
+Storage Temperature TSTG : -25℃ TO +125℃
+Operating Temperature TOP : -10℃ TO +70℃
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تقویت کننده صوتی CS8673E پکیج SOP-16
+
+قیمت:
+889,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی CS8673E پکیج SOP-16 کلاس D
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: CS8673E
+Product: Audio Amplifiers
+Vcc : 0.3 to 28 volt
+Vdd : 5 to 26 volt
+Power : 2x40 w (80w)
+T : -40°C to +85 °C
+Class: Class-D
+Package / Case: SOP-16
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تقویت کننده ولتاژ پایین صوتی LM386 پکیج SO-8
+
+قیمت:
+31,800
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر LM386
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: LM386
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 325 mW
+Mounting Style: SMD/SMT
+Type: 1-Channel Mono
+Package / Case: SOIC-8
+Audio - Load Impedance: 4 Ohms
+THD plus Noise: 0.2 %
+Supply Voltage - Max: 12 V
+Supply Voltage - Min: 4 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Description/Function: Speaker
+Height: 1.45 mm
+Input Type: Analog
+Length: 4.9 mm
+Output Type: 1-Channel Mono
+Supply Type: Single
+Width: 3.9 mm
+Gain: 20 dB
+Number of Channels: 1 Channel
+Ib - Input Bias Current: 250 nA
+Operating Supply Current: 4 mA
+Operating Supply Voltage: 5 V, 9 V
+Output Signal Type: Single
+Pd - Power Dissipation: 730 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 50 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ملودی BT66
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه ملودی BT66
+
+توضیحات کامل:
+تراشه ملودی BT66 آهنگ for elise
+
+Introduction
+
+UM66 is a 64 note melody generator IC that is available in the TO-92 package. The IC can play five different tones based on the version. It can be easily used along with an NPN transistor to drive a speaker which is rated for 6/8 ohms. It is commonly used in toys, bells, alarm clocks, etc. The features of the UM66 IC is given below
+
+Specification
+
+Operating Voltage: 3.3V
+Current consumption: 1uA
+Supply voltage range: 0.3V to 3.5V
+for elise melody
+Each melody consists of 64 notes.
+Can easily drive a speaker through NPN Transistor
+
+Application
+
+Frequently used in Toys, Calling Bells, Alarms, etc.
+Use in hobby projects to make them more attractive using sound
+To notify users through a melody tone
+

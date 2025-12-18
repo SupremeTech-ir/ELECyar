@@ -1,0 +1,1746 @@
+عنوان:
+میکرو کنترلر ATMEGA16A-AU پکیج SMD TQFP-44
+
+قیمت:
+1,430,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA16A-AU با هسته 8 بیتی AVR (پکیج SMD TQFP-44) با حافظه 16KB، فرکانس کاری 16MHz و 44 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA16A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA16A-AU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA16A-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی40- تا 85+ درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : ATmega16A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 16 kB
+پکیج : TQFP-44
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The low power, high performance CMOS 8/16-bit microcontroller is based on the Microchip AVR enhanced RISC architecture. The device features 16KB self programming flash program memory, 1024-byte SRAM, 512-byte EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device acheives 16 MIPS throughput at 16 Mhz at 2.7-5.5V operation. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, allowing you to optimize power consumption versus processing speed.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+Series: ATmega16A
+Mounting Style: SMD/SMT
+Package / Case: TQFP-44
+Core: AVR
+Program Memory Size: 16 kB
+Data Bus Width: 8 bit
+ADC Resolution: 10 bit
+Maximum Clock Frequency: 16 MHz
+Number of I/Os: 32 I/O
+Data RAM Size: 1 kB
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Height: 1 mm
+Interface Type: 2-Wire, SPI, USART
+Length: 10 mm
+Moisture Sensitive: Yes
+Number of Timers/Counters: 3 Timer
+Processor Series: megaAVR
+Product: MCU
+Product Type: 8-bit Microcontrollers - MCU
+Program Memory Type:Flash
+Subcategory: Microcontrollers - MCU
+Tradename: AVR
+Width:10 mm
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT89C51RC-24PU پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 40 پایه CMOS پکیج DIP با حافظه فلش 32KB
+
+توضیحات کامل:
+Introduction
+
+Low-power, high-performance CMOS 8-bit microcontroller with 32KB of flash programmable ROM and 512 bytes of RAM. It uses Microchip high-density nonvolatile memory technology and is compatible with the industry-standard 80C51 and 80C52 instruction set and pinout. On-chip flash allows the program memory to be user programmed by a conventional nonvolatile memory programmer. This versatile 8-bit CPU with flash provides a highly-flexible and cost-effective solution for many embedded control applications.
+
+Specification
+
+Program Memory Type: Flash
+Program Memory Size (KB): 32
+CPU Speed (MIPS/DMIPS): 4
+Digital Communication Peripherals: 1-UART
+Operating Voltage Range (V): 4 to 6
+Pin Count: 44
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT89S52 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 40 پایه CMOS از خانواده 8051 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+The AT89S52 is a low-power, high-performance CMOS 8-bit microcontroller with 8K bytes of in-system programmable Flash memory. The device is manufactured using Atmel’s high-density nonvolatile memory technology and is compatible with the industry-standard 80C51 instruction set and pinout. The on-chip Flash allows the program memory to be reprogrammed in-system or by a conventional nonvolatile memory programmer. By combining a versatile 8-bit CPU with in-system programmable Flash on a monolithic chip, the Atmel AT89S52 is a powerful microcontroller which provides a highly-flexible and cost-effective solution to many embedded control applications.
+
+The AT89S52 provides the following standard features: 8K bytes of Flash, 256 bytes of RAM, 32 I/O lines, Watchdog timer, two data pointers, three 16-bit timer/counters, a six-vector two-level interrupt architecture, a full duplex serial port, on-chip oscillator, and clock circuitry. In addition, the AT89S52 is designed with static logic for operation down to zero frequency and supports two software selectable power saving modes. The Idle Mode stops the CPU while allowing the RAM, timer/counters, serial port, and interrupt system to continue functioning. The Power-down mode saves the RAM contents but freezes the oscillator, disabling all other chip functions until the next interrupt or hardware reset.
+
+Feature
+
+Compatible with MCS® -51Products
+8K Bytes of In-System Programmable (ISP) Flash Memory – Endurance: 10,000 Write/Erase Cycles
+4.0V to 5.5V Operating Range
+Fully Static Operation: 0 Hz to 33 MHz
+Three-level Program Memory Lock
+256 x 8-bit Internal RAM
+32 Programmable I/O Lines
+Three 16-bit Timer/Counters
+Eight Interrupt Sources
+Full Duplex UART Serial Channel
+Low-power Idle and Power-down Modes
+Interrupt Recovery from Power-down Mode
+Watchdog Timer
+Dual Data Pointer
+Power-off Flag
+Fast Programming Time
+Flexible ISP Programming (Byte and Page Mode)
+Green (Pb/Halide-free) Packaging Option
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT90USB162-16MU پکیج SMD
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر AT90USB162-16MU با هسته 8 بیتی AVR (پکیج SMD) با حافظه 16KB، فرکانس کاری 16MHz و 32 پایه ساخت شرکت میکروچیپ می باشد.
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر AT90USB162-16MU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر AT90USB162-16MU دارای 22 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر AT90USB162-16MU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : AT90USB162
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 16 kB
+پکیج : QFN-32
+تعداد پین ها ورودی/خروجی : 22
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The AT90USB162-16MU microcontroller has an 8-bit AVR processor core (SMD package) made by Microchip and operates at a frequency of 20 MHz. This microcontroller provides 16 KB of FLASH memory on the chip. AT90USB162-16MU microcontroller has 22 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The AT90USB162-16MU microcontroller has an operating voltage of 2.7 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Part Number: AT90USB162-16MU
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+RoHS: RoHS Compliant Details
+Mounting Style: SMD/SMT
+Package / Case: QFN-32
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 16 kB
+Data RAM Size: 512 B
+ADC Resolution:  No ADC
+Operating Supply Voltage: 2.7 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Processor Series:  AT90USBx
+Packaging: Tray
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Interface Type: SPI
+Length: 5 mm
+Minimum Operating Temperature: - 40 C
+Number of I/Os: 22 I/O
+Number of Timers/Counters: 2 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT90USB162-AU پکیج SMD
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر AT90USB162-AU با هسته 8 بیتی AVR (پکیج SMD) با حافظه 16KB، فرکانس کاری 16MHz و 32 پایه ساخت شرکت میکروچیپ می باشد.
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر AT90USB162-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر AT90USB162-AU دارای 22 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر AT90USB162-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : AT90USB162
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 16 kB
+پکیج : TQFP-32
+تعداد پین ها ورودی/خروجی : 22
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The AT90USB162-16MU microcontroller has an 8-bit AVR processor core (SMD package) made by Microchip and operates at a frequency of 20 MHz. This microcontroller provides 16 KB of FLASH memory on the chip. AT90USB162-16MU microcontroller has 22 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The AT90USB162-16MU microcontroller has an operating voltage of 2.7 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+RoHS: RoHS Compliant Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-32
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 16 kB
+Data RAM Size: 4 kB
+ADC Resolution: No ADC
+Operating Supply Voltage: 2.7 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Processor Series: AT90USBx
+Packaging: Tray
+Brand: Microchip Technology / Atmel
+Height: 1 mm
+Interface Type: SPI, USART
+Length: 7 mm
+Minimum Operating Temperature: -40 C
+Number of I/Os: 22 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT91SAM7S64-AU
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر AT91SAM7S64-AU با هسته ARM7TDMI  با حافظه 64KB و فرکانس کاری 55MHz ساخت شرکت ATMEL می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر AT91SAM7S64-AU دارای هسته پردازنده ARM7TDMI توسط شرکت ATMEL ساخته شده است و با فرکانس 55 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر AT91SAM7S64-AU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر AT91SAM7S64-AU دارای ولتاژ کاری 1.8 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : ATMEL
+دارای هسته ARM7TDMI
+ولتاژ کاری : 1.8 ولت
+سرعت: 55 Mhz
+حافظه: 64 kB
+پکیج : LQFP-64
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The AT91SAM7S64-AU microcontroller has an ARM7TDMI processor core made by ATMEL and operates at a frequency of 55 MHz. This microcontroller provides 64 KB of FLASH memory on the chip. AT91SAM7S64-AU microcontroller has 32 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The AT91SAM7S64-AU microcontroller has a working voltage of 1.8 volts and operates in the temperature range of -40 to +85 degrees Celsius.separate battery supply, and up to 165 general purpose I/O pins.separate battery supply, and up to 165 general purpose I/O
+
+pins.
+
+Specification
+
+Product Category:     ARM Microcontrollers - MCU
+Manufacturer:     Atmel
+RoHS:     RoHS Compliant Details
+Mounting Style:     SMD/SMT
+Package / Case:     LQFP-64
+Core:     ARM7TDMI
+Data Bus Width:     32 bit/16 bit
+Maximum Clock Frequency:     55 MHz
+Program Memory Size:     64 kB
+Data RAM Size:     16 kB
+ADC Resolution:     10 bit
+Operating Supply Voltage:     1.8 V
+Maximum Operating Temperature:     + 85 C
+Processor Series:     SAM7S
+Analog Supply Voltage:     3.3 V
+Brand:     Atmel
+Data RAM Type:     RAM
+Height:     1.4 mm
+I/O Voltage:     1.65 V to 3.6 V
+Interface Type:     I2C, SPI, USART, USB
+Length:     10 mm
+Minimum Operating Temperature:     - 40 C
+Number of ADC Channels:     8 Channel
+Number of I/Os:     32 I/O
+Number of Timers/Counters:     3 x 16 bit
+Product:     MCU
+Program Memory Type:     Flash
+Series:     SAM7S/SE
+Factory Pack Quantity:     160
+Supply Voltage - Max:     1.95 V
+Supply Voltage - Min:     1.65 V
+Watchdog Timers:     Watchdog Timer
+Width:     10 mm
+Unit Weight:     0.012088 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT91SAM7X256
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر AT91SAM7X256 با هسته ARM7TDMI  با حافظه 256KB و فرکانس کاری 55MHz ساخت شرکت ATMEL می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر AT91SAM7X256 دارای هسته پردازنده ARM7TDMI توسط شرکت ATMEL ساخته شده است و با فرکانس 55 مگاهرتز کار می کند. این میکروکنترلر 256  کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر AT91SAM7X256 دارای 60 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر AT91SAM7X256 دارای ولتاژ کاری 1.8 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : ATMEL
+دارای هسته ARM7TDMI
+ولتاژ کاری : 1.8 ولت
+سرعت: 55 Mhz
+حافظه: 256 kB
+پکیج : LQFP-100
+تعداد پین ها ورودی/خروجی : 60
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The AT91SAM7X256 microcontroller has an ARM7TDMI processor core made by ATMEL and operates at a frequency of 55 MHz. This microcontroller provides 256 KB of FLASH memory on the chip. AT91SAM7X256 microcontroller has 60 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The AT91SAM7X256 microcontroller has a working voltage of 1.8 volts and operates in the temperature range of -40 to +85 degrees Celsius.separate battery supply, and up to 165 general purpose I/O pins.
+
+Specification
+
+Manufacturer: ATMEL
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-100
+Series: SAM7X/XC
+Core: ARM7TDMI
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 55 MHz
+Program Memory Size: 256 kB
+Data RAM Size: 64 kB
+Number of I/Os: 60 I/O
+Operating Supply Voltage: 1.8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Height: 1.4 mm
+Length: 14 mm
+Program Memory Type: Flash
+Width: 14 mm
+Brand: Microchip Technology / Atmel
+Interface Type: CAN, SPI, SSC, TWI, USART, USB
+Analog Supply Voltage: 3.3 V
+I/O Voltage: 3.3 V
+Moisture Sensitive: Yes
+Number of Timers/Counters: 1 x 16 bit
+Product Type: ARM Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 1.95 V
+Supply Voltage - Min: 1.65 V
+Part # Aliases: AT91SAM7X256B-AU
+Unit Weight: 0.046530 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر AT91SAM7X512-AU
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر AT91SAM7X512-AU با هسته ARM7TDMI  با حافظه 512KB و فرکانس کاری 55MHz ساخت شرکت ATMEL می باشد.
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر AT91SAM7X512-AU دارای هسته پردازنده ARM7TDMI توسط شرکت ATMEL ساخته شده است و با فرکانس 55 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر AT91SAM7X512-AU دارای 13 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر AT91SAM7X512-AU دارای ولتاژ کاری 1.8 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : ATMEL
+دارای هسته ARM7TDMI
+ولتاژ کاری : 1.8 ولت
+سرعت: 55 Mhz
+حافظه: 512 kB
+پکیج : LQFP-100
+تعداد پین ها ورودی/خروجی : 13
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The AT91SAM7X512-AU microcontroller has an ARM7TDMI processor core made by ATMEL and operates at a frequency of 55 MHz. This microcontroller provides 512 KB of FLASH memory on the chip.AT91SAM7X512-AU microcontroller has 13 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The AT91SAM7X512-AU microcontroller has a working voltage of 1.8 volts and operates in the temperature range of -40 to +85 degrees Celsius.separate battery supply, and up to 165 general purpose I/O pins.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: ARM Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: LQFP-100
+Series: SAM7X/XC
+Core: ARM7TDMI
+Data Bus Width: 32 bit
+Maximum Clock Frequency: 55 MHz
+Program Memory Size: 512 kB
+Data RAM Size: 128 kB
+ADC Resolution: 10 bit
+Number of I/Os: 13 I/O
+Operating Supply Voltage: 1.8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Height: 1.4 mm
+Length: 14 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 14 mm
+Brand: Microchip Technology / Atmel
+Interface Type: CAN, SPI, SSC, TWI, USART, USB
+Analog Supply Voltage: 3.3 V
+I/O Voltage: 3.3 V
+Moisture Sensitive: Yes
+Number of ADC Channels: 8
+Number of Timers/Counters: 1 x 16 bit
+Processor Series: AT91SAMx
+Product Type: ARM Microcontrollers - MCU
+Factory Pack Quantity: 90
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 1.95 V
+Supply Voltage - Min: 1.65 V
+Unit Weight: 0.046530 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA128A-AU پکیج SMD TQFP-64
+
+قیمت:
+2,920,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA128A-AU پکیج SMD TQFP-64 با حافظه 128KB و فرکانس کاری 16MHz دارای 53 پین ورودی/خروجی
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA128A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج TQFP-64 ) با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA128A-AU دارای 53 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. همچنین میکروکنترلر ATMEGA128A-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +105 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega128A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 128 kB
+پکیج : TQFP-64
+تعداد پین ها ورودی/خروجی : 53
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +105 درجه سانتیگراد
+
+Introduction
+
+The high-performance, low-power Microchip 8-bit AVR RISC-based microcontroller combines 128 KB flash memory with read-while-write capabilities, 4 KB EEPROM, 4 KB SRAM, 53 general purpose I/O lines, 32 general purpose working registers, a real-time counter, four flexible timer/counters with compare modes and PWM, two USARTs, a byte-oriented Two-Wire serial interface, an 8-channel/10-bit A/D converter with optional differential input stage with programmable gain, programmable watchdog timer with internal oscillator, SPI serial port, a JTAG (IEEE® 1149.1 compliant) test interface for accessing the on-chip debugging and programming, and six software selectable power saving modes. The device operates between 2.7-5.5 volts.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+RoHS: RoHS Compliant Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-64
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size:128 kB
+Data RAM Size: 4 kB
+ADC Resolution: 10 bit
+Operating Supply Voltage: 2.7 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Processor Series: megaAVR
+Packaging: Tray
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 4 kB
+Data ROM Type: EEPROM
+Height: 1 mm
+Interface Type: JTAG
+Length:14 mm
+Minimum Operating Temperature: - 40 C
+Number of ADC Channels: 8
+Number of I/Os: 53 I/O
+Number of Timers/Counters: 4 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA168PA پکیج SMD TQFP-32
+
+قیمت:
+1,530,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA168PA با هسته 8 بیتی AVR (پکیج SMD TQFP-32) با حافظه 16KB، فرکانس کاری 20MHz و 32 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA168PA دارای هسته پردازنده 8 بیتی AVR (پکیج TQFP-32) بوده و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA168PA دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA168PA دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega168PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 16 kB
+پکیج : TQFP-32
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA168PA is a 8-bit high-performance picoPower AVR RISC-based Microcontroller combines 16kB ISP flash memory with read-while-write capabilities, 512B EEPROM, 1kB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8-channel in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator and five software selectable power saving modes. The device operates between 1.8 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer:  Microchip
+RoHS: RoHS Compliant Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-32
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency:  20 MHz
+Program Memory Size: 16 kB
+Data RAM Size: 1 kB
+ADC Resolution: 10 bit
+Operating Supply Voltage: 1.8 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Processor Series: megaAVR
+Packaging: Tray
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Height: 1 mm
+Interface Type: 2-Wire, SPI
+Length: 7 mm
+Minimum Operating Temperature: - 40 C
+Number of ADC Channels: 8
+Number of I/Os: 23 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA16A-PU پکیج PDIP-40
+
+قیمت:
+3,085,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA16A-PU با هسته AVR(پکیج PDIP-40) با حافظه 16KB، فرکانس کاری 16MHz و دارای 40 پایه
+
+توضیحات کامل:
+میکروکنترلر ATMEGA16A-PU دارای هسته پردازنده 8 بیتی AVR (پکیج PDIP-40) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA16A-PU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA16A-PU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega16A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 16 kB
+پکیج : PDIP-40
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA16A-PU is a 16bit low power high performance CMOS Microcontroller is based on the AVR enhanced RISC architecture. The device features 16kB self-programming flash program memory, 1024B SRAM, 512-byte EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device achieves 16 MIPS throughput at 16MHz at 2.7 to 5.5V operation. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, allowing you to optimize power consumption versus processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers. All the 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+RoHS: RoHS Compliant Details
+Mounting Style: Through Hole
+Package / Case: PDIP-40
+Core:  AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 16 kB
+Data RAM Size: 1 kB
+ADC Resolution: 10 bit
+Operating Supply Voltage: 2.7 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Processor Series: megaAVR
+Packaging: Tube
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Minimum Operating Temperature: - 40 C
+Number of ADC Channels: 8
+Number of I/Os: 32 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA2560-16AU پکیج SMD TQFP-100
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA2560-16AU با هسته 8 بیتی AVR (پکیج SMD TQFP-100) با حافظه 256KB، فرکانس کاری 16MHz و 100 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA2560-16AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA2560-16AU دارای 86 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA2560-16AU دارای ولتاژ کاری 4.5 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega256x
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 4.5 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 256 kB
+پکیج :  TQFP-100
+تعداد پین ها ورودی/خروجی : 86
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+ATMEGA2560-16AU is a low power CMOS 8 bit microcontroller based on the AVR enhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATMEGA2560-16AU achieves throughputs approaching 1MIPS per MHz allowing the system designer to optimise power consumption versus processing speed.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-100
+Series: ATmega256x
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 256 kB
+Data RAM Size: 8 kB
+ADC Resolution: 10 bit
+Number of I/Os: 86 I/O
+Operating Supply Voltage: 4.5 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1 mm
+Length: 14 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 14 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 4 kB
+Data ROM Type: EEPROM
+Interface Type: 2-Wire, SPI, USART
+Moisture Sensitive: Yes
+Number of ADC Channels: 16
+Number of Timers/Counters: 6 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA328P-AU پکیج SMD TQFP-32
+
+قیمت:
+1,660,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA328P-AU با هسته 8 بیتی AVR (پکیج SMD TQFP-32) با حافظه 32KB، فرکانس کاری 20MHz و 32 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA328P-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) بوده و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA328P-AU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA328P-AU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega256x
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 32 kB
+پکیج :  TQFP-32
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The high-performance picoPower 8bit AVR RISC-based microcontroller combines 32KB ISP flash memory with read-while-write capabilities, 1024B EEPROM, 2KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, a 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts.
+
+Introduction
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-32
+Series: ATmega328P
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 32 kB
+Data RAM Size: 2 kB
+ADC Resolution: 10 bit
+Number of I/Os: 23
+Operating Supply Voltage: 1.8 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Interface Type: I2C, SPI, USART
+Packaging: Tray
+Height: 1 mm
+Length: 7 mm
+Product: MCU
+Program Memory Type:Flash
+Width:7 mm
+Data RAM Type: SRAM
+Data ROM Size: 1 kB
+Data ROM Type: EEPROM
+Number of ADC Channels: 8
+Number of Timers/Counters: 3 Timer
+Processor Series: megaAVR
+Product Type: 8-bit Microcontrollers - MCU
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA328P-PU پکیج PDIP-28
+
+قیمت:
+2,474,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA328P-PU با هسته 8 بیتی AVR (پکیج PDIP-28) با حافظه 32KB، فرکانس کاری 20MHz و 28 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA328P-PU دارای هسته پردازنده 8 بیتی AVR (پکیج DIP) بوده  و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA328P-PU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA328P-PU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega328P
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 32 kB
+پکیج : PDIP-28
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The high-performance picoPower 8bit AVR RISC-based microcontroller combines 32KB ISP flash memory with read-while-write capabilities, 1024B EEPROM, 2KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, a 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-28
+Series: ATmega328P
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 32 kB
+Data RAM Size: 2 kB
+ADC Resolution: 10 bit
+Number of I/Os: 23 I/O
+Operating Supply Voltage: 1.8 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 4.57 mm
+Length: 34.8 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 7.49 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 1 kB
+Data ROM Type: EEPROM
+Interface Type: I2C, SPI, USART
+Number of ADC Channels: 6
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA32A-AU پکیج SMD TQFP-44
+
+قیمت:
+1,560,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA32A-AU با هسته AVR(پکیج SMD) با حافظه 32KB، فرکانس کاری 16MHz و 44 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA32A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج  SMD TQFP-44 ) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA32A-AU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA32A-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega32A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 32 kB
+پکیج : TQFP-44
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA32A-AU is a 8-bit low power, high performance AVR RISC-based Microcontroller Unit featuring 32kB self-programming flash program memory, 2kB SRAM, 1kB EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device achieves 16 MIPS throughput at 16Mz. By executing powerful instructions in a single clock cycle, the ATmega32A achieves throughputs approaching 1 MIPS per MHz allowing the system designed to optimize power consumption versus processing speed. The core combines a rich instruction set with 32 general purpose working registers. All the 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-44
+Series: ATmega32A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 32 kB
+Data RAM Size: 2 kB
+Number of I/Os: 32 I/O
+Operating Supply Voltage: 2.7 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1 mm
+Length: 10 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 10 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 1024 B
+Data ROM Type: EEPROM
+Interface Type: 2-Wire, SPI, USART
+Moisture Sensitive: Yes
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA32A-PU پکیج PDIP-40
+
+قیمت:
+3,604,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA32A-PU با هسته AVR(پکیج PDIP-40) با حافظه 32KB، فرکانس کاری 16MHz و 40 پایه
+
+توضیحات کامل:
+میکروکنترلر ATMEGA32A-PU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA32A-PU دارای 32 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA32A-PU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATMEGA32A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 32 kB
+پکیج : PDIP-40
+تعداد پین ها ورودی/خروجی : 32
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA32A-PU is a 8bit low power, high performance AVR RISC-based Microcontroller Unit featuring 32kB self-programming flash program memory, 2kB SRAM, 1kB EEPROM, 8 channel 10-bit A/D converter and JTAG interface for on-chip-debug. The device achieves 16 MIPS throughput at 16Mhz. The AVR® core combines a rich instruction set with 32 general purpose working registers. All the 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers. The On-chip ISP Flash allows the program memory to be reprogrammed in-system through an SPI serial interface, by a conventional non-volatile memory programmer or by an On-chip Boot program running on the AVR core.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Mounting Style: Through Hole
+Package/Case: PDIP-40
+Series: ATmega32A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 32 kB
+Data RAM Size: 2 kB
+Number of I/Os: 32 I/O
+Operating Supply Voltage: 2.7 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Interface Type: 2-Wire, SPI, USART
+Packaging: Tube
+Height: 4.83 mm
+Length: 52.58 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 13.97 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 1024 B
+Data ROM Type: EEPROM
+Number of Timers/Counters: 3 Timer
+Processor Series: megaAVR
+Product Type: 8-bit Microcontrollers - MCU
+Factory Pack Quantity: 10
+Subcategory: Microcontrollers - MCU
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 2.7 V
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA48PA-AU پکیج SMD TQFP-32
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA48PA با هسته 8 بیتی AVR (پکیج SMD TQFP-32) با حافظه 4KB، فرکانس کاری 10MHz و 32 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA48PA دارای هسته پردازنده 8 بیتی AVR (پکیج SMD TQFP-32) توسط شرکت Microchip ساخته شده است و با فرکانس 10 مگاهرتز کار می کند. این میکروکنترلر 4 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA48PA دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA48PA دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega48PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 10 Mhz
+حافظه: 4 kB
+پکیج : TQFP-32
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA48PA-AU is a 8-bit high-performance picoPower AVR RISC-based Microcontroller combines 4kB ISP flash memory, 256B EEPROM, 512B SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator and five software selectable power saving modes. The device operates between 1.8 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Series: ATmega48PA
+Mounting Style: SMD/SMT
+Package/Case: TQFP-32
+Core: AVR
+Program Memory Size: 4 kB
+Data Bus Width: 8 bit
+ADC Resolution: 10 bit
+Maximum Clock Frequency: 10 MHz
+Number of I/Os: 23 I/O
+Data RAM Size: 512 B
+Operating Supply Voltage: 1.8 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Product: MCU
+Brand: Microchip Technology / Atmel
+Number of ADC Channels: 8 Channel
+Number of Timers/Counters: 3 Timer
+Processor Series: megaAVR
+Product Type: 8-bit Microcontrollers - MCU
+Subcategory: Microcontrollers - MCU
+Tradename: AVR
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA48PA-PU پکیج PDIP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA48PA-PU با هسته 8 بیتی AVR (پکیج PDIP-28) با حافظه 4KB، فرکانس کاری 20MHz و 28 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA48PA-PU دارای هسته پردازنده 8 بیتی AVR (پکیج PDIP-28) بوده  و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 4 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA48PA-PU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA48PA-PU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega48PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 4 kB
+پکیج : PDIP-28
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA48PA-PU microcontroller has an 8-bit AVR processor core and operates at a frequency of 20 MHz. This microcontroller provides 4 KB of FLASH memory on the chip. ATMEGA48PA-PU microcontroller has 23 input / output pins and communication protocols: I2C, SPI UART / USART. The ATMEGA48PA-PU microcontroller has an operating voltage of 1.8 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category:  8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+RoHS: RoHS Compliant Details
+Mounting Style:  Through Hole
+Package / Case: PDIP-28
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size:  4 kB
+Data RAM Size: 512 B
+ADC Resolution: 10 bit
+Operating Supply Voltage: 1.8 V to 5.5 V
+Maximum Operating Temperature:+ 85 C
+Processor Series: megaAVR
+Packaging: Tube
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Type: EEPROM
+Interface Type: 2-Wire, SPI, USART
+Length: 34.8 mm
+Minimum Operating Temperature: - 40 C
+Number of ADC Channels: 6
+Number of I/Os: 23 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA88PA-AU پکیج SMD TQFP-32
+
+قیمت:
+1,254,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA88PA-AU با هسته 8 بیتی AVR (پکیج SMD) با حافظه 8KB، فرکانس کاری 20MHz و 32 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA88PA-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD TQFP-32) بوده و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA88PA-AU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA88PA-AU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega88PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: TQFP-32
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA88PA-AU is a 8-bit high-performance picoPower AVR RISC-based Microcontroller combines 8kB ISP flash memory with read-while-write capabilities, 512B EEPROM, 1kB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator and five software selectable power saving modes. The device operates between 1.8 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+RoHS: RoHS Compliant Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-32
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 8 kB
+Data RAM Size: 1 kB
+Operating Supply Voltage:1.8 V to 5.5 V
+Maximum Operating Temperature:+ 85 C
+Processor Series:  megaAVR
+Packaging: Tray
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Interface Type:SPI, TWI, UART
+Length: 7 mm
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Number of I/Os: 23 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA8A-AU پکیج SMD TQFP-32
+
+قیمت:
+1,130,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA8A-AU با هسته AVR(پکیج SMD TQFP-32) با حافظه 8KB، فرکانس کاری 16MHz و 32 پایه
+
+توضیحات کامل:
+میکروکنترلر ATMEGA8A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA8A-AU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. میکروکنترلر ATMEGA8A-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega8A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 8 kB
+پکیج : TQFP-32
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA8A-AU is a 8-bit high-performance low-power AVR RISC-based Microcontroller combines 8kB ISP flash memory with read-while-write capabilities, 512B EEPROM, 1kB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte oriented Two-Wire serial interface, 6-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator, SPI serial port and five software selectable power saving modes. The device operates between 2.7 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Mounting Style: SMD/SMT
+Package / Case: TQFP-32
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 8 kB
+Data RAM Size: 1 kB
+Operating Supply Voltage: 2.7 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Minimum Operating Temperature: - 40 C
+Processor Series: megaAVR
+Packaging: Tray
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Height: 1.05 mm
+Length: 7 mm
+Interface Type: SPI, TWI, USART
+Number of I/Os: 23 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA8A-PU پکیج PDIP-28
+
+قیمت:
+1,918,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA8A-PU با هسته AVR (پکیج PDIP-28) با حافظه 8KB، فرکانس کاری 16MHz و 28 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA8A-PU دارای هسته پردازنده 8 بیتی AVR (پکیج DIP) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می‌کند. میکروکنترلر ATMEGA8A-PU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART میباشد.میکروکنترلر ATMEGA8A-PU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 8 kB
+پکیج : PDIP-40
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA8A-PU is a high-performance, low-power 8bit AVR RISC-based microcontroller combines 8kb ISP flash memory with read-while-write capabilities, 512B EEPROM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte oriented two-wire serial interface, 6-channel 10-bit A/D converter (8-channel in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, SPI serial port and five software selectable power saving modes. The device operates between 2.7 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: RoHS Compliant Details
+Mounting Style: Through Hole
+Package / Case: PDIP-28
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 8 kB
+Data RAM Size: 1 kB
+ADC Resolution: 10 bit
+Operating Supply Voltage: 2.7 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Processor Series: megaAVR
+Packaging: Tube
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Height: 4.57 mm
+Length: 34.8 mm
+Interface Type: SPI, TWI, USART
+Number of ADC Channels: 6
+Number of I/Os: 23 I/O
+Number of Timers/Counters: 3 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATTINY13A-SSU پکیج SOP-8
+
+قیمت:
+568,000
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY13A-SSU با هسته AVR (پکیج SOP-8) با حافظه 1KB، فرکانس کاری 20MHz و 8 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY13A-SSU دارای هسته پردازنده 8 بیتی AVR توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 1 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY13A-SSU دارای 6 پین ورودی/خروجی می باشد.این سری از میکروکنترلرها دارای مصرف انرژی بسیار پائین بوده و مناسب سیستمهای پرتابل می باشند. میکروکنترلر ATTINY13A-SSU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +125 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : ATtiny13A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 1 kB
+پکیج : SOP-8
+تعداد پین ها ورودی/خروجی : 6
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATTINY13A-SSU is a 8-bit apicoPower AVR RISC-based Microcontroller features 1kB of ISP Flash, 64B EEPROM, 64B SRAM, 32B register file and 4-channel 10-bit A/D converter. The device achieves up to 20 MIPS throughput at 20MHz at 1.8 to 5.5V operation. By executing powerful instructions in a single clock cycle, the ATtiny13A achieves throughputs approaching 1 MIPS per MHz allowing you to optimize power consumption versus processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers. All 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8 / 8S1
+Series: ATtiny13A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 1 kB
+Data RAM Size: 64 B
+ADC Resolution: 10 bit
+Number of I/Os: 6 I/O
+Operating Supply Voltage: 1.8 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 1.5 mm
+Length: 5 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 4 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 64 B
+Data ROM Type: EEPROM
+Interface Type: SPI
+Moisture Sensitive: Yes
+Number of ADC Channels: 4
+Number of Timers/Counters: 1 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATTINY13A-SU پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY13A-SU با هسته AVR(پکیج SOP-8) با حافظه 1KB، فرکانس کاری 20MHz و 8 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY13A-SU دارای هسته پردازنده 8 بیتی AVR (پکیج SOP-8) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 1 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY13A-SU دارای 6 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.این سری از میکروکنترلرها دارای مصرف انرژی بسیار پائین بوده و مناسب سیستمهای پرتابل می باشند.
+
+میکروکنترلر ATTINY13A-SU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +125 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : ATtiny13A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20Mhz
+حافظه: 1 kB
+پکیج : SOP-8
+تعداد پین ها ورودی/خروجی : 6
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATTINY13A-SU is a 8-bit low-power CMOS Microcontroller Unit based on the AVR enhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATtiny13A achieves throughputs approaching 1MIPS per MHz allowing the system designed to optimize power consumption versus processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers. All 32 registers are directly connected to the arithmetic logic unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+Manufacturer: Microchip
+Mounting Style: SMD/SMT
+Package / Case: SOP-8 / 8S2
+Core: AVR
+Data Bus Width:8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 1 kB
+Data RAM Size: 64 B
+ADC Resolution: 10 bit
+Operating Supply Voltage: 1.8 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Processor Series: TinyAVR
+Packaging: Tube
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 64 B
+Data ROM Type: EEPROM
+Height: 1.91 mm
+Interface Type: SPI
+Length: 5.35 mm
+Minimum Operating Temperature: - 40 C
+Number of ADC Channels: 4
+Number of I/Os:6 I/O
+Number of Timers/Counters: 1 Timer
+Product: MCU
+Program Memory Type: Flash
+Series: ATTINY 13A
+Factory Pack Quantity:  95
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 1.8 V
+Tradename: ATTINY
+Width:  5.4 mm
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATTINY24A-SSU پکیج SOIC-14
+
+قیمت:
+1,017,000
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY24A-SSU با هسته 8 بیتی AVR (پکیج SOIC-14) با حافظه 2KB، فرکانس کاری 20MHz و 14 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY24A-SSU دارای هسته پردازنده 8 بیتی AVR (پکیج SOIC-14) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 2 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY24A-SSU دارای 12 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI می باشد.
+
+میکروکنترلر ATTINY24A-SSU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : ATtiny24
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+پکیج :  SOIC-14
+تعداد پین ها ورودی/خروجی : 12
+پروتکل های ارتباطی: I2C, SPI
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATTINY24A-SSU is a high-performance picoPower 8-bit AVR RISC-based Microcontroller combines 128B EEPROM, 12 general purpose I/O lines, 32 general purpose working registers, an 8-bit timer/counter with two PWM channels, a 16-bit timer/counter with two PWM channels, internal and external interrupts, an 8-channel 10-bit A/D converter, programmable gain stage (1x, 20x) for 12 differential ADC channel pairs, programmable watchdog timer with internal oscillator, internal calibrated oscillator and four software selectable power saving modes. The device operates between 1.8 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+Mounting Style: SMD/SMT
+Package / Case: SOIC-14
+Series: ATTINY 24A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 2 kB
+Data RAM Size: 128 B
+ADC Resolution: 10 bit
+Number of I/Os: 12 I/O
+Operating Supply Voltage: 1.8 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Interface Type: SPI, USI
+Packaging: Tube
+Height: 1.75 mm
+Length: 8.74 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 3.99 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+ Data ROM Size: 128 B
+Data ROM Type: EEPROM
+Minimum Operating Temperature: - 40 C
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATTINY261-20SU پکیج SOIC-20
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY261-20SU با هسته 8 بیتی AVR (پکیج SOIC-20) با حافظه 2KB، فرکانس کاری 20MHz و 20 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY261-20SU دارای هسته پردازنده 8 بیتی AVR (پکیج SOIC-20) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 2 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY261-20SU دارای پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. همچنین این میکروکنترلر دارای ولتاژ کاری 2.7 تا 5.5 ولت می باشد.
+
+مشخصات
+
+سازنده : Microchip
+سری : ATtinyx61
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 2 kB
+پکیج : SOIC-20
+تعداد پین ها  : 20
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The high-performance Atmel 8-bit AVR RISC-based microcontroller combines 2KB ISP flash memory, 128B EEPROM, 128B SRAM, 16 general purpose I/O lines, 32 general purpose working registers, debugWIRE for on-chip debugging, an 8-bit timer/counter with compare modes, an 8-bit high speed timer/counter with PWM and separate prescaler, universal serial interface (USI), internal and external interrupts, an 11-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator, and four software selectable power saving modes. The device operates between 2.7-5.5 volts.
+By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processor speed.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+Series: ATtinyx61
+Mounting Style: SMD/SMT
+Package / Case: SOIC-20
+Core:AVR
+Program Memory Size: 2 kB
+Data Bus Width: 8 bit
+ADC Resolution: 10 bit
+Maximum Clock Frequency: 20 MHz
+Number of I/Os: 16 I/O
+Data RAM Size: 128 B
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Brand: Microchip Technology
+Data RAM Type: SRAM
+Data ROM Size: 128 B
+Data ROM Type: EEPROM
+Height: 2.35 mm
+Interface Type: SPI, USI
+Length: 13 mm
+Moisture Sensitive: Yes
+Number of ADC Channels: 11 Channel
+Number of Timers/Counters: 3 Timer
+Operating Supply Voltage: 2.7 V to 5.5 V
+Processor Series: TinyAVR
+Product: MCU
+Product Type: 8-bit Microcontrollers - MCU
+Program Memory Type: Flash
+Subcategory: Microcontrollers - MCU
+Tradename: AVR
+Width:7.6 mm
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر ATxmega128A1U
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATxmega128A1U با هسته 8 بیتی AVR (پکیج SMD) با حافظه 128KB، فرکانس کاری 32MHz و 100 پایه ساخت شرکت میکروچیپ می باشد.
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATxmega128A1U دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 32 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATxmega128A1U دارای 78 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر ATxmega128A1U دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip
+سری : XMEGA A1U
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 32 Mhz
+تعداد پین ها ورودی/خروجی : 78
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATxmega128A1U microcontroller has an 8-bit AVR processor core (SMD package) made by Microchip and operates at a frequency of 32 MHz. This microcontroller provides 128 KB of FLASH memory on the chip. ATxmega128A1U microcontroller has 78 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The ATxmega128A1U microcontroller has a working voltage of 1.8 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-100
+Series: XMEGA A1U
+Core: AVR
+Data Bus Width: 8 bit/16 bit
+Maximum Clock Frequency: 32 MHz
+Program Memory Size: 128 kB
+Data RAM Size: 8 kB
+ADC Resolution: 12 bit
+Number of I/Os: 78 I/O
+Operating Supply Voltage: 1.6 V to 3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Product: MCU
+Program Memory Type: Flash
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 2 kB
+Data ROM Type: EEPROM
+Interface Type: I2C, SPI, UART
+Moisture Sensitive: Yes
+Number of ADC Channels: 16
+Number of Timers/Counters: 8 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلرATMEGA64A-AU پکیج SMD TQFP-64
+
+قیمت:
+2,250,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA64A-AU با هسته 8 بیتی AVR (پکیج SMD TQFP-64) با حافظه 64KB، فرکانس کاری 16MHz و 64 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA64A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD TQFP-64) بوده و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 64 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA64A-AU دارای 53 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.میکروکنترلر ATMEGA64A-AU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega64A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: TQFP-64
+تعداد پین ها ورودی/خروجی : 53
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA64A-AU is a 8-bit high-performance low-power AVR RISC-based Microcontroller combines 64kB ISP flash memory with read-while-write capabilities, 2kB EEPROM, 4kB SRAM, 53 general purpose I/O lines, 32 general purpose working registers, a real time counter, four flexible timer/counters with compare modes and PWM, two USARTs, a byte-oriented 2-wire serial interface, an 8-channel/10-bit A/D converter with optional differential input stage with programmable gain, programmable watchdog timer with internal oscillator, SPI serial port, a JTAG (IEEE 1149.1 compliant) test interface for on-chip debugging and programming and six software selectable power saving modes. The device operates between 2.7 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: TQFP-64
+Series: ATmega64A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 16 MHz
+Program Memory Size: 64 kB
+Data RAM Size: 4 kB
+Number of I/Os: 53 I/O
+Operating Supply Voltage: 2.7 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tray
+Height: 1 mm
+Length: 14 mm
+Width: 14 mm
+Product: MCU
+Program Memory Type: Flash
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 2 kB
+Data ROM Type: EEPROM
+Interface Type: SPI, USART
+Moisture Sensitive: Yes
+Number of Timers/Counters: 4 Timer
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلرATMEGA88PA-PU پکیج PDIP-28
+
+قیمت:
+2,790,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA88PA-PU با هسته 8 بیتی AVR (پکیج DIP) با حافظه 8KB، فرکانس کاری 20MHz و 28 پایه
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA88PA-PU دارای هسته پردازنده 8 بیتی AVR (پکیج PDIP-28) بوده و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA88PA-PU دارای 23 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART میباشد.میکروکنترلر ATMEGA88PA-PU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega88PA
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه:  PDIP-28
+تعداد پین ها ورودی/خروجی : 23
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATMEGA88PA-PU is a 8-bit low-power CMOS Microcontroller Unit based on the AVR enhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATmega88PA achieves throughputs approaching 1MIPS per MHz allowing the system designed to optimize power consumption versus processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers. All the 32 registers are directly connected to the Arithmetic Logic Unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-28
+Series: ATmega88PA
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 8 kB
+Data RAM Size: 1 kB
+ADC Resolution: 10 bit
+Number of I/Os: 23 I/O
+Operating Supply Voltage: 1.8 V to 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 4.57 mm
+Length: 34.8 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 7.49 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+Data ROM Size: 512 B
+Data ROM Type: EEPROM
+Interface Type: 2-Wire, SPI, USART
+Number of ADC Channels: 6
+Number of Timers/Counters: 3 Timer
+

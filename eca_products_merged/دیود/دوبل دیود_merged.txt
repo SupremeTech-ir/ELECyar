@@ -1,0 +1,780 @@
+عنوان:
+دوبل دیود شاتکی SR1060C 10A-60V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 10 آمپر SR1060C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 10 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.75 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR1080C 10A-80V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 10 آمپر SR20150C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 10 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR20150CT 20A-150V مارک GW پکیج TO-220
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 20 آمپر SR20150CT مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 150 V
+Vf - Forward Voltage: 0.95 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2030CT 20A-30V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 30 ولت 20 آمپر SR2030CT مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 30 V
+Vf - Forward Voltage: 0.65 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2045C 20A-45V مارک GW پکیج TO-220
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 20 آمپر SR2045C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2050C 20A-50V مارک GW پکیج TO-220
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 50 ولت 20 آمپر SR2050C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 50 V
+Vf - Forward Voltage: 0.75 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF10150C 10A-150V مارک GW پکیج TO-220FP
+
+قیمت:
+171,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 10 آمپر SRF10150C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Part Number: SRF10150C
+Category: Diode Schottky
+Description: 10A, 150V, Trench Schottky
+Family: Schottky
+IF(AV) (A): 10
+IFSM (A): 100
+IR (mA): 50
+Package: TO-220FP
+TJ Max. (°C): 150
+Technology: Trench
+VF (V): 0.95
+VRRM (V): 150
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF10200C 200V-10A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 200 ولت 10 آمپر SRF10200C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 10 A
+Vrrm - Repetitive Reverse Voltage: 200 V
+Vf - Forward Voltage: 0.95 V
+Ifsm - Forward Surge Current: 150 A
+Ir - Reverse Current: 0.5 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF1645C 45V-16A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 16 آمپر SRF1645C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 16 A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.65 V
+Ifsm - Forward Surge Current: 150 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF2045C 45V-20A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 20 آمپر SRF2045C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.75 V
+Ifsm - Forward Surge Current: 150 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF2060C 60V-20A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 20 آمپر SRF2060C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.7 V
+Ifsm - Forward Surge Current: 200 A
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF30150 150V-30A مارک GW پکیج TO-220FP
+
+قیمت:
+240,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 30 آمپر SRF30150 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 30 A
+Vrrm - Repetitive Reverse Voltage: 150 V
+Vf - Forward Voltage: 0.95 V
+Ifsm - Forward Surge Current: 300 A
+Ir - Reverse Current: 0.5 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF3080 80V-30A مارک GW پکیج TO-220FP
+
+قیمت:
+230,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 30 آمپر SRF3080 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 30 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 250 A
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی TS805C04R 40V-20A ژاپنی مارک FUJI پکیج TO-252
+
+قیمت:
+95,200
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 40 ولت 20 آمپر TS805C04R ژاپنی مارک FUJI پکیج TO-252
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Configuration: Single
+Technology: Si
+IO- Out Put Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 40 V
+Vf - Forward Voltage: 0.6 V
+Ifsm - Forward Surge Current: 120 A
+Ir - Reverse Current: 15 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Mounting Style: SMD/SMT
+Package/Case: TO-252
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YA878C12R 120V-30A ژاپنی مارک FUJI پکیج TO-220
+
+قیمت:
+309,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 120 ولت 30 آمپر YA878C12R ژاپنی مارک FUJI پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220
+Configuration: Single
+Technology: Si
+If - Forward Current: 30 A
+Vrrm - Repetitive Reverse Voltage: 120 V
+Vf - Forward Voltage: 0.88 V
+Ifsm - Forward Surge Current: 160 A
+Ir - Reverse Current: 0.30 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG802C06R 60V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+146,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 10 آمپر YG802C06R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 10 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.58 V
+Ifsm - Forward Surge Current: 80 A
+Ir - Reverse Current: 5 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG805C04R 40V-20A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+168,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 40 ولت 20 آمپر YG805C04R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 40 V
+Vf - Forward Voltage: 0.6 V
+Ifsm - Forward Surge Current: 120 A
+Ir - Reverse Current: 15 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG862C04R 45V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+146,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 10 آمپر YG862C04R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 10 A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.61 V
+Ifsm - Forward Surge Current: 125 A
+Ir - Reverse Current: 150 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG862C08R 80V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+146,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 10 آمپر YG862C08R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 10 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.76 V
+Ifsm - Forward Surge Current: 125 A
+Ir - Reverse Current: 150 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG862C15R 150V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 10 آمپر YG862C15R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 10 A
+Vrrm - Repetitive Reverse Voltage: 150 V
+Vf - Forward Voltage: 0.90 V
+Ifsm - Forward Surge Current: 75 A
+Ir - Reverse Current: 150 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG865C08R 80V-20A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+213,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 20 آمپر YG865C08R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.76 V
+Ifsm - Forward Surge Current: 145 A
+Ir - Reverse Current: 175 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG868C06R 60V-30A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+260,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 30 آمپر YG868C06R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 30 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.74 V
+Ifsm - Forward Surge Current: 160 A
+Ir - Reverse Current: 200 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG868C10R 100V-30A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+281,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 100 ولت 30 آمپر YG868C10R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 30 A
+Vrrm - Repetitive Reverse Voltage: 100 V
+Vf - Forward Voltage: 0.86 V
+Ifsm - Forward Surge Current: 160 A
+Ir - Reverse Current: 200 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG868C15R 150V-30A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+289,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 30 آمپر YG868C15R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 30 A
+Vrrm - Repetitive Reverse Voltage: 150 V
+Vf - Forward Voltage: 0.90 V
+Ifsm - Forward Surge Current: 225 A
+Ir - Reverse Current: 200 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG869C08R 80V-40A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+353,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 40 آمپر YG869C08R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 40 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.71 V
+Ifsm - Forward Surge Current: 190 A
+Ir - Reverse Current: 20 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG869C10R 100V-40A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+368,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 100 ولت 40 آمپر YG869C10R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 40 A
+Vrrm - Repetitive Reverse Voltage: 100 V
+Vf - Forward Voltage: 0.82 V
+Ifsm - Forward Surge Current: 190 A
+Ir - Reverse Current: 20 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG869C12R 120V-40A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+368,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 120 ولت 40 آمپر YG869C12R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 40 A
+Vrrm - Repetitive Reverse Voltage: 120 V
+Vf - Forward Voltage: 0.95 V
+Ifsm - Forward Surge Current: 190 A
+Ir - Reverse Current: 200 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG875C10R 100V-20A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+202,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 100 ولت 20 آمپر YG875C10R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 100 V
+Vf - Forward Voltage: 0.86 V
+Ifsm - Forward Surge Current: 145 A
+Ir - Reverse Current: 20 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+

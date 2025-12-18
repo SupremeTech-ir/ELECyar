@@ -1,0 +1,411 @@
+عنوان:
+تراشه LCD کنترلر HT1623 پکیچ LQFP-100
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی کنترلر ال سی دی HT1623 پکیچ SMD LQFP-100
+
+توضیحات کامل:
+Introduction
+
+HT1623 is a peripheral device specially designed for I/O type MCU used to expand the display capability. The max. display segment of the device are 384 patterns (48x8). It also supports serial interface, buzzer sound, watchdog timer or time base timer functions. The HT1623 is a memory mapping and multi-function LCD controller. The software configuration feature of the HT1623 make it suitable for multiple LCD applications including LCD modules and display subsystems. Only three lines are required for the interface between the host controller and the HT1623. The HT162X series have many kinds of products that match various applications.
+
+Pachage : 100QFP
+
+Specification
+
+Operating voltage: 2.7V~5.2V
+Built-in RC oscillator
+External 32.768kHz crystal or 32kHz frequency source input
+1/4 bias, 1/8 duty, frame frequency is 64Hz
+Max. 48x8 patterns, 8 commons, 48 segments
+Built-in internal resistor type bias generator
+3-wire serial interface
+8 kinds of time base/WDT selection
+Time base or WDT overflow output
+Built-in LCD display RAM
+R/W address auto increment
+Two selection buzzer frequencies (2kHz/4kHz)
+Power down command reduces power consumption
+Software configuration feature
+Data mode and Command mode instructions
+Three data accessing modes
+VLCD pin to adjust LCD operating voltage
+HT1623: 100-pin LQFP package
+
+
+========================================================================================================================
+
+عنوان:
+تراشه LVDS32 پکیج SO-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+100 Mbps LVDS quad high-speed differential receiver
+
+توضیحات کامل:
+Introduction
+
+The SN55LVDS32, SN65LVDS32, SN65LVDS3486, and SN65LVDS9637 devices are differential line receivers that implement the electrical characteristics of low-voltage differential signaling (LVDS). This signaling technique lowers the output voltage levels of 5-V differential standard levels (such as EIA/TIA-422B) to reduce the power, increase the switching speeds, and allow operation with a 3.3-V supply rail. Any of the differential receivers provides a valid logical output state with a ±100-mV differential input voltage within the input common-mode voltage range. The input common-mode voltage range allows 1 V of ground potential difference between two LVDS nodes.
+The intended application of these devices and signaling technique is both point-to-point and multidrop (one driver and multiple receivers) data transmission over controlled impedance media of approximately 100 Ω. The transmission media may be printed-circuit board traces, backplanes, or cables. The ultimate rate and distance of data transfer depends on the attenuation characteristics of the media and the noise coupling to the environment.
+
+Specification
+
+Mfr: Texas Instruments
+Series: 65LVDS
+Type: Receiver
+Protocol: LVDS
+Number of Drivers/Receivers: 0/4
+Data Rate: 100Mbps
+Voltage - Supply: 3V ~ 3.6V
+Operating Temperature: -40°C ~ 85°C
+Mounting Type: Surface Mount
+Package / Case: SO-16
+Supplier Device Package: SO-16
+
+
+========================================================================================================================
+
+عنوان:
+تراشه SSD1963QL9 درایور LCD4.3 و LCD7 پکیج LQFP-128
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی SSD1963QL9 درایور LCD4.3 و LCD7 اینچ با قابلیت کنترل شدت روشنایی، وضوح تصویر و اشباع رنگ ها، چرخش تصاویر و...
+
+توضیحات کامل:
+معرفی
+
+شما با این درایور می توانید به کمک میکروکنترلرهای avr,8051,pic,arm به سادگی السید های تا رزولیشن 864x480x24bit راه اندازی کنید
+
+Introduction
+
+SSD1963 is a display controller of 1215K byte frame buffer to support up to 864 x 480 x 24bit graphics
+content. It also equips parallel MCU interfaces in different bus width to receive graphics data and command
+from MCU. Its display interface supports common RAM-less LCD driver of color depth up to 24 bit-perpixel.
+
+Specification
+
+• Display feature
+− Built-in 1215K bytes frame buffer. Support up to 864 x 480 at 24bpp display
+− Support TFT 18/24-bit generic RGB and TTL interface panel
+− Support 8-bit RGB interface
+− Hardware rotation of 0, 90, 180, 270 degree
+− Hardware display mirroring
+− Hardware windowing
+− Programmable brightness, contrast and saturation control
+− Dynamic Backlight Control (DBC) via PWM signal
+• MCU connectivity
+− 8/9/16/18/24-bit MCU interface
+− Tearing effect signal
+• I/O Connectivity
+− 4 GPIO pins
+• Built-in clock generator
+• Deep sleep mode for power saving
+• Core supply power (VDDPLL and VDDD): 1.2V±0.1V
+• I/O supply power(VDDIO): 1.65V to 3.6V
+• LCD interface supply power (VDDLCD): 1.65V to 3.6V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تاچ پد خازنی TTP223-BA6 پکیج SOT-23-6
+
+قیمت:
+33,600
+
+توضیحات کوتاه:
+آی سی تاچ پد خازنی TTP223-BA6 پکیج SMD SOT-23-6
+
+توضیحات کامل:
+Introduction
+
+The TTP223-BA6/TTP223N-BA6 TonTouchTM is a touch pad detector IC which offers 1 touch
+key. The touching detection IC is designed for replacing traditional direct button key with diverse pad
+size. Low power consumption and wide operating voltage are the contact key features for DC or AC
+application.
+
+Specification
+
+Operating voltage 2.0V~5.5V
+Operating current @VDD=3V, no load
+At low power mode typical 1.5uA, maximum 3.0uA
+The response time max 220mS at low power mode @VDD=3V
+Sensitivity can adjust by the capacitance(0~50pF) outside
+Stable touching detection of human body for replacing traditional direct switch key
+Provides Low Power mode
+Provides direct mode、toggle mode by pad option(TOG pin)
+Q pin is CMOS output
+All output modes can be selected active high or active low by pad option(AHLB pin)
+After power-on have about 0.5sec stable-time, during the time do not touch the key pad,
+And the function is disabled
+Auto calibration for life
+At low power mode the re-calibration period is about 4.0sec normally,
+When key detected touch and released touch, the auto re-calibration will be redoing after
+about 16sec from releasing key
+The sensitivity of TTP223N-BA6 is better than TTP223-BA6’s
+But the stability of TTP223N-BA6 is worse than TTP223-BA6’s
+
+Applications
+
+Wide consumer products
+Button key replacement
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور بک لایت TPS61040DBVR پکیج SOT-23-5
+
+قیمت:
+212,000
+
+توضیحات کوتاه:
+آی سی درایور بک لایت مناسب برای انواع بک لایت ها تا 28 ولت پکیج SOT-23-5
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Switching Voltage Regulators
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOT-23-5
+Output Current: 400 mA
+Number of Outputs: 1 Output
+Topology: Boost
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Series: TPS61040
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Height: 1.15 mm
+Input Voltage: 1.8 V to 6 V
+Length: 2.9 mm
+Operating Temperature Range: - 40 C to + 85 C
+Type: Inductive
+Width: 1.6 mm
+Brand: Texas Instruments
+Operating Supply Current: 28 uA
+Product Type: Switching Voltage Regulators
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور تاچ XPT2046 پکیج TSSOP-16
+
+قیمت:
+201,000
+
+توضیحات کوتاه:
+آی سی درایور تاچ  XPT2046 مناسب برای تاچ های مقاومتی  پکیج SMD SOP-16
+
+توضیحات کامل:
+XPT2046 معروف ترین IC دیکودر برای تاچ اسکرین های مقاومتی است که شما می توانید این دسته از ICها را تقریبا در تمام واحدهای مخابراتی پیدا کنید.
+این محصول یک کنترلر تاچ اسکرین مقاومتی 4 سیمه، شامل یک مبدل A/D نوع SAR125 کیلوهرتز 12 بیتی است.
+XPT2046 می تواند مکان لمس شده را توسط دو مبدل A/D تشخیص دهد.
+ می توانید از SPI میکروکنترلر برای خواندن و نوشتن روی این آی سی استفاده کنید.
+
+FEATURES
+
+4-WIRE TOUCH SCREEN INTERFACE
+RATIOMETRIC CONVERSION
+SINGLE SUPPLY: 2.7V to 5V
+UP TO 125kHz CONVERSION RATE
+SERIAL INTERFACE
+PROGRAMMABLE 8- OR 12-BIT RESOLUTION
+2 AUXILIARY ANALOG INPUTS
+FULL POWER-DOWN CONTROL
+DESCRIPTION
+The ADS7843 is a 12-bit sampling Analog-to-Digital Converter
+(ADC) with a synchronous serial interface and low onresistance
+switches for driving touch screens. Typical power
+dissipation is 750?W at a 125kHz throughput rate and a
++2.7V supply. The reference voltage (VREF) can be varied
+between 1V and +VCC, providing a corresponding input
+voltage range of 0V to VREF. The device includes a shutdown
+mode which reduces typical power dissipation to under
+0.5?W. The ADS7843 is specified down to 2.7V operation.
+Low power, high speed, and onboard switches make the
+ADS7843 ideal for battery-operated systems such as personal
+digital assistants with resistive touch screens and other
+portable equipment. The ADS7843 is available in an
+SSOP-16 package and is specified over the –40°C to +85°C
+temperature range.
+APPLICATIONS
+PERSONAL DIGITAL ASSISTANTS
+PORTABLE INSTRUMENTS
+POINT-OF-SALES TERMINALS
+TOUCH SCREEN MONITORS
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور تاچ خازنی TS02N پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی درایور تاچ خازنی 2 کانال TS02N پکیج SMD SOP-8
+
+توضیحات کامل:
+Feature
+
+2 Channel capacitive touch sensor embedded self sensitivity ca
+libration
+Low power consumption
+Sync function for parallel operation
+Adjustable sense frequency by RB resister
+Open-drain digital output
+Embedded noise elimination circuit
+Embedded Internal power reset circuit
+
+Application
+
+Home application (White goods, blue goods etc)
+Membrane switch replacement
+Human interface for toys & interactive games
+Sealed control panels, keypads
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور تاچ خازنی TS04 پکیج SOP-14
+
+قیمت:
+386,000
+
+توضیحات کوتاه:
+آی سی ADSTS04 سنسور Touch خازنی چهار کاناله پکیج 14SOP
+
+توضیحات کامل:
+مشخصات
+
+ولتاژ تغذیه باتری: 5.0 ولت
+حداکثر ولتاژ در هر پایه VDD+0.3
+حداکثر جریان در هر PAD 100mA
+اتلاف برق 800mW
+دمای عملیاتی 20- ~ 75+ ℃
+
+ویژگی
+
+سنسور خازنی 4 کانال با کالیبراسیون حساسیت خودکار
+رابط خروجی موازی
+حساسیت قابل تنظیم مستقل با خازن خارجی
+فرکانس داخلی قابل تنظیم با مقاومت خارجی
+مدار حذف نویز با فرکانس بالا
+مصرف جریان کم
+
+کاربرد
+
+سوئیچ
+تابلوهای کنترل ، صفحه کلید
+برنامه ماتریس قفل کلید درب
+
+Specification
+
+Battery supply voltage : 5.0V
+Maximum voltage on any pin VDD+0.3
+Maximum current on any PAD 100mA
+Power Dissipation 800mW
+Storage Temperature -50 ~ 150℃
+Operating Temperature -20 ~ 75℃
+Junction Temperature 150℃
+
+Feature
+
+4-Channel capacitive sensor with auto sensitivity calibration
+Parallel output interface
+Independently adjustable sensitivity with external capacitor
+Adjustable internal frequency with external resister
+Embedded high frequency noise elimination circuit
+Low current consumption
+package : 14SOP
+
+Application
+
+Membrane switch replacement
+Sealed control panels, keypads
+Door key-lock matrix application
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور دکمه تاچ خازنی FTC334B پکیج SO-16
+
+قیمت:
+760,000
+
+توضیحات کوتاه:
+آی سی درایور دکمه تاچ خازنس مدل FTC334B با تغذیه وسیع 3 تا 5.5 ولت مناسب برای استفاده در کنترلر دکمه های لمسی لوازم برقی و...
+
+توضیحات کامل:
+Introduction
+
+FTC334B is a professional touch button processing chip, using the latest high-precision digital capacitance measurement technology, which can prevent radiation and power interference, prevent the influence of panel water droplets, and adapt to various power supplies. It can support up to 8 touch button functions. Output a 4-digit binary code, which can be connected to a resistor to make an analog voltage book. With sensitivity option foot, and button indicator port. It is suitable for applications such as home appliances that require high anti-interference products.
+
+Specification
+
+FTC334B 8-Channels Capacitive Touch Key Controller
+Operating Voltage: 3 - 5.5VDC
+Channels: 8 Capacitive Touch
+Output: 4 bits
+Package: SO16L
+— Super strong anti-EMC interference, can prevent the antenna of transmitting equipment such as walkie-talkie with power up to 5W from being close to the touch point.
+— Very simple peripheral circuit, the simplest application peripheral only needs a reference capacitor. (According to customer requirements, if need to improve ESD And EMC, each button needs to be connected with 1 resistor)
+— Waterproof interference, a piece of water droplets covering the touch panel does not affect the effective recognition of the keys.
+— Ultra-wide operating voltage range of 3.0V-5.5V, which can be used in 3.3V systems and 3.0V battery systems that are currently widely used.
+— Power supply voltage change adaptation function, built-in voltage compensation circuit, automatic compensation when the power supply voltage changes within the working range, no Affect the normal operation of the chip.
+— Automatically adapt to changes in environmental temperature and humidity, and the environment slowly adapts to the application of technology, which makes the chip not work continuously for an unlimited time There will be differences in sensitivity.
+— Adjustable sensitivity, the sensitivity can be adjusted by external capacitor capacity to adapt to different designs.
+— Provide a direct output interface of binary code, which is convenient for user system docking.
+— Quick initialization after power-on, the chip can detect environmental parameters including automatic adaptation and button detection within about 300mS. Can start working.
+— Sensitivity is automatically adapted. If the parasitic capacitance of each button lead is different due to the difference in length, it can automatically detect and Adaptation, the sensitivity of different keys is consistent.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه درایور نمایشگر FT800
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی درایور نمایشگر FT800 پکیج VQFN-48
+
+توضیحات کامل:
+Specification
+
+Product Category:     Video ICs
+Manufacturer:     FTDI
+RoHS:     RoHS Compliant Details
+Type:     Embedded Video Engine
+Number of Channels:     1 Channel
+Operating Supply Voltage:     3.63 V
+Operating Supply Current:     8 mA
+Maximum Operating Temperature:     + 85 C
+Minimum Operating Temperature:     - 40 C
+Mounting Style:     SMD/SMT
+Package / Case:     VQFN-48
+Packaging:     Reel
+Brand:     FTDI
+Resolution:     2 bit
+Series:     FT800
+Factory Pack Quantity:     2500
+Tradename:     EVE
+Unit Weight:     0.004938 oz
+

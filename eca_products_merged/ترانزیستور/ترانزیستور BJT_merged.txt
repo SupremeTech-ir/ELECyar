@@ -1,0 +1,1243 @@
+عنوان:
+ترانزیستور 2N2222 نوع NPN پکیج TO-92
+
+قیمت:
+8,310
+
+توضیحات کوتاه:
+ترانزیستور 2N2222 نوع NPN پکیج TO-92 ولتاژ 30V جریان 800mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Type Designator: 2N2222
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 0.5 W
+Maximum Collector-Base Voltage |Vcb|: 60 V
+Maximum Collector-Emitter Voltage |Vce|: 30 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.8 A
+Max. Operating Junction Temperature (Tj): 175 °C
+Transition Frequency (ft): 250 MHz
+Collector Capacitance (Cc): 8 pF
+Forward Current Transfer Ratio (hFE), MIN: 100
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور 2N2907 نوع PNP پکیج TO-92
+
+قیمت:
+8,510
+
+توضیحات کوتاه:
+ترانزیستور 2N2907 نوع PNP پکیج TO-92 ولتاژ 60V جریان 600mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Having a high value of current (max. 600 mA)
+Low voltage value (max. 60 V)
+Comes in a different type of packages – TO-92
+These are Lead (Pb) free devices
+Collector to Emitter voltage (VCEO) is 60v (max.)
+Collector to Base voltage (VCBO) is 60v (max.)
+Emitter to Base voltage(VEBO) is 5v (normally)
+The maximum value of Collector current is 600mA
+Power dissipation at ambient temperature is about 400mW
+Having DC current gain (hfe) of 100 to 300 (max.)
+The temperature of operation and storage is -65 to +150 °C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور 2N3906 نوع PNP پکیج TO-92
+
+قیمت:
+7,900
+
+توضیحات کوتاه:
+ترانزیستور 2N3906 نوع PNP پکیج TO-92 ولتآژ 40V جریان 200mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: PNP
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 40 V
+Collector- Base Voltage VCBO: 60 V
+Emitter- Base Voltage VEBO: 6 V
+Collector-Emitter Saturation Voltage: 400 mV
+Maximum DC Collector Current: 200 mA
+Pd - Power Dissipation: 625 mW
+Gain Bandwidth Product fT: 250 MHz
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Series: 2N3906
+Brand: STMicroelectronics
+Continuous Collector Current: 200 mA
+DC Collector/Base Gain hfe Min: 30
+DC Current Gain hFE Max: 300
+Height: 4.95 mm
+Length: 4.95 mm
+Product Type: BJTs - Bipolar Transistors
+Subcategory: Transistors
+Technology: Si
+Width: 3.94 mm
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور 2N5401 نوع PNP پکیج TO-92
+
+قیمت:
+8,620
+
+توضیحات کوتاه:
+ترانزیستور 2N5401 نوع PNP پکیج TO-92 ولتاژ 150V جریان 600mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.31 W
+Maximum Collector-Base Voltage |Vcb|: 160 V
+Maximum Collector-Emitter Voltage |Vce|: 150 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.6 A
+Max. Operating Junction Temperature (Tj): 135 °C
+Transition Frequency (ft): 100 MHz
+Collector Capacitance (Cc): 6 pF
+Forward Current Transfer Ratio (hFE), MIN: 60
+Package: TO-92
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور 2SA1015M نوع PNP پکیج SOT-23
+
+قیمت:
+5,700
+
+توضیحات کوتاه:
+ترانزیستور 2SA1015M نوع PNP پکیج SMD SOT-23 ولتاژ 50V جریان 150mA
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: 2SA1015M
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.3 W
+Maximum Collector-Base Voltage |Vcb|: 50 V
+Maximum Collector-Emitter Voltage |Vce|: 50 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.15 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 80 MHz
+Collector Capacitance (Cc): 7 pF
+Forward Current Transfer Ratio (hFE), MIN: 70
+Package: SOT23
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور 2SC1815 نوع NPN پکیج TO-92
+
+قیمت:
+6,910
+
+توضیحات کوتاه:
+ترانزیستور 2SC1815 نوع NPN پکیج TO-92 ولتاژ 50V جریان 150mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category : Bipolar Transistors - BJT
+Mounting Style : Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Collector- Base Voltage VCBO: 60 V
+Emitter- Base Voltage VEBO: 5 V
+Collector-Emitter Saturation Voltage: 250 mV
+Maximum DC Collector Current: 150 mA
+Pd - Power Dissipation: 400 mW
+Gain Bandwidth Product fT: 80 MHz
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور 2SC8550 نوع PNP پکیج TO-92
+
+قیمت:
+9,000
+
+توضیحات کوتاه:
+ترانزیستور 2SC8550 نوع PNP پکیج TO-92 ولتاژ 50V جریان 150mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: 2SC8550
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector-Emitter Voltage: 50 volts
+Maximum Collector Current: 150 milliamps
+Maximum Power Dissipation: 625 milliwatts
+DC Current Gain (hFE): 120 to 560
+Transition Frequency (fT): 150 MHz
+package : TO-92
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور A733 نوع PNP پکیج TO-92
+
+قیمت:
+6,790
+
+توضیحات کوتاه:
+ترانزیستور A733 نوع PNP پکیج TO-92 ولتاژ 50V جریان 150ma
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: A733
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.2 W
+Maximum Collector-Base Voltage |Vcb|: 60 V
+Maximum Collector-Emitter Voltage |Vce|: 50 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.15 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 50 MHz
+Collector Capacitance (Cc): 4.5 pF
+Forward Current Transfer Ratio (hFE), MIN: 120
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BC337 نوع NPN پکیج SOT-23
+
+قیمت:
+4,150
+
+توضیحات کوتاه:
+ترانزیستور BC337 نوع NPN پکیج SMD SOT-23 ولتاژ45V جریان 500mA
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Type: BJTs - Bipolar Transistors
+Product Category: Bipolar Transistors - BJT
+Mounting Style: SMD/SMT
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 45 V
+Collector- Base Voltage VCBO: 50 V
+Emitter- Base Voltage VEBO: 5 V
+Maximum DC Collector Current: 0.5 A
+Gain Bandwidth Product fT: 100 MHz
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+DC Current Gain hFE Max: 100 at 100 mA, 1 V
+Pd - Power Dissipation: 625 mW
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BC337 نوع NPN پکیج TO-92
+
+قیمت:
+8,300
+
+توضیحات کوتاه:
+ترانزیستور سیلیکونی NPN با توان متوسط، مناسب تقویت سیگنال، سوئیچینگ و کاربردهای عمومی الکترونیکی
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستور BC337 از نوع NPN سیلیکونی بوده و برای کاربردهای عمومی در تقویت و سوئیچینگ طراحی شده است. این قطعه در مدل‌های مختلف با بهره جریان متفاوت (مانند BC337-25 و BC337-40) عرضه می‌شود و در مدارات آنالوگ و دیجیتال، از جمله تقویت‌کننده‌ها، درایورها و کنترلرهای ساده مورد استفاده قرار می‌گیرد. پکیج TO-92 آن برای مونتاژ دستی، آزمایشگاهی و استفاده در بردبردها بسیار مناسب است. جریان کلکتور تا 800 میلی‌آمپر و توان مصرفی تا 625 میلی‌وات از جمله ویژگی‌های این ترانزیستور می‌باشند که آن را در گروه ترانزیستورهای پرکاربرد قرار می‌دهد.
+
+مشخصات
+
+نوع قطعه: NPN
+پکیج: TO-92
+ولتاژ کلکتور-امیتر (VCEO): 45V
+ولتاژ کلکتور-بیس (VCBO): 50V
+ولتاژ امیتر-بیس (VEBO): 5V
+جریان کلکتور پیوسته (IC): حداکثر 800mA
+توان مصرفی در دمای 25°C: برابر 625mW
+مقاومت حرارتی محیطی (RθJA): برابر 200°C/W
+مقاومت حرارتی کیس (RθJC): برابر 83.3°C/W
+بهره جریان مستقیم (hFE): از 100 تا 630 (بسته به نسخه)
+ولتاژ اشباع کلکتور-امیتر (VCE(sat)): حداکثر 0.7V در جریان 500mA
+ولتاژ بایاس بیس-امیتر (VBE(on)): حداکثر 1.2V
+فرکانس گذر (fT): حدود 210MHz
+ظرفیت خروجی (Cob): حدود 15pF
+دمای کاری: بین -55 تا +150 درجه سانتی‌گراد
+
+کاربردهای رایج
+
+ترانزیستور BC337 یکی از پرکاربردترین ترانزیستورهای NPN است که در پروژه‌های تقویت‌کننده، درایور LED، کنترل موتورها، و سیستم‌های کنترل منطقی با توان پایین تا متوسط استفاده می‌شود. این قطعه به دلیل مشخصات متعادل و قیمت مناسب، انتخابی ایده‌آل برای آموزش و پروژه‌های عملی نیز به‌شمار می‌رود.
+
+تقویت سیگنال در مدارهای صوتی و آنالوگ
+راه‌اندازی LED یا نمایشگرهای کوچک
+درایور موتورهای کوچک یا رله‌های ولتاژ پایین
+سوئیچینگ بارهای DC با جریان متوسط
+تولید نوسان در مدارهای تایمر یا آستابل
+درایور بیس ترانزیستورهای قدرت
+پروژه‌های آموزشی و بردبردی
+تقویت‌کننده‌های سیگنال سنسورها
+کنترل نور یا سرعت با PWM
+سیستم‌های کنترل ساده با میکروکنترلر
+
+Specification
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 45 V
+Collector- Base Voltage VCBO: 50 V
+Emitter- Base Voltage VEBO: 5 V
+Collector-Emitter Saturation Voltage: 700 mV
+Maximum DC Collector Current: 800 mA
+Pd - Power Dissipation: 625 mW
+Gain Bandwidth Product fT: 210 MHz
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Continuous Collector Current: 800 mA
+DC Collector/Base Gain hfe Min: 100
+DC Current Gain hFE Max: 630
+Product Type: BJTs - Bipolar Transistors
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BC547 نوع NPN پکیج TO-92
+
+قیمت:
+5,470
+
+توضیحات کوتاه:
+ترانزیستور BJT نوع NPN مدل BC547 پکیج TO-92
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستورBC547، یک ترانزیستور BJT از نوع NPN که دارای مقدار بهره 110 تا 800 است، هنگامی که این ترانزیستور به طور کامل بایاس شود، می‌تواند حداکثر جریان 100 میلی آمپر در کلکتور و امیتر برقرار شود. علاوه بر آن ولتاژ در کل کلکتور-امیتر (VCE) یا Base-Emitter (VBE) می تواند به ترتیب 200 و 900 میلی ولت باشد. هنگامی که جریان بیس حذف می شود، ترانزیستور کاملاً خاموش می شود، این مرحله به عنوان منطقه قطع نیز نامیده می‌شود و ولتاژ امیتر پایه می‌تواند حدود 660 میلی ولت باشد.
+
+مشخصات
+
+پیکربندی ترانزیستور : NPN
+نوع ترانزیستور : BJTs - Bipolar
+جریان کلکتور-امیتر (Iceo) : 100 میلی آمپر
+حداکثر ولتاژ کلکتور-امیتر(Vceo) : 45 ولت DC
+حداکثر ولتاژ کلکتور-بیس (Vcbo) : 50 ولت DC
+فرکانس کاری  : 300 مگاهرتز
+ضریب تقویت جریان - بهره (hFE): حداقل 110 و حداکثر 800 (متناسب با شرایط)
+حداقل و حداکثر دمای : 65-  الی 150+ درجه سانتی گراد
+پکیج : TO-92
+
+کاربرد
+
+تقویت کننده سیگنال
+کلید الکترونیکی
+مبدل سیگنال
+تقویت کننده‌های آمپلی‌فایر
+مدارهای تایمر
+مدارهای تشدید و غیره
+
+ترتیب پایه ها
+
+پایه Base: این پایه به عنوان پایه کنترلی برای جریان بین کلکتور(Collector) و امیتر(Emitter) استفاده می‌شود.
+پایه Collector: این پایه به عنوان پایه جمع کننده جریان از بین پایه بیس(Base) و امیتر(Emitter) استفاده می‌شود.
+پایه Emitter: این پایه به عنوان پایه خروجی جریان از ترانزیستور عمل می‌کند.
+
+Specification
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: NPN
+Subcategory: Transistors
+Technology: Si
+Collector- Emitter Voltage VCEO Max: 45 V
+Collector- Base Voltage VCBO: 50 V
+Emitter- Base Voltage VEBO: 6 V
+Collector-Emitter Saturation Voltage: 250 mV
+Maximum DC Collector Current: 100 mA
+Pd - Power Dissipation: 500 mW
+Gain Bandwidth Product fT: 300 MHz
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Brand: onsemi / Fairchild
+Continuous Collector Current: 0.1 A
+Product Type: BJTs - Bipolar Transistors
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BC639 نوع NPN پکیج TO-92
+
+قیمت:
+13,300
+
+توضیحات کوتاه:
+ترانزیستور NPN با توان بالا و ولتاژ متوسط، مناسب تقویت سیگنال و سوئیچینگ در مدارهای عمومی
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستور BC639 از نوع NPN و اپی‌تاکسیال سیلیکونی بوده که برای کاربردهای عمومی تقویت و سوئیچینگ طراحی شده است. این قطعه دارای قابلیت عبور جریان تا 1 آمپر و ولتاژ کلکتور تا 80 ولت می‌باشد. به دلیل توان مصرفی 1 وات و بهره جریان بالا، این ترانزیستور در طراحی مدارهای صوتی، درایورهای بارهای کوچک، و تقویت‌کننده‌های سطح متوسط بسیار پرکاربرد است. پکیج TO-92 آن، نصب آسان در بردبردها و مدارهای آزمایشگاهی را فراهم می‌کند. BC639 همچنین مکمل مدل‌های PNP سری BC640 محسوب می‌شود و در طراحی‌های متقارن نیز به‌کار می‌رود.
+
+مشخصات
+
+نوع قطعه: NPN
+پکیج: TO-92
+ولتاژ کلکتور-امیتر (VCEO): 80V
+ولتاژ کلکتور-بیس (VCBO): 100V
+ولتاژ امیتر-بیس (VEBO): 5V
+جریان کلکتور (IC): حداکثر 1A
+جریان لحظه‌ای کلکتور (ICP): حداکثر 1.5A
+جریان بیس (IB): حداکثر 100mA
+توان مصرفی (PC): 1W در دمای 25°C
+دمای کاری (TJ): تا 150°C
+بهره جریان مستقیم (hFE): بین 40 تا 250 در جریان‌های مختلف
+فرکانس گذر (fT): حدود 100MHz در جریان 10mA و ولتاژ 5V
+ولتاژ اشباع کلکتور-امیتر (VCE(sat)): حدود 0.5V در جریان 500mA
+ولتاژ بایاس بیس-امیتر (VBE(on)): حدود 1.0V در جریان 500mA
+
+کاربردهای رایج
+
+ترانزیستور BC639 انتخابی ایده‌آل برای مدارهایی است که نیاز به جریان بالا، توان متوسط و تقویت در فرکانس‌های پایین تا متوسط دارند. این ترانزیستور در منابع تغذیه، کنترل بارهای سبک، مدارهای صوتی، و سیستم‌های سوئیچینگ پرکاربرد است.
+
+تقویت‌کننده صوتی سطح پایین تا متوسط
+درایور نمایشگر یا بارهای مقاومتی
+مدارهای سوئیچینگ با جریان بالا
+کنترل موتورهای کوچک
+پروژه‌های روباتیک و کنترل PWM
+درایور رله یا سلف‌های کوچک
+منابع تغذیه خطی و تنظیم ولتاژ
+نوسان‌سازهای فرکانس پایین
+مدارهای تقویت سیگنال در ابزارهای اندازه‌گیری
+سیستم‌های مبتنی بر میکروکنترلر با خروجی دیجیتال
+
+Specification
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: NPN
+Technology: Si
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 80 V
+Collector- Base Voltage VCBO: 80 V
+Emitter- Base Voltage VEBO: 5 V
+Collector-Emitter Saturation Voltage: 0.5 V
+Maximum DC Collector Current: 1 A
+Pd - Power Dissipation: 625 mW
+Gain Bandwidth Product fT: 200 MHz
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+DC Current Gain hFE Max: 25 at 5 mA, 2 V
+Brand: Diodes Incorporated
+Continuous Collector Current: 1 A
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BD139 نوع NPN مارک ST پکیج TO-126
+
+قیمت:
+147,000
+
+توضیحات کوتاه:
+ترانزیستور BD139 نوع NPN پکیج TO-126 ولتاژ 80V جریان 1.5A مارک ST
+
+مشخصات فنی:
+پکیج: TO-126 (SOT32)
+پلاریته: NPN
+
+توضیحات کامل:
+These epitaxial planar transistors are mounted in the TO-126 plastic package. They are designed for audio amplifiers and drivers utilizing complementary or quasi-complementary circuits. The NPN types are the BD135 and BD139, and the complementary PNP types are the BD136 and BD140 .
+
+Specification
+
+Type Designator: BD139
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 12.5 W
+Maximum Collector-Base Voltage |Vcb|: 80 V
+Maximum Collector-Emitter Voltage |Vce|: 80 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 1.5 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 50 MHz
+Forward Current Transfer Ratio (hFE), MIN: 40
+Package: TO-126
+
+Applications
+
+Power Management, Consumer Electronics, Portable Devices, Industrial
+
+پکیج SOT-32 تقریبا مشابه TO-126 میباشد و تفاوت خیلی کم دارند .
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BD237 نوع NPN پکیج TO-126
+
+قیمت:
+29,800
+
+توضیحات کوتاه:
+ترانزیستور BD237 نوع NPN پکیج TO-126 ولتاژ 80V جریان 2A
+
+مشخصات فنی:
+پکیج: TO-126 (SOT32)
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category : Bipolar Transistors - BJT
+Mounting Style : Through Hole
+Transistor Polarity : NPN
+Collector- Emitter Voltage VCEO Max : 80 V
+Collector- Base Voltage VCBO : 100 V
+Emitter- Base Voltage VEBO : 5 V
+Collector-Emitter Saturation Voltage : 600 mV
+Maximum DC Collector Current : 2 A
+Pd - Power Dissipation : 25 W
+Minimum Operating Temperature : - 55 C
+Maximum Operating Temperature : + 150 C
+Continuous Collector Current : 2 A
+DC Collector/Base Gain hfe Min : 40
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BD238 نوع PNP پکیج TO-126
+
+قیمت:
+28,300
+
+توضیحات کوتاه:
+ترانزیستور BD238 نوع PNP پکیج TO-126 ولتاژ 80V جریان 2A
+
+مشخصات فنی:
+پکیج: TO-126 (SOT32)
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Product Category : Bipolar Transistors - BJT
+Mounting Style : Through Hole
+Transistor Polarity : PNP
+Collector- Emitter Voltage VCEO Max : 80 V
+Collector- Base Voltage VCBO : 100 V
+Emitter- Base Voltage VEBO : 5 V
+Collector-Emitter Saturation Voltage : 600 mV
+Maximum DC Collector Current : 2 A
+Pd - Power Dissipation : 25 W
+Gain Bandwidth Product fT : 3 MHz
+Minimum Operating Temperature : - 55 C
+Maximum Operating Temperature : + 150 C
+Continuous Collector Current : 2 A
+DC Collector/Base Gain hfe Min : 40
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور BD243 نوع NPN پکیج TO-220
+
+قیمت:
+125,000
+
+توضیحات کوتاه:
+ترانزیستور BD243 نوع NPN پکیج TO-220 ولتاژ45V جریان 6A
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 45 V
+Emitter- Base Voltage VEBO: 5 V
+Maximum DC Collector Current: 6 A
+Pd - Power Dissipation: 65 W
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+DC Collector/Base Gain hfe Min: 30
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور C5198 نوع NPN پکیج TO-3PN
+
+قیمت:
+489,000
+
+توضیحات کوتاه:
+ترانزیستور توان بالا 2SC5198 از نوع NPN و ساخته شرکت Toshiba با ولتاژ کاری 140V و جریان 10A، گزینه‌ای ایده‌آل برای تقویت‌کننده‌های صوتی و کاربردهای توان بالا
+
+مشخصات فنی:
+پکیج: TO-3P
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستور 2SC5198 یک ترانزیستور سیلیکونی نوع NPN Triple Diffused است که توسط شرکت Toshiba طراحی و تولید شده است. این ترانزیستور معمولاً به‌صورت مکمل با مدل 2SA1941 (PNP) در مرحله خروجی تقویت‌کننده‌های صوتی با کیفیت بالا (High Fidelity Audio Amplifiers) استفاده می‌شود.ولتاژ شکست کلکتور-امیتر در این مدل برابر با 140V است و جریان کلکتور تا 10A را پشتیبانی می‌کند. همچنین، توان تلفاتی بالا تا 100W و فرکانس گذار 30MHz باعث شده این قطعه برای مدارهای صوتی پرقدرت و کاربردهای سوئیچینگ مناسب باشد.پکیج TO-3PN این ترانزیستور، دفع حرارتی بسیار خوبی دارد و برای نصب روی هیت‌سینک طراحی شده است تا در توان‌های بالا نیز پایداری حرارتی حفظ شود. ضریب بهره جریان (hFE) این مدل بین 35 تا 160 متغیر است که امکان عملکرد پایدار در محدوده وسیعی از جریان‌ها را فراهم می‌کند.
+
+مشخصات
+
+نوع ترانزیستور: NPN Silicon Triple Diffused
+ولتاژ کلکتور–امیتر (VCEO): 140V
+ولتاژ کلکتور–بیس (VCBO): 140V
+ولتاژ امیتر–بیس (VEBO): 5V
+جریان کلکتور (IC): 10A
+توان تلفاتی (Pc): 100W در دمای 25°C
+بهره جریان DC (hFE):• 55 تا 160 در IC=1A, VCE=5V• 35 تا 83 در IC=5A, VCE=5V
+ولتاژ اشباع کلکتور–امیتر (VCE(sat)): 0.3V typ, 2V max در IC=7A
+ولتاژ بایاس بیس–امیتر (VBE): 0.9V typ در IC=5A
+فرکانس گذار (fT): 30MHz
+ظرفیت خروجی (Cob): 170pF
+دمای کاری: -55°C تا +150°C
+پکیج: TO-3PN
+
+کاربردهای رایج
+
+ترانزیستور 2SC5198 به دلیل توان بالا و پایداری حرارتی، در کاربردهای زیر به‌طور گسترده استفاده می‌شود
+
+ تقویت‌کننده‌های صوتی های‌فای (Hi-Fi Audio Amplifiers)
+ مدارهای خروجی پاور آمپلی‌فایرهای خانگی و صنعتی
+ درایور موتورهای DC و بارهای القایی
+ منابع تغذیه سوئیچینگ (SMPS)
+مبدل‌های توان بالا و مدارهای کنترلی صنعتی
+
+Specification
+
+Type Designator: C5198
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 100 W
+Maximum Collector-Base Voltage |Vcb|: 140 V
+Maximum Collector-Emitter Voltage |Vce|: 140 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 10 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Collector Capacitance (Cc): 170 pF
+Package: TO-3PN
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور C945 نوع NPN پکیج SOT-23
+
+قیمت:
+2,870
+
+توضیحات کوتاه:
+ترانزیستور C945 نوع NPN پکیج SOT-23
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستورC945، یک ترانزیستور BJT از نوع NPN که دارای مقدار بهره 70 تا 400 است، هنگامی که این ترانزیستور به طور کامل بایاس شود، می‌تواند حداکثر جریان 150 میلی آمپر در کلکتور و امیتر برقرار شود. علاوه بر آن ولتاژ در کل کلکتور-امیتر (VCE) یا Base-Emitter (VBE) می تواند به ترتیب 200 و 900 میلی ولت باشد. هنگامی که جریان بیس حذف می شود، ترانزیستور کاملاً خاموش می شود، این مرحله به عنوان منطقه قطع نیز نامیده می‌شود و ولتاژ امیتر پایه می‌تواند حدود 660 میلی ولت باشد.
+
+مشخصات
+
+پیکربندی ترانزیستور : NPN
+نوع ترانزیستور : BJTs - Bipolar
+داکثر جریان کلکتور (Ic): 150mA
+حداکثر ولتاژ کلکتور-بیس (Vcbo): 60V
+حداکثر ولتاژ کلکتور-اِمیتر (Vceo): 50V
+حداکثر ولتاژ اِمیتر-بیس (Vbe): 5V
+فرکانس کاری : 300 مگاهرتز
+ضریب تقویت جریان - بهره (hFE): حداقل 70 و حداکثر 400 (متناسب با شرایط)
+حداقل و حداکثر دمای : 65- الی 150+ درجه سانتی گراد
+پکیج : SOT-23
+
+کاربرد
+
+تقویت کننده سیگنال
+کلید الکترونیکی
+مبدل سیگنال
+تقویت کننده‌های آمپلی‌فایر
+مدارهای تایمر
+مدارهای تشدید و غیره
+
+ترتیب پایه ها
+
+پایه Base: این پایه به عنوان پایه کنترلی برای جریان بین کلکتور(Collector) و امیتر(Emitter) استفاده می‌شود.
+پایه Collector: این پایه به عنوان پایه جمع کننده جریان از بین پایه بیس(Base) و امیتر(Emitter) استفاده می‌شود.
+پایه Emitter: این پایه به عنوان پایه خروجی جریان از ترانزیستور عمل می‌کند.
+
+Specification
+
+Type Designator: C945
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 0.2 W
+Maximum Collector-Base Voltage |Vcb|: 60 V
+Maximum Collector-Emitter Voltage |Vce|: 50 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.15 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 150 MHz
+Collector Capacitance (Cc): 3 pF
+Forward Current Transfer Ratio (hFE), MIN: 130
+Package: SOT-23
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور C945 نوع NPN پکیج TO-92
+
+قیمت:
+5,140
+
+توضیحات کوتاه:
+ترانزیستور C945 دو قطبی BJT نوع NPN  پکیج TO-92
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستورC945، یک ترانزیستور BJT از نوع NPN که دارای مقدار بهره 70 تا 400 است، هنگامی که این ترانزیستور به طور کامل بایاس شود، می‌تواند حداکثر جریان 150 میلی آمپر در کلکتور و امیتر برقرار شود. علاوه بر آن ولتاژ در کل کلکتور-امیتر (VCE) یا Base-Emitter (VBE) می تواند به ترتیب 200 و 900 میلی ولت باشد. هنگامی که جریان بیس حذف می شود، ترانزیستور کاملاً خاموش می شود، این مرحله به عنوان منطقه قطع نیز نامیده می‌شود و ولتاژ امیتر پایه می‌تواند حدود 660 میلی ولت باشد.
+
+مشخصات
+
+پیکربندی ترانزیستور : NPN
+نوع ترانزیستور : BJTs - Bipolar
+داکثر جریان کلکتور (Ic): 150mA
+حداکثر ولتاژ کلکتور-بیس (Vcbo): 60V
+حداکثر ولتاژ کلکتور-اِمیتر (Vceo): 50V
+حداکثر ولتاژ اِمیتر-بیس (Vbe): 5V
+فرکانس کاری : 300 مگاهرتز
+ضریب تقویت جریان - بهره (hFE): حداقل 70 و حداکثر 400 (متناسب با شرایط)
+حداقل و حداکثر دمای : 65- الی 150+ درجه سانتی گراد
+پکیج : TO-92
+
+کاربرد
+
+تقویت کننده سیگنال
+کلید الکترونیکی
+مبدل سیگنال
+تقویت کننده‌های آمپلی‌فایر
+مدارهای تایمر
+مدارهای تشدید و غیره
+
+ترتیب پایه ها
+
+پایه Base: این پایه به عنوان پایه کنترلی برای جریان بین کلکتور(Collector) و امیتر(Emitter) استفاده می‌شود.
+پایه Collector: این پایه به عنوان پایه جمع کننده جریان از بین پایه بیس(Base) و امیتر(Emitter) استفاده می‌شود.
+پایه Emitter: این پایه به عنوان پایه خروجی جریان از ترانزیستور عمل می‌کند.
+
+Specification
+
+P/N: C945 / F945
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: NPN
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 50 V
+Collector- Base Voltage VCBO: 60 V
+Emitter- Base Voltage VEBO: 5 V
+Collector-Emitter Saturation Voltage: 150 mV
+Maximum DC Collector Current: 150 mA
+Pd - Power Dissipation: 250 mW
+Gain Bandwidth Product fT: 300 MHz
+Minimum Operating Temperature: -
+Maximum Operating Temperature: + 150 C
+Continuous Collector Current: 150 mA
+DC Collector/Base Gain hfe Min: 40
+DC Current Gain hFE Max: 700
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور D880 نوع NPN پکیج TO-220
+
+قیمت:
+116,620
+
+توضیحات کوتاه:
+ترانزیستور D880 نوع NPN پکیج TO-220 ولتاژ60V جریان 3A
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Transistor Polarity: NPN
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 60 V
+Collector- Base Voltage VCBO: 60 V
+Emitter- Base Voltage VEBO: 7 V
+Collector-Emitter Saturation Voltage: 400 mV
+Maximum DC Collector Current: 3 A
+Pd - Power Dissipation: 30 W
+Gain Bandwidth Product fT: 3 MHz
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Brand: onsemi / Fairchild
+Continuous Collector Current: 3 A
+DC Collector/Base Gain hfe Min: 60
+DC Current Gain hFE Max: 300
+Height: 9.4 mm
+Length: 10.1 mm
+Subcategory: Transistors
+Technology: Si
+Package / Case: TO-220-3
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور MJE13001 نوع NPN پکیج TO-92
+
+قیمت:
+9,500
+
+توضیحات کوتاه:
+ترانزیستور MJE13001 نوع NPN پکیج TO-92 ولتاژ 400V جریان 200mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Type Designator: MJE13001
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 0.75 W
+Maximum Collector-Base Voltage |Vcb|: 600 V
+Maximum Collector-Emitter Voltage |Vce|: 400 V
+Maximum Emitter-Base Voltage |Veb|: 7 V
+Maximum Collector Current |Ic max|: 0.2 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 8 MHz
+Forward Current Transfer Ratio (hFE), MIN: 10
+Noise Figure, dB: -
+Package: TO-92
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور MJE13003 نوع NPN پکیج TO-126
+
+قیمت:
+31,200
+
+توضیحات کوتاه:
+ترانزیستور MJE13003 نوع NPN پکیج TO-225 ولتاژ 400V جریان 1.5A
+
+مشخصات فنی:
+پکیج: TO-225
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Manufacturer: onsemi
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Package / Case: TO-225-3
+Transistor Polarity: NPN
+Configuration: Single
+Collector- Emitter Voltage VCEO Max: 400 V
+Collector- Base Voltage VCBO: 100 V
+Emitter- Base Voltage VEBO: 5 V
+Collector-Emitter Saturation Voltage: 500 mV
+Maximum DC Collector Current: 1.5 A
+Pd - Power Dissipation: 1.75 W
+Gain Bandwidth Product fT: 3 MHz
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور MMBTA92 نوع PNP پکیج SOT-23
+
+قیمت:
+13,400
+
+توضیحات کوتاه:
+ترانزیستور MMBTA92 نوع PNP پکیج SMD SOT-23 ولتاژ 300V جریان 100mA
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: MMBTA92
+SMD Transistor Code: 2D_7Ep_7Et_7EW
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.35 W
+Maximum Collector-Base Voltage |Vcb|: 300 V
+Maximum Collector-Emitter Voltage |Vce|: 300 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.1 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 50 MHz
+Collector Capacitance (Cc): 6 pF
+Forward Current Transfer Ratio (hFE), MIN: 25
+Noise Figure, dB: -
+Package: SOT23
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور MMUN2211 نوع NPN پکیج SOT-23
+
+قیمت:
+9,400
+
+توضیحات کوتاه:
+ترانزیستور NPN با شبکه مقاومت بایاس مجتمع، مناسب برای کاربردهای دیجیتال و جایگزینی مدارات با مقاومت خارجی
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستور MMUN2211 یک ترانزیستور NPN سیلیکونی از نوع سطح‌نصب (SMD) با شبکه‌ی مقاومت بایاس مجتمع (BRT) است. این قطعه به‌صورت خاص طراحی شده تا جایگزین ترانزیستورهای معمولی به‌همراه مقاومت‌های خارجی بایاس شود، و با تجمیع یک مقاومت سری در پایه (Base) و یک مقاومت پایه-امیتر، ضمن کاهش تعداد قطعات، به ساده‌سازی طراحی مدار کمک می‌کند. استفاده از این ترانزیستور موجب کاهش فضای برد، کاهش هزینه و افزایش قابلیت اطمینان مدارهای دیجیتال می‌شود. این قطعه در پکیج SOT-23 عرضه می‌گردد و دارای عملکرد مطمئن در رنج دمایی گسترده است. ویژگی‌های الکتریکی پایدار و سازگاری با استاندارد RoHS از دیگر مزایای مهم آن محسوب می‌شوند.
+
+مشخصات
+
+نوع ترانزیستور: NPN
+ولتاژ کلکتور-امیتر (VCEO): 50V
+ولتاژ کلکتور-بیس (VCBO): 50V
+جریان کلکتور (IC): 100mA
+توان تلفاتی کل (در دمای 25°C): 246mW (روی PCB کوچک)، 400mW (روی PCB با سطح بزرگ)
+مقاومت بایاس پایه (R1): 10kΩ
+مقاومت بایاس پایه-امیتر (R2): 10kΩ
+نسبت مقاومت‌ها (R1/R2): 1.0
+ولتاژ اشباع کلکتور-امیتر (VCE(sat)): حداکثر 0.25V در جریان 10mA
+بهره جریان DC (hFE): بین 35 تا 60 در جریان 5mA
+دما کاری و ذخیره‌سازی: °C 150 ~ °C −55
+نوع پکیج: SOT-23
+
+کاربردهای رایج
+
+ترانزیستور MMUN2211 به‌دلیل دارا بودن مقاومت‌های داخلی بایاس، گزینه‌ای ایده‌آل برای مدارهای دیجیتال، مبدل‌های سطح ولتاژ، تقویت‌کننده‌های ساده، و طراحی‌های با فضای محدود است. استفاده از آن در پروژه‌های تجاری، صنعتی و آموزشی به کاهش زمان طراحی و افزایش پایداری کمک می‌کند.
+
+استفاده در مدارهای سوئیچینگ دیجیتال
+سطح‌ساز ولتاژ بین میکروکنترلر و بارهای صنعتی
+درایور خروجی منطقی برای بارهای کوچک
+مدارهای اینورتر اپن‌کالکتور
+مدارهای جریان ثابت ساده
+مدارهای رله و خروجی ترانزیستوری PLC
+مبدل‌های سطح در ارتباطات سریال
+تقویت‌کننده‌های ساده در تجهیزات پرتابل
+مدارهای محافظ در ورودی‌های صنعتی
+درایور LED در ولتاژ پایین
+
+Specification
+
+Transistor Type : NPN
+Collector-Emitter Voltage (VCEO): 50 V
+Collector-Base Voltage (VCBO): 50 V
+Collector Current (IC): 100 mA
+Total Power Dissipation (at 25°C) :246 mW (on minimal pad), 400 mW (on 1×1 inch pad)
+Base Resistor (R1): 10 kΩ
+Base-Emitter Resistor (R2): 10 kΩ
+Resistor Ratio (R1/R2): 1.0
+Collector-Emitter Saturation Voltage (VCE(sat)): Max 0.25 V at IC = 10 mA
+DC Current Gain (hFE): 35 to 60 at IC = 5 mA, VCE = 10 V
+Operating and Storage Temperature Range: −55°C to +150°C
+Package Type: SOT-23
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور MMUN2212 نوع NPN پکیج SOT-23
+
+قیمت:
+9,400
+
+توضیحات کوتاه:
+ترانزیستور دیجیتال با مقاومت‌های داخلی 22 کیلواهم، مناسب برای سوئیچینگ سریع و کاهش قطعات جانبی
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستور MMUN2212 یک ترانزیستور NPN سیلیکونی از نوع سطح‌نصب (SMD) است که درون خود دارای شبکه مقاومت بایاس مجتمع شامل دو مقاومت 22 کیلواهم می‌باشد؛ یکی بین پایه (Base) و بیس، و دیگری بین بیس و امیتر. این ساختار باعث حذف نیاز به مقاومت‌های خارجی شده و به‌طور قابل‌توجهی موجب کاهش فضای موردنیاز روی برد و تعداد قطعات مورد استفاده در مدار می‌شود. این قطعه با پکیج کوچک و رایج SOT-23 برای کاربردهای سوئیچینگ دیجیتال، اینورترهای منطقی و مبدل‌های سطح ولتاژ بسیار مناسب است. عملکرد پایدار در دمای بالا، تطابق با استاندارد RoHS، و ویژگی‌های الکتریکی دقیق از مزایای کلیدی این قطعه محسوب می‌شوند. MMUN2212 به‌ویژه در طراحی مدارات قابل‌اطمینان و کم‌هزینه بسیار پرکاربرد است.
+
+مشخصات
+
+نوع ترانزیستور: NPN
+ولتاژ کلکتور-امیتر (VCEO): 50 ولت
+ولتاژ کلکتور-بیس (VCBO): 50 ولت
+جریان کلکتور (IC): 100 میلی‌آمپر
+توان تلفاتی در دمای 25 درجه: 246 میلی‌وات (در برد کوچک)، 400 میلی‌وات (در برد 1×1 اینچ)
+مقدار مقاومت پایه (R1): 22 کیلواهم
+مقدار مقاومت پایه به امیتر (R2): 22 کیلواهم
+نسبت مقاومت‌ها (R1/R2): 1.0
+ولتاژ اشباع کلکتور-امیتر: حداکثر 0.25 ولت در جریان 10 میلی‌آمپر
+بهره جریان مستقیم (hFE): بین 60 تا 100 در جریان 5 میلی‌آمپر
+رنج دمای کاری و ذخیره‌سازی: از 55- تا 150+ درجه سانتی‌گراد
+نوع پکیج: SOT-23
+
+کاربردهای رایج
+
+ترانزیستور MMUN2212 به‌واسطه مقاومت‌های داخلی و پکیج کوچک، گزینه‌ای بهینه برای طراحانی است که به‌دنبال ساده‌سازی مدار و کاهش هزینه‌ها هستند. از این قطعه در مدارهای منطقی، کنترل سیگنال، و سوییچینگ دقیق بهره‌برداری می‌شود.
+
+مبدل سطح ولتاژ بین سیستم‌های 3.3 ولت و 5 ولت
+مدارهای سوئیچینگ دیجیتال با فضای محدود
+درایور LED و بارهای سبک
+اینورترهای منطقی خروجی باز
+مدارات محافظ ورودی میکروکنترلر
+کنترل ورودی در آی‌سی‌های منطقی TTL/CMOS
+درایور خروجی در بردهای صنعتی
+مدارهای کاهش نویز در خطوط داده
+جایگزین اقتصادی ترانزیستور + دو مقاومت خارجی
+تقویت‌کننده ساده دیجیتال
+
+Specification
+
+Transistor Type : NPN
+Collector-Emitter Voltage (VCEO): 50 V
+Collector-Base Voltage (VCBO): 50 V
+Collector Current (IC): 100 mA
+Total Power Dissipation (at 25°C) :246 mW (on minimal pad), 400 mW (on 1×1 inch pad)
+Base Resistor (R1): 22 kΩ
+Base-Emitter Resistor (R2): 22 kΩ
+Resistor Ratio (R1/R2): 1.0
+Collector-Emitter Saturation Voltage (VCE(sat)): Max 0.25 V at IC = 10 mA
+DC Current Gain (hFE): 35 to 60 at IC = 5 mA, VCE = 10 V
+Operating and Storage Temperature Range: −55°C to +150°C
+Package Type: SOT-23
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور MMUN2216 نوع NPN پکیج SOT-23
+
+قیمت:
+9,400
+
+توضیحات کوتاه:
+ترانزیستور دیجیتال NPN با مقاومت بایاس داخلی 4.7 کیلواهم، مناسب برای سوئیچینگ سریع در مدارهای منطقی
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: NPN
+
+توضیحات کامل:
+ترانزیستور MMUN2216 یک ترانزیستور NPN از نوع BRT (Bias Resistor Transistor) با مقاومت بایاس داخلی بوده که در پکیج SOT-23 عرضه می‌شود. در این قطعه، تنها یک مقاومت 4.7 کیلواهم بین پایه Base و ترمینال بیس تعبیه شده و اتصال پایه بیس به امیتر به‌صورت مستقیم (بدون مقاومت داخلی) انجام می‌شود. این ساختار باعث تسهیل طراحی در مدارهایی می‌شود که نیاز به درایو مستقیم دارند. استفاده از این ترانزیستور به طراحان این امکان را می‌دهد تا با حذف مقاومت‌های خارجی، فضای PCB را کاهش داده و زمان مونتاژ را کوتاه‌تر کنند. MMUN2216 دارای ولتاژ کاری تا 50 ولت، جریان خروجی 100 میلی‌آمپر و توان مصرفی قابل‌قبول در دمای محیط می‌باشد. پایداری بالا، ابعاد کوچک، و سازگاری با استاندارد RoHS از دیگر ویژگی‌های مثبت این قطعه است.
+
+مشخصات
+
+نوع ترانزیستور: NPN
+ولتاژ کلکتور-امیتر (VCEO): 50 ولت
+ولتاژ کلکتور-بیس (VCBO): 50 ولت
+جریان کلکتور (IC): 100 میلی‌آمپر
+توان تلفاتی در دمای 25 درجه: 246 میلی‌وات (در برد کوچک)، 400 میلی‌وات (در برد 1×1 اینچ)
+مقدار مقاومت پایه (R1): 4.7 کیلواهم
+مقدار مقاومت پایه به امیتر (R2): ندارد (اتصال مستقیم)
+نسبت مقاومت‌ها (R1/R2): تعریف‌نشده
+ولتاژ اشباع کلکتور-امیتر: حداکثر 0.25 ولت در جریان 10 میلی‌آمپر
+بهره جریان مستقیم (hFE): تقریباً 350 در جریان 5 میلی‌آمپر
+رنج دمای کاری و ذخیره‌سازی: از 55- تا 150+ درجه سانتی‌گراد
+نوع پکیج: SOT-23
+
+کاربردهای رایج
+
+ترانزیستور MMUN2216 برای کاربردهایی که به حداقل قطعات خارجی و سادگی طراحی نیاز دارند بسیار مناسب است. ساختار تک‌مقاومتی آن برای درایو مستقیم بارهای سبک، اینورترهای منطقی ساده و مدارهای خروجی باز بهینه شده است.
+
+درایور ساده برای خروجی دیجیتال
+سطح‌ساز ولتاژ در میکروکنترلرها
+مدارهای سوئیچینگ با فضای محدود
+درایور LED یا بافر نوری
+خروجی ترانزیستوری برای رله یا سنسور
+مدارات منطقی خروجی باز (Open Collector)
+جایگزین اقتصادی ترانزیستور + مقاومت خارجی
+اینورترهای ساده در مدارهای TTL/CMOS
+مدارهای تشخیص وضعیت دیجیتال
+درایور سیگنال برای ورودی آی‌سی‌های صنعتی
+
+Specification
+
+Transistor Type : NPN
+Collector-Emitter Voltage (VCEO): 50 V
+Collector-Base Voltage (VCBO): 50 V
+Collector Current (IC): 100 mA
+Total Power Dissipation (at 25°C) :246 mW (on minimal pad), 400 mW (on 1×1 inch pad)
+Base Resistor (R1): 4.7 kΩ
+Base-Emitter Resistor (R2): - kΩ
+Resistor Ratio (R1/R2): -
+Collector-Emitter Saturation Voltage (VCE(sat)): Max 0.25 V at IC = 10 mA
+DC Current Gain (hFE): 35 to 60 at IC = 5 mA, VCE = 10 V
+Operating and Storage Temperature Range: −55°C to +150°C
+Package Type: SOT-23
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور SS8550 نوع PNP پکیج SOT-23
+
+قیمت:
+7,100
+
+توضیحات کوتاه:
+ترانزیستور SS8550 نوع PNP پکیج SOT-23 ولتاژ 25V جریان 1.5A
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Product Category:     Bipolar Transistors - BJT
+RoHS:     RoHS Compliant Details
+Mounting Style:     SMD/SMT
+Package/Case:     SOT-23
+Transistor Polarity:     PNP
+Configuration:     Single
+Collector- Emitter Voltage VCEO Max:     25 V
+Collector- Base Voltage VCBO:     40 V
+Emitter- Base Voltage VEBO:     1.6 V
+Collector-Emitter Saturation Voltage:     0.5 V
+Gain Bandwidth Product fT:     100 MHz
+Maximum Operating Temperature:     + 150 C
+Series:     MMSS8550
+Continuous Collector Current:     1.5 A
+DC Collector/Base Gain hFE Min:     40
+DC Current Gain hFE Max:     350
+Minimum Operating Temperature:     - 55 C
+Packaging:     Reel
+Pd - Power Dissipation:     0.625 W
+Factory Pack Quantity:     3000
+Unit Weight:     201 mg
+
+
+========================================================================================================================
+
+عنوان:
+ترانزیستور قدرت TIP127 نوع PNP پکیج TO-220
+
+قیمت:
+101,000
+
+توضیحات کوتاه:
+ترانزیستور قدرت TIP127 نوع PNP پکیج TO-220 ولتاژ 100V جریان 5A
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: TIP127
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 65 W
+Maximum Collector-Base Voltage |Vcb|: 100 V
+Maximum Collector-Emitter Voltage |Vce|: 100 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 5 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Collector Capacitance (Cc): 300 pF
+Forward Current Transfer Ratio (hFE), MIN: 1000
+Package: TO-220AB
+

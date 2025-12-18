@@ -1,0 +1,1290 @@
+عنوان:
+ماسفت 029N06N نوع N-Channel تایوانی مارک Infineon پکیج TO-220FP
+
+قیمت:
+527,000
+
+توضیحات کوتاه:
+ماسفت 60 ولت 84 آمپر 029N06N تایوانی مارک Infineon نوع N-Channel پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand : Infineon
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 38 W
+Maximum Drain-Source Voltage |Vds|: 60 V
+Maximum Gate-Source Voltage |Vgs|: 20 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 3.3 V
+Maximum Drain Current |Id|: 84A in 25 °C
+Package: TO220FP
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت 20N60C3 نوع N-Channel پکیج TO-220
+
+قیمت:
+364,000
+
+توضیحات کوتاه:
+ماسفت 600 ولت 20.7 آمپر نوع N-Channel پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET
+RoHS: Details
+Technology: Si
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 600 V
+Id - Continuous Drain Current: 20.7 A
+Rds On - Drain-Source Resistance: 190 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Vgs th - Gate-Source Threshold Voltage: 2.1 V
+Qg - Gate Charge: 87 nC
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Pd - Power Dissipation: 208 W
+Channel Mode: Enhancement
+Tradename: CoolMOS
+Packaging: Tube
+Configuration: Single
+Height: 15.65 mm
+Length: 10 mm
+Series: CoolMOS C3
+Transistor Type: 1 N-Channel
+Width: 4.4 mm
+Fall Time: 4.5 ns
+Product Type: MOSFET
+Rise Time: 5 ns
+Subcategory: MOSFETs
+Typical Turn-Off Delay Time: 67 ns
+Typical Turn-On Delay Time: 10 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت 22N60NT نوع N-Channel تایوانی مارک FAIRCHILD پکیج TO-220FP
+
+قیمت:
+596,000
+
+توضیحات کوتاه:
+ماسفت 600 ولت 22 آمپر 22N60NT نوع N-Channel مارک FAIRCHILD پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+P/N  : 22N60NT
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 66 W
+Maximum Drain-Source Voltage |Vds|: 600 V
+Maximum Gate-Source Voltage |Vgs|: 45 V
+Maximum Drain Current |Id|: 22 A
+Maximum Junction Temperature (Tj): 150 °C
+Maximum Drain-Source On-State Resistance (Rds): 0.165Ohm
+Package: TO-220
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت 2N7002 نوع N-Channel پکیج SOT-23
+
+قیمت:
+10,400
+
+توضیحات کوتاه:
+ماسفت 60 ولت 300 میلی آمپر 2N7002 نوع N-Channel پکیج SOT-23
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+P/N : 2N7002
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 300 mW
+Drain-Source Voltage |Vds|: 60 V
+Gate-Source Voltage |Vgs|: ± 20 V
+Gate-Threshold Voltage |Vgs(V)|: 3 V
+Drain Current |Id|: 280 mA
+Package: SOT-23
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت D60N10 نوع N-Channel تایوانی مارک ExcellianceMos پکیج TO-220FP
+
+قیمت:
+380,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 20 آمپر تایوانی مارک ExcellianceMos نوع N-Channel پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand : ExcellianceMos
+P/N  : D60N10
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Drain-Source Voltage |Vds|: 100 V
+Maximum Gate-Source Voltage |Vgs|: ±25 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 4 V
+Maximum Drain Current |Id|: 20A
+Package: TO-220FP
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت FQP8N60C نوع N-channel پکیج TO-220
+
+قیمت:
+279,000
+
+توضیحات کوتاه:
+ماسفت تک کانال 600 ولت 7.5 آمپر نوع N-channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET
+RoHS: Details
+Technology: Si
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel \
+Vds - Drain-Source Breakdown Voltage: 600 V
+Id - Continuous Drain Current: 7.5 A
+Rds On - Drain-Source Resistance: 1.2 Ohms
+Vgs - Gate-Source Voltage: - 30 V, + 30 V
+Vgs th - Gate-Source Threshold Voltage: 4 V
+Qg - Gate Charge: 28 nC
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Pd - Power Dissipation: 147 W
+Channel Mode: Enhancement
+Packaging: Tube
+Configuration: Single
+Fall Time: 64.5 ns
+Forward Transconductance - Min: 8.7 S
+Height: 16.3 mm
+Length: 10.67 mm
+Product Type: MOSFET
+Rise Time: 60.5 ns
+Series: FQP8N60C
+Subcategory: MOSFETs
+Transistor Type: 1 N-Channel
+Type: MOSFET
+Typical Turn-Off Delay Time: 81 ns
+Typical Turn-On Delay Time: 16.5 ns
+Width: 4.7 mm
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF3710S نوع N-Channel پکیج TO-263 (D2PAK)
+
+قیمت:
+289,000
+
+توضیحات کوتاه:
+ماسفت IRF3710STRLPBF از نوع N-Channel ولتاژ 100 ولت و جریان 57 آمپر پکیج TO-263-3
+
+مشخصات فنی:
+پکیج: TO-263 (D2PAK)
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت‌ها بیشتر به عنوان کلیدهای الکترونیکی یا تقویت کننده‌های سورس مشترک مورد استفاده قرار میگیرند. این ماسفت برای کاربردهای مختلفی مانند منابع تغذیه سوئیچینگ، درایورهای موتور و مدارهای تقویت‌کننده مناسب است.
+
+Specification
+
+Product Category: MOSFETs
+Transistor Type: N-Channel
+Technology: Si
+Mounting Style: SMD/SMT
+Package / Case: D2PAK-3 (TO-263-3)
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 100 V
+Id - Continuous Drain Current: 57 A
+Rds On - Drain-Source Resistance: 23 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Vgs th - Gate-Source Threshold Voltage: 4 V
+Qg - Gate Charge: 130 nC
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+Pd - Power Dissipation: 200 W
+Channel Mode: Enhancement
+Configuration: Single
+Fall Time: 47 ns
+Forward Transconductance - Min: 32 S
+Product Type: MOSFETs
+Rise Time: 58 ns
+Subcategory: Transistors
+Typical Turn-Off Delay Time: 45 ns
+Typical Turn-On Delay Time: 12 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF540 نوع N-channel پکیج TO-220
+
+قیمت:
+190,000
+
+توضیحات کوتاه:
+ماسفت IRF540 یک ترانزیستور قدرت N-Channel با ولتاژ شکست 100V، جریان 28A و مقاومت روشن‌شدگی بسیار پایین (0.077Ω) پکیج TO-220 مناسب برای کاربردهای سوئیچینگ سریع و کنترل توان بالا
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت IRF540 از محصولات شرکت Vishay Siliconix بوده و به عنوان یکی از ماسفت‌های پرکاربرد در مدارهای قدرت و سیستم‌های سوئیچینگ شناخته می‌شود. این ماسفت با ساختار N-Channel Enhancement Type و طراحی نسل سوم MOSFET، ترکیبی از مقاومت روشن پایین، سرعت سوئیچ بالا و پایداری حرارتی تا دمای 175°C را ارائه می‌دهد. توانایی تحمل جریان پیوسته تا 28 آمپر و توان تلفاتی تا 150 وات در دمای 25°C، آن را برای کاربردهای منبع تغذیه سوئیچینگ، درایور موتور، اینورتر و کنترل PWM بسیار مناسب می‌سازد. همچنین این قطعه از ویژگی‌هایی مانند «Repetitive avalanche rating» برای تحمل اضافه‌ولتاژهای لحظه‌ای و «Fast switching» برای پاسخ سریع در مدارهای فرکانس بالا برخوردار است. پکیج TO-220 نیز باعث شده این ماسفت به‌راحتی در مدارهای صنعتی و آموزشی قابل نصب روی هیت‌سینک باشد.
+
+مشخصات
+
+نوع ترانزیستور: N-Channel Power MOSFET
+ولتاژ درین-سورس (VDS): 100V
+ولتاژ گیت-سورس (VGS): ±20V
+جریان پیوسته درین (ID): 28A در دمای 25°C
+جریان پالس درین (IDM): 110A
+مقاومت روشن (RDS(on)): 0.077Ω در VGS=10V
+توان تلفاتی کل (PD): 150W
+دمای کاری: منفی 55 تا مثبت 175°C
+بار گیت کل (Qg): 72nC
+ولتاژ هدایت دیود بدنه (VSD): حدود 2.5V در IS=28A
+بسته‌بندی: TO-220AB
+
+کاربردهای رایج
+
+ماسفت IRF540 به‌دلیل ترکیب توان بالا و سرعت سوئیچ مناسب، در مدارهای قدرت صنعتی، منبع تغذیه سوئیچینگ، اینورترهای DC-AC، درایور موتور، و سیستم‌های کنترل سرعت به‌صورت گسترده مورد استفاده قرار می‌گیرد.
+
+منابع تغذیه سوئیچینگ (SMPS)
+درایور موتورهای DC و BLDC
+مدارهای PWM و کنترل توان
+اینورترها و مبدل‌های ولتاژ
+مدارهای تقویت‌کننده صوتی قدرت
+سیستم‌های حفاظتی و بارهای القایی
+مدارهای LED پرتوان و نورپردازی صنعتی
+بردهای آموزشی و پروژه‌های دانشگاهی
+
+Specification
+
+Mounting Style: Through Hole
+Package / Case:  TO-220-3
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 100 V
+Id - Continuous Drain Current: 28 A
+Rds On - Drain-Source Resistance: 77 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Maximum Operating Temperature: + 175 C
+Fall Time: 43 ns
+Height: 9.01 mm
+Length: 10.51 mm
+Minimum Operating Temperature: - 55 C
+Pd - Power Dissipation: 150 W
+Rise Time: 44 ns
+Factory Pack Quantity: 1000
+Transistor Type: 1 N-Channel
+Typical Turn-Off Delay Time: 53 ns
+Typical Turn-On Delay Time: 11 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF630 نوع N-Channel پکیج TO-220
+
+قیمت:
+234,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 9 آمپر IRF630 نوع N-Channel  پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Specification
+Product Category: MOSFET
+Technology: Si
+Package / Case: TO-220-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 200 V
+Id - Continuous Drain Current: 9 A
+Rds On - Drain-Source Resistance: 400 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Vgs th - Gate-Source Threshold Voltage: 2 V
+Qg - Gate Charge: 31 nC
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Pd - Power Dissipation: 75 W
+Channel Mode: Enhancement
+Packaging: Tube
+Configuration: Single
+Forward Transconductance - Min: 3 S
+Height: 9.15 mm
+Length: 10.4 mm
+Product Type: MOSFET
+Rise Time: 15 ns
+Series: IRF630
+Subcategory: MOSFETs
+Transistor Type: 1 N-Channel
+Type: MOSFET
+Typical Turn-On Delay Time: 10 ns
+Width: 4.6 mm
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF640 نوع N-Channel پکیج TO-220
+
+قیمت:
+213,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 18 آمپر IRF640 نوع N-Channel  پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET
+RoHS: No
+Technology: Si
+Mounting Style: Through Hole
+Package/Case: TO-220-3
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 200 V
+Id - Continuous Drain Current: 18 A
+Rds On - Drain-Source Resistance: 180 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Maximum Operating Temperature: + 150 C
+Fall Time: 36 ns
+Minimum Operating Temperature: - 55 C
+Pd - Power Dissipation: 125 W
+Rise Time: 51 ns
+Transistor Type: 1 N-Channel
+Typical Turn-Off Delay Time: 45 ns
+Typical Turn-On Delay Time: 14 ns
+Width: 4.7 mm
+Unit Weight: 6 g
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF9530N نوع P-Channel پکیج TO-220
+
+قیمت:
+231,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 12 آمپر نوع P-Channel پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: P-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Type Designator: IRF9530N
+Type of Transistor: MOSFET
+Type of Control Channel: P -Channel
+Maximum Power Dissipation (Pd): 88 W
+Maximum Drain-Source Voltage |Vds|: 100 V
+Maximum Gate-Source Voltage |Vgs|: 20 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 4 V
+Maximum Drain Current |Id|: 12 A
+Maximum Junction Temperature (Tj): 175 °C
+Total Gate Charge (Qg): 38(max) nC
+Rise Time (tr): 52 nS
+Drain-Source Capacitance (Cd): 340 pF
+Maximum Drain-Source On-State Resistance (Rds): 0.3 Ohm
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF9540 نوع P-Channel پکیج TO-220
+
+قیمت:
+222,000
+
+توضیحات کوتاه:
+ماسفت 100 ولت 19 آمپر P-Channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: P-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: onsemi
+Product Category: MOSFET
+Technology: Si
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Transistor Polarity: P-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 100 V
+Id - Continuous Drain Current: 19 A
+Rds On - Drain-Source Resistance: 200 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+Pd - Power Dissipation: 150 W
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRF9630 نوع P-Channel پکیج TO-220
+
+قیمت:
+336,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 6.5 آمپر نوع P-Channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: P-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Channels: 1 Channel
+Transistor Polarity: P-Channel
+Vds - Drain-Source Breakdown Voltage: - 200 V
+Id - Continuous Drain Current: 6.5 A
+Rds On - Drain-Source Resistance: 800 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Maximum Operating Temperature: + 150 C
+Fall Time: 24 ns
+Height: 9.01 mm
+Length: 10.41 mm
+Minimum Operating Temperature: - 55 C
+Pd - Power Dissipation: 74 W
+Rise Time: 27 ns
+Factory Pack Quantity: 1000
+Transistor Type: 1 P-Channel
+Typical Turn-Off Delay Time: 28 ns
+Typical Turn-On Delay Time: 12 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRFB4115 نوع N-channel پکیج TO-220
+
+قیمت:
+655,000
+
+توضیحات کوتاه:
+ماسفت تک کانال 150 ولت 104 آمپر نوع N-channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Technology: Si
+Mounting Style: Through Hole
+Package/Case: TO-220-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 150 V
+Id - Continuous Drain Current: 104 A
+Rds On - Drain-Source Resistance: 9.3 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Vgs th - Gate-Source Threshold Voltage: 5 V
+Qg - Gate Charge: 77 nC
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+Pd - Power Dissipation: 380 W
+Channel Mode: Enhancement
+Packaging: Tube
+Brand: Infineon Technologies
+Configuration: Single
+Fall Time: 39 ns
+Forward Transconductance - Min: 97 S
+Height: 15.65 mm
+Length: 10 mm
+Product Type: MOSFETs
+Rise Time: 73 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRFB4310 نوع N-channel پکیج TO-220
+
+قیمت:
+1,240,000
+
+توضیحات کوتاه:
+ماسفت تک کانال 100 ولت 140 آمپر نوع N-channel
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Technology: Si
+Mounting Style: Through Hole
+Package/Case: TO-220-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 100 V
+Id - Continuous Drain Current: 140 A
+Rds On - Drain-Source Resistance: 5.6 mOhms
+Vgs - Gate-Source Voltage: - 20 V, + 20 V
+Vgs th - Gate-Source Threshold Voltage: 1.8 V
+Qg - Gate Charge: 170 nC
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+Pd - Power Dissipation: 330 W
+Channel Mode: Enhancement
+Packaging: Tube
+Brand: Infineon Technologies
+Configuration: Single
+Subcategory: Transistors
+Transistor Type: 1 N-Channel
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRFP250N نوع N-Channel پکیج TO-247
+
+قیمت:
+563,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 30 آمپر IRFP250N نوع N-Channel  پکیج TO-247
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Package / Case: TO-247-3
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 200 V
+Id - Continuous Drain Current: 30 A
+Rds On - Drain-Source Resistance: 85 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Maximum Operating Temperature: + 150 C
+Fall Time: 62 ns
+Height: 20.7 mm
+Length: 15.87 mm
+Minimum Operating Temperature: - 55 C
+Pd - Power Dissipation: 190 W
+Rise Time: 86 ns
+Factory Pack Quantity: 500
+Transistor Type: 1 N-Channel
+Typical Turn-Off Delay Time: 70 ns
+Typical Turn-On Delay Time: 16 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRFP450 نوع N-Channel پکیج TO-247
+
+قیمت:
+676,000
+
+توضیحات کوتاه:
+ماسفت قدرت N-Channel با ولتاژ 500V و جریان 14A مناسب برای منابع تغذیه سوئیچینگ، اینورترها و مدارات پاور ولتاژ بالا
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت IRFP450 یک ماسفت قدرت نوع N است که قابلیت کار در ولتاژ 500V و جریان مداوم 14A را دارد و برای کاربردهای پاور الکترونیک، مبدل‌های سوئیچینگ و مدارات صنعتی بسیار مناسب است. مقاومت روشن‌شدن RDS(on) برابر 0.40Ω در VGS=10V عملکرد مطلوبی در کاهش تلفات هدایتی ارائه می‌دهد.پکیج TO-247 با امکان دفع حرارتی بالا، این قطعه را گزینه‌ای مناسب برای سیستم‌های پرتوان قرار می‌دهد. این ماسفت دارای بار گیت 150nC، انرژی آوالانچ 760mJ و توان تلفاتی 190W است که برای کاربردهای سخت صنعتی و شرایط کاری سنگین اهمیت زیادی دارند.
+
+مشخصات
+
+ولتاژ درین-سورس (VDS): 500V
+جریان درین مداوم (ID): 14A در TC=25°C
+جریان لحظه‌ای (IDM): 56A
+مقاومت روشن‌شدن RDS(on): 0.40Ω در VGS=10V
+ولتاژ گیت-سورس (VGS): ±20V
+توان تلفاتی (PD): 190W
+بار کل گیت (Qg): 150nC
+بار گیت-سورس (Qgs): 20nC
+بار گیت-درین (Qgd): 80nC
+انرژی آوالانچ (EAS): 760mJ
+دمای کاری: ‎–55°C تا +150°C
+نوع ترانزیستور: N-Channel MOSFET
+پکیج: TO-247
+
+کاربردهای رایج
+
+این ماسفت برای کاربردهای ولتاژ بالا، جریان متوسط و توان بالا در سیستم‌های قدرت و مدارات سوئیچینگ استفاده می‌شود:
+
+منابع تغذیه سوئیچینگ (SMPS)
+اینورترها و درایورهای توان
+بوک/بوس کانورترها
+پروژه‌های پاور الکترونیک
+مدارات کنترل موتور
+شارژرهای صنعتی
+تقویت‌کننده‌های صوتی پاور
+
+Specification
+
+Technology: Si
+Mounting Style: Through Hole
+Package / Case: TO-247-3
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 500 V
+Id - Continuous Drain Current: 14 A
+Rds On - Drain-Source Resistance: 400 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Maximum Operating Temperature: + 150 C
+Minimum Operating Temperature: - 55 C
+Fall Time: 44 ns
+Height: 20.7 mm
+Length: 15.87 mm
+Pd - Power Dissipation: 190 W
+Rise Time: 47 ns
+Transistor Type: 1 N-Channel
+Typical Turn-Off Delay Time: 92 ns
+Typical Turn-On Delay Time: 17 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRFP460 نوع N-Channel پکیج TO-247
+
+قیمت:
+693,000
+
+توضیحات کوتاه:
+ماسفت 500 ولت 20 آمپر IRFP460 نوع N-Channel پکیج TO-247
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET
+Technology: Si
+Mounting Style: Through Hole
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 500 V
+Id - Continuous Drain Current: 20 A
+Rds On - Drain-Source Resistance: 270 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Maximum Operating Temperature: + 150 C
+Minimum Operating Temperature: - 55 C
+Fall Time: 58 ns
+Pd - Power Dissipation: 280 W
+Rise Time: 59 ns
+Factory Pack Quantity: 500
+Transistor Type: 1 N-Channel
+Typical Turn-Off Delay Time: 110 ns
+Typical Turn-On Delay Time: 18 ns
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت IRFZ44N نوع N-Channel پکیج TO-220
+
+قیمت:
+176,000
+
+توضیحات کوتاه:
+ماسفت قدرت 55 ولت 49 آمپر IRFZ44N نوع N-Channel پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET
+Technology: Si
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Channels: 1 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 55 V
+Id - Continuous Drain Current: 49 A
+Rds On - Drain-Source Resistance: 17.5 mOhms
+Vgs - Gate-Source Voltage: 20 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+Pd - Power Dissipation: 94 W
+Configuration: Single
+Channel Mode: Enhancement
+Height: 15.65 mm
+Length: 10 mm
+Transistor Type: 1 N-Channel
+Type: HEXFET Power MOSFET
+Width: 4.4 mm
+Brand: Infineon / IR
+Forward Transconductance - Min: 19 S
+Fall Time: 45 ns
+Product Type: MOSFET
+Rise Time: 60 ns
+Factory Pack Quantity: 100
+Subcategory: MOSFETs
+Typical Turn-Off Delay Time: 44 ns
+Typical Turn-On Delay Time: 12 ns
+Unit Weight: 0.211644 oz
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت SC8205 نوع N-Channel پکیج SOT-23-6
+
+قیمت:
+29,100
+
+توضیحات کوتاه:
+ترانزیستور ماسفت SC8205 نوع N-Channel با ولتاژ کاری 20V و جریان 6A، یک ماسفت دوبل با مقاومت پایین و سرعت سوئیچینگ بالا در پکیج SOT-23-6 مناسب مدارهای شارژ و حفاظت باتری‌های لیتیومی
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت SC8205 ساخت شرکت ShenZhen Fine Mad Electronics یک ترانزیستور N-Channel Enhancement Mode MOSFET با ولتاژ شکست 20V و طراحی دوبل داخلی است. این قطعه به‌صورت یک جفت ماسفت N موازی در داخل یک پکیج مجتمع شده و معمولاً در ماژول‌های شارژ و حفاظت باتری‌های لیتیوم‌یون، مبدل‌های DC-DC، پاوربانک‌ها و سیستم‌های توزیع تغذیه کم‌ولتاژ استفاده می‌شود.مقاومت Drain-Source در حالت روشن بسیار پایین بوده و بسته به ولتاژ گیت از 25 تا 75 میلی‌اهم متغیر است. این ویژگی باعث کاهش تلفات توان و افزایش بازده در مدارهای تغذیه می‌شود.طراحی نیمه‌هادی به روش planar technology و پوشش فلزی بهینه، پایداری حرارتی و توان تحمل جریان را تا 6A پیوسته و 20A پالس افزایش داده است. همچنین، پاسخ سریع به تغییرات ولتاژ گیت و شارژ گیت پایین (حدود 8nC) این ماسفت را برای کاربردهای سوئیچینگ با فرکانس بالا بسیار مناسب کرده است.
+
+مشخصات
+
+نوع ترانزیستور: N-Channel Enhancement MOSFET
+ولتاژ Drain-Source (Vds): 20V
+ولتاژ Gate-Source (Vgs): ±12V
+جریان Drain پیوسته (Id): 6A
+جریان پالس (Idm): 20A
+مقاومت Drain-Source (RDS(on)):
+• 75mΩ @ Vgs=1.8V, Id=2A• 38mΩ @ Vgs=2.5V, Id=3.5A• 30mΩ @ Vgs=4V, Id=4.5A• 25mΩ @ Vgs=10V, Id=5A
+ولتاژ آستانه گیت (Vgs(th)): 0.5V تا 1.5V
+توان تلفاتی (Pd): 2W در 25°C
+دمای کاری: -55°C تا +150°C
+ظرفیت ورودی (Ciss): 522pF
+ظرفیت خروجی (Coss): 98pF
+ظرفیت بازگشتی (Crss): 75pF
+زمان روشن شدن (td(on)): 10~20ns
+پکیج: SOT-23-6
+
+کاربردهای رایج
+
+ماسفت SC8205 به دلیل توان بالا، تلفات کم و سرعت سوئیچینگ مناسب، در کاربردهای زیر استفاده می‌شود
+
+مدارهای شارژ و حفاظت باتری لیتیوم‌یون
+ماژول‌های پاوربانک و تغذیه USB
+مدارهای سوئیچینگ DC-DC
+مدارهای کنترل موتور و درایور بارهای مقاومتی
+محافظ ولتاژ و جریان در سیستم‌های الکترونیکی قابل حمل
+مدارهای سوئیچینگ پرسرعت در بردهای کامپکت
+
+Specification
+
+Product Category: MOSFET
+RoHS: No
+Technology: Si
+Mounting Style: SMD/SMT
+Package/Case: TSSOP-8/SOT-23-6
+Number of Channels: 2 Channel
+Transistor Polarity: N-Channel
+Vds - Drain-Source Breakdown Voltage: 20 V
+Id - Continuous Drain Current: 6 A
+Rds On - Drain-Source Resistance: 25 mOhms
+Vgs - Gate-Source Voltage: 1.5 V
+Maximum Operating Temperature: + 150 C
+Channel Mode: Enhancement
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت SG30N05I نوع N-Channel تایوانی مارک SiliconGear پکیج TO-251-3S
+
+قیمت:
+147,000
+
+توضیحات کوتاه:
+ماسفت 30 ولت 50 آمپر SG30N05I نوع N-Channel مارک SiliconGear پکیج TO-251-3S
+
+مشخصات فنی:
+پکیج: TO-251
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Brand: SiliconGear
+P/N : SG30N05I
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Drain-Source Voltage |Vds|: 30 V
+Gate-Source Voltage |Vgs|: ± 20 V
+Gate-Threshold Voltage |Vgs(V)|: 2.5V
+Drain Current |Id|: 50 A
+Ciss: 580 pF
+Coss: 95 pF
+Crss: 60 pF
+Qg: 8 nC
+Qgs: 3 nC
+Qgd: 4.5 nC
+Package: TO-251-3S
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت SI2300 نوع N-Channel پکیج SOT-23
+
+قیمت:
+10,300
+
+توضیحات کوتاه:
+ماسفت ترانشه‌ای با مقاومت در حالت روشن پایین و توانایی جریان‌دهی بالا برای سوئیچینگ سریع در مدارهای تغذیه
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت SI2300 از نوع N-Channel و مبتنی بر تکنولوژی TrenchFET است که برای کاربردهای پرتابل مانند مبدل‌های DC/DC، کلیدهای بار و تقویت‌کننده‌ها طراحی شده است. این ماسفت با داشتن مقاومت بسیار پایین در حالت روشن (حدود 0.055Ω در 4.5V) و ظرفیت بار گیت پایین، سرعت کلیدزنی بالایی دارد و مصرف توان کمی ایجاد می‌کند. پکیج SOT-23 آن مناسب برای مونتاژ سطحی (SMD) است و فضای کمی روی برد اشغال می‌کند. توانایی عبور جریان تا 3.6 آمپر و ولتاژ تخلیه-مبدأ 30 ولت از جمله ویژگی‌های برجسته این قطعه هستند که آن را برای مدارهای تغذیه، باتری و مدیریت توان ایده‌آل می‌سازد.
+
+مشخصات
+
+نوع قطعه: N-Channel MOSFET
+پکیج: SOT-23 (3 پایه)
+ولتاژ تخلیه-مبدأ (VDS): 30V
+ولتاژ گیت-مبدأ (VGS): ±12V
+جریان تخلیه مداوم در 25°C (ID): تا 3.6A
+جریان تخلیه لحظه‌ای (IDM): تا 15A
+مقاومت روشن (RDS(on)) در VGS=4.5V: حداکثر 0.068Ω
+مقاومت روشن (RDS(on)) در VGS=2.5V: حداکثر 0.085Ω
+بار کل گیت (Qg): حدود 3nC در 4.5V و 6.5nC در 10V
+ظرفیت ورودی (Ciss): حدود 320pF
+ولتاژ آستانه گیت (VGS(th)): بین 0.6V تا 1.5V
+توان مصرفی (PD) در 25°C: 1.1W
+مقاومت حرارتی اتصال به محیط (RθJA): حداکثر 115°C/W
+فرکانس کلیدزنی: مناسب برای فرکانس‌های بالا (تا صدها کیلوهرتز)
+ولتاژ دیود بدنه (VSD): حداکثر 1.2V در جریان 2.5A
+زمان بازیابی معکوس دیود بدنه (trr): حداکثر 20ns
+دمای کاری: از -55°C تا +150°C
+
+کاربردهای رایج
+
+ماسفت SI2300 به‌دلیل سرعت کلیدزنی بالا، اندازه کوچک و مقاومت روشن پایین، انتخابی مناسب برای تجهیزات پرتابل و سیستم‌های تغذیه الکترونیکی است. این قطعه در کاربردهای مرتبط با مدیریت توان و سوئیچینگ بهینه‌سازی مصرف انرژی استفاده می‌شود.
+
+کلیدهای بار (Load Switch) در تجهیزات قابل حمل
+مبدل‌های DC-DC ولتاژ پایین
+کنترل توان در ماژول‌های بلوتوث، وای‌فای یا GSM
+مدارهای شارژ باتری‌های لیتیوم‌یونی
+درایورهای LED کم‌مصرف
+سیستم‌های پاور مدیریت مبتنی بر میکروکنترلر
+سوئیچینگ رله‌های الکترونیکی کوچک
+مدارهای قطع خودکار ولتاژ پایین
+حفاظت معکوس پل‌های ورودی
+پروژه‌های کم‌فضای مبتنی بر SMD
+
+Specification
+
+ Type Designator: SI2300
+Marking Code: P2
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 1.1 W
+Maximum Drain-Source Voltage |Vds|: 30 V
+Maximum Gate-Source Voltage |Vgs|: 12 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 1.5 V
+Maximum Drain Current |Id|: 3.1 A
+Maximum Junction Temperature (Tj): 150 °C
+Rise Time (tr): 15 nS
+Drain-Source Capacitance (Cd): 45 pF
+Maximum Drain-Source On-State Resistance (Rds): 0.068 Ohm
+Package: SOT-23
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت قدرت 2SK2611 نوع N-Channel مارک TOSHIBA پکیج TO-3P
+
+قیمت:
+590,000
+
+توضیحات کوتاه:
+ترانزیستور MOSFET قدرت ولتاژ‌بالا با تحمل 900V، جریان 9A و طراحی ویژه برای سوییچینگ سریع در منابع تغذیه و درایو موتورهای صنعتی.
+
+مشخصات فنی:
+پکیج: TO-3P
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ترانزیستور 2SK2611 ساخت شرکت TOSHIBA یک MOSFET کانال N از نسل π-MOSIII است که برای کاربردهای ولتاژ بالا و سوییچینگ سریع طراحی شده است. این قطعه با ولتاژ تحمل 900 V و جریان مداوم 9 A عملکرد پایداری را در مدارهای قدرت ارائه می‌دهد و به دلیل مقاومت حالت روشن کنترل‌شده، امکان مدیریت حرارتی مناسب و راندمان بالا را فراهم می‌کند. وجود ساختار π-MOS باعث کاهش تأخیرهای کلیدزنی و بهبود رفتار در بارهای القایی می‌شود. این قطعه با توان اتلاف 150 W و پکیج TO-3P که قابلیت انتقال حرارت بالایی دارد، انتخابی مناسب برای سیستم‌های منبع تغذیه سوئیچینگ، درایو موتور، رله‌های قدرت و مدارات تبدیل انرژی است. سرعت کلیدزنی بالا، جریان نشتی بسیار پایین و استحکام در برابر ولتاژهای گذرای بالا از دیگر ویژگی‌های کلیدی این نوع MOSFET صنعتی است.
+
+مشخصات
+
+ولتاژ درین-به-سورس (V_DS): 900 V
+ولتاژ گیت-به-سورس مجاز (V_GS): ±30 V
+جریان مداوم درین (I_D): 9 A
+مقاومت حالت روشن R_DS(on) در V_GS = 10 V و I_D = 4 A: مقدار typ برابر 1.1 Ω و مقدار max برابر 1.4 Ω
+ضریب انتقال جریان |Yfs| در V_DS = 15 V و I_D = 4 A: مقدار typ برابر 7.0 S
+جریان نشتی در حالت خاموش I_DSS در V_DS = 720 V و V_GS = 0: مقدار max برابر 100 µA
+ولتاژ آستانه گیت (V_GS(th)) در I_D = 1 mA: بین 2.0 تا 4.0 V
+توان اتلاف کلی (P_D) در T_C = 25 °C: مقدار 150 W
+دمای کاری مجاز (T_ch): حداکثر 150 °C
+نوع پکیج: TO-3P سه پایه
+
+کاربردهای رایج
+
+این MOSFET برای سیستم‌های ولتاژ بالا و بارهای القایی مناسب است و در مدارهایی که نیاز به کلیدزنی سریع، تحمل ولتاژ زیاد و پایداری حرارتی دارند استفاده می‌شود. در تجهیزات صنعتی، منابع تغذیه سوئیچینگ، کنترل موتورهای AC و DC، درایوهای قدرت و رله‌های صنعتی کاربرد گسترده دارد.
+
+منبع تغذیه سوئیچینگ (SMPS)
+مبدّل‌های DC-DC ولتاژ بالا
+درایو موتورهای AC و DC
+کنترل رله‌های قدرت صنعتی
+تجهیزات تبدیل انرژی
+بارهای القایی با ولتاژ بالا
+سیستم‌های صنعتی با نیاز به سوییچینگ سریع
+اینورترها و شارژرهای صنعتی
+سیستم‌های کنترل بار سنگین
+تجهیزات آزمایشگاهی قدرت
+
+The 2SK2611 transistor from Toshiba is an N-channel MOSFET of the π-MOSIII generation designed for high-voltage and fast-switching applications. With a withstand voltage of 900 V and a continuous current of 9 A, this device offers stable performance in power circuits and, due to its controlled on-state resistance, allows for good thermal management and high efficiency. The presence of the π-MOS structure reduces switching delays and improves behavior in inductive loads. With a power dissipation of 150 W and a TO-3P package with high heat transfer capability, this device is a good choice for switching power supply systems, motor drives, power relays and energy conversion circuits. High switching speed, very low leakage current and robustness against high transient voltages are other key features of this type of industrial MOSFET.
+
+Specifications
+
+Drain-to-source voltage (V_DS): 900 V
+Permitted gate-to-source voltage (V_GS): ±30 V
+Continuous drain current (I_D): 9 A
+On-state resistance R_DS(on) at V_GS = 10 V and I_D = 4 A: typ. 1.1 Ω and max. 1.4 Ω
+Current transfer coefficient |Yfs| At V_DS = 15 V and I_D = 4 A: Typical value of 7.0 S
+Off-state leakage current I_DSS at V_DS = 720 V and V_GS = 0: Max value of 100 µA
+Gate threshold voltage (V_GS(th)) at I_D = 1 mA: Between 2.0 and 4.0 V
+Total power dissipation (P_D) at T_C = 25 °C: 150 W
+Permissible operating temperature (T_ch): Maximum 150 °C
+Package type: TO-3P three-pin
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت قدرت FMW60N059S2FDHF نوع N-Channel ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+1,340,000
+
+توضیحات کوتاه:
+ماسفت قدرت FMW60N059S2FDHF از نوع N-Channel با ولتاژ 600 ولت و جریان 64 آمپر، مناسب برای کاربردهای سوئیچینگ صنعتی و منابع تغذیه سوئیچینگ
+
+مشخصات فنی:
+پکیج: TO-247
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ماسفت قدرت مدل FMW60N059S2FDHF از سری Super J MOS® S2 ساخت شرکت FUJI Electric ژاپن، یک ماسفت تقویتی N-Channel با عملکرد بسیار سریع و تلفات پایین است. این ماسفت برای کاربردهای سوئیچینگ در منابع تغذیه، اینورترها و سیستم‌های کنترل موتور طراحی شده است.
+ویژگی بارز این مدل مقاومت در حالت روشن پایین (RDS(on) حدود 0.052 اهم)، ظرفیت گیت کم و تحمل جریان‌های لحظه‌ای بالا تا 200 آمپر می‌باشد. طراحی داخلی آن باعث بهبود راندمان حرارتی و کاهش توان تلفاتی می‌شود. بدنه‌ی TO-247 آن انتقال حرارت به هیت‌سینک را تسهیل کرده و عملکرد پایدار در دماهای بالا را تضمین می‌کند.
+این ماسفت دارای مقاومت حرارتی 0.368°C/W و توان اتلافی 340 وات در دمای کیس 25°C است و برای عملکرد در بازه‌ی دمایی -55 تا +150 درجه سانتی‌گراد بهینه‌سازی شده است.
+
+مشخصات
+
+نوع ترانزیستور: N-Channel Power MOSFET
+ولتاژ Drain-Source (VDS): 600V
+جریان Drain پیوسته (ID): 64.4A در 25°C / 40.7A در 100°C
+جریان Drain پالسی (IDP): 200A
+ولتاژ Gate-Source (VGS): ±30V
+مقاومت Drain-Source در حالت روشن (RDS(on)): 0.052Ω typ @ VGS=10V, ID=25A
+ولتاژ شکست Gate Threshold (VGS(th)): 3.0 تا 5.0V
+توان تلفاتی (PD): 340W در 25°C
+دمای کاری Junction: تا 150°C
+رسانایی گیت (gfs): حداکثر 36S
+ظرفیت ورودی (Ciss): 2680pF
+زمان روشن شدن (td(on)): 28ns
+زمان خاموش شدن (td(off)): 183ns
+بسته‌بندی: TO-247
+
+کاربردهای رایج
+
+ماسفت FMW60N059S2FDHF در سامانه‌های قدرت و تجهیزات الکترونیکی صنعتی استفاده می‌شود که نیاز به راندمان بالا، کنترل دقیق و تلفات کم دارند.
+
+منابع تغذیه سوئیچینگ (SMPS)
+درایور موتورهای DC و BLDC
+سیستم‌های اینورتر و UPS
+تجهیزات صنعتی و کنترلی
+مبدل‌های DC-DC و DC-AC
+مدارات تقویت‌کننده قدرت
+سیستم‌های توان بالا با فرکانس سوئیچ بالا
+
+Specification
+
+Product Category: MOSFET
+Technology: Si
+Mounting Style: Through Hole
+Package/Case: TO-247-3
+Transistor Polarity: N-Channel
+Number of Channels: 1 Channel
+Vds - Drain-Source Breakdown Voltage: 600 V
+Id - Continuous Drain Current: 64.4 A
+Rds On - Drain-Source Resistance: 0.059 Ohms
+Vgs - Gate-Source Voltage: - 30 V, + 30 V
+Vgs th - Gate-Source Threshold Voltage: 5 V
+Qg - Gate Charge: 129 nC
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Pd - Power Dissipation: 340 W
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت قدرت MTN2N60CFP نوع N-Channel تایوانی مارک CYStek پکیج TO-220
+
+قیمت:
+345,000
+
+توضیحات کوتاه:
+ماسفت قدرت 600 ولت 2 آمپر MTN2N60CFP نوع N-Channel مارک CYStek پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+P/N  : MTN2N60CF
+Brand : CYStek
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 23 W
+Maximum Drain-Source Voltage |Vds|: 600 V
+Maximum Gate-Source Voltage |Vgs|: ± 30 V
+Maximum Drain Current |Id|: 2 A
+Maximum Junction Temperature (Tj): 150 °C
+Rise Time (tr): 8.2 nS
+Package:  TO-220
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت قدرت RFP50N06 نوع N-Channel پکیج TO-220
+
+قیمت:
+198,000
+
+توضیحات کوتاه:
+ترانزیستور MOSFET توان با تحمل ولتاژ 60V و جریان 50A برای سوییچینگ سریع، کنترل بارهای صنعتی و مدارهای توان متوسط
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+MOSFET مدل RFP50N06 یک ترانزیستور کانال N با مقاومت حالت روشن پایین و جریان‌دهی بالا است که برای کاربردهای قدرت متوسط و سوییچینگ سریع توسعه یافته است. با تحمل ولتاژ 60V و جریان 50A، این قطعه در مدارات تغذیه، سیستم‌های کنترلی و بارهای القایی عملکرد قابل‌اعتمادی ارائه می‌دهد. طراحی داخلی آن امکان کلیدزنی سریع با تلفات کم را فراهم کرده و مقاومت R_DS(on) نزدیک به 0.028 Ω در شرایط تست استاندارد، باعث کاهش حرارت و افزایش راندمان می‌شود. ترکیب توانایی مدیریت جریان بالا با ظرفیت ورودی کنترل‌شده، این MOSFET را برای کاربردهایی مانند منابع تغذیه سوییچینگ، درایو موتور، سیستم‌های اتوماسیون، مبدّل‌های DC-DC و سوییچینگ بارهای سنگین مناسب می‌کند. پکیج TO-220 نیز موجب تسهیل نصب، اتصال مناسب به هیت‌سینک و مدیریت حرارتی مطمئن می‌شود.
+
+مشخصات
+
+ولتاژ درین-سورس (V_DS): مقدار 60 V
+ولتاژ مجاز گیت-سورس (V_GS): مقدار ±20 V
+جریان مداوم درین (I_D) در 25 °C: مقدار 50 A
+مقاومت حالت روشن R_DS(on) در V_GS = 10 V و I_D = 25 A: مقدار typ برابر 0.028 Ω
+توان اتلاف مجاز (P_D) در 25 °C: مقدار 120 W
+جریان نشتی در حالت خاموش (I_DSS) در V_DS = 60 V: مقدار max برابر 25 µA
+ظرفیت ورودی (C_iss): مقدار typ برابر 1800 pF
+ولتاژ آستانه گیت (V_GS(th)) در I_D = 250 µA: بین 2.0 تا 4.0 V
+دمای کاری پیوسته (T_j): از ‎−55 °C تا ‎+175 °C
+نوع پکیج: TO-220 سه پایه
+
+کاربردهای رایج
+
+این ترانزیستور برای سوییچینگ جریان بالا، کنترل بارهای مقاومتی و القایی و کاربردهای صنعتی با توان متوسط بسیار مناسب است. راندمان بالا، مقاومت کم و قابلیت کلیدزنی سریع آن را به گزینه‌ای عالی برای منابع تغذیه، درایو موتور و سیستم‌های قدرت تبدیل می‌کند.
+
+مبدل‌های DC-DC توان متوسط
+منابع تغذیه سوییچینگ (SMPS)
+کنترل دور موتورهای DC
+سوییچینگ رله‌ها و بارهای القایی
+سیستم‌های اتوماسیون صنعتی
+کنترل بار LEDهای توان بالا
+تجهیزات خودرو (12 V و 24 V)
+مدارهای فرمان و کنترل توان
+درایو پمپ‌ها و فن‌ها
+تجهیزات آزمایشگاهی توان متوسط
+
+Specifications
+
+Drain-source voltage (V_DS): 60 V
+Gate-source voltage (V_GS): ±20 V
+Continuous drain current (I_D) at 25 °C: 50 A
+On-state resistance R_DS(on) at V_GS = 10 V and I_D = 25 A: 0.028 Ω typ
+Power dissipation (P_D) at 25 °C: 120 W
+Off-state leakage current (I_DSS) at V_DS = 60 V: 25 µA max
+Input capacitance (C_iss): 1800 pF typ
+Gate threshold voltage (V_GS(th)) at I_D = 250 µA: 2.0 to 4.0 V
+Continuous operating temperature (T_j): −55 °C to +175 °C
+Package Type: TO-220 Three-Pin
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت قدرت STP80NF10 نوع N-Channel پکیج TO-220
+
+قیمت:
+330,000
+
+توضیحات کوتاه:
+ترانزیستور MOSFET قدرت توان بالا با ولتاژ تحمل 100V و جریان 80A که برای سوییچینگ سریع، راندمان بالا و بارهای سنگین
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+ترانزیستور STP80NF10 از خانواده STripFET شرکت STMicroelectronics است و به‌صورت ویژه برای کاربردهای قدرت بالا و سوییچینگ با تلفات پایین طراحی شده است. ساختار STripFET با کاهش مقاومت در حالت روشن، باعث افزایش راندمان و کاهش حرارت در بارهای سنگین می‌شود. این قطعه با تحمل ولتاژ 100V و جریان 80A در شرایط استاندارد، گزینه‌ای مناسب برای طراحی مبدل‌های DC-DC، سیستم‌های UPS، کنترل موتورهای صنعتی و منابع تغذیه سوییچینگ است. زمان‌بندی کلیدزنی سریع و ظرفیت ورودی کنترل‌شده، امکان استفاده در مدارهایی با تغییرات سریع ولتاژ و جریان را فراهم می‌کند. این MOSFET همچنین با پکیج TO-220 امکان انتقال حرارت مطلوب، نصب آسان و قابلیت اتصال روی هیت‌سینک را ارائه می‌دهد که برای پروژه‌های صنعتی و نیمه‌صنعتی بسیار کاربردی است.
+
+مشخصات
+
+ولتاژ کاری درین-سورس: 100V
+ولتاژ مجاز گیت-سورس: ±20V
+جریان درین (در دمای بدنه 25 °C): 80A
+مقاومت حالت روشن R_DS(on) (در V_GS = 10 V و I_D = 40 A): مقدار typ برابر 0.012 Ω و مقدار max برابر 0.015 Ω
+توان اتلاف کلی (دمای بدنه 25 °C): 300 W
+دمای کاری پیوسته: از ‎-55 °C تا ‎+175 °C
+ظرفیت ورودی C_iss در 1 MHz و 25 V: مقدار typ حدود 5500 pF و مقدار max حدود 7000 pF
+نوع پکیج: TO-220 سه پایه
+
+کاربردهای رایج
+
+این MOSFET برای سیستم‌های قدرت بالا که نیازمند راندمان بالا، کلیدزنی سریع و تحمل جریان زیاد هستند مناسب است. در طراحی مبدّل‌ها، منابع تغذیه صنعتی، کنترل موتور و سوییچینگ بارهای سنگین عملکرد بسیار پایداری ارائه می‌دهد و با پکیج TO-220 امکان مدیریت حرارتی موثر را فراهم می‌کند.
+
+منابع تغذیه سوییچینگ قدرت بالا
+مبدل‌های DC-DC صنعتی
+مدارهای کنترل موتورهای DC و BLDC
+سیستم‌های UPS و تجهیزات پشتیبان انرژی
+سوییچینگ بارهای سنگین در سیستم‌های مخابراتی
+کنترل بار در تجهیزات آزمایشگاهی
+رگولاتورهای قدرت و مسیرهای توزیع انرژی
+مدارهای اینورتر و کانورتر
+کنترل بارهای القایی
+تجهیزات الکترونیک قدرت در ماشین‌آلات صنعتی
+
+The STP80NF10 transistor is part of STMicroelectronics' STripFET family and is specifically designed for high-power, low-loss switching applications. The STripFET structure increases efficiency and reduces heat under heavy loads by reducing on-state resistance. With a standard voltage rating of 100V and current rating of 80A, this device is a good choice for designing DC-DC converters, UPS systems, industrial motor control, and switching power supplies. Fast switching timing and controlled input capacitance allow it to be used in circuits with rapid voltage and current changes. This MOSFET also offers optimal heat transfer, easy installation, and heat sink mounting with its TO-220 package, making it very useful for industrial and semi-industrial projects.
+
+Specifications
+
+Drain-source operating voltage: 100V
+Gate-source allowable voltage: ±20V
+Drain current (at 25 °C body temperature): 80A
+On-state resistance R_DS(on) (at V_GS = 10 V and I_D = 40 A): typ. 0.012 Ω, max. 0.015 Ω
+Total power dissipation (25 °C body temperature): 300 W
+Continuous operating temperature: -55 °C to +175 °C
+Input capacitance C_iss at 1 MHz and 25 V: typ. 5500 pF, max. 7000 pF
+Package type: TO-220 three-pin
+
+
+========================================================================================================================
+
+عنوان:
+ماسفت قدرت TK4A60DA نوع N-Channel ژاپنی مارک TOSHIBA پکیج TO-220FP
+
+قیمت:
+235,000
+
+توضیحات کوتاه:
+ماسفت 600 ولت 3.5 آمپر TK4A60DA نوع N-Channel ژاپنی مارک TOSHIBA پکیج TO-220FP
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Type Designator: TK4A60DA
+Marking Code: K4A60DA
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 35 W
+Maximum Drain-Source Voltage |Vds|: 600 V
+Maximum Gate-Source Voltage |Vgs|: 30 V
+Maximum Gate-Threshold Voltage |Vgs(th)|: 4.4 V
+Maximum Drain Current |Id|: 3.5A
+Maximum Junction Temperature (Tj): 150 °C
+Total Gate Charge (Qg): 11 nC
+Rise Time (tr): 18 nS
+Maximum Drain-Source On-State Resistance (Rds): 2.2 Ohm
+Package: TO-220FP
+

@@ -1,0 +1,966 @@
+عنوان:
+تراشه سوئیچ AC با محافظ اضافه ولتاژ ACST67S پکیج TO-263 (D2PAk)
+
+قیمت:
+572,000
+
+توضیحات کوتاه:
+سوئیچ تریاکی AC با توان 6 آمپر و ولتاژ کاری 700 ولت، مناسب برای کاربردهای صنعتی و خانگی با بار القایی
+
+توضیحات کامل:
+مدل ACST6-7ST یک سوئیچ AC با فناوری ASD (اختصاصی STMicroelectronics) است که به‌منظور سوییچینگ مستقیم بارهای القایی متوسط مانند موتورهای القایی طراحی شده است. این قطعه دارای ساختار داخلی تریاک با مدار گیره‌زن ولتاژ بالا است که توان جذب انرژی برگشتی ناشی از قطع بارهای القایی را دارد. همچنین مطابق با استاندارد IEC 61000-4-5 در برابر نوسانات ناگهانی ولتاژ تا سطح 2 کیلوولت مقاومت می‌کند. جریان راه‌اندازی پایین‌تر از 10 میلی‌آمپر، امکان تحریک مستقیم توسط میکروکنترلرها را فراهم می‌سازد و نیازی به مدار اسنابر خارجی ندارد. طراحی آن به‌گونه‌ای است که با حداقل قطعات جانبی، عملکرد مطمئن در مدارهای ON/OFF و کنترل زاویه فاز را ارائه می‌دهد. این قطعه در کاربردهای خانگی نظیر یخچال، ماشین ظرفشویی و خشک‌کن لباس عملکرد قابل اطمینانی دارد.
+
+مشخصات
+
+ولتاژ کاری (VDRM/VRRM): 700 V
+جریان کاری موثر بدون هیت‌سینک (در 40°C): 1.5 A
+جریان کاری موثر با هیت‌سینک (در 105°C): 6 A
+جریان پیک غیرتکراری (ITSM): 50 A (در 60 Hz) / 45 A (در 50 Hz)
+جریان تریگر (IGT): 10 mA (حداکثر)
+ولتاژ تریگر (VGT): 1.5 V (حداکثر)
+جریان نگهدارنده (IH): 25 mA (حداکثر)
+جریان قفل‌شدن (IL): 50 mA (حداکثر)
+ولتاژ گیره (VCL): 1100 V (میانگین)
+نرخ dV/dt: حداقل 200 V/µs
+نرخ dI/dt: حداقل 100 A/µs
+توان متوسط گیت (PG(AV)): 0.1 W
+توان پیک گیت (PGM): 10 W
+جریان پیک گیت (IGM): 1 A
+مقاومت حرارتی (junction to ambient - TO-220AB): 60 °C/W
+مقاومت حرارتی (junction to case): 2.5 °C/W
+محدوده دمای کاری (Tj): از °C125+ تا °C30-
+
+کاربردهای رایج
+
+این سوئیچ برای کنترل بارهای القایی در تجهیزات خانگی و صنعتی طراحی شده است. ساختار مقاوم در برابر ولتاژهای گذرا و توانایی کار بدون نیاز به مدارهای حفاظتی خارجی، آن را به گزینه‌ای مناسب برای کاربردهای درایو موتور و سوییچینگ مستقیم در برق AC تبدیل کرده است.
+
+کنترل کمپرسور یخچال و فریزر
+درایو پمپ ماشین ظرفشویی
+کنترل موتور خشک‌کن لباس
+راه‌اندازی موتورهای AC تک‌فاز
+ترموستات الکترونیکی با کنترل مستقیم
+مدارهای سوییچینگ بدون اسنابر
+سوییچینگ در سیستم‌های کنترل صنعتی
+درایو بارهای القایی با توان متوسط
+مدارهای کنترل توان در وسایل خانگی
+رله حالت جامد AC با مقاومت در برابر نوسانات
+
+Specifications
+
+Repetitive peak off-state voltage (VDRM/VRRM): 700 V
+RMS on-state current without heatsink (at 40°C): 1.5 A
+RMS on-state current with heatsink (at 105°C): 6 A
+Non-repetitive surge peak current (ITSM): 50 A (60 Hz) / 45 A (50 Hz)
+Gate triggering current (IGT): max. 10 mA
+Gate triggering voltage (VGT): max. 1.5 V
+Holding current (IH): max. 25 mA
+Latching current (IL): max. 50 mA
+Clamping voltage (VCL): typ. 1100 V
+Static dV/dt: min. 200 V/µs
+Turn-off dI/dt capability: min. 100 A/µs
+Average gate power dissipation (PG(AV)): 0.1 W
+Peak gate power dissipation (PGM): 10 W
+Peak gate current (IGM): 1 A
+Thermal resistance junction-to-ambient (Rth(j-a), TO-220AB): 60 °C/W
+Thermal resistance junction-to-case (Rth(j-c)): 2.5 °C/W
+Operating junction temperature range (Tj): -30°C to +125°C
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک 2N6348AG مارک ON-Semiconductor پکیج TO-220
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترایاک 600 ولت 12 آمپر 2N6348AG  پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+RoHS: Details
+Series: 2N6348AG
+Non Repetitive On-State Current: 100 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 10 uA
+On-State Voltage: 1.75 V
+Current Rating: 12 A
+Holding Current Ih Max: 40 mA
+Gate Trigger Voltage - Vgt: 2 V
+Gate Trigger Current - Igt: 125 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT08-600B پکیج TO-220
+
+قیمت:
+177,000
+
+توضیحات کوتاه:
+تریاک توان 8A با تحمل ولتاژ 600V، مناسب برای کنترل AC، درایو بارهای مقاومتی و القایی و سوییچینگ نیمه‌صنعتی.
+
+توضیحات کامل:
+تریاک BTA08-600B برای کنترل جریان متناوب در بارهای خانگی، صنعتی و نیمه‌صنعتی طراحی شده است. این قطعه با تحمل ولتاژ معکوس و مستقیم تا 600V و جریان RMS برابر 8A، امکان استفاده ایمن در مدارهای AC را فراهم می‌کند. طراحی داخلی آن موجب روشن‌شدن مطمئن در نیم‌سیکل مثبت و منفی شده و پایداری عملکرد را در مدارات کنترل بار تضمین می‌کند. زمان کلیدزنی متقارن، حساسیت مناسب گیت و تحمل جریان هجومی بالا، این مدل را برای کاربردهایی مانند درایو موتورهای کوچک، دیمرهای روشنایی، کنترل دور فن، سوئیچینگ المنت‌ها و تجهیزات AC با توان متوسط مناسب می‌سازد. ساختار بدنه TO-220 نیز امکان انتقال حرارت مناسب و اتصال مستقیم به هیت‌سینک را فراهم کرده و قابلیت تحمل توان را در شرایط سخت کاری افزایش می‌دهد.
+
+مشخصات
+
+ولتاژ تکرارشونده بلوکه‌کننده (V_RRM): مقدار 600 V
+جریان RMS درین (I_T(RMS)): مقدار 8 A
+جریان پیک غیرتکرارشونده (I_TSM) در پالس 8.3 ms: مقدار 75 A
+جریان گیت موردنیاز برای تریگر (I_GT) در چهار ربع استاندارد: مقدار typ برابر 35 mA
+ولتاژ نگهدارنده (V_H): مقدار typ برابر 0.7 V
+ولتاژ حالت روشن (V_TM) در I_T = 11 A: مقدار typ حدود 1.55 V
+نرخ افزایش ولتاژ در حالت خاموش (dV/dt): مقدار typ برابر 10 V/µs
+توان اتلاف مجاز (P_TOT) در 25 °C: مقدار 1.5 W
+دمای کاری پیوسته (T_j): از ‎−40 °C تا ‎+125 °C
+نوع پکیج: TO-220 سه پایه
+
+کاربردهای رایج
+
+این قطعه برای کنترل جریان AC در بارهای مقاومتی، القایی و ترکیبی بسیار مناسب است و به دلیل تحمل جریان هجومی بالا، عملکرد پایدار و تحریک‌پذیری مناسب، در سیستم‌های خانگی و صنعتی با توان متوسط استفاده می‌شود. درایو موتورهای کوچک، دیمرها، کنترل سرعت فن، رگولاتورهای AC و سیستم‌های سوئیچینگ مبتنی بر فاز از رایج‌ترین کاربردهای آن هستند.
+
+دیمر روشنایی AC
+کنترل دور فن و موتورهای کوچک
+درایو رله‌های AC
+کنترل گرمایش و المنت‌ها
+تجهیزات خانگی نیمه‌صنعتی
+سوییچینگ بارهای مقاومتی و القایی
+مدارهای تنظیم فاز
+کنترل دور در ابزارهای الکتریکی
+کنترل توان در هیترهای صنعتی
+مدارات فرمان AC با توان متوسط
+
+Specifications
+
+Repetitive blocking voltage (V_RRM): 600 V
+RMS drain current (I_T(RMS)): 8 A
+Non-repetitive peak current (I_TSM) in 8.3 ms pulse: 75 A
+Required gate current for trigger (I_GT) in standard four quadrants: 35 mA typ
+Holding voltage (V_H): 0.7 V typ
+On-state voltage (V_TM) at I_T = 11 A: 1.55 V typ
+Off-state voltage rise rate (dV/dt): 10 V/µs typ
+Permissible power dissipation (P_TOT) at 25 °C: 1.5 W
+Continuous operating temperature (T_j): −40 °C to +125 °C
+Package type: TO-220 three-pin
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT131-600 پکیج TO-92
+
+قیمت:
+29,600
+
+توضیحات کوتاه:
+ترایاک BT131-600 پکیج TO-92
+
+مشخصات فنی:
+پکیج: TO-92
+
+توضیحات کامل:
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+Product Category: Triacs
+RoHS: Details
+On-State RMS Current - It RMS: 1 A
+Non Repetitive On-State Current: 13.8 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 100 uA
+On-State Voltage: 1.2 V
+Holding Current Ih Max: 5 mA
+Gate Trigger Voltage - Vgt: 700 mV
+Gate Trigger Current - Igt: 3.8 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT134-600E پکیج TO-126
+
+قیمت:
+60,000
+
+توضیحات کوتاه:
+ترایاک BT134-600E سوئیچ AC دوطرفه با توان 4A و ولتاژ 600V مناسب کنترل بارهای AC در مدارهای صنعتی و خانگی
+
+توضیحات کامل:
+ترایاک BT134-600E یک قطعه نیمه‌هادی از خانواده TRIAC است که برای سوئیچینگ و کنترل توان در مدارهای AC به‌کار می‌رود. این مدل در پکیج TO-126 عرضه شده و قابلیت تحمل ولتاژهای تا 600V و جریان 4A RMS را دارد. وجود گیت حساس و جریان تحریک پایین آن را برای درایو با میکروکنترلرها، اپتوترایاک‌ها (MOC3021/3063) و مدارهای کنترل توان بسیار مناسب کرده است.
+
+این قطعه می‌تواند در دو نیم‌چرخه موج AC هدایت کند و برای کنترل سرعت موتور، دیمرهای روشنایی، کنترل بارهای مقاومتی–سلفی، و رله‌های حالت‌جامد کاربرد گسترده دارد. ترایاک BT134-600E به دلیل ساختار passivated glass و توانایی تحمل dv/dt مناسب، عملکرد پایداری در محیط‌های نویزی دارد.
+
+مشخصات
+
+ولتاژ تکرار شونده قطع (VDRM): تا 600V
+جریان RMS: 4A
+جریان غیرتکراری پیک (ITSM): تا 25A برای پالس 20ms
+حساسیت گیت: جریان تحریک حدود 5 تا 35 mA
+پکیج: SOT-82 / TO-126
+دمای کاری: از –40°C تا +125°C
+Gate Trigger Current (IGT): بسته به کوادرات مختلف T2+/T2– حدود 5 تا 35 mA
+Gate Trigger Voltage (VGT): حدود 1.4–1.7V
+Holding Current (IH): حدود 5 تا 10 mA
+Latching Current (IL): حدود 7 تا 30 mA
+dV/dt بحرانی: حدود 50 تا 100 V/µs
+زمان روشن شدن (tg): حدود 2 µs
+Rth(j-mb): حدود 3–3.7 K/W
+Rth(j-a): حدود 100 K/W (در هوای آزاد، بدون هیت‌سینک)
+
+کاربردهای رایج
+
+ترایاک BT134-600E یک سوئیچ AC دوطرفه با حساسیت گیت مناسب است که امکان کنترل دقیق بارهای خانگی و صنعتی را با ولتاژهای تا 600 ولت فراهم می‌کند. این قطعه به‌دلیل جریان تحریک پایین، اندازه کوچک و تحمل جریان مناسب، گزینه‌ای مطمئن برای دیمرها، رله‌های حالت جامد و کنترل موتورهای تک‌فاز محسوب می‌شود.
+
+دیمر لامپ‌های AC (تنظیم روشنایی)
+کنترل سرعت موتورهای AC (دمنده، فن، ابزار کابردی)
+کنترل بارهای حرارتی (المنت، هیتر)
+رله حالت جامد (SSR)
+سوئیچینگ بارهای خانگی در سیستم‌های هوشمند
+کنترل پمپ‌های کوچک AC
+راه‌اندازی توسط اپتوترایاک MOC3021 / MOC3063
+
+Specifications
+
+Repetitive Breakdown Voltage (VDRM): Up to 600V
+RMS Current: 4A
+Peak Non-Repetitive Current (ITSM): Up to 25A for 20ms pulse
+Gate Sensitivity: Trigger Current Approx. 5 to 35 mA
+Package: SOT-82 / TO-126
+Operating Temperature: From –40°C to +125°C
+Gate Trigger Current (IGT): Depending on different quadratures T2+/T2– Approx. 5 to 35 mA
+Gate Trigger Voltage (VGT): Approx. 1.4–1.7V
+Holding Current (IH): Approx. 5 to 10 mA
+Latching Current (IL): Approx. 7 to 30 mA
+Critical dV/dt: Approx. 50 to 100 V/µs
+Turn-on Time (tg): Approx. 2 µs
+Rth(j-mb): Approx. 3–3.7 K/W
+Rth(j-a): Approx. 100 K/W (In open air, without heatsink)
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT136 پکیج TO-220
+
+قیمت:
+108,000
+
+توضیحات کوتاه:
+ترایاک BT136 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+On-State RMS Current - It RMS: 4 A
+Non Repetitive On-State Current: 25 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+On-State Voltage: 1.7 V
+Holding Current Ih Max: 30 mA
+Gate Trigger Voltage - Vgt: 1.5 V
+Gate Trigger Current - Igt: 10 mA
+Mounting Style: Through Hole
+Package / Case: TO-220
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT137-600 پکیج TO-220
+
+قیمت:
+109,000
+
+توضیحات کوتاه:
+ترایاک BT137-600 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+Non Repetitive On-State Current: 71 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 100 uA
+On-State Voltage: 1.65 V
+Holding Current Ih Max: 20 mA
+Gate Trigger Voltage - Vgt: 1.5 V
+Gate Trigger Current - Igt: 70 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT138-600
+
+قیمت:
+97,900
+
+توضیحات کوتاه:
+ترایاک BT138-600 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+On-State RMS Current - It RMS: 12 A
+Non Repetitive On-State Current: 95 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+On-State Voltage: 1.4 V
+Holding Current Ih Max: 30 mA
+Gate Trigger Voltage - Vgt: 0.7 V
+Gate Trigger Current - Igt: 22 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220AB
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BT139 پکیج TO-220
+
+قیمت:
+121,000
+
+توضیحات کوتاه:
+ترایاک BT139 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+On-State RMS Current - It RMS: 16 A
+Non Repetitive On-State Current: 155 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 100 uA
+On-State Voltage: 1.2 V
+Holding Current Ih Max: 45 mA
+Gate Trigger Voltage - Vgt: 700 mV
+Gate Trigger Current - Igt: 11 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BTA12-600B پکیج TO-220
+
+قیمت:
+171,000
+
+توضیحات کوتاه:
+ترایاک BTA12-600B پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Triacs
+Series: BTA12
+Non Repetitive On-State Current: 126 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 5 uA
+On-State Voltage: 1.55 V
+Holding Current Ih Max: 50 mA
+Gate Trigger Voltage - Vgt: 1.3 V
+Gate Trigger Current - Igt: 100 mA
+Minimum Operating Temperature: -40°C
+Maximum Operating Temperature: +125°C
+Mounting Style: Through Hole
+Package/Case: TO-220-3
+Packaging: Bulk
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BTA140-600 پکیج TO-220
+
+قیمت:
+191,000
+
+توضیحات کوتاه:
+ترایاک BTA140-600 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+
+Manufacturer: NXP
+Product Category: Triacs
+Non Repetitive On-State Current: 209 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 100 uA
+On-State Voltage: 1.55 V
+Holding Current Ih Max: 60 mA
+Gate Trigger Voltage - Vgt: 1.5 V
+Gate Trigger Current - Igt: 70 mA
+Minimum Operating Temperature: -40°C
+Maximum Operating Temperature: +125°C
+Mounting Style: Through Hole
+Package/Case: TO-220-3
+Packaging: Rail
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BTA24-600B پکیج TO-220
+
+قیمت:
+262,000
+
+توضیحات کوتاه:
+ترایاک 600 ولت 25 آمپر BTA24-600B پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Triacs
+Series: BTA24
+Non Repetitive On-State Current: 260 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 5 uA
+On-State Voltage: 1.55 V
+Holding Current Ih Max: 50 mA
+Gate Trigger Voltage - Vgt: 1.3 V
+Gate Trigger Current - Igt: 35 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Packaging: Tube
+Brand: STMicroelectronics
+Current Rating: 25 A
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BTA26-600B پکیج TOP-3
+
+قیمت:
+429,000
+
+توضیحات کوتاه:
+ترایاک BTA26-600B پکیج TOP-3
+
+توضیحات کامل:
+Specification
+
+Product Category: Triacs
+Non Repetitive -State Current: 260 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 5 uA
+State Voltage: 1.55 V
+Holding Current Ih Max: 75 mA
+Gate Trigger Voltage – Vgt: 1.3 V
+Gate Trigger Current – Igt: 50 mA
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TOP-3
+Minimum Operating Temperature: – 40 C
+Series: BTA26-600B
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BTA40-600B پکیچ RD-91
+
+قیمت:
+1,470,000
+
+توضیحات کوتاه:
+سوئیچ دوطرفه 40 آمپر 600 ولت پکیج RD-91
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+ولتاژ این ترایاک 600V می باشد.
+
+Specification
+
+Rated Average On-State Current: 40A
+Mounting Type: Panel Mount
+Package Type: RD-91
+Maximum Gate Trigger Current: 100mA
+Repetitive Peak Reverse Voltage: 600V
+Surge Current Rating: 420A
+Pin Count: 3
+Maximum Gate Trigger Voltage: 1.3V
+Repetitive Peak Forward Blocking Voltage: 600V
+Maximum Holding Current: 80mA
+Dimensions: 40 x 27 x 14mm (Length ,Width ,Height )
+Repetitive Peak Off-State Current: 0.005mA
+Peak On-State Voltage: 1.55V
+Maximum Operating Temperature: +125 °C
+Minimum Operating Temperature: -40 °C
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک BTA41-600B پکیج TOP-3
+
+قیمت:
+439,000
+
+توضیحات کوتاه:
+ترایاک 600 ولت 40 آمپر BTA41-600 پکیج TOP-3
+
+توضیحات کامل:
+معرفی
+
+ترایاک برخلاف تریستور، یک سوئیچ دوطرفه است به این صورت که می تواند جریان را از هر دو طرف خود عبور دهد. همچنین ترایاک مانند تریستور سه پایه دارد. دو پایه اصلی به نام های A1 و A2 (که مخفف Anode است) و پایه ی سوم، پایه ی کنترلی G (مخفف Gate) می باشد که برای تریگر کردن آسانتر جریان بین دو الکترود A1 و A2 به کار می رود.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Triacs
+Series: BTA41-600
+Non Repetitive On-State Current: 40 A
+Rated Repetitive Off-State Voltage VDRM: 600 V
+Off-State Leakage Current @ VDRM IDRM: 5 uA
+On-State Voltage: 1.8 V
+Holding Current Ih Max: 80 mA
+Gate Trigger Voltage - Vgt: 1.5 V
+Gate Trigger Current - Igt: 100 mA
+Minimum Operating Temperature: -40°C
+Maximum Operating Temperature: +125°C
+Mounting Style: Through Hole
+Package/Case: TOP-3
+Packaging: Bulk
+
+
+========================================================================================================================
+
+عنوان:
+ترایاک MAC97A6
+
+قیمت:
+21,900
+
+توضیحات کوتاه:
+ترایاک MAC97A6 پکیج TO-92
+
+توضیحات کامل:
+ترایاک MAC97A6 یک قطعه نیمه‌رسانا از نوع (4Q Triac) است که برای کاربردهای سوئیچینگ و کنترل توان پایین طراحی شده است. این ترایاک در پکیج TO-92 ارائه می‌شود و قابلیت تحریک با جریان بسیار کم از طریق گیت را داراست که آن را برای کنترل مستقیم توسط میکروکنترلرها و مدارهای منطقی دیجیتال ایده‌آل می‌سازد. طراحی مبتنی بر فناوری planar passivated موجب افزایش مقاومت در برابر تنش‌های ولتاژی و بهبود پایداری عملکرد در طول زمان می‌شود.
+
+قابلیت هدایت جریان در هر چهار حالت پلاریته بین گیت و ترمینال‌های اصلی، باعث انعطاف‌پذیری بالا در طراحی مدارهای AC می‌شود. MAC97A6 برای استفاده در مدارهای رله حالت‌جامد، کنترل فاز بارهای مقاومتی سبک، و سوئیچ‌های توان پایین بسیار مناسب است. حساسیت گیت بالا (حداکثر 7 میلی‌آمپر برای فعال‌سازی) و توان مصرفی پایین از جمله ویژگی‌هایی هستند که این قطعه را برای استفاده در کاربردهای مبتنی بر کنترل دیجیتال به گزینه‌ای قابل اطمینان تبدیل می‌کند.
+
+مشخصات
+
+ولتاژ کاری (بلوک‌آف تکرارشونده): 400V
+جریان RMS حالت روشن: 0.6A
+جریان پیک غیرتکراری حالت روشن: 8A (برای 20 ms)
+جریان تحریک گیت: حداکثر 7mA (چهار‌ربعی)
+جریان لچینگ (نگهدارنده): حداکثر 10mA
+جریان نگهداری: حداکثر 10mA
+توان پیک گیت: 8W (در 20µs)
+توان متوسط گیت: 0.1W (در 20ms)
+ولتاژ تحریک گیت: 0.9 تا 1.5V
+مقاومت حرارتی پیوند تا محیط: 150K/W
+بسته‌بندی: TO-92 (SOT54) با سه پایه (T1، T2، G)
+دمای کاری: تا 125درجه سانتی‌گراد
+
+کاربردهای رایج
+
+ترایاک MAC97A6 به‌دلیل ابعاد کوچک، ولتاژ کاری بالا و جریان تحریک پایین، انتخابی مناسب برای طیف گسترده‌ای از کاربردهای صنعتی و خانگی در زمینه سوئیچینگ AC و کنترل توان پایین است. به‌ویژه در پروژه‌هایی که نیاز به کنترل از طریق سیستم‌های دیجیتال با مصرف انرژی پایین دارند، بسیار مورد توجه قرار می‌گیرد.
+
+کنترل فاز در دیمرهای روشنایی
+مدارهای سوئیچینگ برای بارهای مقاومتی سبک
+رله‌های حالت‌جامد در سیستم‌های کنترل صنعتی
+مبدل‌های AC کوچک برای لوازم خانگی
+مدارهای کنترل فن یا گرم‌کننده
+مبدل‌های توان کم در تجهیزات اداری
+پروژه‌های آموزشی مربوط به کنترل AC
+کنترل بارهای کوچک توسط میکروکنترلرها
+مدارهای محافظ یا ایزولاسیون برای دستگاه‌های حساس
+تجهیزات خانگی هوشمند با کنترل الکترونیکی توان
+
+
+========================================================================================================================
+
+عنوان:
+تریستور 2N3896 پکیج TO-48
+
+قیمت:
+1,100,000
+
+توضیحات کوتاه:
+تریستور 2N3896 پکیج TO-48
+
+توضیحات کامل:
+Introduction
+
+This Silicon Controlled Rectifier is packaged in TO-48 package, which has an average on-state current of 22 A.
+
+Applications
+
+Silicon Controlled Rectifiers are triggered solid state switches used in control applications in motors, lighting and heating, power supplies and many other kinds of equipment.
+
+
+========================================================================================================================
+
+عنوان:
+تریستور 2N881 پکیج TO-18
+
+قیمت:
+178,000
+
+توضیحات کوتاه:
+تریستور 2N881 پکیج TO-18
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Central Semiconductor
+Product Category: SCRs
+Series: 2N881
+Rated Repetitive Off-State Voltage VDRM: 200V
+On-State RMS Current - It RMS: 0.8A
+Gate Trigger Voltage - Vgt: 0.8V
+Gate Trigger Current - Igt: 200uA
+Holding Current Ih Max: 5mA
+Mounting Style: Through Hole
+Package / Case:  TO-18-3
+Brand: Central Semiconductor
+Non Repetitive On-State Current: 6 A
+Product Type: SCRs
+Subcategory: Thyristors
+
+
+========================================================================================================================
+
+عنوان:
+تریستور BT151
+
+قیمت:
+110,000
+
+توضیحات کوتاه:
+تریستور BT151 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+U(DRM):500v
+Ignition voltage U(GT) : 1.5v
+Ignition current I(GT) : 15mA
+Forward current average I(T)(AV) : 7.5A
+I(T)(RMS): 12A
+Forward voltage U(F) : 1.75 v
+I(d) : 500uA
+I(H): 20mA
+I(TSM 50Hz): 120A
+I(TSM 60Hz): 132A
+mounting type: feedthrough hole
+Operating temperature (min.): -40 ℃
+Operating temperature (max): +125 °C
+Product Type : Thyristor (SCR)
+
+
+========================================================================================================================
+
+عنوان:
+تریستور BT152
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+تریستور BT152
+
+توضیحات کامل:
+Specification
+
+Rated Repetitive Off-State Voltage VDRM: 650 V
+Off-State Leakage Current @ VDRM IDRM: 0.2 mA
+On-State RMS Current - It RMS: 20 A
+Maximum Gate Peak Inverse Voltage: 5 V
+Gate Trigger Voltage - Vgt: 0.6 V
+Gate Trigger Current - Igt: 3 mA
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package/Case: TO-220-3
+Brand: WeEn Semiconductors
+Current Rating: 13 A
+Height: 15.8 mm
+Holding Current Ih Max: 60 mA
+Length: 10.3 mm
+Non Repetitive On-State Current: 220 A
+
+
+========================================================================================================================
+
+عنوان:
+تریستور BT169 پکیج SOT-89
+
+قیمت:
+30,200
+
+توضیحات کوتاه:
+تریستور 600 ولت مدل BT169 پکیج SOT-89
+
+توضیحات کامل:
+معرفی
+
+تِریستور (Thyristor) یک نیمه‌رسانای قدرت است که به صورت یک قطعه چهارلایه‌ای P-N-P-N ساخته می‌شود. تریستور سه پایانه آند، کاتد و گیت دارد. پایه آند با A، کاتد با K، و گیت با G نمایش داده می‌شوند. آند و کاتد به مدار قدرت متصل می‌شوند و گیت به مدار کنترل وصل شده و جریان به مراتب کمتری می‌کشد. از تریستور در دو حالت پایدار روشن و خاموش استفاده می‌شود.
+
+Specification
+
+VDRM: 600V
+VRRM: 600V
+IT(RMS): 1.0A
+ITSM:10A
+Tj: 125C
+Tstg: -40~150c
+IDRM/IRRM: 0.1mA
+VTM: 1.7V
+IGT: 120uA
+IH: 5mA
+VGT: 0.8V
+VGD: 0.2V
+dV/dt: 20V/us
+
+
+========================================================================================================================
+
+عنوان:
+تریستور BT169
+
+قیمت:
+31,400
+
+توضیحات کوتاه:
+تریستور BT169 پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+THYRISTOR, 0.8A, 400V, TO-92
+Peak Repetitive Off-State Voltage, Vdrm:400V
+Gate Trigger Current Max, Igt:200µA
+Current It av:0.5A
+On State RMS Current IT(rms):0.8A
+Peak Non Rep Surge Current Itsm 50Hz:8A
+Holding Current Max Ih:5mA
+Gate Trigger Voltage Max Vgt:0.5V
+Operating Temperature Range:-40°C to +150°C
+Current Itsm:9A; Package / Case:TO-92
+Repetitive Reverse Voltage Vrrm Max:400V
+Termination Type:Through Hole
+Thyristor Type:Thyristor
+
+
+========================================================================================================================
+
+عنوان:
+تریستور JCR044A پکیج SOT-23
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تریستور 400 ولت 0.6 آمپر SMD پکیج SOT-23
+
+توضیحات کامل:
+معرفی
+
+تِریستور (Thyristor) یک نیمه‌رسانای قدرت است که به صورت یک قطعه چهارلایه‌ای P-N-P-N ساخته می‌شود. تریستور سه پایانه آند، کاتد و گیت دارد. پایه آند با A، کاتد با K، و گیت با G نمایش داده می‌شوند. آند و کاتد به مدار قدرت متصل می‌شوند و گیت به مدار کنترل وصل شده و جریان به مراتب کمتری می‌کشد. از تریستور در دو حالت پایدار روشن و خاموش استفاده می‌شود.
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+تریستور KT201/500
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تریستور KT201/500 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+I tav: 3 A
+I tsm: 40 A
+Vdrm: 500 V
+Repetitive Reverse Voltage Vrrm Max: 500 V
+Power: 5W
+Number of Pins: 3
+Case Style: TO-220AB
+Mounting: Through Hole
+
+
+========================================================================================================================
+
+عنوان:
+تریستور TVS مدل TLP200G پکیج TO-262
+
+قیمت:
+110,000
+
+توضیحات کوتاه:
+تریستور TVS مدل TLP200G پکیج TO-262
+
+توضیحات کامل:
+Specification
+
+Categories: Circuit Protection / TVS - Thyristors
+Manufacturer: STMicroelectronics
+Series: TLP
+Packaging: Tube
+Part Status:  Obsolete
+Voltage - Breakover: 290V
+Voltage - Off State: -
+Current - Peak Pulse (10/1000µs): 100A
+Current - Hold (Ih): 150mA
+Number of Elements: 1
+Capacitance: 110pF
+Mounting Type: Through Hole
+Package / Case: TO-262-3 Long Leads, I²Pak, TO-262AA
+
+
+========================================================================================================================
+
+عنوان:
+تریستور TYN1225 پکیج TO-220
+
+قیمت:
+168,920
+
+توضیحات کوتاه:
+تریستور 1200 ولت 25 آمپر پکیج TO-220
+
+توضیحات کامل:
+این تریستور اورجینال بوده و به دلیل شرایط نامناسب نگهداری در انبار دارای چند لکه جزئی در بدنه میباشد.
+
+Specification
+
+Series: TYN1225
+Rated Repetitive Off-State Voltage VDRM: 1.2 kV
+Off-State Leakage Current @ VDRM IDRM: 5 uA
+On-State RMS Current - It RMS: 25 A
+Vf - Forward Voltage: 1.6 V
+Gate Trigger Voltage - Vgt: 1.3 V
+Gate Trigger Current - Igt: 4 mA
+Holding Current Ih Max: 5 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Current Rating: 16 A
+Brand: STMicroelectronics
+Non Repetitive On-State Current: 300 A
+Product Type: SCRs
+Subcategory: Thyristors
+
+
+========================================================================================================================
+
+عنوان:
+دیاک DB3 پکیج DO-35
+
+قیمت:
+7,600
+
+توضیحات کوتاه:
+دیاک مدل DB3 پکیج DO-35 با ولتاژ شکست 32 ولت
+
+توضیحات کامل:
+معرفی
+
+کارکرد دیاک به این صورت است که وقتی به حد ولتاژ شکست نرسد، جریانی را عبورنمی دهد، وقتی ولتاژ دوسرآن به حد ولتاژ شکست رسید، جریان را هدایت می کند ضمن اینکه ولتاژ دوسرآن نیز کاهش می یابد، از موارد استفاده دیاک ایجاد پالس می باشد . معمولا در انتخاب دیاک ، جریان و ولتاژشکست آن درنظر گرفته می شود.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Diacs
+Series: DB3
+Breakover Voltage VBO: 32 V
+Breakover Current IBO Max: 50 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package / Case: DO-35
+Features: Low Breakover Current
+Subcategory: Thyristors
+
+Features
+
+VBO : 32 V and 40 V
+Low breakover current
+Breakover voltage symmetry : 3V
+
+Applications
+
+Triggering device for Triac or SCR based motor / light dimmer
+32 V trigger device for oscillator circuit
+Start up triggering in lighting ballast for CFL, TL or LED lamps
+
+
+========================================================================================================================
+
+عنوان:
+ماژول تریستور قدرت SEMIKRON/SEMIPACK-SKKT 92/16E-95A-1600V
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ماژول تریستور قدرت SEMIKRON/SEMIPACK-SKKT 92/16E-95A-1600V
+
+توضیحات کامل:
+Specification
+
+ SKKT 92/16E - Thyristor Module, Series Connected, 95 A, 1600 V
+
+Peak Repetitive Off-State Voltage, Vdrm:1.6kV
+On State RMS Current IT(rms):150A
+Peak Non Rep Surge Current Itsm 50Hz:2kA
+Gate Trigger Voltage Max Vgt:3V
+SCR Module Type:Series Connected - SCRs
+Gate Trigger Current Max, Igt:150mA
+Holding Current Max Ih: 250mA
+Product Range: SKKT 92
+Current It av: 95A
+

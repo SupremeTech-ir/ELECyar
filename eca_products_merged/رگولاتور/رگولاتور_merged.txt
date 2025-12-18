@@ -1,0 +1,1102 @@
+عنوان:
+رگولاتور 10+ ولت 7810 پکیج TO-220
+
+قیمت:
+114,000
+
+توضیحات کوتاه:
+رگولاتور 10+ ولت 7810 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 10 V
+Output Current: 1 A
+Output Type: Fixed
+Input Voltage, Min: 12.5 V
+Input Voltage, Max: 25 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 15+ ولت 7815 پکیج TO-220
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+رگولاتور با خروجی 15 ولت 7815 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators
+Package / Case: TO-220
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 15 V
+Output Current: 1.5 A
+Output Type: Fixed
+Input Voltage, Min: 17 V
+Input Voltage, Max: 35 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 150 mV
+Quiescent Current: 4.4 mA
+Height: 9.15 mm
+Length: 10.4 mm
+Product Type: Linear Voltage Regulators
+PSRR / Ripple Rejection - Typ: 58 dB
+Subcategory: PMIC - Power Management ICs
+Width: 4.6 mm
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 18+ ولت L7818CV پکیج TO-220
+
+قیمت:
+141,000
+
+توضیحات کوتاه:
+رگولاتور 18+ ولت 7818 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Outputs: 1 Output
+Polarity: Positive
+Input Voltage MAX: 33 V
+Input Voltage MIN: 21 V
+Output Voltage: 18 V
+Output Current: 1.5 A
+Output Type: Fixed
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 50 mV
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 18V-1A سیستم های صوتی STK542
+
+قیمت:
+2,180,000
+
+توضیحات کوتاه:
+تنظیم کننده ولتاژ 18 ولت 1 آمپر مدل STK542
+
+توضیحات کامل:
+STK542 یک ماژول تقویت‌کننده و رگولاتور ولتاژ یکپارچه (Hybrid Voltage Regulator) است و در تجهیزات صوتی حرفه‌ای و منابع تغذیه ولتاژ ثابت به‌کار می‌رود. این آی‌سی قادر است ولتاژ خروجی 18 ولت را با جریان حداکثر 1 آمپر ارائه دهد. طراحی داخلی این قطعه ترکیبی از مدارات آنالوگ تقویت‌کننده، محدودکننده جریان و کنترل حرارتی می‌باشد که ایمنی عملکرد را در شرایط بار و دمای بالا تضمین می‌کند. سری STK به‌دلیل پایداری ولتاژ، نویز پایین و تحمل توان بالا، انتخاب اول در تقویت‌کننده‌های صوتی، مدارات صنعتی و منابع تغذیه مستقل بوده است. بسته‌بندی ماژول به‌صورت مولتی‌پین فشرده طراحی شده که نصب آن بر روی هیت‌سینک و بردهای تقویت‌کننده را ساده می‌سازد.
+
+مشخصات
+
+ولتاژ ورودی: حداکثر 20V DC
+ولتاژ خروجی: 18V DC ثابت
+جریان خروجی: حداکثر 1A
+نوع رگولاتور: خطی (Linear Regulator)
+ساختار داخلی: ماژول ترکیبی آنالوگ (Hybrid IC)
+محافظت داخلی: محدودکننده جریان، حفاظت حرارتی
+نوع پکیج: ماژول چندپایه (Multi-pin SIP)
+تعداد پایه‌ها: 10 پین
+
+کاربردهای رایج
+
+ماژول STK542 برای استفاده در منابع تغذیه دقیق، تجهیزات صوتی حرفه‌ای، تقویت‌کننده‌ها، درایورهای صنعتی و کنترلرهای ولتاژ کاربرد دارد. همچنین در تجهیزات آزمایشگاهی، ماشین‌آلات صنعتی و سیستم‌های تغذیه خطی به‌خاطر نویز کم و دقت بالا مورد استفاده قرار می‌گیرد.
+
+تقویت‌کننده‌های صوتی
+منابع تغذیه ولتاژ ثابت
+درایورهای صنعتی
+سیستم‌های صوتی خودرو
+تجهیزات آزمایشگاهی
+بردهای تقویت‌کننده قدرت
+رگولاتورهای خطی کم‌ریپل
+مدارات حفاظت‌شده تغذیه
+سیستم‌های الکترونیکی حساس
+دستگاه‌های صنعتی سبک
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 24+ ولت 7824 پکیج TO-220
+
+قیمت:
+145,000
+
+توضیحات کوتاه:
+رگولاتور 24+ ولت 7824 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-220
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 24 V
+Output Current: 1.0 A
+Output Type: Fixed
+Input Voltage, Min: 26 V
+Input Voltage, Max: 40 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 240 mV
+Quiescent Current: 4.6 mA
+Series: L78xx
+Height: 9.15 mm
+Length: 10.4 mm
+Width: 4.6 mm
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 3.3+ولت LM2596S پکیج TO-263-5
+
+قیمت:
+161,000
+
+توضیحات کوتاه:
+رگولاتور 3.3 ولت 3 آمپر LM2596T پکیج TO-263-5
+
+توضیحات کامل:
+Specification
+
+Mounting Style: SMD/SMT
+Package / Case: TO-263-5
+Output Voltage: 3.3 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4.5 V
+Switching Frequency: 173 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: LM2596
+Packaging: Tube
+Operating Temperature Range: - 40 C to + 125 C
+Type: Inverting, Step Down
+Operating Supply Current: 5 mA
+Product Type: Switching Voltage Regulators
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 5 ولت AMS1117 پکیج SOT-223
+
+قیمت:
+20,300
+
+توضیحات کوتاه:
+رگولاتور خطی 5 ولت با جریان خروجی 1 آمپر و افت ولتاژ پایین پکیج SOT-223 مناسب برای تغذیه مدارهای دیجیتال
+
+توضیحات کامل:
+رگولاتور AMS1117-5.0 یک رگولاتور ولتاژ خطی با ولتاژ خروجی ثابت 5 ولت و حداکثر جریان خروجی 1 آمپر است. این قطعه بر پایه ساختار LDO طراحی شده و عملکرد پایداری حتی در شرایط اختلاف کم بین ولتاژ ورودی و خروجی ارائه می‌دهد. AMS1117-5.0 در پکیج SOT-223 تولید می‌شود که مناسب نصب سطحی (SMD) است و برای استفاده در مدارهای فشرده، قابل‌حمل و کم‌مصرف بسیار کاربردی است. این رگولاتور با برخورداری از حفاظت داخلی در برابر افزایش دما و اضافه‌جریان، از آسیب‌دیدگی قطعات الکترونیکی جلوگیری می‌کند. ولتاژ خروجی 5 ولت یکی از رایج‌ترین سطوح تغذیه در تجهیزات الکترونیکی و پروژه‌های آموزشی، صنعتی و نیمه‌حرفه‌ای است و همین موضوع باعث شده AMS1117-5.0 به یکی از محبوب‌ترین رگولاتورها در طراحی مدارها تبدیل شود.
+
+مشخصات
+
+ولتاژ ورودی: حداقل 6.1 ولت (با درنظر گرفتن Dropout)
+ولتاژ خروجی: 5 ولت ثابت
+حداکثر جریان خروجی: 1 آمپر
+نوع رگولاتور: خطی (LDO)
+ولتاژ Dropout: حدود 1.1 ولت در جریان 800 میلی‌آمپر
+نوع پکیج: SOT-223
+توان تلفاتی: تا 1.25 وات (با هیت‌سینک مناسب)
+محافظت داخلی: در برابر اضافه‌جریان و افزایش دما
+
+کاربردهای رایج
+
+این رگولاتور مناسب انواع مدارهای تغذیه، پروژه‌های آموزشی، بردهای میکروکنترلر و سیستم‌های الکترونیکی با ولتاژ 5 ولت است.
+
+تغذیه میکروکنترلرهای AVR، Arduino و PIC
+بردهای توسعه مانند Arduino UNO و Nano
+ماژول‌های رله و درایور موتورهای 5 ولتی
+سنسورها و ماژول‌های دیجیتال با ولتاژ 5 ولت
+ماژول‌های GSM، RFID و NFC
+منابع تغذیه خطی دقیق برای مدارهای آزمایشگاهی
+تجهیزات آموزشی و پروژه‌های DIY
+مدارات رابط منطقی بین ولتاژهای مختلف
+تجهیزات قابل‌حمل با تغذیه استاندارد 5 ولت
+منابع تغذیه مستقل در سیستم‌های جاسازی‌شده
+
+Specification
+
+Output Current 1 A
+Polarity Positive Type
+Tolerance 0.2 %
+Output Type Fixed
+Output Voltage (Max) 5.100 V
+Dropout Voltage 1.250 V
+Output Voltage (Min) 4.900 V
+Input Voltage MAX 18 V
+Mounting Style SMD/SMT
+Minimum Operating Temperature -20 C°
+Maximum Operating Temperature +125 C°
+Brand Advanced Monolithic Systems
+Package SOT-223
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 5+ ولت 78L05 پکیج SOT-89
+
+قیمت:
+17,500
+
+توضیحات کوتاه:
+رگولاتور 5+ ولت 100 میلی آمپر 78L05 پکیج SOT-89
+
+توضیحات کامل:
+Specification
+
+Part Number: CJ78L05 / UMW 78L05
+Product Category: Linear Voltage Regulators
+RoHS: RoHS Compliant Details
+Mounting Style: SMD/SMT
+Package / Case: SOT-89
+Output Voltage: 5 V
+Output Current: 100 mA
+Output Type: Fixed
+Input Voltage MAX: 30 V
+Maximum Operating Temperature: + 125 C
+Load Regulation: 60 mV
+Line Regulation: 150 mV
+Series: KA78L05A
+Input Voltage MIN: 7 V
+Minimum Operating Temperature: 0 C
+Number of Outputs: 1
+Packaging: Reel
+Pd - Power Dissipation: 750 mW
+Polarity: Positive
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 5+ ولت L78M05CDT پکیج TO-252
+
+قیمت:
+32,900
+
+توضیحات کوتاه:
+رگولاتور 5+ ولت L78M05CDT پکیج TO-252
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style: SMD/SMT
+Package / Case: TO-252-3
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 5 V
+Output Current: 0.5 A
+Output Type: Fixed
+Input Voltage MAX: 35 V
+Input Voltage MIN: 7.2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 100 mV
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 5- ولت 7905 پکیج TO-220
+
+قیمت:
+137,000
+
+توضیحات کوتاه:
+رگولاتور 5- ولت 7905 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+رگولاتور های 79xx به منظور تثبیت ولتاژ در یک مقدار معین (منفی) به کار می روند که X بیانگر ولتاژ تثبیت شده خروجی است . به عنوان مثال 7905 یک تثبیت کننده ولتاژ با خروجی 5- ولت ثابت است.
+
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-220
+Number of Outputs: 1 Output
+Polarity: Negative
+Output Voltage: - 5 V
+Output Current: 1.5 A
+Output Type: Fixed
+Input Voltage, Min: - 7 V
+Input Voltage, Max: - 35 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 150 C
+Load Regulation: 100 mV
+Line Regulation: 100 mV
+Quiescent Current: 3 mA
+Series: L79
+Product Type: Linear Voltage Regulators
+PSRR / Ripple Rejection - Typ: 60 dB
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 5- ولت 79L05 پلاستیکی پکیج TO-92
+
+قیمت:
+29,900
+
+توضیحات کوتاه:
+رگولاتور ولتاژ منفی سه‌پایه برای تثبیت ولتاژ 5- ولت در مدارات آنالوگ و دیجیتال با جریان کم
+
+توضیحات کامل:
+رگولاتور 79L05 از خانواده رگولاتورهای ولتاژ منفی سری 79L00 شرکت Texas Instruments است که ولتاژ خروجی ثابت -۵ ولت را برای تغذیه بخش‌هایی از مدار فراهم می‌کند که نیاز به ولتاژ منفی دارند. این رگولاتور دارای سه پایه (ورودی، خروجی و زمین) بوده و در پکیج TO-92 تولید می‌شود که برای نصب در بردبرد و مدارهای آموزشی یا صنعتی بسیار مناسب است. توانایی تولید جریان خروجی تا 100 میلی‌آمپر را دارد و به دلیل دارا بودن حفاظت در برابر اتصال کوتاه و افزایش دما، برای کاربردهای پایدار و ایمن ایده‌آل است. استفاده از این رگولاتور نیاز به قطعات جانبی را به حداقل می‌رساند و جایگزین مناسبی برای ترکیب دیود زنر و مقاومت در منابع تغذیه منفی است.
+
+مشخصات
+
+نوع قطعه: رگولاتور ولتاژ منفی خطی
+پکیج: TO-92 (سه‌پایه)
+ولتاژ ورودی مجاز: بین -7V تا -20V
+ولتاژ خروجی ثابت: 5-V
+تلورانس ولتاژ خروجی: ±5٪
+جریان خروجی مداوم: تا 100mA
+حداکثر توان مصرفی در 25°C: 625mW
+ولتاژ افت (Dropout): حدود 1.7V در 40mA
+مقاومت حرارتی (θJA): برابر 140°C/W
+محدوده دمای کاری: از 0°C تا +125°C
+ریپل ریجکشن: 40dB تا 49dB در 120Hz
+نویز خروجی: حدود 40µV در بازه 10Hz تا 100kHz
+قابلیت حفاظت: در برابر اتصال کوتاه و حرارت بالا (thermal shutdown)
+
+کاربردهای رایج
+
+رگولاتور 79L05 مناسب برای مداراتی است که نیاز به تغذیه منفی با جریان پایین دارند. در مدارات آنالوگ، فیلترهای اکتیو، تقویت‌کننده‌ها و منابع تغذیه دوقطبی کاربرد دارد.
+
+منابع تغذیه دوقطبی 5 ± ولت
+تقویت‌کننده‌های عملیاتی با نیاز به تغذیه منفی
+فیلترهای اکتیو آنالوگ
+مبدل‌های آنالوگ به دیجیتال با رفرنس منفی
+مدارهای محافظ ولتاژ معکوس
+منابع تغذیه ساده برای پروژه‌های آموزشی
+تجهیزات اندازه‌گیری با تغذیه متقارن
+طراحی مدارات صوتی با تغذیه منفی
+پروژه‌های آزمایشگاهی با نیاز به ولتاژ منفی
+جایگزین ترکیب دیود زنر و مقاومت در منابع منفی
+
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Number of Outputs: 1 Output
+Polarity: Negative
+Output Voltage: - 5 V
+Output Current: 100 mA
+Output Type: Fixed
+Input Voltage, Min: - 30 V
+Input Voltage, Max: - 7 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Load Regulation: 50 mV
+Line Regulation : 60 mV
+Quiescent Current : 6 mA
+Series: LM79L05
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 8+ ولت 78L08 پلاستیکی پکیج TO-92
+
+قیمت:
+29,200
+
+توضیحات کوتاه:
+رگولاتور 8+ ولت 78L08 پلاستیکی پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+Package / Case: TO-92
+Number of Outputs: 1 Output
+Polarity:Positive
+Output Voltage: 8.3 V
+Output Current: 100 mA
+Output Type: Fixed
+Input Voltage, Min: 10.5 V
+Input Voltage, Max: 23 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 80 mV
+Line Regulation: 175 mV
+Quiescent Current: 6 mA
+Series: L78
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 9+ ولت 7809 پکیج TO-220
+
+قیمت:
+117,000
+
+توضیحات کوتاه:
+رگولاتور با خروجی ثابت 9+ ولت 7809 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+رگولاتور های 780X به منظور تثبیت ولتاژ در یک مقدار معین (مثبت) به کار می روند که X بیانگر ولتاژ تثبیت شده خروجی است . به عنوان مثال 7809 یک تثبیت کننده ولتاژ با خروجی 9+ ولت ثابت است.
+
+Specification
+
+Package / Case: TO-220
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 9 V
+Output Current: 1.5 A
+Output Type: Fixed
+Input Voltage, Min: 11 V
+Input Voltage, Max: 35 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 100 mV
+Line Regulation: 90 mV
+Quiescent Current: 4.3 mA
+Series: L78
+Packaging: Tube
+Brand: STMicroelectronics
+Height: 9.15 mm
+Length: 10.4 mm
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور 9+ ولت 78L09 پلاستیکی پکیج TO-92
+
+قیمت:
+27,000
+
+توضیحات کوتاه:
+رگولاتور 9+ ولت 78L09 پلاستیکی پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-92
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: +9 V
+Output Current: 100 mA
+Output Type: Fixed
+Input Voltage, Min: 10.7 V
+Input Voltage, Max: 30 V
+Load Regulation: 90 mV
+Line Regulation: 175 mV
+Quiescent Current: 3 mA
+PSRR / Ripple Rejection - Typ: 57 dB
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور LM2575T-5V پکیج TO-220-5
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+رگولاتور LM2575T-5V پکیج TO-220-5
+
+توضیحات کامل:
+Specification
+
+Product Category: Switching Voltage Regulators
+Mounting Style: Through Hole
+Package / Case: TO-220-5
+Output Voltage: 5 V
+Output Current: 1 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck, Inverting
+Input Voltage MIN: 4 V
+Switching Frequency: 58 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: LM2575-N
+Type: Inverting, Step Down
+Brand: Texas Instruments
+Operating Supply Current: 5 mA
+Product Type: Switching Voltage Regulators
+Factory Pack Quantity: 45
+Subcategory: PMIC - Power Management ICs
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور LM2576T-5V 3A پکیج TO-220-5
+
+قیمت:
+155,000
+
+توضیحات کوتاه:
+رگولاتور LM2576T-5V 3A پکیج TO-220-5
+
+توضیحات کامل:
+Specification
+
+Product Category: Switching Voltage Regulators
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: TO-220-5
+Output Voltage: 5 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4 V
+Switching Frequency: 58 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور LM2596S-5V 3A پکیج TO-263-5
+
+قیمت:
+157,000
+
+توضیحات کوتاه:
+رگولاتور 5 ولت 3 آمپر LM2596S پکیج TO-263-5
+
+توضیحات کامل:
+Specification
+
+Product Category: Switching Voltage Regulators
+Switching Voltage Regulators
+Mounting Style: SMD/SMT
+Package / Case: TO-263-5
+Output Voltage: 5 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4.5 V
+Switching Frequency: 173 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور LM317 پکیج TO-220
+
+قیمت:
+114,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ قابل تنظیم LM317 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+LM317 یک رگولاتور ولتاژ با قابلیت تنظیم در ولتاژهای 1.2 تا 37 ولت می باشد که قدرت جریان دهی آن در حدود 1.5 آمپر است . خروجی این رگولاتور با کمک یک شبکه مقاومتی در خروجی آی سی قابل تنظیم است .
+
+Specification
+
+Product Category: Linear Voltage Regulators
+Mounting Style : Through Hole
+Package / Case: TO-220
+Output Voltage: 1.2 V to 37 V
+Output Current:1.5 A
+Output Type: Adjustable
+Input Voltage MAX: 40 V
+Series: LM317XX
+Height: 9.15 mm (Max)
+Input Voltage MIN: 4.2 V
+Length : 10.4 mm (Max)
+Minimum Operating Temperature:0 C
+Maximum Operating Temperature: + 125 C
+Number of Outputs: 1
+Polarity: Positive
+PSRR / Ripple Rejection - Typ: 80 dB
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور MIC29302WU پکیج TO-263 مارک UMW
+
+قیمت:
+531,000
+
+توضیحات کوتاه:
+رگولاتور MIC29302WU  با ولتاژ قابل تنظیم و جریان 3 آمپر پکیج TO-263/D2PAK مارک UMW
+
+توضیحات کامل:
+Specification
+
+Manufacturer: UMW
+Product Category: LDO Voltage Regulators
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: TO-263 / D2PAK
+Output Voltage: 1.25 V to 25 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 26 V
+Output Type: Adjustable
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 0.2 %
+Series: MIC29302
+Packaging: Tube
+Tolerance: 1 %
+Brand: Microchip Technology / Micrel
+Dropout Voltage - Max: 600 mV
+Ib - Input Bias Current: 40 nA
+Line Regulation: 0.06 %
+Product Type: LDO Voltage Regulators
+Reference Voltage: 1.24 V
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور TPS563201DDCR پکیج SOT-23-6
+
+قیمت:
+242,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ سوئیچینگ با خروجی  760mV تا 7V
+
+توضیحات کامل:
+Specification
+Manufacturer: Texas Instruments
+Product Category: Switching Voltage Regulators
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOT-23-Thin-6
+Topology: Buck
+Output Voltage: 760 mV to 7 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage, Min: 4.5 V
+Input Voltage, Max: 17 V
+Quiescent Current: 1 mA
+Switching Frequency: 580 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: TPS563201
+Brand: Texas Instruments
+Input Voltage: 4.5 V to 17 V
+Operating Supply Current: 380 uA
+Product Type: Switching Voltage Regulators
+Subcategory: PMIC - Power Management ICs
+Supply Voltage - Min: 4.5 V
+Type: Synchronous Buck Regulator
+Width: 1.75 mm
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور افزاینده XL6009E1 پکیج TO-263
+
+قیمت:
+393,000
+
+توضیحات کوتاه:
+رگولاتور XL6009E1 یک مبدل DC-DC سوئیچینگ افزاینده با فرکانس کاری 400kHz، جریان خروجی تا 4A و ولتاژ کاری تا 60V در پکیج TO-263-5L
+
+توضیحات کامل:
+رگولاتور XL6009E1 از محصولات شرکت XLsemi یک مبدل جریان سوئیچینگ پرکاربرد است که می‌تواند به‌عنوان Boost، Buck-Boost یا Inverting Converter عمل کند. این تراشه با فرکانس کاری بالا (400kHz) طراحی شده تا ابعاد سلف و خازن‌ها کاهش یافته و راندمان سیستم بهبود یابد. با پشتیبانی از ورودی 5V تا 32V و خروجی تا 60V، XL6009E1 گزینه‌ای مناسب برای سیستم‌های تغذیه صنعتی، تقویت ولتاژ باتری، تغذیه ماژول‌های ارتباطی و کاربردهای خودرویی است. مدار داخلی شامل MOSFET قدرت داخلی، مقایسه‌گر خطا، تقویت‌کننده خطا و حفاظت در برابر اضافه‌جریان است. ولتاژ بازخورد (Feedback Voltage) آن 1.25V بوده و کنترل ولتاژ خروجی از طریق شبکه مقاومت خارجی انجام می‌شود.
+
+مشخصات
+
+نوع رگولاتور: مبدل افزاینده DC-DC (Boost)
+ولتاژ ورودی: 5V تا 32V
+ولتاژ خروجی: تا 60V
+حداکثر جریان خروجی: 4A
+فرکانس سوئیچینگ: 400kHz
+راندمان: تا 94%
+ولتاژ بازخورد (Feedback): 1.25V
+محدوده دمای کاری: -40 تا +125°C
+پکیج: TO-263-5L
+پین‌ها:
+GND (زمین)
+EN (پایه فعال‌سازی)
+SW (خروجی سوئیچ)
+VIN (ورودی تغذیه)
+FB (ورودی بازخورد ولتاژ)
+نوع سوئیچ داخلی: N-Channel Power MOSFET
+قابلیت‌ها: حفاظت در برابر اضافه‌جریان و حرارت
+
+کاربردهای رایج
+
+رگولاتور XL6009E1 به دلیل بازده بالا و توان خروجی مناسب در مدارهایی که نیاز به افزایش ولتاژ دارند، بسیار پرکاربرد است. از آن می‌توان در منابع تغذیه قابل‌تنظیم، تغذیه نمایشگرها، سیستم‌های خودرویی و مبدل‌های باتری استفاده کرد.
+
+ مبدل افزاینده ولتاژ باتری لیتیوم
+ تغذیه ماژول‌های ارتباطی و بی‌سیم
+ مبدل DC-DC برای خودرو و لپ‌تاپ
+ منابع تغذیه صنعتی قابل‌تنظیم
+ مبدل ولتاژ برای پنل‌های خورشیدی
+ سیستم‌های نورپردازی LED با ولتاژ بالا
+ درایور موتور و فن با تغذیه متغیر
+ مبدل معکوس (Inverting Converter) برای ولتاژ منفی
+ کاربرد در تجهیزات قابل‌حمل و IoT
+ طراحی منابع تغذیه سوئیچینگ آموزشی
+
+Introduction
+
+The XL6009E1 regulator is a wide input range, current mode, DC/DC converter which is capable of generating either positive or negative output voltages. It can be configured as either a boost, fly back, SEPIC or inverting converter. The XL6009 built in N-channel power MOSFET and fixed frequency oscillator, current-mode architecture results in stable operation over a wide range of supply and output voltages.
+
+Features
+
+Wide 5V to 32V Input Voltage Range
+Positive or Negative Output Voltage Programming with a Single Feedback Pin
+Current Mode Control Provides Excellent Transient Response
+1.25V reference adjustable version
+Fixed 400KHz Switching Frequency
+Maximum 4A Switching Current
+SW PIN Built in Over Voltage Protection
+Excellent line and load regulation
+EN PIN TTL shutdown capability
+Internal Optimize Power MOSFET
+High efficiency up to 94%
+Built in Frequency Compensation
+Built in Soft-Start Function
+Built in Thermal Shutdown Function
+Built in Current Limit Function
+TO263 package
+
+Specification
+
+Input Voltage: 5 to 32 V
+Max Output Voltage: 35 V
+Max Output Current :4 A
+Adjustment 25-Turn Trimpot
+Efficiency up to 94%
+Switching Frequency 400 KHz
+Length: 43 mm (1.69")
+Width: 21 mm (0.82")
+Height:14 mm (0.55")
+
+Applications
+
+EPC / Notebook Car Adapter
+Automotive and Industrial Boost / Buck-Boost / Inverting Converters
+Portable Electronic Equipment
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور قابلمه ای 12 ولت 7812K
+
+قیمت:
+522,000
+
+توضیحات کوتاه:
+رگولاتور قابلمه ای 12 ولت 7812K
+
+توضیحات کامل:
+معرفی
+
+رگولاتور LM78H12K قطعه ای جهت کاهش و تثبیت ولتاژ می باشد. این آی سی میتواند با ولتاژ ورودی تا  35 ولت، در خروجی ولتاژ  تثبیت شده 12 ولت مثبت با جریان 1A می باشد. این رگولاتور دارای حفاظت داخلی در برابر حرارت بالا واتصال کوتاه میباشد.
+
+Specification
+
+Output Configuration: Positive
+Output Type: Fixed
+Number of Regulators: 1
+Voltage - Input (Max): 35 V
+Voltage - Input (Min): 11.75 V
+Voltage - Output (Min/Fixed): 12 V
+Current - Output: 1 A
+Current - Supply (Max): 7 mA
+Mounting Type: Through Hole
+Supplier Package: TO-3-2
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور قابلمه ای 5 ولت 7805K
+
+قیمت:
+497,000
+
+توضیحات کوتاه:
+رگولاتور قابلمه ای 5 ولت 7805K
+
+توضیحات کامل:
+رگولاتور LM7805K از سری LM78XX ساخت شرکت National Semiconductor، یک رگولاتور ولتاژ خطی سه‌پایه با خروجی تثبیت‌شده 5 ولت و جریان خروجی بیش از 1 آمپر است. این مدل در پکیج فلزی TO-3 (معروف به قابلمه‌ای) ارائه شده که به‌خوبی قابلیت دفع حرارت را افزایش می‌دهد و برای مصارف صنعتی و توان بالا مناسب است. LM7805K دارای ویژگی‌هایی نظیر حفاظت در برابر اضافه‌جریان (Short Circuit)، حفاظت در برابر اضافه‌حرارت (Thermal Shutdown) و حفاظت ناحیه امن ترانزیستور خروجی (SOA) است. عملکرد پایدار، دقت بالا در ولتاژ خروجی (تا ±2%)، و عدم نیاز به قطعات جانبی برای تنظیم ولتاژ، استفاده از این رگولاتور را در طراحی‌های آنالوگ و دیجیتال بسیار ساده می‌کند.
+
+مشخصات
+
+ولتاژ خروجی ثابت: 5V
+جریان خروجی: بیش از 1A (در صورت تأمین هیت‌سینک مناسب)
+ولتاژ ورودی مجاز: تا 35V
+افت ولتاژ (Dropout Voltage): حدود 2V در جریان 1A
+تلرانس ولتاژ خروجی: ±2% در 25°C و ±4% در محدوده دمای کامل
+ریپل ریجکشن: تا 80dB در فرکانس 120Hz
+جریان بی‌باری (Quiescent Current): حدود 8mA
+محدوده دمای کاری: 0°C تا +125°C
+نوع پکیج: TO-3 فلزی (K Package)
+مقاومت حرارتی پیوند تا کیس: حدود 4°C/W
+مقاومت حرارتی کیس تا محیط: حدود 35°C/W
+قابلیت حفاظت داخلی در برابر دما و جریان: دارد
+
+کاربردهای رایج
+
+این رگولاتور برای تأمین ولتاژ 5 ولت تثبیت‌شده در مدارهای الکترونیکی، صنعتی و مخابراتی بسیار پرکاربرد است. پکیج فلزی TO-3 امکان استفاده در شرایط حرارتی سخت را فراهم کرده و آن را به گزینه‌ای مناسب برای مدارهای تغذیه صنعتی، تجهیزات صوتی، کنترلی و ابزار دقیق تبدیل می‌سازد.
+
+مدارهای تغذیه خطی و آنالوگ
+تثبیت ولتاژ در مدارهای میکروکنترلری
+تجهیزات صنعتی با نیاز به ولتاژ ثابت
+بردهای توسعه و تست آزمایشگاهی
+سیستم‌های صوتی و Hi-Fi
+مدارهای ابزار دقیق (Instrumentation)
+تجهیزات مخابراتی و شبکه‌های محلی
+منابع تغذیه ماژولار
+مدارهای کنترل موتور و رباتیک
+مصارف آموزشی و تحقیقاتی
+
+Specification
+
+Complete specifications at 1A load
+Output voltage tolerances of ±2% at Tj = 25˚C and ±4% over the temperature range (LM340A)
+Line regulation of 0.01% of VOUT/V of ∆VIN at 1A load (LM340A)
+Load regulation of 0.3% of VOUT/A (LM340A)
+Internal thermal overload protection
+Internal short-circuit current limit
+Output transistor safe area protection
+P+ Product Enhancement tested
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور متغیر LM2576S - ADJ پکیج TO-263-5
+
+قیمت:
+156,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ قابل تنظیم LM2576S پکیج TO-263-5
+
+توضیحات کامل:
+Specification
+
+Product Category: Adjustable Voltage Regulators
+Mounting Style: SMD/SMT
+Package / Case: TO-263-5
+Topology: Buck
+Output Voltage: 1.23 V to 37 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage, Min: 4 V
+Input Voltage, Max: 45 V
+Quiescent Current: 5 mA
+Switching Frequency: 52 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: LM2576
+Input Voltage: 4 V to 45 V
+Moisture Sensitive: Yes
+Operating Supply Current: 5 mA
+Product Type: Switching Voltage Regulators
+Subcategory: PMIC - Power Management ICs
+Supply Voltage - Min: 4 V
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور متغیر LM2576T ADJ پکیج TO-220-5
+
+قیمت:
+160,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ قابل تنظیم LM2576T پکیج TO-220-5
+
+توضیحات کامل:
+معرفی
+
+رگولاتور LM2576T  ADJ قطعه ای جهت کاهش و تثبیت ولتاژ می باشد. این آی سی میتواند با ولتاژ ورودی 4 تا 40 ولت، در خروجی ولتاژ  تثبیت شده 1.23 تا 35 ولت ارائه دهد.
+
+Specification
+
+Product Category: Switching Voltage Regulators
+RoHS:  Details
+Mounting Style: Through Hole
+Package / Case: TO-220-5
+Output Voltage: 1.23 V to 37 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4 V
+Switching Frequency: 47 kHz to 58 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Series: LM2576
+Packaging: Tube
+Operating Temperature Range: - 40 C to + 125 C
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور متغیر LM317G ADJ پکیج SOT-223
+
+قیمت:
+63,200
+
+توضیحات کوتاه:
+رگولاتور خطی قابل تنظیم LM317G ADJ تا 1.5 آمپر با خروجی 1.25 تا 37 ولت؛ مناسب پروژه‌هایی که نیاز به ولتاژ پایدار یا قابل تنظیم دارند
+
+توضیحات کامل:
+LM317G یک رگولاتور خطی مثبت و قابل تنظیم است که ولتاژ خروجی آن توسط دو مقاومت ساده در محدوده 1.25 تا 37 ولت تعیین می‌شود. این تراشه قادر به تأمین جریان تا حدود 1.5 آمپر بوده و دارای محافظ داخلی در برابر حرارت بالا، اضافه‌جریان و عملکرد خارج از محدوده امن است. نوع SOT-223 این قطعه با طراحی SMD برای استفاده در مدارها بسیار مناسب بوده و در انواع کاربردهای صنعتی، آزمایشگاهی و پروژه‌های آموزشی کاربرد دارد.
+
+مشخصات
+
+ولتاژ ورودی (حداکثر): 40 ولت
+محدوده ولتاژ خروجی قابل تنظیم: 1.25  تا 37 ولت
+جریان خروجی: تا 1.5 آمپر (با هیت‌سینک مناسب)
+پایداری ولتاژ (Line Regulation): تقریباً 0.01٪/ولت
+پایداری بار (Load Regulation): تقریباً 0.1٪
+پکیج: SOT-223
+
+کاربردهای رایج
+
+منابع تغذیه قابل تنظیم برای میکروکنترلرها
+مدارات شارژ باتری
+کنترل موتور با ولتاژ متغیر
+مدارهای آزمایشگاهی و آموزشی
+کاهش و تثبیت ولتاژ در تجهیزات صنعتی
+
+LM317G Adjustable Voltage Regulator – SOT-223 Package
+
+Specifications
+
+• Input Voltage (max): 40V DC
+• Output Voltage Range: 1.25V to 37V (adjustable via external resistors)
+• Output Current: Up to 1.5A (with proper heatsinking)
+• Line Regulation: Typically 0.01% / V
+• Load Regulation: Typically 0.1%
+• Package Type: SOT-223 (Surface Mount – 4-pin)
+• Operating Temperature Range: 0°C to +125°C
+• Internal Protections:
+ – Overcurrent protection
+ – Overtemperature shutdown
+ – Safe operating area (SOA) protection
+• Mounting Type: SMD / Surface-Mount
+• Output Type: Positive adjustable linear regulator
+
+Applications
+
+– Adjustable DC power supplies
+– Battery chargers and current-limit circuits
+– Voltage regulation for microcontrollers
+– Lab and educational electronics
+– General-purpose power management
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور متغیر TL431 پکیج SOP-8 تایوانی
+
+قیمت:
+46,300
+
+توضیحات کوتاه:
+رگولاتور متغیر TL431 پکیج SOP-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Taiwan Semiconductor
+Part number: TS431 CS
+Product Category: Voltage References
+RoHS: RoHS Compliant By Exemption Details
+Mounting Style: SMD/SMT
+Package / Case: SOP-8
+Reference Type: Shunt Adjustable Precision References
+Output Voltage: 2.495 V to 36 V
+Initial Accuracy: 2 %
+Temperature Coefficient: 50 PPM / C
+Series VREF - Input Voltage - Max: 37 V
+Shunt Current - Max: 100 mA
+Maximum Operating Temperature: + 125 C
+Packaging: Reel
+Brand: Taiwan Semiconductor
+Height: 1.5 mm
+Length: 5 mm
+Minimum Operating Temperature: 0 C
+Product: Voltage References
+Factory Pack Quantity: 2500
+Topology: Shunt References
+Width: 4 mm
+Part # Aliases: RLG
+Unit Weight: 0.030018 oz
+
+
+========================================================================================================================
+
+عنوان:
+رگولاتور متغیر TL431 پکیج TO-92
+
+قیمت:
+16,600
+
+توضیحات کوتاه:
+رگولاتور متغیر TL431 پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Reference Type: Shunt Adjustable Precision References
+Output Voltage: Adjustable
+Initial Accuracy: 2 %
+Temperature Coefficient: 100 PPM / C
+Series VREF - Input Voltage - Max: 36 V
+Shunt Current - Max: 100 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+
