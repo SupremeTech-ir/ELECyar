@@ -1,0 +1,976 @@
+عنوان:
+تراشه ACS108-6S درایور و سوئیچ بار AC ولتاژ 600V پکیج SOT-223
+
+قیمت:
+280,000
+
+توضیحات کوتاه:
+تراشه ACS108-6S درایور و سوئیچ بار AC با توان 0.8A و تحمل ولتاژ 600V، دارای حفاظت اضافه‌ولتاژ و dV/dt بالا برای کنترل مستقیم بارهای AC کوچک.
+
+توضیحات کامل:
+ACS108-6S یک سوئیچ AC هوشمند و مقاوم از خانواده ACS است که برای کنترل مستقیم بارهای AC با توان کم تا متوسط طراحی شده است. این تراشه از فناوری Crowbar Overvoltage Protection استفاده می‌کند که به‌صورت خودکار اضافه‌ولتاژهای ناشی از بارهای القایی، نویز خط AC یا نوسانات شدید شبکه را محدود و جذب می‌کند.ساختار داخلی شامل درایور گیت سطح‌بالا، سوئیچ AC با قابلیت تحمل 600V و بخش محافظت از اضافه‌ ولتاژ است. این قطعه امکان اتصال مستقیم به میکروکنترلر را دارد و برای بارهای القایی مانند پمپ، شیر برقی، فن، رله، قفل برقی و میکرو‌موتور مناسب است.به دلیل ایمنی بالا، dV/dt بسیار زیاد و حذف نیاز به اسنابر یا واریستور در اکثر کاربردها، ACS108-6S گزینه‌ای عالی برای طراحی‌های صنعتی، لوازم خانگی و کنترلرهای AC کم‌حجم است. پکیج TO-92 نیز نصب ساده، خنک‌سازی قابل مدیریت و هزینه پایین را فراهم می‌کند.
+
+مشخصات
+
+جریان RMS قابل تحمل (IT(RMS)): مقدار 0.8A در Tlead=75°C (TO-92)
+ولتاژ بلاکینگ (VDRM / VRRM): مقدار 600V
+جریان تحریک گیت (IGT): مقدار max برابر 10mA (کوادرات II و III)
+ولتاژ تحریک گیت (VGT): مقدار max برابر 1V
+جریان نگهداری (IH): مقدار max برابر 25mA
+جریان لچینگ (IL): مقدار max برابر 30mA
+حداکثر dV/dt استاتیک: مقدار min برابر 500V/µs
+پیک جریان غیرتکراری (ITSM): مقدار 7.6A در 60Hz و 7.3A در 50 Hz
+حداکثر ولتاژ تحمل ضربه (VPP): مقدار 2kV مطابق IEC 61000-4-5
+ولتاژ کلمپ (VCL): مقدار min برابر 650V در ICL=0.1 mA
+زمان‌های سوئیچ:
+
+t_on در حد چند میکروثانیه
+رفتار خاموشی کنترل‌شده در بارهای القایی سبک
+
+توان اتلاف: حدود 150°C/W (Rth j-a) در مدل TO-92
+دمای کاری: از ‎−30 °C تا ‎+125 °C
+نوع پکیج: TO-92
+
+کاربردهای رایج
+
+این قطعه برای کنترل بارهای AC کوچک و القایی در کاربردهایی که نیاز به ایزولاسیون ساده، ایمنی بالا، نویز کم و تحمل ولتاژ شدید دارند بسیار مناسب است. در طراحی لوازم خانگی، سیستم‌های اتوماسیون، کنترل بارهای کم‌جریان و جایگزین ترایاک در مدارهای حساس استفاده می‌شود.
+
+کنترل پمپ، فن، شیر برقی و میکرو‌موتورهای AC
+راه‌اندازی رله و سلونوئیدهای کوچک
+کنترل در لوازم خانگی (قهوه‌ساز، ماشین لباسشویی، ظرفشویی)
+سیستم‌های اتوماسیون و قفل‌های برقی
+جایگزین کم‌هزینه برای ترایاک در کاربردهای با نویز زیاد
+کنترل بارهای القایی با خاموشی امن
+مدارات AC کم‌جریان در ابزار صنعتی
+تجهیزات با نیاز به تحمل Surge تا 2 kV
+
+Specifications
+
+RMS current withstand (IT(RMS)): 0.8A at Tlead=75°C (TO-92)
+Blocking voltage (VDRM / VRRM): 600V
+Gate drive current (IGT): max 10mA (quadrature II and III)
+Gate drive voltage (VGT): max 1V
+Holding current (IH): max 25mA
+Latching current (IL): max 30mA
+Max static dV/dt: min 500V/µs
+Non-repetitive peak current (ITSM): 7.6A at 60Hz and 7.3A at 50 Hz
+Max impulse withstand voltage (VPP): 2kV according to IEC 61000-4-5
+Clamp voltage (VCL): min 650V at ICL=0.1 mA
+Switching times:
+t_on in multiples Microseconds
+Controlled shutdown behavior at light inductive loads
+Power dissipation: Approx. 150°C/W (Rth j-a) in TO-92 model
+Operating temperature: From −30 °C to +125 °C
+Package type: TO-92
+
+
+========================================================================================================================
+
+عنوان:
+تراشه DC-DC کانورتر TPS54360 با جریان 3.5A پکیج HSOIC-8
+
+قیمت:
+673,000
+
+توضیحات کوتاه:
+آی سی DC-DC کانورتر TPS54360 پکیج SMD HSOIC-8
+
+توضیحات کامل:
+Introduction
+
+The TPS54360 is a 60-V, 3.5-A, step-down regulator with an integrated high side MOSFET. The device survives load dump pulses up to 65 V per ISO 7637. Current mode control provides simple external compensation and flexible component selection. A low ripple pulse skip mode reduces the no load supply current to 146 µA. Shutdown supply current is reduced to 2 µA when the enable pin is pulled low.
+Undervoltage lockout is internally set at 4.3 V but can be increased using the enable pin. The output voltage start-up ramp is internally controlled to provide a controlled start-up and eliminate overshoot.
+A wide switching frequency range allows either efficiency or external component size to be optimized. Frequency foldback and thermal shutdown protect internal and external components during an overload condition.
+The TPS54360 is available in an 8-terminal thermally enhanced HSOIC PowerPAD™ package.
+
+Specification
+4.5-V to 60-V (65-V Abs Max) Input Range
+3.5-A Continuous Current, 4.5-A Minimum Peak Inductor Current Limit
+Current Mode Control DC/DC Converter
+92-mΩ High-Side MOSFET
+High Efficiency at Light Loads with Pulse Skipping Eco-mode™
+Low Dropout at Light Loads with Integrated BOOT Recharge FET
+146-µA Operating Quiescent Current
+2-µA Shutdown Current
+100-kHz to 2.5-MHz Fixed Switching Frequency
+Synchronizes to External Clock
+Adjustable UVLO Voltage and Hysteresis
+Internal Soft Start
+Accurate Cycle-by-Cycle Current Limit
+Thermal, Overvoltage, and Frequency Foldback Protection
+0.8 V 1% Internal Voltage Reference
+8-Terminal HSOIC with PowerPAD™ Package
+–40°C to 150°C TJ Operating Range
+
+
+========================================================================================================================
+
+عنوان:
+تراشه HT9170D رسیور DTMF مارک HOLTEK پکیج SOW-18
+
+قیمت:
+312,000
+
+توضیحات کوتاه:
+تراشه انکودر سیگنال های DTMF مارک HOLTEK پکیج SOW-18
+
+توضیحات کامل:
+Introduction
+
+The HT9170B/D are Dual Tone Multi Frequency (DTMF) receivers integrated with digital decoder and bandsplit filter functions as well as power-down mode and inhibit mode operations. Such devices use digital counting techniques to detect and decode all the 16 DTMF tone pairs into a 4-bit code output.
+Highly accurate switched capacitor filters are implemented to divide tone signals into low and high group signals. A built-in dial tone rejection circuit is provided to eliminate the need for pre-filtering
+
+Specification
+
+Operating voltage: 2.5V~5.5V
+Minimal external components
+No external filter is required
+Low standby current (on power down mode)
+Excellent performance
+Tristate data output for MCU interface
+3.58MHz crystal or ceramic resonator
+1633Hz can be inhibited by the INH pin
+HT9170B: 18-pin DIP package
+HT9170D: 18-pin SOP package
+
+
+========================================================================================================================
+
+عنوان:
+تراشه LM339 پکیج SO-14
+
+قیمت:
+30,600
+
+توضیحات کوتاه:
+آی سی مقایسه کننده LM339 پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog Comparators
+Mounting Style: SMD/SMT
+Package / Case: SOIC-14
+Comparator Type: Differential
+Number of Channels: 4 Channel
+Output Type: Rail-to-Rail
+Output Current per Channel: 6 mA
+Ib - Input Bias Current: 50 nA
+Vos - Input Offset Voltage: 5 mV
+Supply Voltage - Max: 30 V
+Supply Voltage - Min: 2 V
+Operating Supply Current: 500 uA
+Response Time: 300 ns
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Features: Standard comparator
+Height: 1.58 mm
+Length: 8.65 mm
+Product: Analog Comparators
+Series: LM339
+Supply Type: Single, Dual
+Technology: Bipolar
+Type: Differential Comparator
+Width: 3.91 mm
+Brand: Texas Instruments
+Shutdown: No Shutdown
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V
+GBP - Gain Bandwidth Product: -
+Ios - Input Offset Current: 50 nA
+Maximum Dual Supply Voltage: +/- 15 V
+Minimum Dual Supply Voltage: 1 V
+Operating Supply Voltage: 2 V to 30 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه MT9085BP پکیج PLCC68
+
+قیمت:
+1,550,000
+
+توضیحات کوتاه:
+1024 Channels TDM (ST-BUS) To Parallel Bus Access Circuit (PAC)
+
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microsemi
+Surface Mount: YES
+Number of Terminals: 68
+Subcategory: Other Telecom ICs
+Technology: CMOS
+Terminal Position: QUAD
+Terminal Form: J BEND
+Supply Voltage: 5 V
+Terminal Pitch: 1.27 mm
+Pin Count: 68
+Operating Temperature (Max):  70 °C
+Operating Temperature (Min): -40 °C
+Power Supplies: 5 V
+Temperature Grade: OTHER
+Supply Current-Max: 50 mA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه PDIUSBD12PW اینترفیس USB پکیج SMD TSSOP-28
+
+قیمت:
+2,100,000
+
+توضیحات کوتاه:
+تراشه اینترفیس USB پکیج SOT-361
+
+توضیحات کامل:
+Specification
+
+Manufacturer: NXP
+Product Category: USB Interface IC
+Product: USB Controllers
+Standard: USB 1.1
+Speed: Full Speed (FS)
+Data Rate: 12 Mb/s
+Supply Voltage - Min: 4 V
+Supply Voltage - Max: 5.5 V
+Packaging: Reel
+Packaging: Cut Tape
+Brand: NXP Semiconductors
+Operating Supply Voltage: 4 V to 5.5 V
+Product Type: USB Interface IC
+Complies with the Universal Serial Bus specification Rev. 2.0 (basic speed)
+High performance USB interface device with integrated SIE, FIFO memory, transceiver and voltage regulator
+Compliant with most Device Class specifications
+High-speed (2 Mbytes/s) parallel interface to any external microcontroller or microprocessor
+Fully autonomous DMA operation Integrated 320 bytes of multi-configuration FIFO memory
+Double buffering scheme for main endpoint increases throughput and eases
+real-time data transfer
+Data transfer rates: 1 Mbytes/s achievable in Bulk mode, 1 Mbits/s achievable in
+Isochronous mode
+Bus-powered capability with very good EMI performance
+Controllable LazyClock output during suspend
+Software controllable connection to the USB bus (SoftConnect™)
+Good USB connection indicator that blinks with traffic (GoodLink™)
+Programmable clock frequency output
+Complies with the ACPI, OnNOW and USB power management requirements
+Internal Power-on reset and low-voltage reset circuit
+Available in SO28 and TSSOP28 pin packages
+Full industrial grade operation from -40 to +85 °C
+Higher than 8 kV in-circuit ESD protection lowers cost of extra components
+Full-scan design with high fault coverage (>99%) ensures high quality
+Operation with dual voltages:
+3.3 ±0.3 V or extended 5 V supply range of 4.0 to 5.5 V
+ Multiple interrupt modes to facilitate both bulk and isochronous transfers.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه VU level meter درایور BA6144 پکیج DIP
+
+قیمت:
+229,000
+
+توضیحات کوتاه:
+تراشه درایور VU level meter مدل BA6144 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+تراشه BA6144 در واقع یک آی سی درایور برای سطح سنج یا همان LED VU Meter می باشد که اغلب در تجهیزات صوتی استفاده می گردد .این IC می تواند سطح ورودی بین محدوده: 13- دسی بل تا 17+ دسی بل را روی 5 عدد LED  نمایش دهد.
+
+BA6144 دارای یک تقویت کننده یکسو کننده است که اجازه ورودی ولتاژ AC را نیز می دهد و دارای خروجی های جریان ثابت است، بنابراین می تواند به صورت مستقیم عملیات درایو را انجام دهد.
+
+Description
+
+The BA6144 is a driver IC for LED VU level meters in stereo equipment and other display applications. The IC displays the input level (range: -13dB to +17dB) on a 5-point, bar-type LED display.The BA6144 includes a rectifier amplifier allowing direct AC input, and has constant-current outputs, so it can directly drive the LEDs without variations in LED current due to supply voltage fluctuations.
+
+Applications
+
+VU meters, signal meters, and other display devices.
+
+Features
+
+1) Rectifier amplifier allows either AC or DC input.
+2) Wide display level range (-13 to +17), so signals with large dynamic range can be displayed.
+3) Constant-current outputs for constant LED current when the power supply voltage fluctuates.
+4) Built-in reference voltage means that power supply voltage fluctuations do not effect the display.
+5) Wide operating power supply voltage range (5.5V to16V) for a wide range of applications.
+6) Low PCB space requirements. Comes in a compact 9-pin SIP package and requires few external components.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور 74ALVC16245DGG پکیج TSSOP-48
+
+قیمت:
+930,000
+
+توضیحات کوتاه:
+آی سی فرستنده وگیرنده 74ALVC16245DGG پکیج SMD TSSOP-48
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Nexperia
+Product Category: Bus Transceivers
+Logic Family: ALVC
+Input Level: LVTTL
+Output Level: LVTTL
+Output Type: 3-State
+High Level Output Current: - 24 mA
+Low Level Output Current: 24 mA
+Propagation Delay Time: 2.1 ns
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 1.2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Package / Case: TSSOP-48
+Brand: Nexperia
+Function: Bus Transceiver
+Height: 1.05 mm
+Length: 12.6 mm
+Mounting Style: SMD/SMT
+Number of Channels: 16
+Number of Circuits: 2
+Operating Supply Voltage: 1.8 V, 2.5 V, 3.3 V
+Polarity: Non-Inverting
+Product: CMOS
+Product Type: Bus Transceivers
+Quiescent Current: 200 nA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه تقویت کننده ولتاژ پایین AN6550
+
+قیمت:
+43,600
+
+توضیحات کوتاه:
+تراشه تقویت کننده ولتاژ پایین AN6550
+
+توضیحات کامل:
+معرفی
+
+تراشه AN6550 یک تقویت کننده عملیاتی دوگانه است که توسط شرکت Panasonic ساخته شده است. این قطعه دارای یک مدار جبران فاز داخلی است که امکان عملکرد ولتاژ پایین را فراهم می کند. این قطعه همه کاره برای مدارهای الکترونیکی مختلف از جمله فیلترهای فعال و پیش تقویت کننده های صوتی مناسب است.
+
+Introduction
+
+The AN6550 is a dual operational amplifier with a phase compensation circuit built-in, allowing low voltage operation.It is suitable for application to various electronic circuits such as active filters and audio preamplifiers.
+
+Features
+
+Phase compensation circuit
+High voltage gain, low noise
+Output short protection circuit
+Low voltage operation(±2.5V to±10V)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه دیکودر MT8870 پکیج DIP
+
+قیمت:
+434,000
+
+توضیحات کوتاه:
+آی سی دیکودر رابط های مخابراتی MT8870 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+آی سی MT8870 یک تراشه آشکارساز تن های DTMF می باشد.MT8870 اولین آی سی معمولی در یافت کننده DTMF است که می تواند کد ها را رمز گشایی کرده و استفاده گسترده ای در مدارات تلفن ، دستگاه های تلفن گویا ، ریموت کنترلر ها و ارتباطات رادیویی دارد.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: Telecom Interface ICs
+RoHS: Details
+Product: DTMF - Dual-tone Multi-frequency Receivers
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Operating Supply Current: 3 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Package / Case: DIP-18
+Frequency: 3.58 MHz
+Brand: Microchip / Microsemi
+Moisture Sensitive: Yes
+Operating Supply Voltage: 5 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+Product Type: Telecom Interface ICs
+
+
+========================================================================================================================
+
+عنوان:
+تراشه دیکودر MT8870DS پکیج SOIC-18
+
+قیمت:
+375,000
+
+توضیحات کوتاه:
+آی سی رابط مخابراتی MT8870DS پکیج SMD SOIC-18
+
+توضیحات کامل:
+معرفی
+
+آی سی MT8870 یک تراشه آشکارساز تن های DTMF می باشد.MT8870 اولین آی سی معمولی در یافت کننده DTMF است که می تواند کد ها را رمز گشایی کرده و استفاده گسترده ای در مدارات تلفن ، دستگاه های تلفن گویا ، ریموت کنترلر ها و ارتباطات رادیویی دارد.
+
+Specification
+
+Product: DTMF - Dual-tone Multi-frequency Receivers
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Operating Supply Current: 3 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: SMD/SMT
+Package / Case: SOIC-18
+Packaging: Cut Tape
+Packaging: Reel
+Frequency: 3.58 MHz
+Brand: Microchip / Microsemi
+Operating Supply Voltage: 5 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه دیکودر ویدئو TVP5160 پکیج SMD TQFP-128
+
+قیمت:
+1,020,000
+
+توضیحات کوتاه:
+آی سی دیکودر ویدئو دیجیتال TVP5160
+
+توضیحات کامل:
+Introduction
+
+The TVP5160 device is a high quality, digital video decoder that digitizes and decodes all popular baseband analog video formats into digital component video. The TVP5160 decoder supports the A/D conversion of component YPbPr and RGB (SCART) signals, as well as the A/D conversion and decoding of NTSC, PAL, and SECAM composite and S-Video into component YCbCr. Additionally, component progressive signals can be digitized. The chip includes two 11-bit, 60-MSPS, A/D converters (ADCs). Prior to each ADC, each analog channel contains an analog circuit, which clamps the input to a reference voltage and applies a programmable gain and offset. A total of 12 video input terminals can be configured to a combination of YPbPr, RGB, CVBS, and S-Video video inputs.
+
+Specification
+
+Two 11-Bit 60-MSPS Analog-to-Digital (A/D) Converters With Analog Preprocessors (Clamp/AGC)
+Fixed RGB-to-YUV Color Space Conversion
+Robust Sync Detection for Weak and Noisy Signals as Well as VCR
+Supports NTSC (J, M, 4.43), PAL (B, D, G, H, I, M, N, Nc, 60) and SECAM (B, D, G, K, K1, L) CVBS, S-Video
+Supports Component Standards 480i, 576i, 480p, and 576p
+Supports ITU-R BT.601 Pixel Sampling Frequencies
+Supports 3D Y/C Separation, or 2D 5-Line (5H) Adaptive Comb and Chroma Trap Filter for Both PAL and NTSC Signals
+Concurrent Temporal, Frame Recursive, Noise Reduction (3DNR)
+IF Compensation
+Line-Based Time Base Correction (TBC)
+Fast Switch 4x Oversampled Input for Digital RGB Overlay Switching Between Any CVBS, S-Video, or Component Video Input
+SCART 4x Oversampled Fast Switching Between Component RGB Input and CBVS Input
+Analog Video Output
+Chrominance Processor
+Luminance Processor
+Clock/Timing Processor and Power-Down Control
+Output Formatter Supports Both ITU-R BT.656 (Embedded Syncs) and ITU-R BT.601 (4:2:2 With Discrete Syncs)
+I2C Host Port Interface
+VBI Data Processor
+"Blue" Screen (Programmable Color) Output
+Macrovision™ Copy Protection Detection Circuit (Types 1, 2, and 3) on Both Interlaced and Progressive Signals
+
+
+========================================================================================================================
+
+عنوان:
+تراشه شارژر باتری لیتیوم TP4056 پکیج SOP-8
+
+قیمت:
+31,100
+
+توضیحات کوتاه:
+آی سی شارژ باتری لیتیوم یون TP4056 پکیج SMD SOP-8
+
+توضیحات کامل:
+Introduction
+
+ The TP4056 is a complete constant-current/constant-voltage linear charger for single cell lithium-ion batteries. Its SOP package and low external component count make the TP4056 ideally suited for portable applications. Furthermore, the TP4056 can work within USB and wall adapter.
+
+No blocking diode is required due to the internal PMOSFET architecture and have prevent to negative Charge Current Circuit. Thermal feedback regulates the charge current to limit the die temperature during high power operation or high ambient temperature. The charge voltage is fixed at 4.2V, and the charge current can be programmed externally with a single resistor. The TP4056 automatically terminates the charge cycle when the charge current drops to 1/10th the programmed value after the final float voltage is reached.
+
+TP4056 Other features include current monitor, under voltage lockout, automatic recharge and two status pin to indicate charge termination and the presence of an input voltage.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه فیلتر دوبل خازنی MF10CCN پکیج DIP
+
+قیمت:
+981,000
+
+توضیحات کوتاه:
+تراشه فیلتر خازنی cmos فعال 200KHz
+Universal Monolithic Dual Switched Capacitor Universal Monolithic Dual Switched Capacitor Filter
+
+توضیحات کامل:
+Specification
+
+Case/Package: PDIP
+Mount: Through Hole
+Number of Pins: 20
+Dual Supply Voltage: 5 V
+Frequency: 30 kHz
+Max Dual Supply Voltage: 7 V
+Max Frequency: 1.5 MHz
+Max Operating Temperature: 70 °C
+Max Supply Voltage: 14 V
+Min Dual Supply Voltage: 4.5 V
+Min Operating Temperature: 0 °C
+Min Supply Voltage: 9 V
+Nominal Supply Current: 8 mA
+Number of Channels: 4
+Number of Circuits: 2
+Operating Supply Voltage:12 V
+Slew Rate: 7 V/µs
+
+
+========================================================================================================================
+
+عنوان:
+تراشه لول شیفتر CBTD16210 پکیج SSOP-48
+
+قیمت:
+430,000
+
+توضیحات کوتاه:
+آی سی سوئیچ باس تغییر سطح CBTD16210 پکیج SMD SSOP48
+
+توضیحات کامل:
+Specification
+
+FEATURES
+• 5W switch connection between two ports
+• TTL compatible control input levels
+• Designed to be used in 5.5 V to 3.3 V level shifting applications
+• Package SSOP
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مقایسه کننده ولتاژ LM311 پکیج DIP
+
+قیمت:
+106,000
+
+توضیحات کوتاه:
+مقایسه‌گر سریع و دقیق ولتاژ با خروجی open-collector مناسب مدارهای دیجیتال و آنالوگ LM311 پکیج DIP
+
+توضیحات کامل:
+تراشه LM311 یک مقایسه‌گر ولتاژ با سرعت بالا و دقت قابل‌اعتماد است که به‌طور گسترده در طراحی مدارهای آنالوگ و دیجیتال به‌کار می‌رود. این آی‌سی با استفاده از ورودی‌های تفاضلی خود، دو سطح ولتاژ را با هم مقایسه کرده و خروجی منطقی مناسب را ارائه می‌دهد. خروجی Open-Collector آن این امکان را می‌دهد تا بتوان خروجی چندین آی‌سی را به یک خط مشترک متصل کرد یا آن را به‌صورت pull-up کنترل نمود. یکی از مزایای اصلی این تراشه، توانایی عملکرد در محدوده ولتاژ تغذیه گسترده از ±15V تا 5V است که آن را برای طیف وسیعی از کاربردها مناسب می‌سازد. این تراشه به‌صورت single comparator عرضه می‌شود و با توجه به طراحی ساده و عملکرد دقیق، در مدارهایی مانند آشکارسازهای سطح، مبدل‌های آنالوگ به دیجیتال ساده، و سیستم‌های کنترل صنعتی کاربرد گسترده دارد.
+
+مشخصات
+
+ولتاژ کاری: ±15V یا 5V تا 30V
+جریان مصرفی: حدود 6mA
+ولتاژ ورودی ماکزیمم: ±15V
+نوع خروجی: Open-Collector
+پکیج: DIP-8
+سرعت سوئیچینگ: حدود 200ns
+توان مصرفی: حدود 150mW
+دمای کاری: 0°C تا +70°C
+
+کاربردهای رایج
+
+این تراشه برای مقایسه سیگنال‌های آنالوگ در مدارهای مختلف به‌کار می‌رود. به‌دلیل قابلیت عملکرد با ولتاژهای مختلف و خروجی قابل‌تنظیم، در طراحی مدارات کنترلی، محافظ ولتاژ، آشکارسازهای صفر و سیستم‌های نمونه‌برداری مورد استفاده قرار می‌گیرد. همچنین به‌دلیل ساختار ساده و پایداری بالا، گزینه‌ای مناسب برای آموزش و نمونه‌سازی است.
+
+کنترل‌کننده‌های ولتاژ آستانه
+مبدل‌های آنالوگ به دیجیتال ساده
+آشکارساز عبور از صفر
+محافظ ولتاژ باتری
+مدارهای مقایسه‌کننده در تجهیزات پزشکی
+سیستم‌های کنترل صنعتی
+مدارهای تشخیص نور یا دما
+مدارات زمان‌سنج دقیق
+آموزش در آزمایشگاه‌های الکترونیک
+مدارهای تقویت‌کننده تفاضلی با مقایسه‌گر خروجی
+
+Specification
+
+Product Category: Analog Comparators
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Comparator Type: Differential
+Number of Channels: 1 Channel
+Output Type: Open Collector
+Ib - Input Bias Current: 250 nA
+Vos - Input Offset Voltage: 7.5 mV
+Supply Voltage - Max: 36 V
+Supply Voltage - Min: 5 V
+Operating Supply Current: 7.5 mA
+Response Time: 200 ns
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Features: Strobe, Vos Adj Pin
+Height: 3.3 mm
+Length: 9.27 mm
+Width: 6.35 mm
+Product: Analog Comparators
+Series: LM311-N
+Supply Type: Single, Dual
+Technology: Bipolar
+Type: Voltage Comparator
+Brand: Texas Instruments
+Shutdown: Shutdown
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+GBP - Gain Bandwidth Product: -
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 2.5 V
+Operating Supply Voltage: 9 V, 12 V, 15 V, 18 V, 24 V, 28 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مقایسه کننده ولتاژ NJM311D تایوانی مارک JRC پکیج DIP
+
+قیمت:
+241,000
+
+توضیحات کوتاه:
+آی سی مقایسه کننده ولتاژ NJM311D تایوانی مارک JRC پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply Voltage: 36 (± 18) V
+Output to Negative Supply Voltage: 40 V
+Ground to Negative Supply Voltage: 30 V
+Differential Input Voltage (VID) ± 30 V
+Input Voltage (VIN) ± 15 V
+Power Dissipation (PD): 500 mW
+Operating Temperature Range Topr: -40~+85 ˚C
+Storage Temperature Range Tstg: -40~+125 ˚C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس LM336Z
+
+قیمت:
+88,100
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Voltage References
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: TO-92-3
+Reference Type: Shunt Precision References
+Output Voltage: 2.5 V
+Initial Accuracy: 4 %
+Temperature Coefficient: 20 PPM/C
+Shunt Current - Max: 10 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Series: LM336
+Packaging: Bulk
+Accuracy: 10 mV
+Description/Function: 2.5 Volt Precision Voltage References
+Height: 4.95 mm
+Input Voltage: 2.5 V
+Length: 4.95 mm
+Product: Voltage References
+Width: 3.94 mm
+Brand: STMicroelectronics
+Shunt Current - Min: 0.4 mA
+Topology: Shunt References
+Operating Supply Current: 10 mA
+Product Type: Voltage References
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس SG3503M پکیج DIP
+
+قیمت:
+335,000
+
+توضیحات کوتاه:
+آی سی ولتاژ دقیق SG3503
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Linfinity
+Product Category: Voltage References
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: DIP-8
+Reference Type:  Ground Precision References
+Output Voltage: 2.5 V
+Initial Accuracy: 1 %
+Temperature Coefficient: 10 PPM/C
+Minimum Operating Temperature:  0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Input Voltage: 4.5 V to 40 V
+Brand: Microchip / Microsemi
+Shutdown: No Shutdown
+Supply Current - Max: 2 mA
+Maximum Output Voltage: 2.525 V
+Operating Supply Current: 1.5 mA
+Product Type: Voltage References
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس TS431BCX پکیج SOT-23
+
+قیمت:
+80,600
+
+توضیحات کوتاه:
+آی سی ولتاژ TS431BCX پکیج SMD SOT-23
+
+توضیحات کامل:
+Specification
+
+Mfr: Taiwan Semiconductor Corporation
+Product Status: Active
+Reference Type: Shunt
+Output Type: Programmable
+Voltage - Output (Min/Fixed): 2.495V
+Voltage - Output (Max): 36 V
+Current - Output: 100 mA
+Tolerance: ±0.5%
+Temperature Coefficient:50ppm/°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ولتاژ رفرنس ZRB500
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی ولتاژ ZRB500
+
+توضیحات کامل:
+Introduction
+
+The ZRB500 uses a bandgap circuit design to achieve a precision micropower voltage reference of 5.0 volts. The device is available in small outline surface-mount packages, ideal for applications where space saving is important, as well as packages for through-hole requirements.
+The ZRB500 design provides a stable voltage without an external capacitor and is stable with capacitive loads. The ZRB500 is recommended for operation between 50_A and 15mA and so is ideally suited to low power and battery-powered applications.
+Excellent performance is maintained to an absolute maximum of 25mA, however, the rugged design and 20-volt processing allow the reference to withstand transient effects and currents up to 200mA. Superior switching capability allows the device to reach stable operating conditions in only a few microseconds.
+
+Specification
+
+± 2% and 1% tolerance
+Operating current 50uA to 15mA
+Typical TC 15ppm/°C
+Transient response, stable in less than 10μs
+Industrial temperature range
+Small outline TO-92 style package
+Green molding compound (No Br, Sb)
+
+Applications
+
+Battery-powered and portable equipment
+Metering and measurement systems
+Instrumentation
+Test equipment
+Data acquisition systems
+Precision power supplies
+
+
+========================================================================================================================
+
+عنوان:
+تراشه کنترل فاز TCA785P پکیج DIP
+
+قیمت:
+558,000
+
+توضیحات کوتاه:
+تراشه TCA785P یک کنترل‌کننده فاز با دقت بالا برای ترایاک، مناسب جهت تنظیم توان AC، کنترل دور موتور و دیمرهای صنعتی.
+
+توضیحات کامل:
+آی‌سی TCA785 یک کنترل‌کننده فاز AC با دقت بالا است که برای راه‌اندازی و کنترل زاویه در بارهای AC طراحی شده است. این تراشه امکان کنترل پیوسته توان را از طریق ایجاد پالس گیت همگام‌شده با ولتاژ شبکه فراهم می‌کند. وجود اسیلاتور داخلی، مدار همزمان‌سازی، بخش مقایسه‌گر، تقویت‌کننده خطا و خروجی مناسب درایو گیت ترایاک باعث می‌شود این IC در سیستم‌هایی که نیاز به تنظیم دقیق قدرت، کنترل موتورهای یونیورسال، دیمرهای صنعتی و کنترل بارهای مقاومتی/القایی دارند، عملکردی مطمئن و قابل تکرار ارائه دهد. ورودی‌های آن قابلیت کنترل از طریق ولتاژ DC، فیدبک، پتانسیومتر و سیگنال‌های فرمان دیگر را دارند. پکیج DIP-16 نیز نصب آسان، پایداری حرارتی مناسب و انعطاف بالا در طراحی بردهای صنعتی و خانگی را تضمین می‌کند.
+
+مشخصات
+
+ولتاژ تغذیه (V_CC): مقدار 8V تا 18V
+جریان مصرفی (I_CC): مقدار typ برابر 15mA
+فرکانس کاری (ورودی همزمان‌سازی): مقدار 50Hz تا 60Hz
+ولتاژ ورودی همزمان‌سازی: مقدار typ برابر 400mV
+حداکثر جریان خروجی پالس گیت: مقدار typ برابر 200mA
+محدوده کنترل زاویه فاز: مقدار 0° تا 180°
+ولتاژ ورودی کنترل (V_IN control): مقدار typ برابر 0V تا 10V
+دمای کاری (T_opr): از ‎−25 °C تا ‎+85 °C
+نوع پکیج: DIP-16
+
+کاربردهای رایج
+
+این تراشه برای کنترل توان AC، تنظیم زاویه آتش تریاک و کاربردهای صنعتی که نیاز به کنترل دقیق انرژی دارند بسیار مناسب است. در طراحی دیمرها، کنترل‌کننده‌های موتور، سیستم‌های گرمایشی و ابزارهای برقی کاربرد فراوان دارد.
+
+دیمر روشنایی AC
+کنترل دور موتورهای یونیورسال
+کنترل توان المنت‌ها و هیترهای AC
+سیستم‌های تنظیم سرعت ابزارهای برقی
+کنترل بارهای القایی و مقاومتی
+تنظیم توان صنعتی در 50/60 Hz
+درایو تریاک در مدارات اتوماسیون
+سیستم‌های کنترل دما
+کنترل فن‌ها و پمپ‌های AC
+تجهیزات آزمایشگاهی و تست الکترونیک قدرت
+
+Specifications
+
+Supply Voltage (V_CC): 8V to 18V
+Current Consumption (I_CC): 15mA Typ.
+Operating Frequency (Synchronization Input): 50Hz to 60Hz
+Synchronization Input Voltage: 400mV Typ.
+Maximum Gate Pulse Output Current: 200mA Typ.
+Phase Angle Control Range: 0° to 180°
+Control Input Voltage (V_IN control): 0V to 10V Typ.
+Operating Temperature (T_opr): −25°C to +85°C
+Package Type: DIP-16
+
+
+========================================================================================================================
+
+عنوان:
+تراشه کنترل وقفه NEC D71059C پکیج DIP
+
+قیمت:
+854,000
+
+توضیحات کوتاه:
+تراشه کنترل وقفه ساخت شرکت NEC
+
+توضیحات کامل:
+Specification
+
+Mounting Style Through Hole
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature 85 C°
+Brand NEC Electronics
+Package DIP-28
+
+
+========================================================================================================================
+
+عنوان:
+تراشه گیرنده MC10116 پکیج DIP
+
+قیمت:
+737,000
+
+توضیحات کوتاه:
+آی سی گیرنده سه گانه MC10116
+
+توضیحات کامل:
+Specification
+
+Product Category: Bus Receivers
+Number of Receivers: 3 Receiver
+Receiver Signal Type: Differential
+Operating Supply Current: 23 mA
+Package/Case: PDIP-16
+Packaging: Rail
+Brand: ON Semiconductor
+Mounting Style: Through Hole
+Unit Weight: 1.628 g
+
+
+========================================================================================================================
+
+عنوان:
+فیلتر SAW میان گذر مدل X6778M مارک EPCOS
+
+قیمت:
+337,000
+
+توضیحات کوتاه:
+فیلتر SAW میان گذر مدل X6778M مارک EPCOS
+
+توضیحات کامل:
+معرفی
+
+فیلتر SAW یک فیلتر passive - پسیو بوده و در مدارات یا دستگاه های فرکانس رادیویی (RF) برای فیلتر کردن فرکانس های ناخواسته استفاده می‌شود. از جمله کاربردهای اصلی فیلتر SAW را می‌توان مواردی چون استفاده در تلفن همراه ، سنسور های بی‌سیم ، WiFi ، صنعت خودرو سازی و حمل و نقل و … دانست.
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+فیلتر SAW میان گذر مدل X6966M مارک EPCOS
+
+قیمت:
+447,000
+
+توضیحات کوتاه:
+فیلتر SAW میان گذر مدل X6966M مارک EPCOS
+
+توضیحات کامل:
+معرفی
+
+فیلتر SAW یک فیلتر passive - پسیو بوده و در مدارات یا دستگاه های فرکانس رادیویی (RF) برای فیلتر کردن فرکانس های ناخواسته استفاده می‌شود. از جمله کاربردهای اصلی فیلتر SAW را می‌توان مواردی چون استفاده در تلفن همراه ، سنسور های بی‌سیم ، WiFi ، صنعت خودرو سازی و حمل و نقل و … دانست.
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+فیلتر فرکانس متوسط IF مدل G1966M مارک EPCOS
+
+قیمت:
+580,000
+
+توضیحات کوتاه:
+فیلتر فرکانس متوسط IF مدل G1966M مارک EPCOS
+
+توضیحات کامل:
+معرفی
+
+فیلتر IF برای intercarrier از اجزا مورد استفاده در گیرنده های تلویزیون و رادیو، به ویژه در سیستم های آنالوگ قدیمی ، برای پردازش سیگنال های فرکانس متوسط ​​(IF) است. این نوع از فیلترها نقش مهمی در جداسازی و پردازش سیگنال های صوتی و تصویری از سیگنال پخش ترکیبی دارد. در واقع پس از تبدیل سیگنال فرکانس رادیویی دریافتی (RF) به فرکانس متوسط ​​، از یک فیلتر فرکانس متوسط ​​(IF) برای intercarrier در گیرنده های تلویزیون برای جدا کردن سیگنال های صوتی و تصویری استفاده می شود. این فرآیند شامل دمودولاسیون سیگنال IF برای تولید هر دو سیگنال فرکانس ویدیو (VF) و فرکانس صوتی (AF) است.
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+فیلتر فرکانس متوسط IF مدل K2973M مارک EPCOS
+
+قیمت:
+580,000
+
+توضیحات کوتاه:
+فیلتر فرکانس متوسط IF برای intercarrier مدل K2973M مارک EPCOS
+
+توضیحات کامل:
+معرفی
+
+فیلتر IF برای intercarrier از اجزا مورد استفاده در گیرنده های تلویزیون و رادیو، به ویژه در سیستم های آنالوگ قدیمی ، برای پردازش سیگنال های فرکانس متوسط ​​(IF) است. این نوع از فیلترها نقش مهمی در جداسازی و پردازش سیگنال های صوتی و تصویری از سیگنال پخش ترکیبی دارد. در واقع پس از تبدیل سیگنال فرکانس رادیویی دریافتی (RF) به فرکانس متوسط ​​، از یک فیلتر فرکانس متوسط ​​(IF) برای intercarrier در گیرنده های تلویزیون برای جدا کردن سیگنال های صوتی و تصویری استفاده می شود. این فرآیند شامل دمودولاسیون سیگنال IF برای تولید هر دو سیگنال فرکانس ویدیو (VF) و فرکانس صوتی (AF) است.
+
+Specification
+

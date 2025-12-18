@@ -1,0 +1,420 @@
+عنوان:
+میکرو کنترلر LPC1788 - LPC1788FBD208
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر LPC1788 - LPC1788FBD208 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 120MHz ساخت شرکت NXP می باشد
+
+توضیحات کامل:
+میکروکنترلر LPC1788FBD208 یکی از قدرتمندترین MCUهای خانواده LPC178x شرکت NXP است. این تراشه مبتنی بر هسته ARM Cortex‑M3 با فرکانس 120MHz بوده و امکانات پیشرفته‌ای همچون LCD Controller، Ethernet، USB OTG، CAN، SD/MMC، EMC (برای اتصال RAM/Flash خارجی) را ارائه می‌دهد. این مدل برای پروژه‌های حرفه‌ای مانند پنل‌های گرافیکی، سیستم‌های صنعتی، تجهیزات پزشکی، کنترلرهای شبکه و سیستم‌های چندرسانه‌ای طراحی شده است.
+
+مشخصات کامل – LPC1788FBD208
+
+پردازنده
+
+هسته پردازشی: ARM Cortex‑M3
+فرکانس کاری: تا 120MHz
+پشتیبانی از Thumb‑2
+واحد وقفه NVIC
+حافظه TCM و باس‌های جداگانه برای سرعت بیشتر
+
+حافظه‌ها
+
+حافظه Flash: 512KB
+حافظه RAM داخلی: 96KB
+(64KB Main RAM + 16KB AHB RAM + 16KB Local RAM)
+ROM بوت داخلی (IAP, ISP)
+
+ویژگی‌های گرافیکی و چندرسانه‌ای مهم
+
+LCD Controller داخلی (Graphics TFT Interface)
+پشتیبانی از:
+STN / TFT LCD
+رزولوشن‌های بالا
+RGB Interface
+
+واحدهای ارتباطی و امکانات ویژه
+
+Ethernet MAC 10/100 با پشتیبانی RMII
+USB 2.0 OTG / Device / Host
+2× CAN Bus
+4× UART
+3× SPI / SSP
+SD/MMC Controller برای کارت حافظه
+I²C ×2
+I²S برای پردازش صوت
+GPIO های پرسرعت
+
+مبدل‌ها و تایمرها
+
+ADC 12‑bit / 8 کانال
+DAC 10‑bit
+تایمر 32 بیتی و 16 بیتی
+PWM چندکاناله
+RTC داخلی
+Watchdog Timer
+
+قابلیت اتصال حافظه خارجی – EMC
+
+پشتیبانی از:
+SRAM خارجی
+NOR Flash
+DRAM (SDRAM)
+مناسب برای سیستم‌های گرافیکی و دیتای حجیم
+
+ولتاژ و توان
+
+ولتاژ کاری: 3.0V تا 3.6V
+ولتاژ I/O: 3.3V
+حالت‌های صرفه‌جویی انرژی:
+Sleep / Deep-sleep / Power-down
+
+کاربردهای رایج
+
+LPC1788FBD208 یکی از کامل‌ترین میکروکنترلرهای Cortex‑M3 است که برای ساخت دستگاه‌های صنعتی، تجهیزات گرافیکی مجهز به LCD، کنترلرهای شبکه و سیستم‌های پردازش داده پیچیده استفاده می‌شود. قدرت بالا همراه با امکانات متنوع ارتباطی آن را برای پروژه‌های حرفه‌ای ایده‌آل می‌سازد.
+
+کنترلر نمایشگرهای رنگی (HMI / Industrial Panels)
+تجهیزات پزشکی و مانیتورینگ
+سیستم‌های اتوماسیون صنعتی
+دستگاه‌های ارتباطی و مخابراتی
+رباتیک و کنترل حرکت
+کنترلر شبکه (Ethernet/USB/CAN)
+دیتا لاگرهای حرفه‌ای
+پردازش صوت و کارت حافظه SD
+سیستم‌های چندرسانه‌ای و صنعتی با نیاز به RAM خارجی
+
+Introduction
+
+The LPC1788 is a Cortex-M3 microcontroller for embedded applications featuring a high level of integration and low power consumption at frequencies of 120 MHz. Features include 512 kB of flash memory, 96 kB of data memory, Ethernet, USB 2.0 Host/OTG/Device , 8-channel DMA controller, 5 UARTs, 2 CAN channels, 3 SSP/SPI, 3 I2C, I2S, 8-channel 12-bit ADC, 10-bit DAC, QEI, LCD controller, SD/MMC interface, motor control PWM, 4 general purpose timers, 6-output general purpose PWM, ultra-low power Real-Time Clock with separate battery supply, and up to 165 general purpose I/O pins.
+
+Specification
+
+Functional replacement for LPC23xx and 24xx family devices
+ARM Cortex-M3 processor, running at frequencies of up to 120 MHz
+ARM Cortex-M3 built-in Nested Vectored Interrupt Controller (NVIC)
+Multilayer AHB matrix interconnect provides a separate bus for each AHB master
+Split APB bus allows for higher throughput
+Cortex-M3 system tick timer, including an external clock input option
+Standard JTAG test/debug interface, Serial Wire Debug and Serial WireTrace Port
+Emulation trace module supports real-time trace
+Boundary scan for simplified board testing
+Non-maskable Interrupt (NMI) input
+512 kB on-chip flash program memory
+96 kB on-chip SRAM
+4 kB on-chip EEPROM
+In-System Programming (ISP) and In-Application Programming (IAP) capabilities
+LCD controller, supporting both STN and TFT displays
+External Memory Controller (EMC)
+Eight channel General Purpose DMA controller (GPDMA)
+Ethernet MAC with MII/RMII interface and associated DMA controller
+USB 2.0 full-speed dual port device/host/OTG controller with on-chip PHY and DMA
+Five UARTs with fractional baud rate generation
+Three SSP controllers with FIFO and multi-protocol capabilities
+Three enhanced I2C-bus interfaces
+I2S (Inter-IC Sound) interface for digital audio input or output
+CAN controller with two channels
+SD/MMC memory card interface
+Up to 165 General Purpose I/O (GPIO) pins
+Two external interrupt inputs configurable as edge/level sensitive
+Four general purpose timers/counters
+Quadrature encoder interface that can monitor one external quadrature encoder
+Two standard PWM/timer blocks with external count input option
+Real-Time Clock (RTC) with a separate power domain
+Windowed Watchdog Timer (WWDT)
+12-bit Analog-to-Digital Converter (ADC) with conversion rates up to 400 kHz
+10-bit Digital-to-Analog Converter (DAC)
+Four reduced power modes: Sleep, Deep-sleep, Power-down, and Deep power-down
+Wake-up Interrupt Controller (WIC)
+Processor wake-up from Power-down mode via any interrupt
+Brownout detect with separate threshold for interrupt and forced reset
+On-chip Power-On Reset (POR)
+On-chip crystal oscillator with an operating range of 1 MHz to 25 MHz
+12 MHz Internal RC oscillator (IRC) trimmed to 1% accuracy
+Unique device serial number for identification purposes
+Single 3.3 V power supply (2.4 V to 3.6 V)
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر LPC1343
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر LPC1343 با هسته ARM Cortex M3 با حافظه 32KB و فرکانس کاری 72MHz ساخت شرکت NXP می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر LPC1343 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت NXP ساخته شده است است و با فرکانس 72مگاهرتز کار می کند. این میکروکنترلر 32 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر LPC1343 دارای 42 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر LPC1343 دارای ولتاژ کاری 3.3 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : NXP
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 3.3 ولت
+سرعت: 72 Mhz
+حافظه: 32 kB
+پکیج : LQFP-48
+تعداد پین ها ورودی/خروجی : 42
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Product Category:     ARM Microcontrollers - MCU
+Manufacturer:     NXP
+RoHS:     RoHS Compliant Details
+Mounting Style:     SMD/SMT
+Package / Case:     LQFP-48
+Core:     ARM Cortex M3
+Data Bus Width:     32 bit
+Maximum Clock Frequency:     72 MHz
+Program Memory Size:     32 kB
+Data RAM Size:     8 kB
+ADC Resolution:     10 bit
+Operating Supply Voltage:     3.3 V
+Maximum Operating Temperature:     + 85 C
+Processor Series:     LPC13
+Packaging:     Tray
+Analog Supply Voltage:     3.3 V
+Brand:     NXP Semiconductors
+Data RAM Type:     SRAM
+I/O Voltage:     3.3 V
+Interface Type:     I2C, UART
+Minimum Operating Temperature:     - 40 C
+Number of I/Os:     42 I/O
+Number of Timers/Counters:     4 Timer
+Program Memory Type:     Flash
+Factory Pack Quantity:     250
+Tradename:     LPC
+Unit Weight:     0.006580 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر LPC1768FBD100
+
+قیمت:
+7,370,000
+
+توضیحات کوتاه:
+میکروکنترلر LPC1768FBD100 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 100MHz ساخت شرکت NXP می باشد
+
+توضیحات کامل:
+میکروکنترلر LPC1768FBD100 از خانواده LPC17xx شرکت NXP یک MCU قدرتمند مبتنی بر هسته ARM Cortex‑M3 با فرکانس کاری تا 100MHz است. این تراشه دارای مجموعه‌ای گسترده از امکانات ارتباطی شامل USB 2.0، Ethernet، CAN، UART، SPI، I2C، PWM و تایمرهای پیشرفته است. وجود مبدل ADC و DAC داخلی، حافظه فلش 512KB و RAM با سرعت بالا، آن را به یکی از محبوب‌ترین گزینه‌ها برای طراحی سیستم‌های صنعتی، شبکه‌ای و کنترل دقیق تبدیل کرده است.
+
+مشخصات فنی کامل
+
+پردازنده
+
+هسته: ARM Cortex‑M3
+فرکانس کاری: 100MHz
+پشتیبانی از Thumb‑2 Instruction Set
+واحد کنترل وقفه: NVIC
+
+حافظه‌ها
+
+حافظه Flash: 512KB
+حافظه RAM:
+64KB اصلی
+16KB AHB RAM
+ROM بوت داخلی
+
+ورودی/خروجی (I/O)
+
+تعداد پایه‌ها: 100 پین LQFP
+GPIO های قابل نگاشت (Multiplexed Pins)
+پشتیبانی از Fast GPIO
+
+واحدهای ارتباطی
+
+Ethernet MAC 10/100 (RMII)
+USB 2.0 Full-Speed با قابلیت Device/Host/OTG
+2× CAN Bus
+4× UART
+2× I²C
+3× SPI / SSP
+I²S برای کاربردهای صوتی
+PWM خروجی متعدد (6 کانال)
+
+مبدل‌ها و تایمرها
+
+مبدل آنالوگ به دیجیتال: 12-bit / 8 channel
+مبدل دیجیتال به آنالوگ: 10-bit DAC
+تایمرهای 32 بیتی و 16 بیتی
+واحد RTC داخلی
+Watchdog Timer
+
+ولتاژ و توان
+
+ولتاژ کاری: 2.4V تا 3.6V
+ولتاژ I/O برابر 3.3V
+حالت‌های کاهش توان: Sleep / Deep Sleep / Power Down / Deep Power Down
+
+ویژگی‌ها
+
+پردازنده سریع 100MHz با کارایی بالا
+ارتباطات شبکه‌ای کامل: Ethernet + USB + CAN
+ADC و DAC داخلی برای اندازه‌گیری و تولید سیگنال
+قابلیت اجرای هم‌زمان چند پروتکل ارتباطی
+توان مصرفی پایین
+تعداد زیاد GPIO و قابلیت نگاشت (Pin Function Select)
+مناسب طراحی سیستم‌های صنعتی و حرفه‌ای
+
+کاربردهای رایج
+
+میکروکنترلر LPC1768FBD100 به‌دلیل داشتن Ethernet، USB، CAN و پردازنده 100MHz یکی از بهترین گزینه‌ها برای ساخت تجهیزات صنعتی، شبکه‌ای، کنترل دقیق و هوشمند است. این تراشه در سیستم‌های اتوماسیون، رباتیک، تجهیزات اندازه‌گیری و ارتباطی به‌طور گسترده استفاده می‌شود.
+
+سیستم‌های اتوماسیون صنعتی
+کنترل‌کننده‌های شبکه و Ethernet
+رباتیک و کنترل حرکت
+تجهیزات مخابراتی و ارتباطی
+تجهیزات پزشکی و اندازه‌گیری
+کنترل موتور و درایوهای صنعتی
+طراحی بردهای هوشمند و IoT پیشرفته
+
+Introduction
+
+The LPC1768FBD100 microcontroller has a 32-bit ARM Cortex M3 processor core made by NXP and operates at a frequency of 100MHz. This microcontroller provides 512KB of FLASH memory on the chip. The LPC1768FBD100 microcontroller has 70 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The LPC1768FBD100 microcontroller has a working voltage of 3.3 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category: ARM Microcontrollers - MCU
+Manufacturer: NXP
+Mounting Style: SMD/SMT
+Package / Case:LQFP-100
+Core:     ARM Cortex M3
+Data Bus Width:32 bit
+Maximum Clock Frequency:100 MHz
+Program Memory Size: 512 kB
+Data RAM Size:64 kB
+ADC Resolution:12 bit
+Operating Supply Voltage:3.3 V
+Maximum Operating Temperature:+ 85 C
+Processor Series: LPC17
+Packaging:Tray
+Brand:NXP Semiconductors
+Data RAM Type:SRAM
+Interface Type:CAN, I2C, SPI, UART
+Minimum Operating Temperature:- 40 C
+Number of ADC Channels: 8
+Number of I/Os:70 I/O
+Number of Timers/Counters:3 Timer
+Program Memory Type:Flash
+Series: LPC17xx
+Supply Voltage - Max:3.6 V
+Supply Voltage - Min:2.4 V
+Tradename:LPC
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر LPC2368
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر LPC2368 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 100MHz
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر LPC2368 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت NXP ساخته شده است است و با فرکانس 100 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر LPC2368 دارای 70 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر LPC2368 دارای ولتاژ کاری 3.3 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : NXP
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 3.3 ولت
+سرعت: 100 Mhz
+حافظه: 512 kB
+پکیج : LQFP-100
+تعداد پین ها ورودی/خروجی : 70
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Product Category:     ARM Microcontrollers - MCU
+Mounting Style:     SMD/SMT
+Package / Case:     LQFP-100
+Core:     ARM Cortex M3
+Data Bus Width:     32 bit
+Maximum Clock Frequency:     100 MHz
+Program Memory Size:     512 kB
+Data RAM Size:     64 kB
+ADC Resolution:     12 bit
+Operating Supply Voltage:     3.3 V
+Maximum Operating Temperature:     + 85 C
+Processor Series:     LPC17
+Packaging:     Tray
+Data RAM Type:     SRAM
+Height:     1.45 mm (Max)
+Interface Type:     CAN, I2C, SPI, UART
+Length:     14.1 mm (Max)
+Minimum Operating Temperature:     - 40 C
+Number of ADC Channels:     8
+Number of I/Os:     70 I/O
+Number of Timers/Counters:     3 Timer
+Program Memory Type:     Flash
+Series:     LPC17xx
+Factory Pack Quantity:     90
+Supply Voltage - Max:     3.6 V
+Supply Voltage - Min:     2.4 V
+Tradename:     LPC
+Width:     14.1 mm (Max)
+Unit Weight:     0.025687 oz
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلرS83C751 پکیج DIP مارک Philips
+
+قیمت:
+501,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 24 پایه فرکانس 16MHz پکیج DIP مارک Philips Semiconductors
+
+توضیحات کامل:
+Introduction
+
+The Philips 83C751/87C751 offers the advantages of the 80C51 architecture in a small package and at low cost. The 8XC751 Microcontroller is fabricated with Philips high-density CMOS technology. Philips epitaxial substrate minimizes CMOS latch-up sensitivity. The 8XC751 contains a 2k × 8 ROM (83C751) EPROM (87C751), a 64 × 8 RAM, 19 I/O lines, a 16-bit auto-reload counter/timer, a five-source, fixed-priority level interrupt structure, a bidirectional inter-integrated circuit (I2C) serial bus interface, and an on-chip oscillator. The on-board inter-integrated circuit (I2C) bus interface allows the 8XC751 to operate as a master or slave device on the I2C small area network. This capability facilitates I/O and RAM expansion, access to EEPROM, processor-to-processor communication, and efficient interface to a wide variety of dedicated I2C peripherals.
+
+Feature
+
+• 80C51 based architecture
+• Inter-Integrated Circuit (I2C) serial bus interface
+• Small package sizes
+– 24-pin DIP (300 mil “skinny DIP”)
+• 87C751 available in one-time programmable plastic packages
+• Wide oscillator frequency range
+• Low power consumption:
+– Normal operation: less than 11mA @ 5V, 12MHz
+– Idle mode
+– Power-down mode
+• 2k × 8 ROM (83C751)
+• 16-bit auto reloadable counter/timer
+• Fixed-rate timer
+• Boolean processor
+• CMOS and TTL compatible
+• Well suited for logic replacement, consumer and industrial applications
+• LED drive outputs
+
+لازم به ذکر است پایه ها دارای آلیاژ مرغوب و آبکاری شده با قلع بوده که علاوه بر مقاوم بودن در برابر اکسید شدن، باعث عملیات مونتاژ روان تر و سریعتر نسبت به مدل های معمولی چینی می باشد.
+

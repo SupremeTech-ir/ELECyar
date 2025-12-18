@@ -1,0 +1,1183 @@
+عنوان:
+تراشه آمپلی فایر TS27L2CDT
+
+قیمت:
+120,000
+
+توضیحات کامل:
+PRECISION VERY LOW POWER CMOS DUAL OPERATIONAL AMPLIFIERS
+
+VERY LOW POWER CONSUMPTION :
+10μA/op
+n OUTPUT VOLTAGE CAN SWING TO GROUND
+n EXCELLENT PHASE MARGIN ON CAPACITIVE LOADS
+n STABLE AND LOW OFFSET VOLTAGE
+n THREE INPUT OFFSET VOLTAGE SELECTIONS
+
+DESCRIPTION
+These devices are low cost, low power dual operational
+amplifiers designed to operate with single
+or dual supplies. These operational amplifiers use
+the ST silicon gate CMOS process allowing an excellent
+consumption-speed ratio. These series are
+ideally suited for low consumption applications.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ 4558D پکیج SO-8
+
+قیمت:
+54,700
+
+توضیحات کوتاه:
+آی سی آپ امپ 4558D پکیج SMD
+
+توضیحات کامل:
+Introduction
+
+The 4558D is a dual high-gain operational amplifier with internal compensation circuit and constructed on a single silicon chip. It offers excellent characteristics by combining the parameters adjusted for a monolithic chip. The channel separation characteristic is suitable for measuring instruments.
+
+Specification
+
+Operating Voltage ( ±4V~±18V )
+High Voltage Gain ( 100dB typ. )
+High Input Resistance ( 5MΩ typ. )Bipolar Technology
+Package Outline DIP8, DMP8, SIP8
+SOP8 JEDEC 150mil, SSOP8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ HT9274 HOLTEK پکیج SO-14
+
+قیمت:
+212,000
+
+توضیحات کوتاه:
+آی سی آپ امپ HT9274 HOLTEK پکیج SO-14
+
+توضیحات کامل:
+Specification
+
+Gain Bandwidth Product (fT) 0.1 MHz
+Slew Rate 0.03 V/µs
+Input Bias Current 1 pA
+Input Offset Voltage 5 mV
+Mounting Style SMD/SMT
+Supply Voltage (Min) 1.6 V
+Supply Voltage (Max) 5.5 V
+Minimum Operating Temperature -20 C°
+Maximum Operating Temperature 75 C°
+Brand Holtek Semiconductor
+Package SO-14
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LF356 JFET سرعت بالا پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LF356 JFET سرعت بالا پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 44 V
+Number of Channels: 1 Channel
+GBP - Gain Bandwidth Product: 5 MHz
+SR - Slew Rate: 12 V/us
+CMRR - Common Mode Rejection Ratio: 80 dB to 100 dB
+Ib - Input Bias Current: 50 pA
+Vos - Input Offset Voltage: 10 mV
+Supply Voltage - Min: 10 V
+Operating Supply Current: 5 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: LF356
+Packaging: Tube
+Height: 3.3 mm
+Input Type: Rail-to-Rail
+Length: 9.27 mm
+Product: Operational Amplifiers
+Supply Type: Dual
+Technology: BiFET
+Width: 6.35 mm
+Brand: Texas Instruments
+en - Input Voltage Noise Density: 15 nV/sqrt Hz at +/- 15 V
+In - Input Noise Current Density: 0.01 pA/sqrt Hz
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 5 V
+Operating Supply Voltage: 10 V to 36 V, +/- 5 V to +/- 18 V
+Pd - Power Dissipation: 670 mW
+Product Type: Op Amps - Operational Amplifiers
+PSRR - Power Supply Rejection Ratio: 80 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM224 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM224 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Number of Channels: 4 Channel
+Supply Voltage - Max: 32 V
+GBP - Gain Bandwidth Product: 1.2 MHz
+Output Current per Channel: 30 mA
+SR - Slew Rate: 0.5 V/us
+Vos - Input Offset Voltage: 5 mV
+Supply Voltage - Min: 3 V
+Minimum Operating Temperature: - 25 C
+Maximum Operating Temperature: + 85 C
+Ib - Input Bias Current: 250 nA
+Operating Supply Current: 175 uA
+Shutdown: No Shutdown
+CMRR - Common Mode Rejection Ratio: 70 dB to 80 dB
+en - Input Voltage Noise Density: 35 nV/sqrt Hz
+Series: LM224
+Amplifier Type: High Gain Amplifier
+Height: 4.57 mm
+Input Type: Rail-to-Rail
+Length: 19.3 mm
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: Bipolar
+Width: 6.35 mm
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V
+Maximum Dual Supply Voltage: +/- 16 V
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+Product Type: Op Amps - Operational Amplifiers
+Subcategory:  Amplifier ICs
+Vcm - Common Mode Voltage: Negative Rail to Positive Rail - 1.5 V
+Voltage Gain dB: 100 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM2902N پکیج DIP
+
+قیمت:
+91,200
+
+توضیحات کوتاه:
+آی سی LM2902N اپ امپ با چهار تقویت کننده مستقل با گین بالا
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Supply Voltage - Max: 26 V
+Output Current per Channel: 30 mA
+Number of Channels: 4 Channel
+GBP - Gain Bandwidth Product: 1.2 MHz
+SR - Slew Rate: 0.5 V/us
+CMRR - Common Mode Rejection Ratio: 50 dB to 80 dB
+Ib - Input Bias Current: 250 nA
+Vos - Input Offset Voltage: 7 mV
+Supply Voltage - Min: 3 V
+Operating Supply Current: 175 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Shutdown: No Shutdown
+Series: LM2902
+Packaging: Tube
+Amplifier Type: General Purpose Amplifier
+Features: Standard Amps
+Height: 4.57 mm
+Input Type: Rail-to-Rail
+Length: 19.3 mm
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: Bipolar
+Width: 6.35 mm
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V
+en - Input Voltage Noise Density: 35 nV/sqrt Hz
+Maximum Dual Supply Voltage: +/- 13 V
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 26 V, +/- 1.5 V to +/- 13 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM311N مارک National پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM311N  پکیج DIP مارک National
+
+توضیحات کامل:
+Specification
+
+Brand : National
+Product Category: Analog Comparators
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Comparator Type: Differential
+Number of Channels: 1 Channel
+Output Type: Open Collector
+Ib - Input Bias Current: 250 nA
+Vos - Input Offset Voltage: 7.5 mV
+Supply Voltage - Max: 36 V
+Supply Voltage - Min: 5 V
+Operating Supply Current: 7.5 mA
+Response Time: 200 ns
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Features: Strobe, Vos Adj Pin
+Height: 3.3 mm
+Length: 9.27 mm
+Width: 6.35 mm
+Supply Type: Single, Dual
+Technology: Bipolar
+Type: Voltage Comparator
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 2.5 V
+Operating Supply Voltage: 9 V, 12 V, 15 V, 18 V, 24 V, 28 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM324 پکیج DIP
+
+قیمت:
+52,400
+
+توضیحات کوتاه:
+آی سی LM324 یک آپ امپ شامل چهار تقویت کننده عملیاتی کم مصرف
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-14
+Supply Voltage - Max: 32 V
+Output Current per Channel: 40 mA
+Number of Channels: 4 Channel
+GBP - Gain Bandwidth Product: 1.2 MHz
+SR - Slew Rate: 0.5 V/us
+CMRR - Common Mode Rejection Ratio: 65 dB to 80 dB
+Ib - Input Bias Current: 45 nA
+Vos - Input Offset Voltage: 7 mV
+Supply Voltage - Min: 3 V
+Operating Supply Current: 1.5 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: LM324
+Packaging: Tube
+Amplifier Type: General Purpose Amplifier
+Features: Standard Amps
+Height: 4.57 mm
+Input Type: Rail-to-Rail
+Length: 19.3 mm
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: Bipolar
+Width: 6.35 mm
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V
+en - Input Voltage Noise Density: 35 nV/sqrt Hz
+Ios - Input Offset Current: 150 nA
+Maximum Dual Supply Voltage: +/- 16 V
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+Product Type: Op Amps - Operational Amplifiers
+PSRR - Power Supply Rejection Ratio: 100 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM324 پکیج SO-14
+
+قیمت:
+39,900
+
+توضیحات کوتاه:
+LM324 یک آپ امپ شامل چهار تقویت کننده عملیاتی کم مصرف
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOIC-14
+Supply Voltage - Max: 32 V
+Output Current per Channel: 40 mA
+Number of Channels: 4 Channel
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 0.5 V/us
+CMRR - Common Mode Rejection Ratio: 65 dB to 85 dB
+Ib - Input Bias Current: 100 nA
+Vos - Input Offset Voltage: 7 mV
+Supply Voltage - Min: 3 V
+Operating Supply Current: 180 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: LM324-N
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM339 پکیج DIP
+
+قیمت:
+104,000
+
+توضیحات کوتاه:
+آی سی آپ امپ LM339 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog Comparators
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Comparator Type: Differential
+Number of Channels: 4 Channel
+Output Type: Rail-to-Rail
+Output Current per Channel: 6 mA
+Ib - Input Bias Current: 50 nA
+Vos - Input Offset Voltage: 5 mV
+Supply Voltage - Max: 30 V
+Supply Voltage - Min: 2 V
+Operating Supply Current: 500 uA
+Response Time: 300 ns
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Features: Standard comparator
+Height: 4.57 mm
+Length: 19.3 mm
+Product: Analog Comparators
+Series: LM339
+Supply Type: Single, Dual
+Technology: Bipolar
+Type: Differential Comparator
+Width: 6.35 mm
+Brand: Texas Instruments
+Shutdown: No Shutdown
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V
+GBP - Gain Bandwidth Product: -
+Ios - Input Offset Current: 50 nA
+Maximum Dual Supply Voltage: +/- 15 V
+Minimum Dual Supply Voltage: 1 V
+Operating Supply Voltage: 2 V to 30 V
+Pd - Power Dissipation: 1050 mW
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM348N پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM348N پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole
+Package / Case: PDIP-14
+Output Current per Channel: 25 mA
+Number of Channels: 4 Channel
+GBP - Gain Bandwidth Product: 1.3 MHz
+SR - Slew Rate: 0.5 V/us
+CMRR - Common Mode Rejection Ratio: 70 dB
+Ib - Input Bias Current: 100 nA
+Vos - Input Offset Voltage: 5 mV
+Operating Supply Current: 3.6 mA
+Maximum Operating Temperature: + 70 C
+Minimum Operating Temperature: 0 C
+Shutdown: No Shutdown
+Series: LM348
+Packaging: Tube
+Amplifier Type: Low Power Amplifier
+en - Input Voltage Noise Density: 40 nV/sqrt Hz
+Height: 5.1 mm (Max)
+Length: 20 mm (Max)
+Maximum Dual Supply Voltage: +/- 22 V
+Minimum Dual Supply Voltage: +/- 18 V
+Operating Supply Voltage: +/- 4 V to +/- 18 V
+Pd - Power Dissipation: 500 mW
+Product: Operational Amplifiers
+PSRR - Power Supply Rejection Ratio: 77 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM358 پکیج DIP
+
+قیمت:
+32,600
+
+توضیحات کوتاه:
+آی سی تقویت کننده عملیاتی LM358 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 32 V
+Output Current per Channel: 30 mA
+Number of Channels: 2 Channel
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 0.1 V/us
+CMRR - Common Mode Rejection Ratio: 65 dB to 85 dB
+Ib - Input Bias Current: 100 nA
+Vos - Input Offset Voltage: 7 mV
+Supply Voltage - Min: 3 V
+Operating Supply Current: 250 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: LM358-N
+Packaging: Tube
+Input Type: Rail-to-Rail
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Brand: Texas Instruments
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM358 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده عملیاتی LM358 پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Supply Voltage - Max: 32 V
+Output Current per Channel: 30 mA
+Number of Channels: 2 Channel
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 0.1 V/us
+CMRR - Common Mode Rejection Ratio: 65 dB to 85 dB
+Ib - Input Bias Current: 100 nA
+Vos - Input Offset Voltage: 7 mV
+Supply Voltage - Min: 3 V
+Operating Supply Current: 250 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: LM358-N
+Packaging: Tube
+Input Type: Rail-to-Rail
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Brand: Texas Instruments
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM393 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM393 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog Comparators
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Comparator Type: Differential
+Number of Channels: 2 Channel
+Output Type: Rail-to-Rail
+Ib - Input Bias Current: 250 nA
+Vos - Input Offset Voltage: 5 mV
+Supply Voltage - Max: 36 V
+Supply Voltage - Min: 2 V
+Operating Supply Current: 200 uA
+Response Time: 700 ns
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Features: Small Size, Standard comparator
+Product: Analog Comparators
+Series: LM393-N
+Brand: Texas Instruments
+GBP - Gain Bandwidth Product: -
+Operating Supply Voltage: 2 V to 36 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM710CH پکیج DIP
+
+قیمت:
+1,800,000
+
+توضیحات کوتاه:
+آی سی آپ امپ LM710CH پکیج DIP
+
+توضیحات کامل:
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ LM733 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM733 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: National Semiconductor
+Product Category: Operational Amplifiers - Op Amps
+Mounting Style: DIP
+Package / Case: DIP-14
+Number of Channels: 2 Channel
+Supply Voltage - Max: 32 V
+Output Current per Channel: 70 mA
+SR - Slew Rate: 12 V/us
+Vos - Input Offset Voltage: 4 mV
+Supply Voltage - Min: 2.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Ib - Input Bias Current: 2 uA
+Operating Supply Current: 750 uA
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+In - Input Noise Current Density: 1.35 pA/sqrt Hz
+Maximum Dual Supply Voltage: +/- 16 V
+Minimum Dual Supply Voltage: +/- 1.25 V
+Product Type: Op Amps - Operational Amplifiers
+PSRR - Power Supply Rejection Ratio: 78 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ OP07 پکیج DIP
+
+قیمت:
+142,000
+
+توضیحات کوتاه:
+آی سی آپ امپ تقویت کننده OP07 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+Manufacturer: Texas Instruments
+Product Category: Precision Amplifiers
+RoHS: Details
+Series: OP07C
+Number of Channels: 1 Channel
+GBP - Gain Bandwidth Product: 600 kHz
+SR - Slew Rate: 0.3 V/us
+CMRR - Common Mode Rejection Ratio: 100 dB to 120 dB
+Ib - Input Bias Current: 7 nA
+Vos - Input Offset Voltage: 0.25 mV
+en - Input Voltage Noise Density: 10.5 nV/sqrt Hz
+Supply Voltage - Max: 36 V
+Supply Voltage - Min: 6 V
+Operating Supply Current: 2.4 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Packaging: Tube
+Amplifier Type: Low Offset Amplifier
+Height: 4.57 mm
+Length: 9.81 mm
+Product: Precision Amplifiers
+Supply Type: Single, Dual
+Technology: Bipolar
+Width: 6.35 mm
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+In - Input Noise Current Density: 0.35 pA/sqrt Hz
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3 V
+Operating Supply Voltage: 6 V to 36 V, +/- 3 V to +/- 18 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ SN76604N پکیج DIP
+
+قیمت:
+211,000
+
+توضیحات کوتاه:
+آی سی آپ امپ SN76604N پکیج DIP
+
+توضیحات کامل:
+Features
+
+Bidirectional operation with single supply
+400ma Load current capability without external power transistors
+easily time division multiplexed for multi-channel operation
+adjustable dead-banb
+Bidirectional Servo-Amp And Pulse Width Detector;400mA,Multi-Channel,Output Offset:0.00
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ TL062 پکیج DIP
+
+قیمت:
+63,200
+
+توضیحات کوتاه:
+آی سی آپ امپ TL062 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 36 V
+Number of Channels: 2 Channel
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 3.5 V/us
+CMRR - Common Mode Rejection Ratio: 70 dB to 86 dB
+Ib - Input Bias Current: 200 pA
+Vos - Input Offset Voltage: 15 mV
+Supply Voltage - Min: 7 V
+Operating Supply Current: 200 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Shutdown: No Shutdown
+Series: TL062
+Packaging: Tube
+Amplifier Type: Low Power Amplifier
+Height: 4.57 mm
+Input Type: Rail-to-Rail
+Length: 9.81 mm
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: BiFET
+Width: 6.35 mm
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+en - Input Voltage Noise Density: 42 nV/sqrt Hz
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3.5 V
+Operating Supply Voltage: 7 V to 36 V, +/- 3.5 V to +/- 18 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ TL062 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ TL062 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: SMD/SMT
+Supply Voltage - Max: 32 V
+Output Current per Channel: 40 mA
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 0.5 V/us
+CMRR - Common Mode Rejection Ratio: 65 dB to 85 dB
+Ib - Input Bias Current: 100 nA
+Vos - Input Offset Voltage: 7 mV
+Supply Voltage - Min: 3 V
+Operating Supply Current: 180 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: LM324-N
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Input Type: Rail-to-Rail
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Brand: Texas Instruments
+Minimum Dual Supply Voltage: +/- 1.5 V
+Operating Supply Voltage: 3 V to 32 V, +/- 1.5 V to +/- 16 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ TL081CP پکیج DIP
+
+قیمت:
+63,000
+
+توضیحات کوتاه:
+آپ‌امپ JFET ورودی با نویز کم و پهنای باند مناسب، مدل TL081CP پکیج DIP-8 مناسب برای تقویت سیگنال‌های دقیق، فیلترها و مدارات پردازش آنالوگ.
+
+توضیحات کامل:
+آی‌سی TL081CP یک تقویت‌کننده عملیاتی با ورودی JFET و خروجی BJT است که برای پردازش سیگنال‌های آنالوگ با دقت مناسب، نویز پایین و سرعت انتقال مطلوب طراحی شده است. ساختار JFET ورودی باعث افزایش امپدانس ورودی، کاهش جریان بایاس و بهبود رفتار تقویت در مدارات حساس می‌شود. این آپ‌امپ با پهنای باند 3 MHz و نرخ تغییر ولتاژ 13 V/µs عملکرد بسیار مناسبی در کاربردهای سرعت متوسط ارائه می‌دهد. TL081CP به دلیل پایداری دمایی مناسب، اعوجاج کم و توان مصرفی پایین در طراحی فیلترهای اکتیو، تقویت‌کننده‌های بافر، آمپلی‌فایرهای صوتی سبک، آشکارسازهای سیگنال، مبدل‌های آنالوگ و بسیاری از مدارات پردازش آنالوگ به‌طور گسترده استفاده می‌شود. پکیج DIP-8 نیز نصب آسان و امکان استفاده در پروتوتایپ‌های آموزشی و صنعتی را فراهم می‌کند.
+
+مشخصات
+
+ولتاژ تغذیه دو سر (V_CC): از ±5V تا ±18V
+جریان بایاس ورودی (I_B): مقدار typ برابر 30pA
+ولتاژ نویز ورودی (V_n): مقدار typ برابر 25nV/√Hz در 1kHz
+پهنای باند (GBW): مقدار typ برابر 3MHz
+نرخ تغییر ولتاژ (Slew Rate): مقدار typ برابر 13V/µs
+ولتاژ آفست ورودی (V_IO): مقدار typ برابر 3mV
+جریان خروجی (I_O): مقدار typ برابر 20mA
+مقاومت ورودی (R_in): مقدار typ برابر 1TΩ
+توان اتلاف (P_D): مقدار typ برابر 500mW
+دمای کاری (T_opr): از ‎−40°C تا ‎+85°C
+
+کاربردهای رایج
+
+این آپ‌امپ برای مدارات آنالوگ دقیق، فیلترهای اکتیو، تقویت سیگنال‌های ضعیف، مدارات صوتی، آشکارسازی و درایوهای سبک مناسب است. امپدانس ورودی بالا و نویز کم، آن را برای کاربردهای اندازه‌گیری و پردازش سیگنال ایده‌آل می‌سازد.
+
+فیلترهای اکتیو فرکانس پایین و متوسط
+تقویت‌کننده‌های بافر و ایمپدانس مچینگ
+مدارات صوتی و پری‌امپلی‌فایر سبک
+مدارات اندازه‌گیری و سنجش
+تقویت سیگنال‌های حساس
+مبدل‌های آنالوگ و آشکارسازها
+پردازش سیگنال‌های سنسورها
+مدارات تحقیقاتی و آموزشی
+ابزار دقیق سبک
+تقویت‌کننده‌های عمومی در پروژه‌های آنالوگ
+
+Specifications
+
+Two-ended supply voltage (V_CC): ±5V to ±18V
+Input bias current (I_B): Typ. 30pA
+Input noise voltage (V_n): Typ. 25nV/√Hz at 1kHz
+Bandwidth (GBW): Typ. 3MHz
+Slew rate: Typ. 13V/µs
+Input offset voltage (V_IO): Typ. 3mV
+Output current (I_O): Typ. 20mA
+Input resistance (R_in): Typ. 1TΩ
+Power dissipation (P_D): Typ. 500mW
+Operating temperature (T_opr): From -40°C to +85°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ TL322C پکیج SO-8
+
+قیمت:
+264,000
+
+توضیحات کوتاه:
+آی سی آپ امپ TL322C پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Operational Amplifiers - Op Amps
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Number of Channels: 2 Channel
+Supply Voltage - Max: 30 V
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 600 mV/us
+Vos - Input Offset Voltage: 10 mV
+Supply Voltage - Min: 5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: +70 C
+Ib - Input Bias Current: 500 nA
+Operating Supply Current: 4 mA
+Shutdown: No Shutdown
+CMRR - Common Mode Rejection Ratio: 70 dB
+Packaging: Cut Tape
+Amplifier Type: Low Power Amplifier
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: Bipolar
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V
+Maximum Dual Supply Voltage: +/- 15 V
+Minimum Dual Supply Voltage: +/- 2.5 V
+Operating Supply Voltage: 5 V to 30 V, +/- 2.5 V to +/- 15 V
+Pd - Power Dissipation: 680 mW
+Product Type: Op Amps - Operational Amplifiers
+Subcategory: Amplifier ICs
+Vcm - Common Mode Voltage: Negative Rail to Positive Rail - 2 V
+Voltage Gain dB: 106.02 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ UA741 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ UA741 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Series: UA741 / LM741
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 36 V
+Number of Channels: 1 Channel
+GBP - Gain Bandwidth Product: 1 MHz
+SR - Slew Rate: 0.5 V/us
+CMRR - Common Mode Rejection Ratio: 70 dB to 90 dB
+Ib - Input Bias Current: 500 nA
+Vos - Input Offset Voltage: 5 mV
+Supply Voltage - Min: 7 V
+Operating Supply Current: 1.7 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Packaging: Tube
+Amplifier Type: General Purpose Amplifier
+Height: 4.57 mm
+Length: 9.81 mm
+Product: Operational Amplifiers
+Supply Type: Dual
+Technology: Bipolar
+Width: 6.35 mm
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3.5 V
+Operating Supply Voltage: +/- 3.5 V to +/- 18 V
+Pd - Power Dissipation: 500 mW (1/2 W)
+Product Type: Op Amps - Operational Amplifiers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ توان پائین دوبل TL072 JFET پکیج DIP
+
+قیمت:
+73,600
+
+توضیحات کوتاه:
+آی سی آپ امپ توان پائین دوبل TL072 JFET پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Supply Voltage - Max: 36 V
+Number of Channels: 2 Channel
+GBP - Gain Bandwidth Product: 3 MHz
+SR - Slew Rate: 13 V/us
+CMRR - Common Mode Rejection Ratio: 70 dB to 100 dB
+Ib - Input Bias Current: 200 pA
+Vos - Input Offset Voltage: 6 mV
+Supply Voltage - Min: 7 V
+Operating Supply Current: 1.4 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Shutdown: No Shutdown
+Series: TL072
+Packaging: Tube
+Amplifier Type: Low Noise Amplifier
+Height: 4.57 mm
+Width: 6.35 mm
+Length: 9.81 mm
+Input Type: Rail-to-Rail
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: BiFET
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+en - Input Voltage Noise Density: 18 nV/sqrt Hz
+In - Input Noise Current Density: 0.01 pA/sqrt Hz
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3.5 V
+Operating Supply Voltage: 7 V to 36 V, +/- 3.5 V to +/- 18 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ توان پایین 4 تایی TL074 JFET پکیج DIP
+
+قیمت:
+108,000
+
+توضیحات کوتاه:
+آی سی آپ امپ توان پایین 4 تایی TL074 JFET پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps
+Mounting Style: Through Hole
+Package / Case: PDIP-14
+Supply Voltage - Max: 36 V
+Number of Channels: 4 Channel
+GBP - Gain Bandwidth Product: 3 MHz
+SR - Slew Rate: 13 V/us
+CMRR - Common Mode Rejection Ratio: 70 dB to 100 dB
+Ib - Input Bias Current: 200 pA
+Vos - Input Offset Voltage: 6 mV
+Supply Voltage - Min: 7 V
+Operating Supply Current: 1.4 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Shutdown: No Shutdown
+Series: TL074
+Packaging: Tube
+Amplifier Type: Low Noise Amplifier
+Height: 1.57 mm
+Input Type: Rail-to-Rail
+Length: 19.3 mm
+Width: 6.35 mm
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: BiFET
+Brand: Texas Instruments
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+en - Input Voltage Noise Density: 18 nV/sqrt Hz
+In - Input Noise Current Density: 0.01 pA/sqrt Hz
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3.5 V
+Operating Supply Voltage: 7 V to 36 V, +/- 3.5 V to +/- 18 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ توان پایین دوبل TL072 پکیج SO-8
+
+قیمت:
+25,300
+
+توضیحات کوتاه:
+آی سی آپ امپ توان پایین دوبل TL072 پکیج SMD
+
+توضیحات کامل:
+تراشه  TL072  یک آپ امپ شامل دو تقویت کننده عملیاتی با ورودی JFET و نویز پایین می باشد.از ویژگیهای دیگر این تراشه امپدانس ورودی بالا و مصرف پایین آی سی می‌باشد.این تراشه برای استفاده در پری آمپلیفایر صوتی مناسب می باشد.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SO-8
+Supply Voltage - Max: 36 V
+Output Current per Channel: 40 mA
+Number of Channels: 2 Channel
+GBP - Gain Bandwidth Product: 4 MHz
+SR - Slew Rate: 16 V/us
+CMRR - Common Mode Rejection Ratio: 70 dB
+Ib - Input Bias Current: 200 pA
+Vos - Input Offset Voltage: 10 mV
+Supply Voltage - Min: 6 V
+Operating Supply Current: 2.5 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Shutdown: No Shutdown
+Series: TL072
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Amplifier Type: Low Noise Amplifier
+Height: 1.65 mm
+Length: 5 mm
+Product: Operational Amplifiers
+Supply Type: Single, Dual
+Technology: BiFET
+Width: 4 mm
+Brand: STMicroelectronics
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+en - Input Voltage Noise Density: 15 nV/sqrt Hz
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3 V
+Operating Supply Voltage: 6 V to 36 V, +/- 3 V to +/- 18 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ تک تغذیه MCP601 پکیج SO-8
+
+قیمت:
+320,000
+
+توضیحات کوتاه:
+آی سی OPAMP تک تغذیه MCP601 پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: Operational Amplifiers - Op Amps
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Supply Voltage - Max: 5.5 V
+Output Current per Channel: 22 mA
+Number of Channels: 1 Channel
+GBP - Gain Bandwidth Product: 2.8 MHz
+SR - Slew Rate: 2.3 V/us
+CMRR - Common Mode Rejection Ratio: 75 dB
+Ib - Input Bias Current: 60 pA
+Vos - Input Offset Voltage: 700 uV
+Supply Voltage - Min: 2.7 V
+Operating Supply Current: 23 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Shutdown: No Shutdown
+Series: MCP601
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Amplifier Type: Operational Amplifiers
+Height: 1.25 mm (Min)
+Length: 4.9 mm
+Product: Operational Amplifiers
+Supply Type: Single
+Technology: CMOS
+Width: 3.9 mm
+Brand: Microchip Technology
+en - Input Voltage Noise Density: 29 nV/sqrt Hz
+In - Input Noise Current Density: 0.0006 pA/sqrt Hz
+Moisture Sensitive: Yes
+Operating Supply Voltage: 2.7 V to 5.5 V
+Product Type: Op Amps - Operational Amplifiers
+PSRR - Power Supply Rejection Ratio: 88 dB
+
+
+========================================================================================================================
+
+عنوان:
+تراشه آپ امپ دوبل TL082CN JFET مارک ST پکیج DIP
+
+قیمت:
+617,950
+
+توضیحات کوتاه:
+آی سی آپ امپ توان پائین دوبل TL082CN JFET پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Operational Amplifiers - Op Amps
+Number of Channels: 2 Channel
+GBP - Gain Bandwidth Product: 4 MHz
+SR - Slew Rate: 16 V/us
+Vos - Input Offset Voltage: 10 mV
+Ib - Input Bias Current: 400 pA
+Supply Voltage - Max: 36 V, +/- 18 V
+Supply Voltage - Min: 6 V, +/- 3 V
+Operating Supply Current: 2.5 mA
+Output Current per Channel: 40 mA
+CMRR - Common Mode Rejection Ratio: 70 dB
+en - Input Voltage Noise Density: 15 nV/sqrt Hz
+Package/Case: PDIP-8
+Shutdown: No Shutdown
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Series: TL082
+Amplifier Type: General Purpose Amplifier
+Brand: STMicroelectronics
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V
+Maximum Dual Supply Voltage: +/- 18 V
+Minimum Dual Supply Voltage: +/- 3 V
+Operating Supply Voltage: 6 V to 36 V, +/- 3 V to +/- 18 V
+Pd - Power Dissipation: 680 mW
+Product: Operational Amplifiers
+Product Type: Op Amps - Operational Amplifiers
+Subcategory: Amplifier ICs
+Technology: BiFET
+

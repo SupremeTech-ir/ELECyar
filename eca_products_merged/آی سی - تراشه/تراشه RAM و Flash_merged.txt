@@ -1,0 +1,698 @@
+عنوان:
+تراشه AM29F400BB پکیج TSOP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+4 Megabit (512 K x 8-Bit/256 K x 16-Bit)
+
+توضیحات کامل:
+Introduction
+
+The Am29F400B is a 4 Mbit, 5.0 volt-only Flash memory organized as 524,288 bytes or 262,144 words. The device is offered in 44-pin SO and 48-pin TSOP packages. The word-wide data (x16) appears on DQ15–DQ0; the byte-wide (x8) data appears on DQ7–DQ0. This device is designed to be programmed insystem with the standard system 5.0 volt VCC supply. A 12.0V VPP is not required for write or erase operations. The device can also be programmed in standard EPROM programmers.
+
+Specification
+
+Single power supply operation
+Manufactured on 0.32 µm process technology
+High performance
+Low power consumption (typical values at 5 MHz)
+Flexible sector architecture
+Top or bottom boot block configurations available
+Embedded Algorithms
+Minimum 1,000,000 program/erase cycles per sector guaranteed
+20-year data retention at 125°C
+Compatibility with JEDEC standards
+Data# Polling and toggle bits
+Ready/Busy# pin (RY/BY#)
+Erase Suspend/Erase Resume
+Hardware reset pin (RESET#)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه TOSHIBA TC5516AP پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه TC5516AP مارک توشیبا پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Sub Category: SRAMs
+Access Time-Max: 200.0  ns
+I/O Type: COMMON
+Memory Density: 16384.0  bit
+Memory IC Type: STANDARD SRAM
+Memory Width: 8
+Number of Terminals: 24
+Number of Words: 2048.0  words
+Number of Words Code: 2K
+Operating Mode: ASYNCHRONOUS
+Operating Temperature-Min: -30.0  Cel
+Operating Temperature-Max: 85.0  Cel
+Organization: 2KX8
+Output Characteristics: 3-STATE
+Package Body Material: PLASTIC/EPOXY
+Package Code: DIP
+Package Equivalence Code: DIP24,.6
+Package Shap: RECTANGULAR
+Package Style: IN-LINE
+Parallel/Serial:  PARALLEL
+Qualification Status: Not Qualified
+Standby Current-Max: 3.0E-5  Amp
+Supply Voltage-Nom (Vsup): 5.0  V
+Surface Mount: NO
+Technology: CMOS
+Terminal Pitch: 2.54  mm
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه XCF16PVO48 مارک XILINX پکیج SMD
+
+قیمت:
+5,570,000
+
+توضیحات کوتاه:
+آی سی EEPROMحافظه XCF16PVO48 پکیج SMD
+
+توضیحات کامل:
+Specification
+Manufacturer: Xilinx
+Product Category: FPGA - Configuration Memory
+RoHS: Details
+Memory Type: EEPROM
+Memory Size: 16 Mbit
+Maximum Operating Frequency: 50 MHz
+Operating Supply Voltage: 1.8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: SMD/SMT
+Package / Case: TSOP-48
+Packaging: Tray
+Series: XCF16P
+Brand: Xilinx
+Moisture Sensitive: Yes
+Operating Supply Current: 10 mA
+Product Type: FPGA - Configuration Memory
+Subcategory: Programmable Logic ICS
+Supply Voltage - Max: 2 V
+Supply Voltage - Min: 1.65 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش AT49LV001N پکیج TSOP-32
+
+قیمت:
+1,090,000
+
+توضیحات کوتاه:
+آی سی حافظه فلش AT49LV001N پکیج SMD TSOP-32
+
+توضیحات کامل:
+Specification
+
+Memory Size: 1 Mbit
+Organization: 128KX8
+Mounting Style SMD/SMT
+Supply Voltage (Min): 3 V
+Supply Voltage (Max): 3.6 V
+Minimum Operating Temperature: -40 C°
+Maximum Operating Temperature: 85 C°
+Brand: Atmel Corporation
+Package: TSOP-32
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش K9F1G08U0C-PCB0 پکیج TSOP-48
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش K9F1G08U0C-PCB0 پکیج SMD TSOP-48
+
+توضیحات کامل:
+Specification
+K9F1G08U0C Features
+Voltage Supply
+3.3V Device(K9F1G08U0C) : 2.7V ~ 3.6V
+Organization
+Memory Cell Array : (128M + 4M) x 8bit
+Data Register : (2K + 64) x 8bit
+Automatic Program and Erase
+Page Program : (2K + 64)Byte
+Block Erase : (128K + 4K)Byte
+Page Read Operation
+Page Size : (2K + 64)Byte
+Random Read : 25μs(Max.)
+Serial Access : 25ns(Min.)
+Fast Write Cycle Time
+Page Program time : 200μs(Typ.)
+- Block Erase Time : 1.5ms(Typ.)
+Command/Address/Data Multiplexed I/O Port
+Hardware Data Protection
+Program/Erase Lockout During Power Transitions
+Reliable CMOS Floating-Gate Technology
+Endurance : TBD Program/Erase Cycles(with 1bit/512Byte ECC)
+Data Retention : TBD
+Command Driven Operation
+Intelligent Copy-Back with internal 1bit/528Byte EDC
+Unique ID for Copyright Protection
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش K9F4G08U0B-PCB0 پکیج TSOP-48
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش K9F4G08U0B-PCB0 پکیج SMD TSOP-48
+
+توضیحات کامل:
+Specification
+• Voltage Supply
+ - 2.7V Device(K9F4G08B0B) : 2.5V ~ 2.9V
+ - 3.3V Device(K9F4G08U0B) : 2.7V ~ 3.6V
+• Organization
+ - Memory Cell Array : (512M + 16M) x 8bit
+ - Data Register : (2K + 64) x 8bit
+• Automatic Program and Erase
+ - Page Program : (2K + 64)Byte
+ - Block Erase : (128K + 4K)Byte
+• Page Read Operation
+ - Page Size : (2K + 64)Byte
+ - Random Read : 25µs(Max.)
+ - Serial Access : 25ns(Min.)
+• Fast Write Cycle Time
+ - Page Program time : 200µs(Typ.)
+ - Block Erase Time : 1.5ms(Typ.)
+• Command/Address/Data Multiplexed I/O Port
+• Hardware Data Protection
+ - Program/Erase Lockout During Power Transitions
+• Reliable CMOS Floating-Gate Technology
+ -Endurance : 100K Program/Erase Cycles(with 1bit/528Byte
+ECC)
+ - Data Retention : 10 Years
+• Command Driven Operation
+• Unique ID for Copyright Protection
+• Package :
+ - K9F4G08B0B-PCB0/PIB0
+ 48 - Pin TSOP I (12 x 20 / 0.5 mm pitch)
+ - K9F4G08U0B-PCB0/PIB0
+ 48 - Pin TSOP I (12 x 20 / 0.5 mm pitch)
+ - K9F4G08U0B-ICB0/IIB0
+ 52 - Pin ULGA (12 x 17 / 1.00 mm pitch)
+ - K9K8G08U1B-ICB0/IIB0
+ 52 - Pin ULGA (12 x 17 / 1.00 mm pitch)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش K9F4G08U0E-SIB0 مارک SAMSUNG پکیج TSOP-48
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش K9F4G08U0E-SIB0 مارک SAMSUNG پکیج  SMD TSOP-48
+
+توضیحات کامل:
+Specification
+
+Voltage Supply
+
+ 3.3V Device(K9F4G08U0E) : 2.7V ~ 3.6V
+
+Organization
+
+Memory Cell Array : (512M + 16M) x 8bit
+Data Register : (2K + 64) x 8bit
+Automatic Program and Erase
+Page Program : (2K + 64)Byte
+Block Erase : (128K + 4K)Byte
+Page Size : (2K + 64)Byte
+
+Random Read : 40 us (Max)
+
+Serial Access : 25ns(Min.)
+
+Fast Write Cycle Time
+
+Page Program time : 400 us
+
+Block Erase Time : 4.5ms
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q16FV پکیج SOIC-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش W25Q16FV  پکیج SMD SOIC-8
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q16FV از تولیدات شرکت WINBOND، یک حافظه فلش سری SPI با ظرفیت 16 مگابایت است که در پکیج SOIC-8 قرار دارد. این تراشه برای ذخیره‌سازی داده‌ها در سیستم‌های الکترونیکی طراحی شده و به دلیل سرعت بالا در خواندن و نوشتن داده‌ها و همچنین مصرف انرژی کم، گزینه‌ای مناسب برای استفاده در انواع دستگاه‌ها و مدارهای دیجیتال است. ویژگی مهم این تراشه، پشتیبانی از رابط SPI است که به آن امکان ارتباط سریع و ساده با میکروکنترلرها و دیگر قطعات الکترونیکی را می‌دهد. همچنین این قطعه با دقت و کنترل کیفیت بالا در دسترس قرار می‌گیرد و برای کاربردهایی مانند سیستم‌های تعبیه‌شده (embedded systems)، دستگاه‌های مخابراتی و دیگر پروژه‌های الکترونیکی مناسب است.
+
+Introduction
+
+The W25Q16FVSSIG parts manufactured by WINBOND are available for purchase at Jotrin Electronics website. Here you can find a wide variety of types and values ​​of electronic parts from the world's leading manufacturers. The W25Q16FVSSIG components of Jotrin Electronics are carefully chosen, undergo stringent quality control and are successfully meet at all required standards.
+The production status marked on Jotrin.com is for reference only. If you did not find what you were looking for, you can get more value information by email, such as the W25Q16FVSSIG Inventory quantity, preferential price, and manufacturer.
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q16JV پکیج SOIC-8
+
+قیمت:
+284,000
+
+توضیحات کوتاه:
+تراشه حافظه فلش W25Q16JV با پکیج SOIC-8 و عملکرد بالا برای ذخیره‌سازی و اجرای کد از طریق SPI
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q16JV در پکیج SOIC-8 یک راه‌حل ذخیره‌سازی جمع‌وجور و کم‌مصرف است که برای سیستم‌هایی با محدودیت در فضا و تعداد پین‌ها طراحی شده است. این تراشه به ویژه برای استفاده در برنامه‌هایی مانند ذخیره‌سازی داده‌ها، اجرای کد از طریق SPI و ذخیره صدا، متن و داده‌ها مناسب است. با عملکرد بالا و توان مصرفی پایین، این تراشه به توسعه‌دهندگان این امکان را می‌دهد تا اطلاعات را به طور موثر و سریع ذخیره و بازیابی کنند. همچنین، به دلیل ویژگی‌های امنیتی پیشرفته و انعطاف‌پذیری در برنامه‌ریزی و پاک‌سازی داده‌ها، برای استفاده در طیف وسیعی از کاربردها مناسب است.
+
+Description
+
+The W25Q16JV (16M-bit) Serial Flash memory provides a storage solution for systems with limited space, pins and power. The 25Q series offers flexibility and performance well beyond ordinary Serial Flash devices. They are ideal for code shadowing to RAM, executing code directly from Dual/Quad SPI (XIP) and storing voice, text and data. The device operates on a single 2.7V to 3.6V power supply with current consumption as low as 1μA for power-down. The W25Q16JV array is organized into 8,192 programmable pages of 256-bytes each. Up to 256 bytes can
+be programmed at a time. Pages can be erased in groups of 16 (4KB sector erase), groups of 128 (32KBblock erase), groups of 256 (64KB block erase) or the entire chip (chip erase). The W25Q16JV has 512 erasable sectors and 32 erasable blocks respectively. The small 4KB sectors allow for greater flexibility in applications that require data and parameter storage. (See figure 2.)
+The W25Q16JV supports the standard Serial Peripheral Interface (SPI), and a high performance Dual/Quad output as well as Dual/Quad I/O SPI: Serial Clock, Chip Select, Serial Data I/O0 (DI), I/O1 (DO), I/O2, and I/O3. SPI clock frequencies of up to 133MHz are supported allowing equivalent clock rates of 266MHz (133MHz x 2) for Dual I/O and 532MHz (133MHz x 4) for Quad I/O when using the Fast Read Dual/Quad I/O instructions. These transfer rates can outperform standard Asynchronous 8 and 16-bit Parallel Flash memories.
+Additionally, the device supports JEDEC standard manufacturer and device ID and SFDP Register, a 64-bit Unique Serial Number and three 256-bytes Security Registers..
+
+Features
+
+·New Family of SpiFlash Memories
+– W25Q16JV: 16M-bit / 2M-byte (2,097,152)
+– Standard SPI: CLK, /CS, DI, DO
+– Dual SPI: CLK, /CS, IO0, IO1
+– Quad SPI: CLK, /CS, IO0, IO1, IO2, IO3
+– Software & Hardware Reset
+
+·Highest Performance Serial Flash
+– 133MHz Single, Dual/Quad SPI clocks
+– 266/532MHz equivalent Dual/Quad SPI
+– 66MB/S continuous data transfer rate
+– Min. 100K Program-Erase cycles per sector
+– More than 20-year data retention
+
+·Efficient “Continuous Read”
+– Continuous Read with 8/16/32/64-Byte Wrap
+– As few as 8 clocks to address memory
+– Allows true XIP (execute in place) operation
+– Outperforms X16 Parallel Flash
+
+· Low Power, Wide Temperature Range
+– Single 2.7V to 3.6V supply
+– -40°C to +85°C operating range
+– -40°C to +105°C operating range
+– <1μA Power-down (typ.)
+· Flexible Architecture with 4KB sectors
+– Uniform Sector/Block Erase (4K/32K/64K-Byte)
+– Program 1 to 256 byte per programmable page
+– Erase/Program Suspend & Resume
+· Advanced Security Features
+– Software and Hardware Write-Protect
+– Power Supply Lock-Down and
+– Special OTP protection(2)
+– Top/Bottom, Complement array protection
+– Individual Block/Sector array protection
+– 64-Bit Unique ID for each device
+– Discoverable Parameters (SFDP) Register
+– 3X256-Bytes Security Registers with OTP locks
+– Volatile & Non-volatile Status Register Bits
+· Space Efficient Packaging
+– 8-pin SOIC 150-mil / 208-mil
+– 8-pad USON 2X3mm/4x3-mm
+– 8-pad XSON 4x4-mm
+– 8-pad WSON 6x5-mm
+– 8-ball WLCSP
+– Contact Winbond for KGD and other options
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q32FV پکیج SOIC-8
+
+قیمت:
+369,000
+
+توضیحات کوتاه:
+آی سی حافظه فلش W25Q32FV پکیج SMD SOIC-8
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q32FV  یک حافظه سریال با عملکرد بالا است که برای ذخیره‌سازی داده‌ها در دستگاه‌های مختلف طراحی شده است. این تراشه با بهره‌گیری از تکنولوژی‌های پیشرفته، امکان خواندن و نوشتن سریع داده‌ها را فراهم می‌آورد و با قابلیت‌های محافظتی مختلف از داده‌ها در برابر دسترسی‌های غیرمجاز محافظت می‌کند. همچنین، عملکرد آن در دماهای مختلف و در شرایط انرژی پایین نیز بهینه است. با توجه به طراحی فشرده و کارآمد این تراشه، می‌توان از آن در طیف وسیعی از کاربردها از جمله دستگاه‌های مصرفی و صنعتی استفاده کرد.
+
+Specification
+
+Manufacturer: Winbond
+Single/Dual/Quad SPI amd QPI operation
+Uniform 4KB erasable sectors & 32KB/64KB erasable blocks
+32,768 pages (256 bytes), page program in 0.7mS (typ.)
+Continuous Read with 8/16/32/64 Byte Wrap
+Quad Peripheral Interface (QPI) reduces instruction overhead
+Clock operation up to 104MHz (208/416MHz equivalent with Quad I/O Read)
+2.7 to 3.6V power supply
+4mA active read current, 1µA power down current
+-40° to +85°C operating range
+Program/Erase Suspend/Resume, Suspend Status Bit
+Factory-programmed unique ID
+Electronic ID with Dual/Quad I/O, Hardware and software write protection for top or bottom blocks
+Volatile & Non-volatile Status Register Bits
+Lock-Down and OTP protection
+Serial Flash Discoverable Parameters(SFDP)
+3X256byte Security Registers with OTP locks
+Complement Array Protection Bit
+Software Reset
+Package:SOIC8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q32JV پکیج SOIC-8
+
+قیمت:
+267,000
+
+توضیحات کوتاه:
+آی سی حافظه فلش W25Q32JV پکیج SMD SOIC-8
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q32JV با پشتیبانی از رابط‌های SPI، Dual SPI و Quad SPI، عملکرد سریع و کارآمدی را برای ذخیره‌سازی داده‌ها و اجرای کد فراهم می‌آورد. این تراشه با ظرفیت 32 مگابایت، امکان خواندن و نوشتن داده‌ها با سرعت بالا را به صورت انعطاف‌پذیر ارائه می‌دهد. مصرف انرژی بسیار پایین و دمای عملیاتی وسیع این تراشه را برای کاربردهای صنعتی و سیستم‌های حساس به توان مصرفی بسیار مناسب می‌سازد. پکیج SOIC-8 این تراشه آن را برای استفاده در دستگاه‌های کوچک و با فضای محدود ایده‌آل می‌کند.
+
+Specification
+
+Manufacturer: Winbond
+Product Category: NOR Flash
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case:  SOIC-8
+Series: W25Q32JV
+Memory Size: 32 Mbit
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 3.6 V
+Interface Type: SPI
+Maximum Clock Frequency: 133 MHz
+Organization: 4 M x 8
+Data Bus Width: 8 bit
+Timing Type: Synchronous
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Brand: Winbond
+Moisture Sensitive: Yes
+Product Type: NOR Flash
+Subcategory: Memory & Data Storage
+Supply Current - Max: 25 mA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q64FV پکیج SOIC-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش W25Q64FV پکیج SMD SOIC-8
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q64FV با پشتیبانی از رابط‌های SPI، Dual SPI و Quad SPI، عملکرد سریع و کارآمدی را برای ذخیره‌سازی داده‌ها و اجرای کد فراهم می‌آورد. این حافظه با قابلیت‌های پیشرفته امنیت بالایی ارائه می‌دهد. با مصرف انرژی بسیار پایین و دمای عملیاتی گسترده، برای کاربردهای صنعتی و سیستم‌های حساس به توان مصرفی بسیار مناسب است. پکیج SOIC-8 این تراشه آن را برای استفاده در دستگاه‌های کوچک و با فضای محدود ایده‌آل می‌کند.
+
+Specification
+
+Single/Dual/Quad SPI amd QPI operation
+Uniform 4KB erasable sectors & 32KB/64KB erasable blocks
+32,768 pages (256 bytes), page program in 0.7mS (typ.)
+Continuous Read with 8/16/32/64 Byte Wrap
+Quad Peripheral Interface (QPI) reduces instruction overhead
+Clock operation up to 104MHz (208/416MHz equivalent with Quad I/O Read)
+2.7 to 3.6V power supply
+4mA active read current, 1µA power down current
+-40° to +85°C operating range
+Program/Erase Suspend/Resume, Suspend Status Bit
+Factory-programmed unique ID
+Electronic ID with Dual/Quad I/O, Hardware and software write protection for top or bottom blocks
+Volatile & Non-volatile Status Register Bits
+Lock-Down and OTP protection
+Serial Flash Discoverable Parameters(SFDP)
+3X256byte Security Registers with OTP locks
+Complement Array Protection Bit
+Software Reset
+Package:SOIC8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q64JV پکیج SOIC-8
+
+قیمت:
+316,000
+
+توضیحات کوتاه:
+حافظه فلش W25Q64JV با ظرفیت 64M-bit، پشتیبانی از رابط‌های SPI، Dual SPI و Quad SPI، مناسب برای ذخیره‌سازی داده‌ها و اجرای کد مستقیم از حافظه.
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q64JV یک راه‌حل ذخیره‌سازی با عملکرد بالا و مصرف انرژی پایین است که برای سیستم‌هایی با محدودیت فضا و پین طراحی شده است. این حافظه با پشتیبانی از پروتکل‌های SPI، Dual SPI و Quad SPI، انتقال داده‌های بسیار سریع را ممکن می‌سازد که در مقایسه با حافظه‌های فلش سریال معمولی، عملکرد به مراتب بالاتری دارد. از این رو، این تراشه برای کاربردهایی مانند ذخیره‌سازی کد و داده‌ها، اجرای مستقیم کد از حافظه (XIP) و ذخیره اطلاعات صدا و متن بسیار مناسب است. همچنین، با ویژگی‌هایی همچون مصرف انرژی کم (کمتر از 1µA در حالت Power-down) و دمای عملیاتی وسیع از 40-°C تا 105+°C، این حافظه می‌تواند در انواع محیط‌ها و شرایط سخت صنعتی عملکرد بهینه‌ای داشته باشد. از لحاظ طراحی، حافظه W25Q64JV دارای قابلیت‌های انعطاف‌پذیر در برنامه‌ریزی و پاک‌سازی داده‌ها است و از انواع پاک‌سازی در اندازه‌های مختلف (4KB تا 64KB) پشتیبانی می‌کند، که این امر آن را برای ذخیره‌سازی داده‌های مختلف در سیستم‌های پیچیده و نیازمند انعطاف‌پذیری بالا ایده‌آل می‌سازد. پکیج‌های کوچک و متنوع این تراشه، همچون SOIC-8، WSON و TFBGA، آن را برای استفاده در دستگاه‌های کوچک و با محدودیت فضا مناسب می‌کند.
+
+Introduction
+
+The W25Q64JV (64M-bit) Serial Flash memory provides a storage solution for systems with limited space,
+pins and power. The 25Q series offers flexibility and performance well beyond ordinary Serial Flash devices.
+They are ideal for code shadowing to RAM, executing code directly from Dual/Quad SPI (XIP) and storing
+voice, text and data. The device operates on 2.7V to 3.6V power supply with current consumption as low as
+1µA for power-down. All devices are offered in space-saving packages.
+The W25Q64JV array is organized into 32,768 programmable pages of 256-bytes each. Up to 256 bytes can
+be programmed at a time. Pages can be erased in groups of 16 (4KB sector erase), groups of 128 (32KB
+block erase), groups of 256 (64KB block erase) or the entire chip (chip erase). The W25Q64JV has 2,048
+erasable sectors and 128 erasable blocks respectively. The small 4KB sectors allow for greater flexibility in
+applications that require data and parameter storage. (See Figure 2.)
+The W25Q64JV supports the standard Serial Peripheral Interface (SPI), Dual/Quad I/O SPI: Serial Clock, Chip
+Select, Serial Data I/O0 (DI), I/O1 (DO), I/O2 and I/O3. SPI clock frequencies of W25Q64JV of up to 133MHz
+are supported allowing equivalent clock rates of 266MHz (133MHz x 2) for Dual I/O and 532MHz (133MHz x
+4) for Quad I/O when using the Fast Read Dual/Quad I/O. These transfer rates can outperform standard
+Asynchronous 8 and 16-bit Parallel Flash memories.
+Additionally, the device supports JEDEC standard manufacturer and device ID, and a 64-bit Unique Serial
+Number and three 256-bytes Security Registers.
+
+Specification
+
+.New Family of SpiFlash Memories
+– W25Q64JV: 64M-bit / 8M-byte
+– Standard SPI: CLK, /CS, DI, DO
+– Dual SPI: CLK, /CS, IO0, IO1
+– Quad SPI: CLK, /CS, IO0, IO1, IO2, IO3
+– Software & Hardware Reset(1)
+.Highest Performance Serial Flash
+– 133MHz Single, Dual/Quad SPI clocks
+– 266/532MHz equivalent Dual/Quad SPI
+– Min. 100K Program-Erase cycles per sector
+– More than 20-year data retention
+.Low Power, Wide Temperature Range
+– Single 2.7 to 3.6V supply
+– <1µA Power-down (typ.)
+– -40°C to +85°C operating range
+– -40°C to +105°C operating range
+ Flexible Architecture with 4KB sectors
+– Uniform Sector/Block Erase (4K/32K/64K-Byte)
+– Program 1 to 256 byte per programmable page
+– Erase/Program Suspend & Resume
+.Advanced Security Features
+– Software and Hardware Write-Protect
+– Special OTP protection
+– Top/Bottom, Complement array protection
+– Individual Block/Sector array protection
+– 64-Bit Unique ID for each device
+– Discoverable Parameters (SFDP) Register
+– 3X256-Bytes Security Registers
+– Volatile & Non-volatile Status Register Bits
+.Space Efficient Packaging
+– 8-pin SOIC 208-mil
+– 8-pad WSON 6x5-mm/8x6-mm
+– 16-pin SOIC 300-mil
+– 8-pad XSON 4x4-mm
+– 24-ball TFBGA 8x6-mm (6x4 ball array)
+– 24-ball TFBGA 8x6-mm (6x4/5x5 ball array)
+– 12-ball WLCSP
+– Contact Winbond for KGD and other options
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رم HM628512 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم HM628512 پکیج DIP
+
+توضیحات کامل:
+Specification
+Manufacturer: HITACHI
+Product Category: SRAM
+Brand: HITACHI
+Maximum Operating Temperature: +125°C
+Minimum Operating Temperature: -55°C
+Mounting Style: DIP
+Package / Case: DIP-32
+Operating Supply Voltage: 5V
+Part # Aliases: HM628512
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رم IS62WV51216BLL پکیج TSOP-44
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم IS62WV51216BLL پکیج SMD TSOP-44
+
+توضیحات کامل:
+Specification
+
+Manufacturer: ISSI
+Product Category: SRAM
+RoHS: Details
+Memory Size: 8 Mbit
+Organization: 512 k x 16
+Access Time: 55 ns
+Maximum Clock Frequency: 18 MHz
+Interface Type: Parallel
+Supply Voltage - Max: 3.6 V
+Supply Voltage - Min: 2.5 V
+Supply Current - Max: 25 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: SMD/SMT
+Package / Case: TSOP-44
+Packaging: Tray
+Data Rate: SDR
+Series: IS62WV51216BLL
+Type: Asynchronous
+Brand: ISSI
+Number of Ports: 1
+Moisture Sensitive: Yes
+Product Type: SRAM
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رم K4S561632C-TC75 پکیج TSOP-54
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم K4S561632C-TC75 پکیج TSOP-54
+
+توضیحات کامل:
+Specification
+
+JEDEC standard 3.3V power supply
+• LVTTL compatible with multiplexed address
+• Four banks operation
+• MRS cycle with address key programs
+-. CAS latency (2 & 3)
+-. Burst length (1, 2, 4, 8 & Full page)
+-. Burst type (Sequential & Interleave)
+• All inputs are sampled at the positive going edge of the system clock.
+• Burst read single-bit write operation
+• DQM (x8) & L(U)DQM (x16) for masking
+• Auto & self refresh
+• 64ms refresh period (4K Cycle)
+• 54pin TSOP II Lead-Free and Halogen-Free package
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رم MT48LC16M4A2TG پکیج TSOP-54
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم MT48LC16M4A2TG پکیج SMD TSOP-54
+
+توضیحات کامل:
+Specification
+• PC100- and PC133-compliant
+• Fully synchronous; all signals registered on positive
+edge of system clock
+• Internal, pipelined operation; column address can
+be changed every clock cycle
+• Internal banks for hiding row access/precharge
+• Programmable burst lengths: 1, 2, 4, 8, or full-page
+• Auto precharge, includes concurrent auto precharge
+and auto refresh modes
+• Self refresh modes: standard and low-power
+(not available on AT devices)
+• Auto refresh
+– 64ms, 4096-cycle refresh
+(commercial and industrial)
+– 16ms, 4096-cycle refresh
+(automotive)
+• LVTTL-compatible inputs and outputs
+• Single 3.3V ±0.3V power supply
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رم MT48LC8M32B2P پکیج TSOP-86
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم MT48LC8M32B2P پکیج SMD TSOP-86
+
+توضیحات کامل:
+Specification
+• PC100 functionality
+• Fully synchronous; all signals registered on positive
+edge of system clock
+• Internal pipelined operation; column address can
+be changed every clock cycle
+• Internal banks for hiding row access/precharge
+• Programmable burst lengths: 1, 2, 4, 8, or full page
+• Auto Precharge, includes Concurrent Auto
+Precharge, and Auto Refresh Modes
+• Self Refresh Mode
+• 64ms, 4,096-cycle refresh (15.6μs/row)
+• LVTTL-compatible inputs and outputs
+• Single +3.3V ±0.3V power supply
+• Supports CAS latency of 1, 2, and 3
+

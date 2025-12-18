@@ -1,0 +1,314 @@
+عنوان:
+خازن متغیر - واریابل 40pf ژاپنی SEIKO سری SKY
+
+قیمت:
+198,000
+
+توضیحات کوتاه:
+خازن تریمر متغیر با ظرفیت حداکثر 40 پیکوفاراد، ساخت ژاپن، مناسب برای تنظیم دقیق فرکانس در مدارات RF و گیرنده‌ها.
+
+توضیحات کامل:
+این خازن متغیر (واریابل) محصول شرکت SEIKO ژاپن، از سری SKY، با ظرفیت قابل تنظیم تا 40pF طراحی شده و عمدتاً در مدارات فرکانس بالا مانند گیرنده‌های رادیویی، اسیلاتورها و فیلترهای قابل تنظیم کاربرد دارد. ساختار این خازن به‌گونه‌ای است که با چرخش محور مرکزی، ظرفیت خازنی آن تغییر می‌کند و امکان تنظیم دقیق فرکانس یا امپدانس مدار فراهم می‌شود. بدنه شفاف و کیفیت ساخت بالا از ویژگی‌های بارز این نوع خازن‌ها است. این قطعه معمولاً از نوع DIP بوده و برای نصب در بردهای سوراخ‌دار یا پروژه‌های آزمایشگاهی استفاده می‌شود.
+
+مشخصات
+
+ظرفیت متغیر: 0 تا 40 پیکوفاراد
+نوع نصب: DIP (نصب مستقیم روی برد سوراخ‌دار)
+کشور سازنده: ژاپن
+برند: SEIKO
+سری: SKY
+جنس بدنه: پلاستیک شفاف مقاوم
+مکانیزم تنظیم: پیچی مرکزی فلزی
+فرکانس کاری: مناسب برای باندهای RF و VHF
+نوع تنظیم : پیچی از بالا
+ تعداد پین : 2
+رنگ: زرد
+
+کاربرد
+
+گیرنده‌ها و فرستنده‌های رادیویی
+مدارهای تنظیم فرکانس (Tuning Circuits)
+فیلترهای قابل تنظیم RF
+آزمایشگاه‌های الکترونیک و تعمیرات حرفه‌ای
+پروژه‌های رادیویی آموزشی و حرفه‌ای
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل مدل CWM-12
+
+قیمت:
+198,000
+
+توضیحات کوتاه:
+خازن متغیر - واریابل کلاه دار مدل CWM-12 با محدوده قابل تغییر از 3 پیکو فاراد تا 18 پیکو فاراد
+
+توضیحات کامل:
+معرفی
+
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که برای تنظیم اولیه مقادیر فرکانس نوسانگر، زمان تأخیر، زمان افزایش و افت و سایر متغیرها در مدار استفاده می شوند. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی  نیز کاربرد دارند.
+
+مشخصات
+
+ولتاژ : 10 تا 450 ولت
+محدود تغییر : 3 الی 18 پیکو فاراد
+حداقل ظرفیت: 3 پیکو فاراد
+حداکثر ظرفیت: 18 پیکو فاراد
+ نوع دی الکتریک: سرامیک
+ضریب دما (ppm/°C): -470±60
+نوع تنظیم : پیچی از بالا
+جهت نصب : عمودی روی برد
+ تعداد پین : 3
+رنگ: زرد
+
+Specification
+
+Voltage Rating : 10 V to 450 V
+Colour : yellow
+Min. capacitance: 3 pF
+Max. capacitance: 18 pF
+Rated voltage: 250 V
+Dielectric: ceramic
+Temperature coefficient (ppm/°C): -470 ±60
+Adjustment: top
+Orientation: vertical
+Pin number: 3
+Mounting: thru-hole
+Size: ∅10 mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی APOLLO
+
+قیمت:
+0
+
+توضیحات کوتاه:
+APOLLO VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+APOLLO variable capacitor
+Model: K08
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Maximum Operating Temperature: 70 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: APOLLO
+Type: Trimmer Capacitor
+Spindle dims.: 6x6mm
+Plastic shell size (mm): 22 x 21 x 13mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی MITSUMI
+
+قیمت:
+279,000
+
+توضیحات کوتاه:
+MITSUMI VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+معرفی
+
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+Specification
+
+MITSUMI variable capacitor
+Model: FJUN
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: MITSUMI
+Maximum Operating Temperature: 70 °C
+Type: Trimmer Capacitor
+Spindle dims.: 10x6mm
+Plastic shell size (mm): 21 x 21 x 19.5 mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی TOKO مدل FT-2217
+
+قیمت:
+279,000
+
+توضیحات کوتاه:
+TOKO FT-2217 4 GANG VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+TOKO variable capacitor
+Model: FT-2217
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+AM-2 O=82PF A=140PF
+FM-2 20PF (40PF) TRIMMER=8PF+
+FM tuning circuit for making radio
+Type: Trimmer Capacitor
+Plastic shell size (mm): 22X21X20mm
+Spindle dims.: 6x6mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی TOKO مدل HU-201-K700
+
+قیمت:
+0
+
+توضیحات کوتاه:
+TOKO HU-201-K700 VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+TOKO variable capacitor
+Model: HU-201-K700
+AM-2 O=82PF A=140PF
+FM-2 20PF (40PF) TRIMMER=8PF+
+Install the nut M2.5*5
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Maximum Operating Temperature: 70 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: Toko
+Capacitance Rating: 7-26pF
+Type: Trimmer Capacitor
+mpn: PVC-26
+Spindle dims.: 3.86 dia with 2.3mm a/flats.
+Plastic shell size (mm): 16.5 x 16.5 x 7mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی TOKO مدل ST-22124
+
+قیمت:
+0
+
+توضیحات کوتاه:
+خازن متغیر - واریابل موج AM/FM ژاپنی TOKO مدل ST-22124
+
+توضیحات کامل:
+معرفی
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+Specification
+TOKO variable capacitor
+Model: ST-22124
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+AM-2 O=82PF A=140PF
+FM-2 20PF (40PF) TRIMMER=8PF+
+FM tuning circuit for making radio
+Type: Trimmer Capacitor
+Plastic shell size (mm): 21x30x21
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی TWD
+
+قیمت:
+0
+
+توضیحات کوتاه:
+TWD VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+TWD variable capacitor
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Maximum Operating Temperature: 70 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: TWD
+Type: Trimmer Capacitor
+Spindle dims.: 27x2mm
+Plastic shell size (mm): 17 x 17 x 3.5mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی ZEUS مدل 140F
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ZEUS 140F VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+ZEUS variable capacitor
+Model: 140F
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Maximum Operating Temperature: 70 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: ZEUS
+Type: Trimmer Capacitor
+Spindle dims.: 6x4mm
+Plastic shell size (mm): 21.5 x 21 x 12mm
+
+
+========================================================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی ZEUS
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ZEUS VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+ZEUS variable capacitor
+Model: PVC126-20
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: ZEUS
+Maximum Operating Temperature: 70 °C
+Type: Trimmer Capacitor
+Spindle dims.: 6x6mm
+Plastic shell size (mm): 21 x 20 x 15mm
+

@@ -1,0 +1,657 @@
+عنوان:
+تراشه حافظه 24C08 پکیج DIP مارک ST
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه EEPROM پارت نامبر AT24C08 پکیج DIP مارک ST
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+Mounting Style: SMD/SMT
+Memory Size: 8 kbit
+Organization: 1 k x 8
+Interface Type: Serial, 2-Wire, I2C
+Access Time: 4500 ns
+Maximum Clock Frequency: 100 kHz
+Supply Current - Max: 3 mA
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Brand: Microchip Technology / Atmel
+Operating Supply Current: 3 mA
+Operating Supply Voltage: 3.3 V, 5 V
+Height: 1.48 mm (Max)
+Length: 4.98 mm (Max)
+Width: 3.99 mm (Max)
+
+لازم به ذکر است پایه ها دارای آلیاژ مرغوب و آبکاری شده با قلع بوده که علاوه بر مقاوم بودن در برابر اکسید شدن، باعث عملیات مونتاژ روان تر و سریعتر نسبت به مدل های معمولی چینی می باشد.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C01 پکیج DIP تایلند
+
+قیمت:
+29,800
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C01 پکیج DIP
+
+توضیحات کامل:
+Description
+The Microchip Technology Inc. 24XX01(1) is a 1-Kbit Electrically Erasable PROM (EEPROM). The device is organized as one block of 128 x 8-bit memory with a two-wire serial interface. Its low-voltage design permits operation down to 1.7V with standby and active currents of only 1 μA and 1 mA, respectively. The 24XX01 also has a page write capability for up to 8 bytes of data.
+
+Specification
+
+Single Supply with Operation down to 1.7V for
+24AA01 and 24FC01 Devices, 2.5V for 24LC01B Devices
+Low-Power CMOS Technology:
+Read current 1 mA, maximum
+Standby current 1 μA, maximum (I-temp.)
+Two-Wire Serial Interface, I2C Compatible
+Schmitt Trigger Inputs for Noise Suppression
+Output Slope Control to Eliminate Ground Bounce
+100 kHz, 400 kHz and 1 MHz Compatibility
+Page Write Time: 5 ms, Maximum
+Self-Timed Erase/Write Cycle
+8-Byte Page Write Buffer
+Hardware Write-Protect
+ESD Protection >4,000V
+More than 1 Million Erase/Write Cycles
+Data Retention >200 Years
+Factory Programming Available
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C02 پکیج DIP
+
+قیمت:
+73,500
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C02 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Low-voltage and Standard-voltage Operation – 2.7 (VCC = 2.7V to 5.5V) – 1.8 (VCC = 1.8V to 5.5V)
+Internally Organized 128 x 8 (1K), 256 x 8 (2K), 512 x 8 (4K), 1024 x 8 (8K) or 2048 x 8 (16K)
+Two-wire Serial Interface
+Schmitt Trigger, Filtered Inputs for Noise Suppression
+Bidirectional Data Transfer Protocol
+100 kHz (1.8V) and 400 kHz (2.7V, 5V) Compatibility
+Write Protect Pin for Hardware Data Protection
+8-byte Page (1K, 2K), 16-byte Page (4K, 8K, 16K) Write Modes
+Partial Page Writes Allowed
+Self-timed Write Cycle (5 ms max)
+High-reliability – Endurance: 1 Milli
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C02 پکیج SO-8
+
+قیمت:
+29,900
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C02-AT24C02BN پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+RoHS: N
+Mounting Style: Through Hole
+Interface Type: 2-Wire, I2C
+Memory Size: 2 kbit
+Organization: 256 x 8
+Supply Voltage - Min: 4.5 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Maximum Clock Frequency: 400 kHz
+Access Time: 900 ns
+Data Retention: 100 Year
+Supply Current - Max: 3 mA
+Active Read Current - Max: 3 mA
+Brand: Microchip Technology
+Height: 3.3 mm
+Length: 9.27 mm
+Operating Supply Current: 3 mA
+Operating Supply Voltage: 1.8 V, 5.5 V
+Product Type: EEPROM
+Subcategory: Memory & Data Storage
+Width: 6.35 mm
+Unit Weight: 0.032805 oz
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C04 پکیج DIP
+
+قیمت:
+60,900
+
+توضیحات کوتاه:
+تراشه حافظه EEPROM پارت نامبر AT24C04 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+Interface Type: 2-Wire, I2C
+Memory Size: 4 kbit
+Organization: 512 x 8
+Supply Voltage - Min: 1.8 V
+Supply Voltage - Max: 2.7 V
+Brand: Microchip Technology / Atmel
+Operating Supply Voltage: 1.8 V, 2.7 V
+Product Type: EEPROM
+Subcategory: Memory & Data Storage
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C04 پکیج SO-8
+
+قیمت:
+51,100
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C04 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+Interface Type: 2-Wire, I2C
+Memory Size:4 kbit
+Organization: 512 x 8
+Supply Voltage - Min: 1.8 V
+Supply Voltage - Max: 2.7 V
+Brand: Microchip Technology / Atmel
+Operating Supply Voltage: 1.8 V, 2.7 V
+Product Type: EEPROM
+Subcategory: Memory & Data Storage
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C08 پکیج DIP
+
+قیمت:
+74,500
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C08 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+Mounting Style: SMD/SMT
+Memory Size: 8 kbit
+Organization: 1 k x 8
+Interface Type: Serial, 2-Wire, I2C
+Access Time: 4500 ns
+Data Retention: 100 Year
+Maximum Clock Frequency: 100 kHz
+Supply Current - Max: 3 mA
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Height: 1.48 mm (Max)
+Length: 4.98 mm (Max)
+Width: 3.99 mm (Max)
+Brand: Microchip Technology / Atmel
+Operating Supply Current: 3 mA
+Operating Supply Voltage: 3.3 V, 5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C08 پکیج SO-8
+
+قیمت:
+64,200
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C08 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+RoHS: N
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Memory Size: 8 kbit
+Organization: 1 k x 8
+Interface Type: Serial, 2-Wire, I2C
+Access Time: 4500 ns
+Data Retention: 100 Year
+Maximum Clock Frequency: 100 kHz
+Supply Current - Max: 3 mA
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Height: 1.48 mm (Max)
+Length: 4.98 mm (Max)
+Width: 3.99 mm (Max)
+Brand: Microchip Technology / Atmel
+Operating Supply Current: 3 mA
+Operating Supply Voltage: 3.3 V, 5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C128 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C128 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+P/N: AT24C128 / FT24C128
+Interface Type: 2-Wire, I2C
+Memory Size: 128 kbit
+Organization: 16 k x 8
+Supply Voltage - Min: 1.8 V
+Supply Voltage - Max: 5.5 V
+Brand: Microchip Technology / Atmel
+Operating Supply Voltage: 1.8 V, 2.7 V
+Product Type: EEPROM
+Subcategory: Memory & Data Storage
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C16 پکیج DIP
+
+قیمت:
+78,400
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C16 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Interface Type: 2-Wire, I2C
+Memory Size: 16 kbit
+Organization: 2 k x 8
+Supply Voltage - Min: 4.5 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Maximum Clock Frequency: 400 kHz
+Access Time: 900 ns
+Data Retention: 100 Year
+Supply Current - Max: 3 mA
+Brand: Microchip Technology
+Height: 3.3 mm
+Length: 9.27 mm
+Operating Supply Current: 3 mA
+Operating Supply Voltage: 1.8 V, 5.5 V
+Product Type: EEPROM
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C16 پکیج SO-8
+
+قیمت:
+74,200
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C16 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Medium-voltage and Standard-voltage Operation
+5.0 (VCC = 4.5V to 5.5V)
+2.7 (VCC = 2.7V to 5.5V)
+Internally Organized 128 x 8 (1K), 256 x 8 (2K), 512 x 8 (4K),
+1024 x 8 (8K) or 2048 x 8 (16K)
+Two-wire Serial Interface
+Schmitt Trigger, Filtered Inputs for Noise Suppression
+Bi-directional Data Transfer Protocol
+100 kHz (2.7V) and 400 kHz (5V) Compatibility
+Write Protect Pin for Hardware Data Protection
+8-byte Page (1K, 2K), 16-byte Page (4K, 8K, 16K) Write Modes
+Partial Page Writes are Allowed
+Self-timed Write Cycle (5 ms max)
+High-reliability
+Endurance: 1 Million Write Cycles
+Data Retention: 100 Years
+8-lead PDIP and 8-lead JEDEC SOIC Packages
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C256 پکیج DIP
+
+قیمت:
+311,000
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C256 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+Interface Type: 2-Wire, I2C
+Memory Size: 256 kbit
+Organization: 32 k x 8
+Supply Voltage - Min: 1.8 V
+Supply Voltage - Max: 2.7 V
+Brand: Microchip Technology / Atmel
+Operating Supply Voltage: 1.8 V, 2.7 V
+Product Type: EEPROM
+Subcategory: Memory & Data Storage
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C32 پکیج DIP
+
+قیمت:
+74,200
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C32 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Low-Voltage and Standard-Voltage Operation
+2.7 (VCC = 2.7V to 5.5V)
+1.8 (VCC = 1.8V to 5.5V)
+Low-Power Devices (ISB = 2 µA at 5.5V) Available
+Internally Organized 4096 x 8, 8192 x 8
+2-Wire Serial Interface
+Schmitt Trigger, Filtered Inputs for Noise Suppression
+Bidirectional Data Transfer Protocol
+100 kHz (1.8V, 2.5V, 2.7V) and 400 kHz (5V) Clock Rate
+Write Protect Pin for Hardware Data Protection
+32-Byte Page Write Mode (Partial Page Writes Allowed)
+Self-Timed Write Cycle (10 ms max)
+High Reliability
+Endurance: 1 Million Write Cycles
+Data Retention: 100 Years
+Automotive Grade and Extended Temperature Devices Available
+8-Pin JEDEC PDIP, 8-Pin JEDEC SOIC, 8-Pin EIAJ SOIC, and 8-pin TSSOP Packages
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C32 پکیج SO-8
+
+قیمت:
+53,900
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C32 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Package: Tube
+Product Status: Obsolete
+Memory Type: Non-Volatile
+Memory Format: EEPROM
+Technology: EEPROM
+Memory Size: 32Kbit
+Memory Organization: 4K x 8
+Memory Interface: I²C
+Clock Frequency: 400 kHz
+Write Cycle Time - Word, Page: 5ms
+Access Time: 900 ns
+Voltage - Supply: 2.7V ~ 5.5V
+Operating Temperature: -40°C ~ 85°C (TA)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C512 پکیج DIP
+
+قیمت:
+577,000
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C512 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+Interface Type: 2-Wire , I2C
+Memory Size: 512 kbit
+Organization: 64 k x 8
+Supply Voltage - Min: 1.8 V
+Supply Voltage - Max: 2.7 V
+Brand: Microchip Technology / Atmel
+Operating Supply Voltage: 1.8 V, 2.7 V
+Product Type: EEPROM
+Subcategory: Memory & Data Storage
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C512 پکیج SO-8
+
+قیمت:
+265,000
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C512 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Mounting Style: SMD / SMT
+Package : Case: SO-8 / SOIC-8
+Memory Size: 512 kbit
+Organization: 64 k x 8
+Interface Type: 2-Wire, I2C
+Maximum Clock Frequency: 400 kHz
+Supply Current - Max: 3 mA
+Supply Voltage - Min: 1.7 V
+Supply Voltage - Max:  3.6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature:  + 85 C
+Series:  AT24C512C
+Operating Supply Voltage: 1.7 V to 3.6 V
+Product Type: EEPROM
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C64 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C64 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Memory Size: 64 kbit
+Interface Type: Serial, 2-Wire, I2C
+Organization: 8 k x 8
+Data Retention: 100 Year
+Maximum Clock Frequency: 0.4 MHz
+Supply Current - Max: 2 mA
+Operating Supply Voltage: 2.5 V, 3.3 V, 5 V
+Maximum Operating Temperature: + 85 C
+Series: CAT24C64
+Packaging: Reel
+Access Time: 900 ns
+Height: 1.5 mm (Max)
+Length: 5 mm (Max)
+Minimum Operating Temperature: - 40 C
+Operating Supply Current: 2 mA
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 1.8 V
+Width: 4 mm (Max)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT24C64 پکیج SO-8
+
+قیمت:
+71,900
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C512 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Memory Size: 64 kbit
+Interface Type: Serial, 2-Wire, I2C
+Organization: 8 k x 8
+Data Retention: 100 Year
+Maximum Clock Frequency: 0.4 MHz
+Supply Current - Max: 2 mA
+Operating Supply Voltage: 2.5 V, 3.3 V, 5 V
+Maximum Operating Temperature: + 85 C
+Series: CAT24C64
+Packaging: Reel
+Access Time: 900 ns
+Height: 1.5 mm (Max)
+Length: 5 mm (Max)
+Minimum Operating Temperature: - 40 C
+Operating Supply Current: 2 mA
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 1.8 V
+Width: 4 mm (Max)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه AT93C46 پکیج DIP
+
+قیمت:
+272,000
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT93C46 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip
+Product Category: EEPROM
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Interface Type: 3-Wire, Microwire
+Memory Size: 1 kbit
+Organization: 64 x 16
+Supply Voltage - Min: 1.8 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Maximum Clock Frequency: 2 MHz
+Access Time: 250 ns
+Data Retention: 100 Year
+Supply Current - Max: 2 mA
+Packaging: Tube
+Brand: Microchip Technology
+Height: 3.3 mm
+Length: 9.27 mm
+Operating Supply Current: 2 mA
+Operating Supply Voltage: 1.8 V, 5.5 V
+Product Type: EEPROM
+
+
+========================================================================================================================
+
+عنوان:
+تراشه حافظه M2764A پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر M2764A پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+FAST ACCESS TIME: 180ns EXTENDED TEMPERATURE RANGE SINGLE 5V SUPPLY VOLTAGE LOW STANDBY CURRENT: 35mA max TTL COMPATIBLE DURING READ and PROGRAM FAST PROGRAMMING ALGORITHM ELECTRONIC SIGNATURE PROGRAMMING VOLTAGE: 12V. The 65,536 bit UV erasable and electrically programmable memory EPROM. It is organized as 8,192 words by 8 bits. The M27C64A is housed a 28 pin Window Ceramic Frit-Seal Dual-in-Line package. The transparent lid allows the user to expose the chip to ultraviolet light to erase the bit pattern. A new pattern can then be written to the device by following the programming procedure.
+
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: EPROM
+Mounting Style: Through Hole
+Package / Case: CFDIPW-28
+Memory Size: 64 kbit
+Organization: 8 k x 8
+Interface Type: Parallel
+Operating Supply Current: 75 mA
+Programming Voltage: 12.5 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature:  - 40 C
+Maximum Operating Temperature: + 70 C
+Series: M2764A
+Packaging: Tube
+Access Time: 200 ns
+Brand: STMicroelectronics
+Operating Supply Voltage: 5 V
+Output Enable Access Time: 75 ns
+Product Type: EPROM
+

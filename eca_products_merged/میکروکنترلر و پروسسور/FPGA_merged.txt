@@ -1,0 +1,77 @@
+عنوان:
+تراشه XC2S150 SPARTAN مارک XILINX
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه FPGA شرکت XILINX سری SPARTAN XC2S150 دارای 150 هزار گیت منطقی و حداکثر فرکانس کاری 200 مگاهرتز مناسب پردازش سیگنال و کاربردهای فرکانس بالا
+
+توضیحات کامل:
+معرفی
+
+تراشه FPGA سری SPARTAN XC2S150 دارای 150 هزار گیت منطقی و حداکثر فرکانس کاری 200 مگاهرتز توسط شرکت XILINX ساخته شده است که مناسب پردازش سیگنال و کاربردهای فرکانس بالا می باشد. این تراشه 6.9 کیلوبایت رم توزیع شده روی تراشه را فراهم می کند.تراشه SPARTAN XC2S150 دارای 140 پین ورودی/خروجی ،864 عدد LABs/CLBs و تعداد 3888 عدد المان منطقی در هر Cells
+
+تراشه SPARTAN XC2S150  دارای ولتاژ کاری 2.5 ولت بوده و در محدود دمایی 0 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : XILINX
+سری : XC2S150 SPARTAN
+ولتاژ کاری : 2.5 ولت
+سرعت: 200 Mhz
+حافظه:  PQFP-208
+تعداد پین ها ورودی/خروجی : 140
+150 هزار گیت منطقی
+دمای کاری : 0 تا +85 درجه سانتیگراد
+
+Introduction
+
+The SPARTAN XC2S150 series FPGA chip has 150,000 logic gates and a commercial value of 200 MHz by XILINX, which is a suitable processor and high frequency applications. This chip offers 6.9 KB of RAM supplied on the chip. SPARTAN XC2S150 chip has 140 pins input / output, 864 LABs / CLBs and 3888 logic elements per cell
+
+The SPARTAN XC2S150 chip has a working voltage of 25 volts and operates in the range of 0 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: Xilinx
+
+Product Category: FPGA - Field Programmable Gate Array
+
+Series: XC2S150 SA
+
+Part Number: XC2S150-5PQG208C
+
+Number of Logic Elements: 3888 LE
+
+Number of I/Os: 140 I/O
+
+Operating Supply Voltage: 2.5 V
+
+Minimum Operating Temperature: 0 C
+
+Maximum Operating Temperature: + 85 C
+
+Mounting Style: SMD/SMT
+
+Package/Case: PQFP-208
+
+Brand: Xilinx
+
+Distributed RAM: 55296 bit
+
+Embedded Block RAM - EBR: 48 kbit
+
+Maximum Operating Frequency: 200 MHz
+
+Moisture Sensitive: Yes
+
+Number of Gates: 150000
+
+Number of Logic Array Blocks - LABs: 864 LAB
+
+Product Type: FPGA - Field Programmable Gate Array
+
+Subcategory: Programmable Logic ICs
+
+Tradename: Spartan
+

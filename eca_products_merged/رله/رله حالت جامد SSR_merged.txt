@@ -1,0 +1,729 @@
+عنوان:
+رله حالت جامد SSR سه فاز مرغوب HANYOUNG کره ای 240VAC-20A کد HSR-3A20
+
+قیمت:
+0
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Introduction
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR سه فاز مرغوب HANYOUNG کره ای 264VAC-30A کد HSR-3D30
+
+قیمت:
+0
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Introduction
+
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 240VAC-12A مارک SUNTRONIX کد SFD2412
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 4-32DC; VOL-RTG 240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  SFD2412
+Brand: SUNTRONIX
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:12
+Input Polarity:DC
+Input Signal:4~32 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 240VAC-25A مارک SUNTRONIX کد SFD2425
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 25A; CTRL-V 4-32DC; VOL-RTG 240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  SFD2425
+Brand: SUNTRONIX
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:25
+Input Polarity:DC
+Input Signal:4~32 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 240VAC-25A کد SDA1-225Z
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 25A; CTRL-V 4-32DC; VOL-RTG 240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  SDA1-225Z
+Brand: ATC-Automatic Timing & Control
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:25
+Input Polarity:DC
+Input Signal:4~32 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 250VAC-10A مارک KUAN HSI کد KSD210AC6
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 4-32DC; VOL-RTG 250AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  KSD210AC6
+Brand: KUAN HSI
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:10
+Input Polarity:DC
+Input Signal:4~32 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 250VAC-15A کد PAS-2115D
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 5-24DC; VOL-RTG 24-240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد
+
+Specification
+
+     Part Number     PAS-2115D
+    Control Voltage     3-32 VDC
+    Current Rating     5 A
+    Dielectric Strength     2500 VAC @ 50 Hz⁄60 Hz for 1 Minute
+    Dimensions     58mm L x 43mm W x 27mm H
+    Function     General Purpose
+    Input Impedance     36.72 Kiloohms
+    Maximum Ambient Temperature     80 °C
+    Minimum Ambient Temperature     -30 °C
+    Number of Pins     4 Pin
+    Primary Type     Solid State Relays
+    Relay Type     Solid State
+    Series     G3NA Series
+    Standards     UL ; CSA ; CE ; VDE
+    Surge Current     15 A (60 Hz, 1 Cycle)
+    Voltage Rating     240 VAC
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب 250VAC-25A کد PAS-2125D
+
+قیمت:
+5,250,000
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 25A; CTRL-V 3-32DC; VOL-RTG 250AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number: PAS-2125D
+Brand: dong il
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:25
+Input Polarity:DC
+Input Signal:3~32 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب HITACHI ژاپنی 120VAC-10A کد NFM10A4
+
+قیمت:
+4,380,000
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 3-30VDC; VOL-RTG 120VAC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  NFM10A4
+Brand: HITACHI
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:10
+Input Polarity:DC
+Input Signal: 3~30 VDC
+Output Voltage: 120 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب OMRON ژاپنی 240VAC-10A کد G3NA-210B
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 5-24DC; VOL-RTG 24-240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Introduction
+
+AC Output Relays with 75-A and 90-A output currents have been added to the G3NA
+All models feature the same compact dimensions to provide a uniform mounting pitch.
+Built-in varistor effectively absorbs external surges.(except G3NA-D210B)
+Operation indicator enables monitoring operation.
+Protective cover for greater safety.
+Standard models certified by UL and CSA and -UTU models by
+The following G3NA Relay models are RoHS Compliant now: G3NA-205B / 210B / 220B / 225B (-UTU) all input voltage and G3NA-D210B all input voltages.
+
+Specification
+
+Part Number G3NA205BDC524
+Control Voltage 24 VDC
+Current Rating 5 A
+Dielectric Strength 2500 VAC @ 50 Hz⁄60 Hz for 1 Minute
+Dimensions 58mm L x 43mm W x 27mm H
+Function General Purpose
+Input Impedance 36.72 Kiloohms
+Maximum Ambient Temperature 80 °C
+Minimum Ambient Temperature -30 °C
+Number of Pins 4 Pin
+Primary Type Solid State Relays
+Relay Type Solid State
+Series G3NA Series
+Standards UL ; CSA ; CE ; VDE
+Surge Current 60 A (60 Hz, 1 Cycle)
+Voltage Rating 240 VAC
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب OMRON ژاپنی 240VAC-20A کد G3NA-220B
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 20A; CTRL-V 5-24VDC; VOL-RTG 240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+Item Number:  G3NA-220B
+Brand: OMRON
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:20
+Input Polarity:DC
+Input Signal:5~24 VDC
+Output Voltage:24~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.2 in x 1.6 in x .9 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب OMRON ژاپنی 240VAC-5A کد G3NA-205B
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 5A; CTRL-V 5-24DC; VOL-RTG 24-240AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Introduction
+
+AC Output Relays with 75-A and 90-A output currents have been added to the G3NA
+All models feature the same compact dimensions to provide a uniform mounting pitch.
+Built-in varistor effectively absorbs external surges.(except G3NA-D210B)
+Operation indicator enables monitoring operation.
+Protective cover for greater safety.
+Standard models certified by UL and CSA and -UTU models by
+The following G3NA Relay models are RoHS Compliant now: G3NA-205B / 210B / 220B / 225B (-UTU) all input voltage and G3NA-D210B all input voltages.
+
+Specification
+
+     Part Number     G3NA205BDC524
+    Control Voltage     24 VDC
+    Current Rating     5 A
+    Dielectric Strength     2500 VAC @ 50 Hz⁄60 Hz for 1 Minute
+    Dimensions     58mm L x 43mm W x 27mm H
+    Function     General Purpose
+    Input Impedance     36.72 Kiloohms
+    Maximum Ambient Temperature     80 °C
+    Minimum Ambient Temperature     -30 °C
+    Number of Pins     4 Pin
+    Primary Type     Solid State Relays
+    Relay Type     Solid State
+    Series     G3NA Series
+    Standards     UL ; CSA ; CE ; VDE
+    Surge Current     60 A (60 Hz, 1 Cycle)
+    Voltage Rating     240 VAC
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب OMRON ژاپنی 250VAC-10A کد G3N-210B
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 10A; CTRL-V 4-30VDC; VOL-RTG 250AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  G3N-210B
+Brand: OMRON
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:10
+Input Polarity:DC
+Input Signal:4~30 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR مرغوب OMRON ژاپنی 250VAC-20A کد G3N-220BM
+
+قیمت:
+0
+
+توضیحات کوتاه:
+RELAY; SSR; GEN PURP; CUR-RTG 20A; CTRL-V 3-30VDC; VOL-RTG 250AC; 4 PIN
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Specification
+
+Item Number:  G3N-220BM
+Brand: OMRON
+Item Category:Relays
+Subcategory:Solid State
+Series:SD
+Switching Type:Zero Voltage
+Amps:20
+Input Polarity:DC
+Input Signal:4~30 VDC
+Output Voltage:50~240 VAC
+MOV:No
+Mounting:Surface
+Snubber:No
+Integral Heat Sink:No
+Termination:Screw Terminal
+Status Ind.:Yes
+H x W x D: 2.36 in x 1.77 in x .59 in
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR-10 DA
+
+قیمت:
+3,630,000
+
+توضیحات کوتاه:
+رله حالت جامد SSR-10 DA با محدوده ولتاژ ورودی 3 الی 32 ولت DC و حداکثر جریان 10 آمپر
+
+توضیحات کامل:
+معرفی
+
+رله حالت جامد (SSR) در واقع یک عنصر الکترونیک نیمه هادی است که عملکردی مشابه رله‌های الکترومکانیکی دارد، با این تفاوت که در مقایسه با رله‌های الکترومکانیکی، سرعت بالاتری دارد. این رله‌ها از کلیدهای نیمه هادی و دیود به جای کنتاکت‌های متحرک و مکانیکی استفاده می‌کنند. به عبارت دیگر، SSR برای سوئیچینگ (روشن و خاموش کردن) مدارات الکتریکی استفاده می‌شود. از آن‌ها در صنایع مختلف مانند خودروسازی، الکترونیک صنعتی، تجهیزات پزشکی،چاپ و بسته‌بندی، وسایل خانگی و بسیاری دیگر استفاده می‌شود.
+
+مشخصات
+
+مدل : SSR-10 DA
+محدوده ولتاژ کنترل : 3 الی 32 ولت DC
+محدوده ولتاژ بار : 24 الی 380 ولت AC
+جریان تریگر : 12 میلی آمپر
+جریان نشتی : 5 میلی آمپر
+زمان پاسخگویی : 8.3 میلی ثانیه در 60 هرتز
+دمای کاری : 40- الی 80+ درجه سانتی گراد
+رطوبت کاری : 35 الی 85 درصد
+جنس بدنه : عایق پلاستیکی ABS با استحکام بالا
+وزن : 88 گرم
+ابعاد : 62x45x22.5 میلی متر
+
+Introduction
+
+This is SSR-10DA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+
+Specifications
+
+Model: SSR-10 AA
+Input voltage range: 3 to 32 volts DC
+Trigger current: 12 mA
+Leakage current: 5 mA
+Response time: 8.3 milliseconds at 60 Hz
+Working temperature: -40 to +80 degrees Celsius
+Working humidity: 35 to 85%
+Body material: ABS plastic insulation with high strength
+Weight: 88 grams
+Dimensions: 62x45x22.5 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR-100 DA
+
+قیمت:
+8,090,000
+
+توضیحات کوتاه:
+رله حالت جامد SSR-100DA با محدوده ولتاژ کنترل 3 الی 32 ولت DC و حداکثر جریان 100 آمپر
+
+توضیحات کامل:
+رله حالت جامد (SSR) در واقع یک عنصر الکترونیک نیمه هادی است که عملکردی مشابه رله‌های الکترومکانیکی دارد، با این تفاوت که در مقایسه با رله‌های الکترومکانیکی، سرعت بالاتری دارد. این رله‌ها از کلیدهای نیمه هادی و دیود به جای کنتاکت‌های متحرک و مکانیکی استفاده می‌کنند. به عبارت دیگر، SSR برای سوئیچینگ (روشن و خاموش کردن) مدارات الکتریکی استفاده می‌شود. از آن‌ها در صنایع مختلف مانند خودروسازی، الکترونیک صنعتی، تجهیزات پزشکی،چاپ و بسته‌بندی، وسایل خانگی و بسیاری دیگر استفاده می‌شود.
+
+مشخصات
+
+مدل : SSR-100DA
+محدوده ولتاژ کنترل: 3 الی 32 ولت DC
+محدوده ولتاژ بار : 24 الی 380 ولت AC
+حداکثر جریان 100 آمپر
+جریان تریگر : 1 ولت آمپر
+جریان نشتی : 2mA
+زمان پاسخگویی : 10 میلی ثانیه در 60 هرتز
+دمای کاری : 30- الی 75+ درجه سانتی گراد
+رطوبت کاری : 35 الی 85 درصد
+جنس بدنه : عایق پلاستیکی ABS با استحکام بالا
+وزن : 95 گرم
+ابعاد : 45*23.5*62 میلی متر
+
+Introduction
+
+This is SSR-100DA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+
+Specifications
+
+Model: SSR-100DA
+Input voltage range: 3 to 32 volts DC
+Load voltage range: 24 to 380 volts AC
+Maximum current 100 amps
+Trigger current: 1 volt ampere
+Leakage current: 2mA
+Response time: 10 milliseconds at 60 Hz
+Working temperature: -30 to +75 degrees Celsius
+Working humidity: 35 to 85%
+Body material: ABS plastic insulation with high strength
+Weight: 95 grams
+Dimensions: 45 x 23.5 x 62 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR-25 DA
+
+قیمت:
+3,680,000
+
+توضیحات کوتاه:
+رله حالت جامد SSR-25 DA با محدوده ولتاژ ورودی 3 الی 32 ولت DC و حداکثر جریان 25 آمپر
+
+توضیحات کامل:
+معرفی
+
+رله حالت جامد (SSR) در واقع یک عنصر الکترونیک نیمه هادی است که عملکردی مشابه رله‌های الکترومکانیکی دارد، با این تفاوت که در مقایسه با رله‌های الکترومکانیکی، سرعت بالاتری دارد. این رله‌ها از کلیدهای نیمه هادی و دیود به جای کنتاکت‌های متحرک و مکانیکی استفاده می‌کنند. به عبارت دیگر، SSR برای سوئیچینگ (روشن و خاموش کردن) مدارات الکتریکی استفاده می‌شود. از آن‌ها در صنایع مختلف مانند خودروسازی، الکترونیک صنعتی، تجهیزات پزشکی،چاپ و بسته‌بندی، وسایل خانگی و بسیاری دیگر استفاده می‌شود.
+
+مشخصات
+
+مدل : SSR-25 DA
+محدوده ولتاژ کنترل : 3 الی 32 ولت DC
+محدوده ولتاژ بار : 24 الی 380 ولت AC
+جریان تریگر : 12 میلی آمپر
+جریان نشتی : 5 میلی آمپر
+زمان پاسخگویی : 8.3 میلی ثانیه در 60 هرتز
+دمای کاری : 40- الی 80+ درجه سانتی گراد
+رطوبت کاری : 35 الی 85 درصد
+جنس بدنه : عایق پلاستیکی ABS با استحکام بالا
+وزن : 88 گرم
+ابعاد : 62x45x22.5 میلی متر
+
+Introduction
+
+This is SSR-25DA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+
+Specifications
+
+Model: SSR-25 AA
+Input voltage range: 3 to 32 volts DC
+Trigger current: 12 mA
+Leakage current: 5 mA
+Response time: 8.3 milliseconds at 60 Hz
+Working temperature: -40 to +80 degrees Celsius
+Working humidity: 35 to 85%
+Body material: ABS plastic insulation with high strength
+Weight: 88 grams
+Dimensions: 62x45x22.5 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR-40 AA
+
+قیمت:
+3,670,000
+
+توضیحات کوتاه:
+رله حالت جامد SSR-40 AA با محدوده ولتاژ کنترل 80 الی 250 ولت AC و حداکثر جریان 40 آمپر
+
+توضیحات کامل:
+رله حالت جامد (SSR) در واقع یک عنصر الکترونیک نیمه هادی است که عملکردی مشابه رله‌های الکترومکانیکی دارد، با این تفاوت که در مقایسه با رله‌های الکترومکانیکی، سرعت بالاتری دارد. این رله‌ها از کلیدهای نیمه هادی و دیود به جای کنتاکت‌های متحرک و مکانیکی استفاده می‌کنند. به عبارت دیگر، SSR برای سوئیچینگ (روشن و خاموش کردن) مدارات الکتریکی استفاده می‌شود. از آن‌ها در صنایع مختلف مانند خودروسازی، الکترونیک صنعتی، تجهیزات پزشکی،چاپ و بسته‌بندی، وسایل خانگی و بسیاری دیگر استفاده می‌شود.
+
+مشخصات
+
+مدل : SSR-40 AA
+محدوده ولتاژ ورودی : 80 الی 250 ولت AC
+محدوده ولتاژ بار : 24 الی 380 ولت AC
+حداکثر جریان : 40 آمپر
+جریان تریگر : 1 ولت آمپر
+جریان نشتی : 5 میلی آمپر
+زمان پاسخگویی : 8.3 میلی ثانیه در 60 هرتز
+دمای کاری : 40- الی 80+ درجه سانتی گراد
+رطوبت کاری : 35 الی 85 درصد
+جنس بدنه : عایق پلاستیکی ABS با استحکام بالا
+وزن : 90 گرم
+ابعاد : 46*24*69 میلی متر
+
+Introduction
+
+This is SSR-40AA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+
+Specifications
+
+Model: SSR-40 AA
+Input voltage range: 80 to 250 volts AC
+Load voltage range: 24 to 380 volts AC
+max current : 40 volt
+Trigger current: 1 volt ampere
+Leakage current: 5 milliamps
+Response time: 8.3 milliseconds at 60 Hz
+Working temperature: -40 to +80 degrees Celsius
+Working humidity: 35 to 85%
+Body material: ABS plastic insulation with high strength
+Weight: 90 grams
+Dimensions: 46 x 24 x 69 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله حالت جامد SSR-40 DA
+
+قیمت:
+0
+
+توضیحات کوتاه:
+رله حالت جامد SSR-40 DA با محدوده ولتاژ 380VAC~24VAC و 40 آمپر
+
+توضیحات کامل:
+معرفی
+
+در این ماژول ها رله SSR به معنی Solid State Relay  با توان سوئیج کردن فرکانس بالا به کار رفته است. بر روی این ماژول عبارت Low level Trigger نوشته شده است. منظور از این عبارت تحریک شدن رله با ولتاژ صفر می باشد. اساس کار رله SSR کمی متفاوت از رله های معمولی می باشد و برای مصارف خاص تری استفاده می شود. کانال های ورودی این ماژول ها کاملا شبیه به ماژول رله معمولی و دارای ترمینال سه کاناله می باشند. که یکی ولتاژ مثبت و دیگری زمین مدار و یکی دیگر از کانال ها برای ارسال فرمان به رله تعبیه شده است. تفاوت کار در خروجی این ماژول رله با ماژول های معمولی می باشد که در این ماژول ها برخلاف ماژول رله معمولی دو کانال می باشد. به نسبت ماژول رله معمولی این ماژول دارای ابعادی در حدود نصف می باشد.
+
+Introduction
+
+This is SSR-40DA Single-phase Solid-State Relay. It can be driver by Arduino directly without any expanding circuit because of its built-in opto-couple. The plastic protective cover makes it be a safer relay module. SSR solid state relay uses inflaming retarding engineering plastic shell, epoxy resin encapsulation and screw terminal connection. This series solid state relay has high structural strength, impact resistance and strong resistance to versatility. The low input drive current makes it convenient to connect with computer terminal and various digital programmable interface circuit. It is widely used in automation control field such as petrochemical equipment, food machinery, packaging machinery, textile machinery, CNC machine, plastic machinery, fitness equipment, recreational facilities, especially suitable for severe environments like corrosion, moisture, dust prevention, explosive requirements and frequent switch occasions. SSR series solid state relay are update replacement products of a.c. contactor.
+Reliable SMT technology
+High ultra-insulation resistance over 50MΩ/500V DC
+High dielectric over 2.5KV
+Low enable current less than 7.5mA/12V DC, compatible with CMOS IC or TTL
+Low EMI/EFI & surge by zero cross trigger method
+High surge current over 410A/one cycle (60Hz)
+High surge voltage duration by snubber circuit
+
+Specification
+
+Model: SSR-40 DA
+Control Mode: DC-AC
+Load Voltage: 24-380VAC
+Load Current: 40A
+Control Voltage: 3-32VDC
+Control Current: DC3-25mA
+On voltage: ≤1V
+One-off Time: ≤10ms
+Off leakage Current: ≤2mA
+Installation Method:  Bolt Fixed
+Working Indication: LED
+

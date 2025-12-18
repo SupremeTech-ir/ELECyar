@@ -1,0 +1,455 @@
+عنوان:
+میکروکنترلر BS66F340C مارک HOLTEK پکیج SSOP-28
+
+قیمت:
+444,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی هولتک با قابلیت کلید لمسی پکیج SSOP-28
+
+توضیحات کامل:
+این سری از میکروکنترلرهای ۸ بیتی با معماری RISC و حافظه فلش A/D عملکرد بالا، دارای عملکرد کامل کلید لمسی داخلی هستند. علاوه بر حافظه برنامه فلش، دارای حافظه داده RAM و حافظه EEPROM برای ذخیره‌سازی داده‌های غیر فراموشی مثل شماره‌های سریال و داده‌های کالیبراسیون می‌باشند. ویژگی‌های حفاظتی شامل تایمر Watchdog داخلی، بازنشانی ولتاژ پایین و تشخیص ولتاژ پایین با ایمنی نویز بالا و حفاظت در برابر الکتریسیته ساکن (ESD) می‌باشند. این دستگاه‌ها مناسب کاربردهای مدرن کلید لمسی مانند کنترل از راه دور، ابزارهای اندازه‌گیری و لوازم خانگی هستند.
+
+Description
+
+The series of devices are A/D Flash Memory type 8-bit high performance RISC architecture microcontrollers with fully integrated touch key functions. With all touch key functions provided internally and with the convenience of Flash Memory multi-programming features, each device has all the features to offer designers a reliable and easy means of implementing touch keys within their products applications.
+
+In addition to the Flash program memory, other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc. Analog feature includes a multi-channel 12-bit A/D converter. Protective features such as an internal Watchdog Timer, Low Voltage Reset and Low Voltage Detector coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+
+A full choice of external and internal, high and low speed oscillators are provided and can be flexibly used for different applications. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimise power consumption. Easy communication with the outside world is provided using the internal SPI, I2C and UART interfaces, while the inclusion of flexible I/O programming features, Time Base functions, Timer Modules and many other features further enhance device functionality and flexibility.
+
+The touch key devices will find excellent use in a huge range of modern Touch Key product applications such as remote control, instrumentation, household appliances such as electric rice cookers and electronically controlled tools to name but a few.
+
+CPU Features
+
+Operating voltage
+-- fSYS =4MHz: 2.2V~5.5V
+-- fSYS =8MHz: 2.2V~5.5V
+-- fSYS =12MHz: 2.7V~5.5V
+-- fSYS =16MHz: 3.3V~5.5V
+Up to 0.25μs instruction cycle with 16MHz system clock at VDD =5V
+Power down and wake-up functions to reduce power consumption
+Oscillator types
+- External High Speed Crystal – HXT
+- Internal High Speed 8/12/16MHz RC – HIRC
+- Internal Low Speed 32kHz RC – LIRC
+- External Low Speed 32.768kHz Crystal – LXT
+Fully integrated internal oscillators require no external components
+Multi-mode operation: FAST, SLOW, IDLE and SLEEP
+All instructions executed in one to three instruction cycles
+Table read instructions
+115 powerful instructions
+Up to 12-level subroutine nesting
+Bit manipulation instruction
+
+Peripheral Features
+
+Flash Program Memory: 4K×16~16K×16
+Data Memory: 512×8~1024×8
+True EEPROM Memory: 128×8
+In Application Programming function – IAP
+Watchdog Timer function
+Up to 46 bidirectional I/O lines
+Programmable I/O port source current and sink current for LED driver applications
+Two external interrupt lines shared with I/O pins
+Multiple Timer Modules for time measurement, input capture, compare match output or PWM output or single pulse output function
+Dual Time-Base functions for generation of fixed time interrupt signals
+8 external channel 12-bit resolution A/D converter with internal reference voltage VBG
+Up to 28 fully integrated touch key functions without requiring external components
+Serial Interface Module – SIM for SPI or I2C
+Fully-duplex Universal Asynchronous Receiver and Transmitter Interface – UART
+Low voltage reset function
+Low voltage detect function
+Package types: 28-pin SSOP, 44/48-pin LQFP
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر BS84B06A-3 HOLTEK
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 20 پایه TOUCH A/D FLASH پکیج SMD ساخت شرکت HOLTEK
+
+توضیحات کامل:
+Introduction
+
+This device is a Flash Memory A/D type 8-bit high performance RISC architecture microcontroller with fully integrated touch key functions. With all touch key functions provided internally and with the convenience of Flash Memory multi-programming features, this device has all the features to offer designers a reliable and easy means of implementing Touch Keyes within their products applications.Analog feature includes a multi-channel 12-bit A/D converter. Protective features such as an internal Watchdog Timer and Low Voltage Reset coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.The touch key functions are fully integrated completely eliminating the need for external components. In addition to the flash program memory, other memory includes an area of RAM Data Memory as well as an area of EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.The device includes fully integrated low and high speed oscillators which require no external components for their implementation. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimise power consumption. Easy communication with the outside world is provided using the internal I2C and SPI interfaces, while the inclusion of flexible I/O programming features, Timer/Event Counter and many other features further enhance device functionality and flexibility.This touch key device will find excellent use in a huge range of modern Touch Key product applications such as instrumentation, household appliances, electronically controlled tools to name but a few.
+
+CPU Features
+
+• Operating Voltage
+fSYS = 8MHz: 2.7~5.5V, fSYS = 12MHz: 2.7~.5.5V, fSYS = 16MHz: 4.5V~5.5V
+• Up to 0.25μs instruction cycle with 16MHz system clock at VDD=5V
+• Power down and wake-up functions to reduce power consumption
+• Fully integrated low and high speed internal oscillators
+Low Speed -- 32kHz, High speed -- 8MHz, 12MHz, 16MHz
+• Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+• All instructions executed in one or two instruction cycles
+• Table read instructions
+• 63 powerful instructions
+• Up to 6-level subroutine nesting
+• Bit manipulation instruction
+
+Peripheral Features
+
+• Flash Program Memory: 3K×16
+• RAM Data Memory: 288×8
+• True EEPROM Memory: 64×8
+• Watchdog Timer function
+• Up to 18 bidirectional I/O lines
+• Single external interrupt input shared with I/O pin
+• Single 8-bit Timer/Event Counter
+• Single Time-Base function for generation of fixed time interrupt signals
+• Multi-channel 12-bit resolution A/D converter
+• I2C and SPI interfaces
+• PMOS Source current adjustable
+• Low voltage reset function
+• Fully integrated 6 touch key functions -- require no external components
+• Package types: 20-pin SOP
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر HT66F0025 مارک HOLTEK پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 8 پایه HT66F0025 ساخت شرکت HOLTEK با فرکانس کاری 8MHz
+
+توضیحات کامل:
+Introduction
+
+The devices are Flash Memory type 8-bit high performance RISC architecture microcontrollers. Offering users the convenience of Flash Memory multi-programming features, these devices also include a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter function. Multiple and extremely flexible Timer Modules provide timing, pulse generation, capture input, compare match output,
+single pulse output and PWM generation functions. Protective features such as an internal Watchdog Timer and Low Voltage Reset coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the devices will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS = 8MHz: 2.2V~5.5V
+Up to 0.5μs instruction cycle with 8MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Two Oscillators
+Internal High Speed 8MHz RC -- HIRC
+Internal Low Speed 32kHz RC -- LIRC
+Fully intergrated internal oscillator requires no external components
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+Up to 4-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 1K×14/2K×15
+RAM Data Memory: 64×8/96×8
+True EEPROM Memory: 32×8
+Watchdog Timer function
+Up to 18 bidirectional I/O lines
+Software controlled 4-SCOM lines LCD driver with 1/2 bias (only available for HT66F004)
+Multiple pin-shared external interrupts
+Multiple Timer Modules for time measure, compare match output, capture input, PWM output,
+single pulse output functions
+Dual Time Base functions for generation of fixed time interrupt signals
+Multi-channel 12-bit resolution A/D converter
+Low voltage reset function
+Wide range of available package types
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+True EEPROM data memory data retention > 10 years
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر HT66F003 مارک HOLTEK پکیج SOP-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 16 پایه HT66F003 ساخت شرکت HOLTEK با فرکانس کاری 8MHz
+
+توضیحات کامل:
+Introduction
+
+The devices are Flash Memory type 8-bit high performance RISC architecture microcontrollers. Offering users the convenience of Flash Memory multi-programming features, these devices also include a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter function. Multiple and extremely flexible Timer Modules provide timing, pulse generation, capture input, compare match output,
+single pulse output and PWM generation functions. Protective features such as an internal Watchdog Timer and Low Voltage Reset coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the devices will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS = 8MHz: 2.2V~5.5V
+Up to 0.5μs instruction cycle with 8MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Two Oscillators
+Internal High Speed 8MHz RC -- HIRC
+Internal Low Speed 32kHz RC -- LIRC
+Fully intergrated internal oscillator requires no external components
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+Up to 4-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 1K×14/2K×15
+RAM Data Memory: 64×8/96×8
+True EEPROM Memory: 32×8
+Watchdog Timer function
+Up to 18 bidirectional I/O lines
+Software controlled 4-SCOM lines LCD driver with 1/2 bias (only available for HT66F004)
+Multiple pin-shared external interrupts
+Multiple Timer Modules for time measure, compare match output, capture input, PWM output,
+single pulse output functions
+Dual Time Base functions for generation of fixed time interrupt signals
+Multi-channel 12-bit resolution A/D converter
+Low voltage reset function
+Wide range of available package types
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+True EEPROM data memory data retention > 10 years
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر HT66F004 مارک HOLTEK پکیج SOP-16
+
+قیمت:
+233,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 16 پایه HT66F004 ساخت شرکت HOLTEK با فرکانس کاری 8MHz
+
+توضیحات کامل:
+Introduction
+
+The devices are Flash Memory type 8-bit high performance RISC architecture microcontrollers. Offering users the convenience of Flash Memory multi-programming features, these devices also include a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter function. Multiple and extremely flexible Timer Modules provide timing, pulse generation, capture input, compare match output,
+single pulse output and PWM generation functions. Protective features such as an internal Watchdog Timer and Low Voltage Reset coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the devices will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS = 8MHz: 2.2V~5.5V
+Up to 0.5μs instruction cycle with 8MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Two Oscillators
+Internal High Speed 8MHz RC -- HIRC
+Internal Low Speed 32kHz RC -- LIRC
+Fully intergrated internal oscillator requires no external components
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+Up to 4-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 1K×14/2K×15
+RAM Data Memory: 64×8/96×8
+True EEPROM Memory: 32×8
+Watchdog Timer function
+Up to 18 bidirectional I/O lines
+Software controlled 4-SCOM lines LCD driver with 1/2 bias (only available for HT66F004)
+Multiple pin-shared external interrupts
+Multiple Timer Modules for time measure, compare match output, capture input, PWM output,
+single pulse output functions
+Dual Time Base functions for generation of fixed time interrupt signals
+Multi-channel 12-bit resolution A/D converter
+Low voltage reset function
+Wide range of available package types
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+True EEPROM data memory data retention > 10 years
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر HT66F018 مارک HOLTEK پکیج SOP-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 16 پایه HT66F018 ساخت شرکت HOLTEK با فرکانس کاری 16MHz
+
+توضیحات کامل:
+Introduction
+
+The device is a Flash Memory type 8-bit high performance RISC architecture microcontroller.
+Offering users the convenience of Flash Memory multi-programming features, the device also includes a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter and a comparator functions. Multiple and extremely flexible Timer Modules provide timing, pulse generation and PWM generation functions. Protective features such as an internal Watchdog Timer, Low Voltage Reset and Low Voltage Detector coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HXT, LXT, HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimize power consumption.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the device will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS=8MHz: 2.2V~5.5V
+fSYS=12MHz: 2.7V~5.5V
+fSYS=16MHz: 3.3V~5.5V
+fSYS=20MHz: 4.5V~5.5V
+Up to 0.2μs instruction cycle with 20MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Oscillators
+External Crystal – HXT
+External 32.768kHz Crystal – LXT
+Internal High Speed 8/12/16MHz RC – HIRC
+Internal Low Speed 32kHz RC – LIRC
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+Fully integrated internal oscillator requires no external components
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+8-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 4K×16
+RAM Data Memory: 192×8
+True EEPROM Memory: 64×8
+Watchdog Timer function
+18 bidirectional I/O lines
+Two pin-shared external interrupts
+Multiple Timer Module for time measure, input capture, compare match output, PWM output or
+single pulse output functions
+Comparator function
+Dual Time Base functions for generation of fixed time interrupt signals
+8-channel 12-bit resolution A/D converter
+Low voltage reset function
+Low voltage detect function
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+Ture EEPROM data memory data retention > 10 years
+Package types: 16-pin NSOP, 20-pin SOP/NSOP/SSOP/QFN
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر HT66F018 مارک HOLTEK پکیج SSOP-20
+
+قیمت:
+304,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 20 پایه HT66F018 ساخت شرکت HOLTEK با فرکانس کاری 16MHz
+
+توضیحات کامل:
+Introduction
+
+The device is a Flash Memory type 8-bit high performance RISC architecture microcontroller.
+Offering users the convenience of Flash Memory multi-programming features, the device also includes a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include a multi-channel 12-bit A/D converter and a comparator functions. Multiple and extremely flexible Timer Modules provide timing, pulse generation and PWM generation functions. Protective features such as an internal Watchdog Timer, Low Voltage Reset and Low Voltage Detector coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile electrical environments.
+A full choice of HXT, LXT, HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation. The ability to operate and switch dynamically between a range of operating modes using different clock sources gives users the ability to optimise microcontroller operation and minimize power consumption.
+The inclusion of flexible I/O programming features, Time Base functions along with many other features ensure that the device will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS=8MHz: 2.2V~5.5V
+fSYS=12MHz: 2.7V~5.5V
+fSYS=16MHz: 3.3V~5.5V
+fSYS=20MHz: 4.5V~5.5V
+Up to 0.2μs instruction cycle with 20MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Oscillators
+External Crystal – HXT
+External 32.768kHz Crystal – LXT
+Internal High Speed 8/12/16MHz RC – HIRC
+Internal Low Speed 32kHz RC – LIRC
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+Fully integrated internal oscillator requires no external components
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+8-level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 4K×16
+RAM Data Memory: 192×8
+True EEPROM Memory: 64×8
+Watchdog Timer function
+18 bidirectional I/O lines
+Two pin-shared external interrupts
+Multiple Timer Module for time measure, input capture, compare match output, PWM output or
+single pulse output functions
+Comparator function
+Dual Time Base functions for generation of fixed time interrupt signals
+8-channel 12-bit resolution A/D converter
+Low voltage reset function
+Low voltage detect function
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+Ture EEPROM data memory data retention > 10 years
+Package types: 16-pin NSOP, 20-pin SOP/NSOP/SSOP/QFN
+
+
+========================================================================================================================
+
+عنوان:
+میکروکنترلر HT68F003 مارک HOLTEK پکیج SOP-16
+
+قیمت:
+309,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 16 پایه HT68F003 ساخت شرکت HOLTEK با فرکانس کاری 8MHz
+
+توضیحات کامل:
+Introduction
+
+The devices are Flash Memory type 8-bit high performance RISC architecture microcontrollers. Offering users the convenience of Flash Memory multi-programming features, these devices also
+include a wide range of functions and features. Other memory includes an area of RAM Data Memory as well as an area of true EEPROM memory for storage of non-volatile data such as serial numbers, calibration data etc.
+Analog features include multiple and extremely flexible Timer Modules provide timing, pulse generation, capture input, compare match output and PWM generation functions. Protective features such as an internal Watchdog Timer and Low Voltage Reset and Low Voltage Detector coupled with excellent noise immunity and ESD protection ensure that reliable operation is maintained in hostile
+electrical environments.
+A full choice of HIRC and LIRC oscillator functions are provided including a fully integrated system oscillator which requires no external components for its implementation.
+The inclusion of flexible I/O programming features, Time-Base functions along with many other features ensure that the devices will find excellent use in applications such as electronic metering,environmental monitoring, handheld instruments, household appliances, electronically controlled tools, motor driving in addition to many others.
+
+Specification
+
+Operating Voltage
+fSYS = 8MHz: 2.2V~5.5V
+Up to 0.5μs instruction cycle with 8MHz system clock at VDD=5V
+Power down and wake-up functions to reduce power consumption
+Two Oscillators
+Internal High Speed 8MHz RC oscillator – HIRC
+Internal Low Speed 32kHz RC oscillator – LIRC
+Fully intergrated internal oscillators require no external components
+Multi-mode operation: NORMAL, SLOW, IDLE and SLEEP
+All instructions executed in one or two instruction cycles
+Table read instructions
+61 powerful instructions
+Up to 4 level subroutine nesting
+Bit manipulation instruction
+Flash Program Memory: 1K×14 ~ 2K×14
+RAM Data Memory: 64×8
+True EEPROM Memory: 32×8
+Watchdog Timer function
+Up to 14 bidirectional I/O lines
+One pin-shared external interrupt
+Multiple Timer Modules for time measure, compare match output, capture input,
+PWM output functions
+Dual Time-Base functions for generation of fixed time interrupt signals
+Low voltage reset function
+Low voltage detect function
+Multiple package types
+Flash program memory can be re-programmed up to 10,000 times
+Flash program memory data retention > 10 years
+True EEPROM data memory can be re-programmed up to 100,000 times
+True EEPROM data memory data retention > 10 years
+

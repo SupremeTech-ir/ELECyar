@@ -1,0 +1,869 @@
+عنوان:
+تراشه 54LS40 گیت NAND پکیج DIP
+
+قیمت:
+85,400
+
+توضیحات کوتاه:
+آی سی منطقی 54LS40 شامل 4 ورودی 2 کانال گیت NOT پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 4.75V to 5.25V
+Input voltage: 0V to 5.25V
+Maximum clock frequency: 33 MHz
+Propagation delay time: 12 ns (typical)
+Output current: -0.4 mA to 8 mA
+Power dissipation: 65 mW
+Operating temperature range: 0°C to 70°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC00A گیت NAND پکیج SO-14 مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HC00A گیت NAND شامل 4 گیت NAND پکیج SO-14 SMD مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: INTEGRAL
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: NAND
+Logic Family: 74HC
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 25 mA
+Low Level Output Current: 25 mA
+Supply Voltage - Max: 7 V
+Supply Voltage - Min: -0.5 V
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Mounting Style: SMD/SMT
+Package / Case: SO14
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC02 گیت NOR پکیج DIP
+
+قیمت:
+99,800
+
+توضیحات کوتاه:
+آی سی منطقی 74HC04 گیت NOR پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: NOR
+Logic Family: TTL
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 16 mA
+Low Level Output Current: 0.8 mA
+Propagation Delay Time: 22 ns
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Packaging: Tube
+Function: NOR
+Height: 4.57 mm
+Input Type: TTL
+Length: 19.3 mm
+Operating Temperature Range: 0 C to + 70 C
+Output Type: TTL
+Series: SN7402
+Width: 6.35 mm
+Brand: Texas Instruments
+Logic Type: 2-Input NOR
+Number of Bits: 4 bit
+Operating Supply Current: 27 uA
+Operating Supply Voltage: 5 V
+Product Type: Logic Gates
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC04 گیت NOT پکیج DIP
+
+قیمت:
+80,900
+
+توضیحات کوتاه:
+آی سی منطقی 74HC04 شامل 6 گیت NOT پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Inverters
+Number of Circuits: 6 Circuit
+Logic Family: TTL
+Logic Type: Bipolar
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Packaging: Tube
+Function: Inverter
+Input Type: TTL
+Operating Temperature Range: 0 C to + 70 C
+Output Type: CMOS
+Series: SN7404 / 74LS04
+Number of Output Lines: 6 Output
+High Level Output Current: - 0.4 mA
+Low Level Output Current: 16 mA
+Operating Supply Voltage: 5 V
+Product Type: Inverters
+Propagation Delay Time: 22 ns
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC08 گیت AND پکیج DIP
+
+قیمت:
+97,800
+
+توضیحات کوتاه:
+آی سی منطقی 74HC08 شامل 4 گیت AND پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: AND
+Logic Family: HC
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High-Level Output Current: - 5.2 mA
+Low-Level Output Current: 5.2 mA
+Propagation Delay Time: 28 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style:Through Hole
+Package / Case: PDIP-14
+Packaging: Tube
+Function:Quad 2-Input
+Height: 4.57 mm
+Input Type: CMOS
+Length: 19.3 mm
+Operating Temperature Range: - 40 C to + 85 C
+Output Type: CMOS
+Series: SN74HC08
+Width: 6.35 mm
+Brand: Texas Instruments
+Logic Type: 2-Input AND
+Number of Bits: 4 bit
+Operating Supply Current: 20 uA
+Operating Supply Voltage: 5 V
+Product Type: Logic Gates
+Factory Pack Quantity: 25
+Subcategory: Logic ICs
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC08 گیت AND پکیج SO-14
+
+قیمت:
+71,910
+
+توضیحات کوتاه:
+آی سی منطقی 74HC08 شامل 4 گیت AND پکیج SO14
+
+توضیحات کامل:
+Specification
+Supply voltage: 2V to 6V
+Input voltage: 0V to VCC
+Maximum clock frequency: 50 MHz
+Contains four independent 2-input AND gates
+Schmitt-trigger inputs provide hysteresis to improve noise immunity
+Outputs are buffered and can drive up to 10 TTL loads
+Power dissipation: 500 mW
+Operating temperature range: -40°C to 125°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC11 گیت AND پکیج DIP
+
+قیمت:
+153,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HC11 شامل 3 گیت AND پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 2V to 6V
+Maximum clock frequency: 50 MHz
+Contains three independent 3-input AND gates
+Schmitt-trigger inputs provide hysteresis to improve noise immunity
+Outputs are buffered and can drive up to 10 TTL loads
+Power dissipation: 500 mW
+Operating temperature range: -40°C to 125°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HC86D گیت XOR پکیج SO-14
+
+قیمت:
+98,700
+
+توضیحات کوتاه:
+آی سی منطقی 74HC86D گیت XOR دو ورودی 4 تایی پکیج SO-14 SMD
+
+توضیحات کامل:
+Specification
+
+Part number: 74HC86D
+Product Category: Logic Gates
+Product: Single-Function Gate
+Logic Function: XOR
+Logic Family: HC
+Number of Gates: 4 Gate
+Number of Input Lines: 2 Input
+Number of Output Lines: 1 Output
+High Level Output Current: - 7.8 mA
+Low Level Output Current: 7.8 mA
+Propagation Delay Time: 120 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Maximum Operating Temperature: + 125 C
+Minimum Operating Temperature:- 40 C
+Mounting Style: SMD/SMT
+Package / Case:SO-14
+Logic Type: 2-Input OR
+Operating Supply Voltage:5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74HCT20 گیت NAND پکیج DIP
+
+قیمت:
+166,000
+
+توضیحات کوتاه:
+آی سی منطقی 74HCT20 شامل 2 گیت NAND با 4 ورودی پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 4.5V to 5.5V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±1mA
+Maximum output current: ±4mA
+Maximum propagation delay time: 22ns (at 5V and 25°C)
+Operating temperature range: -40°C to 85°C
+Dual 4-input NAND gate function
+Two independent gates (A and B)
+Eight input pins (1A to 4A and 1B to 4B)
+Two output pins (1Y and 2Y)
+TTL-compatible input voltage level
+CMOS-compatible output voltage level
+14-pin DIP
+
+
+========================================================================================================================
+
+عنوان:
+تراشه 74LS540 پکیج DIP
+
+قیمت:
+100,000
+
+توضیحات کوتاه:
+inverting octal buffer with three-state outputs
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 8 Input
+Number of Output Lines: 8 Output
+Polarity: Inverting
+High Level Output Current: - 15 mA
+Low-Level Output Current: 24 mA
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Operating Supply Current: 45 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Packaging: Tube
+Function: Buffer/Line Driver
+Operating Temperature Range:    0 C to + 70 C
+Output Type: 3-State
+Series: SN74LS540
+Technology: Bipolar
+Logic Family: LS
+Logic Type: Bipolar
+Number of Channels: 8
+Input Signal Type: Single-Ended
+Operating Supply Voltage: 5 V
+Product Type: Buffers & Line Drivers
+Propagation Delay Time: 15 ns at 5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه اشمیت تریگر 74LS14N پکیج DIP مارک INTEGRAL
+
+قیمت:
+218,000
+
+توضیحات کوتاه:
+آی سی 74LS14N اشمیت تریگر دارای خروجی وارون ساز پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Inverters
+Number of Circuits: 6 Circuit
+Logic Family: TTL
+Logic Type: Bipolar
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Function: Inverter Schmitt Trigger
+Input Type: Schmitt Trigger
+Operating Temperature Range: 0 C to + 70 C
+Number of Output Lines: 6 Output
+High Level Output Current: - 0.8 mA
+Low Level Output Current: 16 mA
+Operating Supply Voltage: 5 V
+Product Type: Inverters
+Propagation Delay Time: 22 ns
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HC125D پکیج SO-14
+
+قیمت:
+75,400
+
+توضیحات کوتاه:
+تراشه بافر74HC125D دارای باس 4 تایی و خروجی 3 تایی پکیج SO-14 SMD
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 2V to 6V
+Maximum clock frequency: 50 MHz
+Contains four independent buffer/line driver circuits
+3-state outputs allow the outputs to be disabled
+and effectively disconnected from the rest of the circuit when the output enable input is high
+Outputs are buffered and can drive up to 10 TTL loads
+Power dissipation: 500 mW
+Operating temperature range: -40°C to 125°C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HC244 پکیج DIP مارک INTEGRAL
+
+قیمت:
+90,800
+
+توضیحات کوتاه:
+آی سی بافر 74HC244AN سه حالته 8 کاناله با خروجی سه حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 8 Input
+Number of Output Lines: 8 Output
+Polarity: Non-Inverting
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Function: Buffer/Line Driver
+Output Type: 3-State
+Quiescent Current: 8 uA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HC367 پکیج DIP
+
+قیمت:
+243,000
+
+توضیحات کوتاه:
+آی سی بافر 74HC367 شش کاناله با خروجی سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 6 Input
+Number of Output Lines: 6 Output
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Package/Case: PDIP-16
+Function: Buffer/Line Driver
+High Level Output Current: - 2.6 mA
+Input Signal Type: Single-Ended
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HCT240AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی 74HCT240AN  بافر سه حالته 8 کاناله با خروجی سه حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 8 Input
+Number of Output Lines: 8 Output
+Polarity: Inverting
+Supply Voltage - Max: 5.5V
+Supply Voltage - Min: 4.5V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Function: Buffer/Line Driver
+Output Type: 3-State
+Quiescent Current: 8 uA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74HCT244AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+147,000
+
+توضیحات کوتاه:
+آی سی 74HCT244AN بافر 3 حالته 8 کانال پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+TTL/NMOS-Compatible Input Levels
+Outputs Directly Interface to CMOS, NMOS, and TTL
+Low Input Current: 1.0 μA
+Supply voltage range: 4.5 V to 5.5 V
+Maximum input/output current: +/- 35 mA
+Maximum propagation delay: 13 ns (at 5 V, 25°C)
+Operating temperature range: -40°C to +125°C
+Package: DIP-20 (Dual Inline Package with 20 pins)
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74LS244N پکیج DIP مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+تراشه بافر 74LS244N شامل 8 کانال با خروجی سه حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 8 Input
+Number of Output Lines: 8 Output
+Polarity: Non-Inverting
+Supply Voltage - Max: 5.5V
+Supply Voltage - Min: 4.5V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Mounting Style: Through Hole
+Package / Case: PDIP-20
+Function: Buffer/Line Driver
+Output Type: 3-State
+Quiescent Current: 8 uA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه بافر 74LS366 پکیج DIP
+
+قیمت:
+160,000
+
+توضیحات کوتاه:
+آی سی بافر 74LS366 شامل 6 کانال با خروجی سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 6 Input
+Number of Output Lines: 6 Output
+Polarity: Inverting
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Maximum Operating Temperature: + 125 C
+Mounting Style: Through Hole
+Package/Case: PDIP-16
+Function: Buffer/Line Driver
+High Level Output Current: - 2.6 mA
+Input Signal Type: Single-Ended
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور 74HCT273AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+142,000
+
+توضیحات کوتاه:
+آی سی 74HCT273AN ترنسیور 3 حالته 8 کانال با خروجی CMOS و TTL پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Introduction
+
+The IN74HCT273A is identical in pinout to the LS/ALS273.The IN74HCT273A may be used as a level converter for interfacing TTL or NMOS outputs to High-Speed CMOS inputs. This device consists of eight D flip-flops with common Clock and Reset inputs. Each flip-flop is loaded with a low-to-high transition of the Clock input. Reset is asynchronous and active low.
+
+Specification
+
+TTL/NMOS Compatible Input Levels
+Outputs Directly Interface to CMOS, NMOS, and TTL
+Operating Voltage Range: 4.5 to 5.5 V
+Low Input Current: 1.0 μA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MC74F245N پکیج DIP
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی ترنسیور MC74F245N با باس هشت تایی و خروجی 3 حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 4.5V to 5.5V
+Typical input voltage level: 0.8 x Vcc (minimum) to 2.0V (maximum)
+Maximum input current: ±20mA
+Maximum output current: ±24mA
+Maximum propagation delay time: 8ns (at 5V and 25°C)
+Octal bus transceiver function
+Bidirectional data pins (A1 to A8 and B1 to B8)
+Active-low output enable control pins (OE and OE#)
+Direction control pin (DIR)
+Fast TTL technology
+20-pin DIP (dual in-line package) package
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رجیستر 74LS670 پکیج DIP
+
+قیمت:
+138,000
+
+توضیحات کوتاه:
+آی سی منطقی 74LS670 رجیستر 4x4 شامل خروجی سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 4.75V to 5.25V
+Typical input voltage level: 2.0V (minimum) to 5.5V (maximum)
+Maximum input current: ±0.4mA
+Maximum output current: ±16mA
+Maximum propagation delay time: 30ns (at 5V and 25°C)
+4 x 4 register file function with open collector outputs
+Four independent registers, each with 4 bits
+16 data input/output pins (I0 to I3 and O0 to O3 for each register)
+Four control input pins (S0 to S3) for selecting the register to be accessed
+Active-low output enable control pin (OE#) for enabling or disabling the open collector outputs
+Low-power Schottky TTL technology
+16-pin DIP (dual in-line package) package
+
+
+========================================================================================================================
+
+عنوان:
+تراشه شمارنده 74HC193AD پکیج SO-16 مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی مدل 74HC193AD شمارنده باینری بالا شمار / پایین شمار پکیج SO-16 مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Product Category: Counter ICs
+Mounting Style: SMD/SMT
+Package / Case: SO-16
+Counter Type: Binary
+Number of Bits: 4 bit
+Counting Sequence: Up/Down
+Operating Supply Voltage: 2V to 6V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+
+
+========================================================================================================================
+
+عنوان:
+تراشه شیفت رجیستر 74HC595 پکیج DIP
+
+قیمت:
+80,900
+
+توضیحات کوتاه:
+آی سی 74HC595 شیفت رجیستر 8 بیتی پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Counter Shift Registers
+Counting Sequence: Serial to Serial/Parallel
+Number of Circuits: 1
+Number of Bits: 8 bit
+Package / Case: PDIP-16
+Logic Family: 74HC
+Logic Type: CMOS
+Number of Input Lines: 5 / 10
+Output Type: 3-State
+Propagation Delay Time: 200 ns, 40 ns, 34 ns
+Supply Voltage - Max: 6 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Function: Tri-State 8-Bit
+Series: SN74HC595
+Mounting Style: Through Hole
+Number of Output Lines: 10
+Operating Supply Voltage: 2 V to 6 V
+Product Type: Counter Shift Registers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HC74AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+152,000
+
+توضیحات کوتاه:
+آی سی فلیپ فلاپ 74HC74AN نوع D دوتایی پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Flip Flops
+Number of Circuits: 2
+Logic Family: TTL
+Logic Type: Bipolar
+Polarity: Inverting/Non-Inverting
+Input Type: Single-Ended
+Output Type: Differential
+Propagation Delay Time: 40 ns
+High Level Output Current: - 0.4 mA
+Low Level Output Current: 16 mA
+Supply Voltage - Min: 4.75 V
+Supply Voltage - Max: 5.25 V
+Mounting Style: SMD/SMT
+Package / Case: PDIP-14
+Function: D-Type
+Operating Temperature Range: 0 C to + 70 C
+Number of Channels: 2
+Number of Input Lines: 1
+Number of Output Lines: 1
+Operating Supply Voltage: 5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HCT374AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+134,000
+
+توضیحات کوتاه:
+آی سی 74HCT374AN فلیپ فلاپ نوع D دارای 8 کانال با خروجی 3 حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Circuits 8 Circuit
+Polarity Non-Inverting Type
+Output Type 3-State
+Function Tri-State Octal
+Propagation Delay Time 46 ns
+Input Type TTL
+Mounting Style Through Hole
+Supply Voltage (Min) 4.5 V
+Supply Voltage (Max) 5.5 V
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature +85 C°
+Brand INTEGRAL
+Package DIP-20
+
+
+========================================================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HCT74AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+160,000
+
+توضیحات کوتاه:
+آی سی 74HCT74AN فلیپ فلاپ نوع D دارای 2 کاناله پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Circuits 2 Circuit
+Polarity Inverting/Non-Inverting Type
+Function Dual
+Output Type CMOS
+Propagation Delay Time 28 ns
+Input Type TTL
+Mounting Style Through Hole
+Supply Voltage (Min) 4.5 V
+Supply Voltage (Max) 5.5 V
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature +85 C°
+Brand INTEGRAL
+Package DIP-14
+
+
+========================================================================================================================
+
+عنوان:
+تراشه لچ 74HC573PW پکیج SOP-20
+
+قیمت:
+157,000
+
+توضیحات کوتاه:
+آی سی 74HC573PW لچ 8 تایی تایپ D پکیج SOP-20 SMD
+
+توضیحات کامل:
+Specification
+
+Number of Circuits: 8 Circuit
+Logic Type: D-Type Latch
+Logic Family: 74HC
+Polarity: Non-Inverting
+Quiescent Current: 8 uA
+Number of Output Lines: 8 Line
+High Level Output Current: - 7.8 mA
+Propagation Delay Time: 15 ns
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature:  + 125 C
+Package / Case: SOP-20
+Function: Transparent
+Mounting Style: SMD/SMT
+Number of Channels: 8 Channels
+Number of Input Lines: 10 Line
+Operating Supply Voltage: 2 V to 6 V
+Output Type: 3-State
+Product Type: Latches
+Subcategory: Logic ICs
+Type: D-Type
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مالتی پلکسر 74HC157AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+139,000
+
+توضیحات کوتاه:
+تراشه مالتی پلکسر 4 بیتی 2 کانال با خروجی CMOS و TTL
+
+توضیحات کامل:
+Introduction
+
+The IN74HC157A is identical in pin out to the LS/ALS157. The device inputs are compatible with standard CMOS outputs; with pull up
+
+resistors, they are compatible with LS/ALSTTL outputs.
+
+This device routes 2 nibbles (A or B) to a single port (Y) as determined by the Select input. The data is presented at the outputs in non inverted form. A high level on the Output Enable input sets all four Y outputs to a low level.
+
+Specification
+
+Outputs Directly Interface to CMOS, NMOS, and TTL
+
+Operating Voltage Range: 2.0 to 6.0 V
+
+Low Input Current: 1.0 μA
+
+High Noise Immunity Characteristic of CMOS Devices
+

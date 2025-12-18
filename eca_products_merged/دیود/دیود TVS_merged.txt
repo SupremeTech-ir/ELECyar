@@ -1,0 +1,1093 @@
+عنوان:
+دیود TVS Bidirect پکیج SMB کد SMBJ15CA
+
+قیمت:
+15,700
+
+توضیحات کوتاه:
+دیود تی وی اس 15  ولت 600 وات SMBJ15CA پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+RoHS: Details
+Polarity: Bidirectional
+Number of Channels: 1 Channel
+Working Voltage: 15 V
+Termination Style: SMD/SMT
+Clamping Voltage: 24.4 V
+Breakdown Voltage: 16.7 V
+Package/Case: DO-214AA-2
+Ipp - Peak Pulse Current: 24.6 A
+Pppm - Peak Pulse Power Dissipation: 600 W
+Product Type: TVS Diodes
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Series: SMBJ
+Operating Supply Voltage: 15 V
+Pd - Power Dissipation: 5 W
+Subcategory: TVS Diodes / ESD Suppression Diodes
+Vf - Forward Voltage: 3.5 V
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Bidirect پکیج SMB کد SMBJ36CA
+
+قیمت:
+15,700
+
+توضیحات کوتاه:
+دیود تی وی اس 36  ولت 600 وات SMBJ36CA پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+Polarity: Bidirectional
+Number of Channels: 1 Channel
+Working Voltage: 36 V
+Termination Style: SMD/SMT
+Clamping Voltage: 58.1 V
+Breakdown Voltage: 40 V
+Package/Case: DO-214AA-2
+Ipp - Peak Pulse Current: 10.4 A
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: 30 kV
+Vesd - Voltage ESD Air Gap: 30 kV
+Product Type: TVS Diodes
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Series: SMBJ
+Pd - Power Dissipation: 5 W
+Subcategory: TVS Diodes / ESD Suppression Diodes
+Vf - Forward Voltage: 3.5 V
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Bidirect کد 1.5KE200CA پکیج DO-201
+
+قیمت:
+52,500
+
+توضیحات کوتاه:
+دیود TVS Bidirect کد 1.5KE200CA پکیج DO-201
+
+توضیحات کامل:
+Features
+
+• Peak pulse power:
+– 1500 W (10/1000 μs)
+– up to 10 kW (8/20 μs)
+• Stand-off voltage range from 5 V to 376 V
+• Unidirectional and bidirectional types
+• Operating Tj
+max: 175 °C
+• High power capability at Tj
+max.: up to 1100 W (10/1000 µs)
+• Lead finishing: matte tin plating
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Bidirect کد 5KP40CA
+
+قیمت:
+35,700
+
+توضیحات کوتاه:
+دیود TVS مدل 5KP40CA یک محافظ دوطرفه بسیار قدرتمند برای جلوگیری از آسیب‌های ناشی از ولتاژهای گذرا تا سطح 5000 وات
+
+توضیحات کامل:
+دیود 5KP40CA ساخت شرکت Good-Ark یکی از اعضای خانواده‌ی قدرتمند دیودهای TVS (جذب ولتاژ گذرا) است که برای حفاظت از مدارها در برابر پالس‌های گذرای شدید مانند ESD، نوسانات سوئیچینگ یا اثرات ناشی از اتصال و قطع ناگهانی طراحی شده است. این مدل از نوع دوطرفه (Bidirectional) بوده و از ساختار R-6/P600 بهره می‌برد که تحمل جریان بالا و نصب آسان در مدار را تضمین می‌کند. با قابلیت جذب توان لحظه‌ای تا 5000 وات در شکل موج 10/1000 میکروثانیه و پاسخ‌دهی بسیار سریع، این دیود در برابر شرایط ولتاژی بحرانی مقاومت بالایی از خود نشان می‌دهد. ویژگی‌هایی مانند نشتی بسیار کم، عملکرد پایدار در دماهای بالا، بدنه‌ی مقاوم در برابر اشتعال با درجه UL 94V-0 و محدوده دمایی کاری گسترده، این قطعه را برای کاربردهای حیاتی بسیار مناسب کرده است.
+
+مشخصات
+
+نوع پکیج: R-6 / P600
+پولاریته: دوطرفه (Bidirectional)
+ولتاژ کاری (VWM): 40V
+ولتاژ شکست (VBR): حداقل 44.4V و حداکثر 49.1V
+جریان تست ولتاژ شکست: 5.0mA
+جریان نشتی در ولتاژ کاری (ID): حداکثر 2.0μA
+جریان پیک پالسی (IPPM): برابر 77.5A
+ولتاژ کلمپ در جریان پیک (VC): حداکثر 64.5V
+توان پیک پالسی (PPPM): 5000W (در موج 10/1000μs)
+جریان پیک لحظه‌ای پیش‌سو (IFSM): حداکثر 500A
+توان اتلافی روی هیت‌سینک بی‌نهایت در دمای 75 درجه: 8W
+دمای کاری و ذخیره‌سازی: از -55°C تا +175°C
+
+کاربردهای رایج
+
+دیود 5KP40CA برای محافظت از تجهیزات حساس در برابر شوک‌های ولتاژی و پالس‌های شدید بسیار مناسب است. استفاده از این قطعه در ورودی منابع تغذیه، خطوط داده، مدارهای کنترل صنعتی، منابع تغذیه سوئیچینگ و آداپتورها باعث افزایش پایداری و طول عمر سیستم می‌شود. همچنین در سیستم‌های مانیتورینگ، تجهیزات پزشکی و زیرساخت‌های مخابراتی به‌عنوان یک راه‌حل موثر برای مقابله با خطرات ناشی از اضافه ولتاژ به‌کار می‌رود.
+
+حفاظت از منابع تغذیه سوئیچینگ (SMPS)
+محافظت از ورودی/خروجی تجهیزات صنعتی
+کاربرد در آداپتورها و شارژرهای صنعتی
+استفاده در سیستم‌های کنترل و مانیتورینگ
+کاربرد در خطوط برق با نویز بالا
+استفاده در تجهیزات پزشکی حساس به ولتاژ
+محافظت از تجهیزات مخابراتی و دیتالاگرها
+کاربرد در تجهیزات حمل‌ونقل و راه‌آهن
+محافظت در برابر اثرات رعد و برق در تابلو برق‌ها
+استفاده در تابلوهای توزیع و حفاظتی سیستم‌های برق اضطراری
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMA کد P4SMA300A
+
+قیمت:
+15,400
+
+توضیحات کوتاه:
+ESD Suppressors / TVS Diodes 300W 256V Unidirectional
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+
+Product Category: ESD Suppressors / TVS Diodes
+
+Product Type: TVS Diodes
+
+Polarity: Unidirectional
+
+Working Voltage: 256 V
+
+Number of Channels: 1 Channel
+
+Termination Style: SMD/SMT
+
+Package / Case: DO-214AC-2
+
+Breakdown Voltage: 285 V
+
+Clamping Voltage: 414 V
+
+Pppm - Peak Pulse Power Dissipation: 300 W
+
+Vesd - Voltage ESD Contact: -
+
+Vesd - Voltage ESD Air Gap: -
+
+Ipp - Peak Pulse Current: 730 mA
+
+Minimum Operating Temperature: - 65 C
+
+Maximum Operating Temperature: + 150 C
+
+Series: P4SMA
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ10A
+
+قیمت:
+16,500
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 10 ولت 600 وات SMBJ10A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 10 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package / Case: DO-214AA-2
+Breakdown Voltage: 11.1 V
+Clamping Voltage: 17 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance: -
+Ipp - Peak Pulse Current: 35.3 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ12A
+
+قیمت:
+15,400
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 12 ولت 600 وات SMBJ12A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 12 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package / Case: DO-214AA-2
+Breakdown Voltage: 13.3 V
+Clamping Voltage: 19.9 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance: -
+Ipp - Peak Pulse Current: 30.2 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ15A
+
+قیمت:
+15,100
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 15 ولت 600 وات SMBJ15A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 15 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package / Case: DO-214AA-2
+Breakdown Voltage: 16.7 V
+Clamping Voltage: 24.4 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance: -
+Ipp - Peak Pulse Current: 24.6 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ18A
+
+قیمت:
+15,100
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 18 ولت 600 وات SMBJ18A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 18 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package / Case: DO-214AA-2
+Breakdown Voltage: 20 V
+Clamping Voltage: 29.2 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance:-
+Ipp - Peak Pulse Current: 20.5 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ24A
+
+قیمت:
+15,100
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 24 ولت 600 وات SMBJ24A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 24 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package / Case: DO-214AA-2
+Breakdown Voltage: 26.7 V
+Clamping Voltage: 38.9 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance: -
+Ipp - Peak Pulse Current: 15.4 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ3.3A
+
+قیمت:
+17,900
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 3.3 ولت 600 وات SMBJ3.3A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category:ESD Suppressors / TVS Diodes
+RoHS:Details
+Series:SMBJ
+Product Type:TVS Diodes
+Vesd - Voltage ESD Contact:-
+Vesd - Voltage ESD Air Gap:-
+Polarity:Unidirectional
+Number of Channels:1 Channel
+Termination Style:SMD/SMT
+Breakdown Voltage:5.2V
+Working Voltage:3.3 V
+Clamping Voltage:6.2 V
+Ipp - Peak Pulse Current:31 A
+Package / Case:DO-214AA-2 (SMB)
+Pppm - Peak Pulse Power Dissipation:600 W
+Pd - Power Dissipation:3 W
+Minimum Operating Temperature:- 65 C
+Maximum Operating Temperature:+ 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ33A
+
+قیمت:
+21,300
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 33 ولت 600 وات SMBJ33A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+REACH - SVHC:
+Polarity: Unidirectional
+Number of Channels: 1 Channel
+Working Voltage: 33 V
+Termination Style: SMD/SMT
+Clamping Voltage: 53.3 V
+Breakdown Voltage: 36.7 V
+Package/Case: DO-214AA-2
+Ipp - Peak Pulse Current: 11.3 A
+Pppm - Peak Pulse Power Dissipation: 600 W
+Cd - Diode Capacitance: -
+Vesd - Voltage ESD Contact: 30 kV
+Vesd - Voltage ESD Air Gap: 30 kV
+Product Type: TVS Diodes
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Series: SMBJ
+Pd - Power Dissipation: 5 W
+Subcategory: TVS Diodes / ESD Suppression Diodes
+Vf - Forward Voltage: 3.5 V
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ48A
+
+قیمت:
+15,500
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 48 ولت 600 وات SMBJ48A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 48 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package / Case: DO-214AA-2
+Breakdown Voltage: 53.3 V
+Clamping Voltage: 77.4 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance: -
+Ipp - Peak Pulse Current: 7.8 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ5.0A
+
+قیمت:
+15,100
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 5.0 ولت 600 وات SMBJ5.0A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 5 V
+Number of Channels: 1 Channel
+Termination Style: SMD/SMT
+Package/Case: DO-214AA-2
+Breakdown Voltage: 6.4 V
+Clamping Voltage: 9.2 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Cd - Diode Capacitance: -
+Ipp - Peak Pulse Current: 65.2 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ7.5A
+
+قیمت:
+16,100
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 7.5 ولت 600 وات SMBJ7.5A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+RoHS: Details
+Polarity: Unidirectional
+Number of Channels: 1 Channel
+Working Voltage: 7.5 V
+Termination Style: SMD/SMT
+Clamping Voltage: 12.9 V
+Breakdown Voltage: 8.33 V
+Package/Case: DO-214AA-2
+Ipp - Peak Pulse Current: 46.5 A
+Pppm - Peak Pulse Power Dissipation: 600 W
+Product Type: TVS Diodes
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Series: SMBJ_A
+Packaging: Reel
+Brand: Vishay General Semiconductor
+Subcategory: TVS Diodes / ESD Suppression Diodes
+Tradename: TransZorb
+Vf - Forward Voltage: 3.5 V
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد 1.5KE56A
+
+قیمت:
+54,800
+
+توضیحات کوتاه:
+دیود 1.5KE56A یک دیود TVS یکسویه با توان 1500 وات برای حفاظت سریع مدار در برابر ولتاژهای گذرا
+
+توضیحات کامل:
+دیود 1.5KE56A از سری دیودهای TVS (Transient Voltage Suppressor) یک‌سویه است که برای محافظت از تجهیزات الکترونیکی در برابر پالس‌های ولتاژ گذرا مانند صاعقه، ESD، و نوسانات صنعتی طراحی شده است. این دیود از نوع یک‌طرفه بوده و در پکیج DO-201 عرضه می‌شود. سرعت پاسخ‌دهی بسیار بالا (کمتر از 1 پیکوثانیه)، قابلیت تحمل جریان پالس تا 200 آمپر (در موج نیم‌سینوسی 8.3ms) و توان پالس لحظه‌ای تا 1500 وات از ویژگی‌های مهم این قطعه است. دیود 1.5KE56A دارای ولتاژ شکست بین 53.2 تا 58.8 ولت است و تا ولتاژ 47.8 ولت را به‌عنوان سطح محدودکننده پیک ولتاژ در برابر جریان گذرا نگه‌می‌دارد. بدنه‌ی آن از مواد مقاوم در برابر شعله (UL 94V-0) ساخته شده و مطابق با استاندارد RoHS نیز می‌باشد. مناسب برای کاربردهای صنعتی، مخابراتی، تغذیه تجهیزات حساس و سیستم‌های خودرویی است.
+
+مشخصات
+
+ولتاژ کاری مداوم : 47.8 ولت
+ولتاژ شکست : 53.2 تا 58.8 ولت
+جریان تست ولتاژ شکست: 1 میلی‌آمپر
+جریان نشت معکوس: کمتر از 1 میکروآمپر
+جریان پیک پالسی : تا 20 آمپر در موج 10/1000μs
+ولتاژ گیره : 80.5 ولت در جریان پیک 19 آمپر
+توان پیک پالسی : 1500 وات در 10/1000μs
+ولتاژ مستقیم : حداکثر 3.5 ولت در جریان 50 آمپر
+پکیج: DO-201
+محدوده دمای کاری: °C 175+ ~ °C 55-
+ضریب دمای ولتاژ شکست: %0.103/°C
+
+کاربردهای رایج
+
+دیود حفاظتی 1.5KE56A برای استفاده در مدارهای حساس که نیاز به محافظت در برابر نوسانات ناگهانی ولتاژ دارند بسیار مناسب است. از جمله در منابع تغذیه صنعتی، تجهیزات مخابراتی، خطوط انتقال داده، سیستم‌های کنترل موتور، مدارات قدرت، وسایل نقلیه الکترونیکی و تجهیزات الکترونیکی مصرفی.
+
+محافظت ورودی منابع تغذیه صنعتی
+تجهیزات مخابراتی و آنتن‌ها
+سیستم‌های کنترل درایو موتور
+حفاظت خطوط سیگنال در بردهای مخابراتی
+مدارهای تغذیه LEDهای قدرت
+محافظت مدارهای سنسور در محیط‌های صنعتی
+سیستم‌های حفاظتی UPS و باتری
+تابلوهای توزیع برق با کنترل دیجیتال
+محافظت دستگاه‌های خانگی هوشمند
+
+Specification
+
+Diode Type: TVS Unidirectional
+Breakdown Voltage : Min 53.2 V, Max 58.8 V
+Working Stand-Off Voltage : 47.80 V
+Clamping Voltage : 77 V
+Peak Pulse Current : 20 A
+Peak Pulse Power : 1500 W (10/1000 μs)
+Reverse Leakage Current : Max 1 μA
+Temperature Coefficient of V: 0.106 %/°C
+Package: DO-201
+Operating Temperature Range: -55 °C to +175 °C
+Storage Temperature Range: -55 °C to +175 °C
+Maximum Instantaneous Forward Voltage : 3.5 V @ 50 A
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد 1.5KE82A
+
+قیمت:
+54,800
+
+توضیحات کوتاه:
+دیود 1.5KE82A یک دیود محافظ ولتاژ گذرا (TVS) با توان 1500 وات و واکنش بسیار سریع برای جلوگیری از آسیب ولتاژهای ناگهانی
+
+توضیحات کامل:
+دیود 1.5KE82A از نوع TVS (Transient Voltage Suppression) با عملکرد یکسویه است که برای محافظت مدارهای حساس در برابر پالس‌های ولتاژ گذرا طراحی شده است. این دیود توانایی تحمل پالس‌هایی با انرژی بالا (1500 وات در فرم‌ویو 10/1000μs) را دارد و زمان پاسخ‌دهی آن در حد پیکوثانیه است، که آن را برای کاربردهای صنعتی، خودرویی و تجهیزات حساس ایده‌آل می‌سازد. مدل 1.5KE82A دارای ولتاژ نامی 82 ولت، ولتاژ نگهدارنده 70.1 ولت، و ولتاژ کلمپینگ 113 ولت در جریان پیک 13.9 آمپر است. جریان نشتی کمتر از 1 میکروآمپر و ساختار مقاوم در برابر دما و رطوبت نیز از دیگر ویژگی‌های برجسته‌ی این قطعه است.
+
+مشخصات
+
+نوع دیود: TVS یکسویه
+ولتاژ شکست (VBR): حداقل 77.9 ولت، حداکثر 86.1 ولت
+ولتاژ کاری مداوم (VWM): 70.1 ولت
+ولتاژ کلمپینگ (VC) در جریان پیک: 113 ولت
+جریان پیک ضربه‌ای (IPP): برابر با 13.9 آمپر
+توان پیک ضربه‌ای (PPP): 1500 وات (با فرم‌ویو 10/1000 میکروثانیه)
+جریان نشتی معکوس (IR): حداکثر 1 میکروآمپر
+ضریب دمایی ولتاژ شکست: %۰.۱۰۵ در هر درجه سانتی‌گراد
+پکیج: DO-201
+ابعاد پکیج: قطر بدنه 8.5 تا 9.5 میلی‌متر، طول بدنه 5.0 تا 5.6 میلی‌متر
+محدوده دمای کاری: °C 175 ~ -55
+محدوده دمای نگهداری: °C 175 ~ -55
+حداکثر ولتاژ لحظه‌ای مستقیم (VF): برابر با 3.5 ولت در جریان 50 آمپر
+
+کاربردهای رایج
+
+دیود 1.5KE82A جهت محافظت از تجهیزات حساس در برابر پالس‌های گذرای ولتاژ کاربرد دارد و در سیستم‌های صنعتی، خودرو، تجهیزات مخابراتی، ورودی منابع تغذیه، ماژول‌های کنترل و سیستم‌های داده مورد استفاده قرار می‌گیرد.
+
+محافظت ورودی منابع تغذیه صنعتی
+تجهیزات کنترلی و PLC
+سیستم‌های خودرویی با ECU حساس
+حفاظت خطوط ارتباطی RS-485، CAN، LIN
+محافظت خروجی رگولاتورها و سنسورها
+تجهیزات پزشکی و ابزار دقیق
+ماژول‌های مخابراتی و آنتن‌های RF
+سیستم‌های امنیتی و کنترل دسترسی
+بردهای I/O با سرعت بالا
+محافظت از بُردهای الکترونیکی در محیط‌های نویزی
+
+Specification
+
+Diode Type: TVS Unidirectional
+Breakdown Voltage : Min 77.9 V, Max 86.1 V
+Working Stand-Off Voltage : 70.1 V
+Clamping Voltage : 113 V
+Peak Pulse Current : 13.9 A
+Peak Pulse Power : 1500 W (10/1000 μs waveform)
+Reverse Leakage Current : Max 1 μA
+Temperature Coefficient of V: 0.105 %/°C
+Package: DO-201
+Operating Temperature Range: -55 °C to +175 °C
+Storage Temperature Range: -55 °C to +175 °C
+Maximum Instantaneous Forward Voltage : 3.5 V @ 50 A
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد 1.5KE91A
+
+قیمت:
+54,800
+
+توضیحات کوتاه:
+دیود 1.5KE91A یک دیود TVS یکسویه با توان 1500 وات برای حفاظت سریع مدار در برابر ولتاژهای گذرا
+
+توضیحات کامل:
+دیود 1.5KE91A از سری دیودهای محافظ ولتاژ گذرا (TVS) با ساختار یکسویه است که جهت محافظت از تجهیزات الکترونیکی در برابر نوسانات ناگهانی ولتاژ، مانند رعد و برق یا تخلیه الکترواستاتیک، طراحی شده است. این قطعه با توان ضربه‌ای بالا برابر با 1500 وات (در پالس 10/1000 میکروثانیه) و زمان پاسخ‌دهی کمتر از 1 پیکوثانیه، عملکردی سریع و مؤثر در خنثی‌سازی ولتاژهای خطرناک دارد. این مدل دارای ولتاژ نامی 91 ولت، ولتاژ نگهدارنده 77.8 ولت و ولتاژ کلمپینگ 125 ولت در جریان پیک 12.6 آمپر است. جریان نشتی بسیار پایین (حداکثر 1 میکروآمپر) و پکیج DO-201 با تحمل حرارتی بالا باعث شده این دیود گزینه‌ای ایده‌آل برای محافظت از خطوط تغذیه، خروجی رگولاتورها، مدارات کنترل صنعتی و سایر مدارات حساس باشد.
+
+مشخصات
+
+نوع دیود: TVS یکسویه (Unidirectional)
+ولتاژ شکست (VBR): حداقل 86.5 ولت، حداکثر 95.5 ولت
+ولتاژ کاری مداوم (VWM): 77.8 ولت
+ولتاژ کلمپینگ (VC) در جریان پیک: 125 ولت
+جریان پیک ضربه‌ای (IPP): 12.6 آمپر
+توان پیک ضربه‌ای (PPP): 1500 وات (در 10/1000μs)
+جریان نشتی معکوس (IR): حداکثر 1 میکروآمپرد
+پکیج: DO-201
+حداکثر ولتاژ لحظه‌ای مستقیم (VF): 3.5 ولت (در جریان 50A)
+
+کاربردهای رایج
+
+دیود 1.5KE91A برای محافظت از مدارات در برابر ولتاژهای گذرا طراحی شده است و در سیستم‌هایی استفاده می‌شود که حساس به نوسانات ناگهانی ولتاژ هستند. به‌دلیل سرعت پاسخ‌دهی بسیار بالا و قابلیت جذب انرژی قابل توجه، در مدارهای صنعتی، تغذیه DC، مخابراتی، خودرو و الکترونیک مصرفی بسیار کاربرد دارد.
+
+حفاظت از خطوط تغذیه DC
+محافظت خروجی رگولاتورها
+محافظت مدارات کنترل صنعتی
+محافظت ورودی تجهیزات مخابراتی
+محافظت پورت‌های سنسورها و اکچویتورها
+حفاظت مدارات در برابر ESD و EFT
+محافظت سیستم‌های خودرو در برابر نوسانات باتری
+تجهیزات پزشکی و ابزارهای دقیق
+حفاظت بردهای الکترونیکی در محیط‌های نویزی
+کاربرد در تجهیزات نظامی و هوافضا
+
+Specification
+
+Diode Type: TVS Unidirectional
+Breakdown Voltage : Min 86.5 V, Max 95.5 V
+Working Stand-Off Voltage : 77.8 V
+Clamping Voltage : 125 V
+Peak Pulse Current : 12.6 A
+Peak Pulse Power : 1500 W (10/1000 μs)
+Reverse Leakage Current : Max 1 μA
+Temperature Coefficient of V: 0.106 %/°C
+Package: DO-201
+Operating Temperature Range: -55 °C to +175 °C
+Storage Temperature Range: -55 °C to +175 °C
+Maximum Instantaneous Forward Voltage : 3.5 V @ 50 A
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P4KE33A
+
+قیمت:
+23,800
+
+توضیحات کوتاه:
+دیود P4KE33A یک دیود محافظ ولتاژ لحظه‌ای با توان پیک 400 وات برای حفاظت در برابر پالس‌های ولتاژ گذرا
+
+توضیحات کامل:
+دیود P4KE33A یک دیود TVS (Transient Voltage Suppression) از نوع Unidirectional است که برای محافظت از مدارات الکترونیکی در برابر پالس‌های شدید ولتاژ طراحی شده است. این دیود دارای پیوند شیشه‌ای تقویت‌شده (Glass Passivated Junction) بوده و در پکیج DO-204AL (یا همان DO-41) با سرب‌های محوری ارائه می‌شود. توان تحملی بالا تا 400 وات در پالس‌های 10/1000 میکروثانیه، زمان پاسخ‌دهی بسیار سریع، و مقاومت پایین در برابر اضافه‌جریان از جمله ویژگی‌های مهم این قطعه هستند. همچنین طراحی آن مطابق با استانداردهای ایمنی UL 94V-0 برای مقاومت در برابر شعله و MIL-STD-750 برای لحیم‌پذیری می‌باشد. دیود P4KE33A با ولتاژ شکست دقیق، ولتاژ کلمپ مناسب و جریان نشتی بسیار پایین، محافظی مطمئن برای تجهیزات حساس در خطوط تغذیه یا سیگنال است.
+
+مشخصات
+
+نوع دیود: TVS یک‌سویه
+ولتاژ کاری (Stand-off Voltage): 33V
+ولتاژ شکست (Breakdown Voltage): حداقل 36.3V و حداکثر 40.2V در جریان 1mA
+حداکثر ولتاژ کلمپ (Clamping Voltage @ Ipp): 53.3V
+حداکثر جریان پالس (Peak Pulse Current): 8.4A
+حداکثر جریان نشتی در ولتاژ کاری: 1µA
+توان پالس لحظه‌ای: 400W (10/1000µs waveform)
+نوع پکیج: DO-204AL (DO-41)
+جنس بدنه: پلاستیکی مقاوم با استاندارد UL 94V-0
+مقدار VF (ولتاژ هدایت مستقیم): حداکثر 5V (برای ولتاژهای شکست بالای 220V)
+مقاومت حرارتی اتصال به محیط (RθJA): 100°C/W
+محدوده دمای کاری و نگهداری: 55- تا 175+ درجه سانتی‌گراد
+
+کاربردهای رایج
+
+دیود P4KE33A به‌عنوان محافظ در برابر پالس‌های ولتاژ گذرا در مدارهای حساس مورد استفاده قرار می‌گیرد. کاربرد اصلی آن در محافظت از تجهیزات الکترونیکی صنعتی، خطوط داده، تغذیه و کنترل است. با توجه به ساختار سریع و توان بالا، این قطعه در سیستم‌هایی که در معرض تخلیه الکترواستاتیکی (ESD)، پالس‌های ناشی از سوئیچینگ یا نوسانات برق هستند، بسیار مناسب است.
+
+محافظت خطوط تغذیه DC در بردهای صنعتی
+حفاظت مدارهای کنترل و ابزار دقیق
+محافظت از پورت‌های I/O میکروکنترلرها
+استفاده در تجهیزات مخابراتی
+مدارات قدرت با احتمال نویز بالا
+ماژول‌های حفاظتی در تجهیزات خودرویی
+سیستم‌های امنیتی و حفاظتی
+بردهای حساس در تجهیزات پزشکی
+محافظت در برابر ESD در دستگاه‌های مصرفی
+محافظ ورودی شارژرها و منابع تغذیه سوئیچینگ
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE10A
+
+قیمت:
+17,800
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 8.55 ولت 600 وات P6KE10A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 8.55 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 9.5 V
+Clamping Voltage: 14.5 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 41.4 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE12
+
+قیمت:
+17,100
+
+توضیحات کوتاه:
+دیود TVS یکسویه با توان 600 وات برای حفاظت در برابر ولتاژهای گذرای تا 12 ولت.
+
+توضیحات کامل:
+دیود TVS یکسویه P6KE12 از سری P6KE شرکت Taiwan Semiconductor، یک قطعه حفاظتی قدرتمند برای مدارهای حساس در برابر ولتاژهای گذرا و ضربه‌های الکتریکی است. این دیود با ساختار یکسویه، قابلیت پاسخ‌دهی بسیار سریع (کمتر از 1 پیکوثانیه) به اضافه‌ولتاژهای ناگهانی را دارد و با توان جذب پالس تا 600 وات در بازه زمانی 1 میلی‌ثانیه، از تجهیزات در برابر آسیب‌های ناشی از صاعقه، تخلیه الکترواستاتیکی (ESD) و نویزهای گذرا محافظت می‌کند. بدنه آن در پکیج DO-15 ساخته شده که با پوشش قلع خالص و استانداردهای RoHS و IEC 61249-2-21 مطابقت دارد. ویژگی‌های مهم آن شامل امپدانس دینامیکی پایین، جریان نشتی بسیار کم و قابلیت کار در دمای محیطی گسترده از ‎-55°C‎ تا ‎+175°C‎ است. این ویژگی‌ها باعث می‌شوند P6KE12 انتخابی ایده‌آل برای کاربردهای صنعتی، مخابراتی و تغذیه الکترونیکی باشد.
+
+مشخصات
+
+ولتاژ نامی شکست (VBR) حداقل: ‎10.8‎ ولت
+ولتاژ نامی شکست (VBR) حداکثر: ‎13.2‎ ولت
+ولتاژ کار معکوس (VWM): ‎9.72‎ ولت
+جریان نشتی در VWM: ‎1‎ میکروآمپر
+جریان پالس بیشینه (IPPM): ‎36‎ آمپر
+ولتاژ کلمپ بیشینه در IPPM: ‎17.3‎ ولت
+توان پالس بیشینه (PPK): ‎600‎ وات
+توان مصرفی مداوم (PD): ‎5‎ وات
+زمان پاسخ یکسویه: کمتر از ‎1‎ پیکوثانیه
+جریان هجومی نیم‌سینوسی 8.3ms (IFSM): ‎100‎ آمپر
+محدوده دمای کاری: ‎-55°C‎ تا ‎+175°C‎
+نوع پکیج: DO-15
+وزن: حدود ‎0.4‎ گرم
+
+کاربردهای رایج
+
+این دیود برای حفاظت تجهیزات الکترونیکی در برابر ولتاژهای گذرای ناشی از صاعقه، تخلیه الکترواستاتیکی و سوییچینگ ایده‌آل است. در منابع تغذیه سوئیچینگ، سیستم‌های مخابراتی، کنترلرهای صنعتی و تجهیزات خودرویی به‌طور گسترده استفاده می‌شود.
+
+حفاظت مدارهای تغذیه DC
+حفاظت ورودی سیستم‌های مخابراتی
+محافظت در برابر صاعقه در خطوط داده
+حفاظت بردهای کنترل صنعتی
+استفاده در سیستم‌های خودرویی برای حفاظت ECU
+محافظت از مدارات اندازه‌گیری و سنسورها
+حفاظت ورودی مبدل‌های AC به DC
+استفاده در دستگاه‌های پزشکی غیرحیاتی
+حفاظت سیستم‌های امنیتی و دوربین‌ها
+حفاظت تجهیزات آزمایشگاهی و اندازه‌گیری
+
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 12 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 13.2 V
+Clamping Voltage: 17.3 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 36 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE12A
+
+قیمت:
+17,800
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 10.2 ولت 600 وات P6KE12A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 12 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 13.2 V
+Clamping Voltage: 17.3 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 36.6 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE15A
+
+قیمت:
+17,800
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 12.8 ولت 600 وات P6KE15A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 12.8 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 14.3 V
+Clamping Voltage: 21.2 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 28.3 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE16A
+
+قیمت:
+17,800
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 13.6 ولت 600 وات P6KE16A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 13.6 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 15.2 V
+Clamping Voltage: 22.5 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 26.7 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE22
+
+قیمت:
+17,100
+
+توضیحات کوتاه:
+دیود TVS یکسویه برای حفاظت مدارات در برابر ولتاژهای گذرای تا 600 وات
+
+توضیحات کامل:
+دیود P6KE22-R یک دیود TVS (Transient Voltage Suppressor) یکسویه با توان پیک 600 وات است که برای حفاظت از مدارهای الکترونیکی در برابر ولتاژهای گذرای ناشی از تخلیه الکترواستاتیک (ESD)، صاعقه یا نوسانات ناگهانی در خطوط تغذیه و سیگنال طراحی شده است. این قطعه در کسری از نانوثانیه عمل کرده و ولتاژ اضافه را به زمین هدایت می‌کند تا از آسیب به اجزای حساس جلوگیری شود. بسته‌بندی DO-15 با ابعاد کوچک و نصب DIP باعث سهولت استفاده در انواع بردهای مدار چاپی می‌شود. ویژگی‌هایی همچون امپدانس دینامیکی پایین، جریان نشتی بسیار کم و قابلیت کار در بازه دمایی وسیع (-55 تا +175 درجه سانتی‌گراد) باعث شده این قطعه در طراحی‌های صنعتی و تجاری به‌طور گسترده به کار رود.
+
+مشخصات
+
+ولتاژ نامی (VBR): بین 19.8 تا 24.2 ولت
+ولتاژ کاری معکوس (VWM): 17.8 ولت
+جریان نشتی در VWM: حداکثر 1 µA
+حداکثر جریان پیک پالسی (IPPM): 19.0 آمپر
+ولتاژ کلمپ در جریان پیک (VC): حداکثر 31.9 ولت
+توان پیک پالسی (PPP): 600 وات (1ms)
+توان مصرفی پیوسته: 5 وات در دمای پایه 75°C
+بسته‌بندی: DO-204AC (DO-15)
+ابعاد بدنه: قطر 2.6 تا 3.6 میلی‌متر، طول بدنه 5.8 تا 7.6 میلی‌متر
+دمای کاری: -55 تا +175 درجه سانتی‌گراد
+
+کاربردهای رایج
+
+این دیود در حفاظت مدارات تغذیه، خطوط دیتا و تجهیزات الکترونیکی حساس در برابر ولتاژهای گذرا استفاده می‌شود. سرعت پاسخ بسیار بالا و توانایی مهار انرژی زیاد آن را برای محیط‌های صنعتی و تجهیزات مخابراتی ایده‌آل کرده است.
+
+حفاظت ورودی تغذیه تجهیزات صنعتی
+حفاظت مدارهای کنترل موتور
+حفاظت پورت‌های ارتباطی در سیستم‌های مخابراتی
+جلوگیری از آسیب ESD در مدارات دیجیتال
+حفاظت در دستگاه‌های اندازه‌گیری دقیق
+کاربرد در UPS و منابع تغذیه سوئیچینگ
+محافظت در سیستم‌های اتوماسیون صنعتی
+کاربرد در تجهیزات صوتی و تصویری حرفه‌ای
+سیستم‌های امنیتی و دوربین‌های مداربسته
+حفاظت تجهیزات پزشکی غیرحیاتی
+
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 22 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 24.2 V
+Clamping Voltage: 31.9 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 19 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE24A
+
+قیمت:
+17,800
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 20.5 ولت 600 وات P6KE24A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 20.5 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 22.8 V
+Clamping Voltage: 33.2 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 18.1 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE6.8A
+
+قیمت:
+17,900
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 5.8 ولت 600 وات P6KE6.8A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 5.8 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 6.45 V
+Clamping Voltage: 10.5 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 57.1 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE8.2A
+
+قیمت:
+17,900
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 7.02 ولت 600 وات P6KE8.2A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay
+Product Category: ESD Suppressors / TVS Diodes
+Product Type: TVS Diodes
+Polarity: Unidirectional
+Working Voltage: 7.02 V
+Number of Channels: 1 Channel
+Termination Style: Axial
+Package / Case: DO-204AC-2
+Breakdown Voltage: 7.79 V
+Clamping Voltage: 12.1 V
+Pppm - Peak Pulse Power Dissipation: 600 W
+Vesd - Voltage ESD Contact: -
+Vesd - Voltage ESD Air Gap: -
+Ipp - Peak Pulse Current: 49.6 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 175 C
+

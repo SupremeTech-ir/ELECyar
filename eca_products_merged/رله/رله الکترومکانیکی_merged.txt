@@ -1,0 +1,899 @@
+عنوان:
+رله 12V بچه میلون T78 مارک LIMING کد T78-12VDC
+
+قیمت:
+240,000
+
+توضیحات کوتاه:
+رله 10 آمپر 120 ولت AC و 20 آمپر 14 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 15.7×12.3×14
+Dielectric Strengh: Between Open Contact 500VAC
+Between Coil and Contact: 500VAC
+Contact Form: 1A,1C
+Contact Resistance: < 50 mΩ
+Coil Voltage: 12VDC
+Mechanical: 10^7
+Electrical 10^5
+Pick-up Voltage: ≤65%
+Temperature Range: -40~ +85℃
+Release Voltage: ≥10%
+Coil Power(W): 0.6W,0.8W
+Contact transfer Current(A): 20A
+Mounting Form: PCB Terminal
+Contact Rating: NO:20A 14VDC 10A 120VAC
+NC:15A 14VDC 10A 120VAC
+Weight: 6g
+Insulation Resistance: 100 MΩ
+Safty Approval: UL,TUV
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V بچه میلون T78 مارک TIANBO کد HJR-78F-S-Z
+
+قیمت:
+439,000
+
+توضیحات کوتاه:
+رله 7 آمپر 120 ولت AC و 20 آمپر 14 ولت DC دارای 1 کنتاکت 5 پایه تیانبو TIANBO
+
+توضیحات کامل:
+Specification
+
+Part Number
+HJR-78F(TRKM)-S-Z
+Manufacturer
+TIANBO ELECTRONICS
+Relay, 12V, 7A/120VAC
+NO:20A
+NC:12A 14VDC
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V شیشه ای 4 پایه ژاپنی مارک OMRON کد G6C-1117P
+
+قیمت:
+868,000
+
+توضیحات کوتاه:
+رله 10 آمپر 250 ولت AC و 10 آمپر 30 ولت DC دارای 1 کنتاکت 4 پایه Omron
+
+توضیحات کامل:
+Specification
+SPST-NO 10A for power switching and output that satisfy the needs for space-saving.
+Small High-capacity Relays Compact: 20 × 15 × 10 mm (L × W × H).
+Low power consumption: 200 mW.
+Ultrasonically cleanable models is available.
+Exclusive P6C model for sockets is now available.
+switching voltage: 250VAC, 30VDC
+switching current: 10A
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V مینیاتوری 4 پایه کره ای مارک YUYU کد UT210-12S
+
+قیمت:
+438,000
+
+توضیحات کوتاه:
+رله 5 آمپر 250 ولت AC و 10 آمپر 30 ولت DC دارای 1 کنتاکت 4 پایه YUYU
+
+توضیحات کامل:
+Specification
+Coil Voltage: 12VDC
+Contact Rating: 10A/120VAC - 5A/250VAC
+Coil Impedance: 407 ohm
+Dimensions: 22x18x12mm
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V مینیاتوری 8 پایه ژاپنی مارک FUJITSU کد 46ND012
+
+قیمت:
+525,000
+
+توضیحات کامل:
+- Miniature size
+About 50% smaller in volume compared with the FBR240 series used mainly in communication equipment.
+- High surge voltage
+2,500 V minimum of surge strength (Bellcore standard), and 1,500 VAC minimum of dielectric strength between coil and contact (-15, -16 type).
+- Low power consumption
+85 mW of operate power (150 mW of nominal power con- sumption) by built-in permanent magnet.
+
+Rated load: 0.5 A at 120 VAC, 1 A at 30 VDC
+Max. switching voltage: 125 V
+Max. switching current: 1 A
+Max. switching capacity: 30 W
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V-10A پایه میلون T73 مارک LIMING کد JQC-3F-1C-12VDC
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+رله 7 آمپر 240 ولت AC و 10 آمپر 28 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 19×15.5×15.5
+Dielectric Strengh Between Open Contact: 750VAC
+Contact Form: 1A,1B,1C
+Between Coil and Contact: 1500VAC
+Contact Resistance: 100 mΩ
+Coil Voltage: 5VDC ~ 48VDC
+Electrical: 10^5
+Mechanical: 10^7
+Pick-up Voltage: ≤75%
+Temperature Range: -40~ +70℃
+Release Voltage: ≥10%
+Coil Power(W): 0.36
+Mounting Form: PCB Terminal
+Contact Rating: 10A  120VAC
+7A  240VAC
+10A/15A  28VDC
+Weight: 10g
+Insulation Resistance: 100 MΩ
+Safty Approval: UL
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V-10A پایه میلون T73 مارک SONGLE کد SRD-12VDC-SL-C
+
+قیمت:
+145,000
+
+توضیحات کوتاه:
+رله 10 آمپر 250 ولت AC و 10 آمپر 30 ولت DC دارای 1 کنتاکت 5 پایه SONGLE
+
+توضیحات کامل:
+Specification
+
+SONGLE
+SRD-12VDC-SL-C
+
+10A 250VAC / 10A 125VAC
+
+10A 30VDC / 10A 28VDC
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V-10A پایه میلون T73 مارک TIANBO کد HJR-21FF-S-Z
+
+قیمت:
+578,000
+
+توضیحات کوتاه:
+رله 10 آمپر 240 ولت AC دارای 1 کنتاکت 5 پایه تیانبو TIANBO
+
+توضیحات کامل:
+Specification
+TIANBO
+HJR-21FF-S-Z
+
+Coil:12VDC
+
+12A 120VAC
+
+10A 240VAC
+
+7A 240VAC
+
+TV-5
+
+
+========================================================================================================================
+
+عنوان:
+رله 12V-7A پایه میلون T73 مارک TIANBO کد HJR-3FF-S-Z
+
+قیمت:
+401,000
+
+توضیحات کوتاه:
+رله 7 آمپر 240 ولت AC دارای 1 کنتاکت 5 پایه تیانبو TIANBO
+
+توضیحات کامل:
+Specification
+TIANBO
+
+HJR-3FF-S-Z
+
+Coil:12VDC
+
+10A 120VAC
+
+7A 240VAC
+
+5A 240VAC
+
+
+========================================================================================================================
+
+عنوان:
+رله 24V بچه میلون T78 مارک LIMING کد T78-24VDC
+
+قیمت:
+248,000
+
+توضیحات کوتاه:
+رله 10 آمپر 120 ولت AC و 20 آمپر 14 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 15.7×12.3×14
+Dielectric Strengh: Between Open Contact 500VAC
+Between Coil and Contact: 500VAC
+Contact Form: 1A,1C
+Contact Resistance: < 50 mΩ
+Coil Voltage: 24VDC
+Mechanical: 10^7
+Electrical 10^5
+Pick-up Voltage: ≤65%
+Temperature Range: -40~ +85℃
+Release Voltage: ≥10%
+Coil Power(W): 0.6W,0.8W
+Mounting Form: PCB Terminal
+Contact Rating: NO:20A 14VDC 10A 120VAC
+NC:15A 14VDC 10A 120VAC
+Weight: 6g
+Insulation Resistance: 100 MΩ
+Safty Approval: UL,TUV
+
+
+========================================================================================================================
+
+عنوان:
+رله 24V قدرت 5 پایه مارک TIANBO مدل HJQ-15F-S-Z
+
+قیمت:
+1,400,000
+
+توضیحات کوتاه:
+رله قدرت 20 آمپر 240 ولت AC دارای 1 کنتاکت 5 پایه تیانبو TIANBO
+
+توضیحات کامل:
+Specification
+
+Type HJQ-15F-S-Z-24VDC
+Coil nominal voltage 24 V DC
+Control mode monostable, 1 coil
+R(coil) 620 Ω
+Coil voltage rating 0.93 W
+Contact type 1 change-over
+Contact material Silver alloy
+Switching voltage (max.) 30 V DC , 250 V AC
+Switching current (max.) 30 A
+Max. switching capacity 7200 VA , 560 W
+Connection Solder pins
+Response time 15 ms
+Fall time 10 ms
+Electrical lifespan 100 000 Switching cycles
+Durability 1000 0000 switching cycles
+Min. temperature -40 °C
+Max. temperature +70 °C
+Length 32 mm
+Width 27.4 mm
+Height 23.4 mm
+Dim (L x W x H) 32 x 27.4 x 23.4 mm
+Content 1 pc(s)
+Product type PCB relay
+
+
+========================================================================================================================
+
+عنوان:
+رله 3V مینیاتوری 10 پایه ژاپنی مارک NAIS کد TF2-L2
+
+قیمت:
+438,000
+
+توضیحات کامل:
+Nominal switching capacity (resistive load): 1 A 30 V DC, 0.5 A 125 V AC
+Max. switching power(resistive load): 30 W, 62.5 VA
+Max. switching voltage: 110 V DC, 125 V AC
+Max. switching current: 1 A
+Min. switching capacity: 10 uA 10 mV DC
+Nominal operating power: 2 coil latching: 110 mW (3 to 12 V DC) 200 mW (24 V DC)
+
+
+========================================================================================================================
+
+عنوان:
+رله 48V مینیاتوری 4 پایه ژاپنی کد OUDH-SS-148DB
+
+قیمت:
+362,100
+
+توضیحات کوتاه:
+رله 48 ولت 10 آمپر مینیاتوری 4 پایه ژاپنی
+
+توضیحات کامل:
+Specification
+
+Contact Material: Cadmium, Gold, Silver
+Number of Pins: 4
+Coil Voltage (DC) : 48 V
+Contact Current Rating : 10 A
+Max Operating Temperature: 90 °C
+Min Operating Temperature: -40 °C
+Voltage Rating (AC): 250 V
+Dimention: 21x17x15
+
+
+========================================================================================================================
+
+عنوان:
+رله 48V مینیاتوری 8 پایه ژاپنی مارک MATSUSHITA کد DS2E-M
+
+قیمت:
+557,000
+
+توضیحات کامل:
+توجه فرمائید این رله به دلیل شرایط بد انبارداری در گذشته، دارای خط و خش جزئی در بدنه و مقداری اکسید شدگی بر روی قسمت فلزی می باشد.لازم به ذکر است که از نظر کارایی مشکلی نداشته و اورجینال ژاپنی هستند. همگی تست شده و دارای مهلت گارانتی تست می باشند
+
+Specification
+
+High sensitivity: 400mW pick-up power
+High switching capacity: 60W, 125VA
+Max. switching power: 60W, 125VA
+Max. switching voltage: 220V DC, 250V AC
+Max. switching current: 2A DC, AC
+Max. carrying current: 3A DC, AC
+High breakdown voltage: 1500V FCC surge between open contacts, 1000V AC between open contacts
+2C type can be used with 16 pin IC socket
+Gold-cap silver palladium types available for 2 Form C type
+Bifurcated contacts are standard
+
+
+========================================================================================================================
+
+عنوان:
+رله 5V بچه میلون T78 مارک LIMING کد T78-5VDC
+
+قیمت:
+244,000
+
+توضیحات کوتاه:
+رله 10 آمپر 120 ولت AC و 20 آمپر 14 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 15.7×12.3×14
+Dielectric Strengh: Between Open Contact 500VAC
+Between Coil and Contact: 500VAC
+Contact Form: 1A,1C
+Contact Resistance: < 50 mΩ
+Coil Voltage: 5VDC
+Mechanical: 10^7
+Electrical 10^5
+Pick-up Voltage: ≤65%
+Temperature Range: -40~ +85℃
+Release Voltage: ≥10%
+Coil Power(W): 0.6W,0.8W
+Mounting Form: PCB Terminal
+Contact Rating: NO:20A 14VDC 10A 120VAC
+NC:15A 14VDC 10A 120VAC
+Weight: 6g
+Insulation Resistance: 100 MΩ
+Safty Approval: UL,TUV
+
+
+========================================================================================================================
+
+عنوان:
+رله 5V مینیاتوری 10 پایه ژاپنی مارک NAIS کد TF2-L2
+
+قیمت:
+391,000
+
+توضیحات کامل:
+Nominal switching capacity (resistive load): 1 A 30 V DC, 0.5 A 125 V AC
+Max. switching power(resistive load): 30 W, 62.5 VA
+Max. switching voltage: 110 V DC, 125 V AC
+Max. switching current: 1 A
+Min. switching capacity: 10 uA 10 mV DC
+Nominal operating power: 2 coil latching: 110 mW (3 to 12 V DC) 200 mW (24 V DC)
+
+
+========================================================================================================================
+
+عنوان:
+رله 5V مینیاتوری 22 پایه مارک TAKAMISAWA کد UR1L-D5W-K
+
+قیمت:
+1,070,000
+
+توضیحات کوتاه:
+useful for high frequency signal switching
+
+توضیحات کامل:
+Subminiature polarized relay
+● Excellent high frequency characteristics
+—Isolation : minimum 60 dB
+—Insertion loss: maximum 1 dB
+—V.S.W.R. : maximum 1.2 }
+● High reliability—Bifurcated contacts
+● Wide operating range
+● DIL pitch terminals
+● Plastic sealed type backfilled with nitrogen
+● Latching type available
+
+
+========================================================================================================================
+
+عنوان:
+رله 5V مینیاتوری 8 پایه مارک TAKAMISAWA کد RA5W-K
+
+قیمت:
+525,000
+
+توضیحات کامل:
+Contact Material: Gold, Silver
+Mount: Through Hole
+Number of Pins: 8
+Coil Current:29.94 mA
+Coil Resistance: 167 Ω
+Coil Type: Non-Latching
+Coil Voltage (DC): 5 V
+Contact Current Rating :2 A
+Max Current Rating: 2 A
+Max Operating Temperature: 80 °C
+Max Voltage Rating (AC): 250 V
+Max Voltage Rating (DC): 220 V
+Min Operating Temperature: -40 °C
+Operate Time: 6 ms
+Power Consumption :150 mW
+Termination: Solder
+Throw Configuration: DPDT
+Voltage Rating (AC): 250 V
+Depth:10 mm
+Length: 20.05 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله 5V مینیاتوری 8 پایه ژاپنی مارک OMRON کد G6GN-2D
+
+قیمت:
+391,000
+
+توضیحات کوتاه:
+رله  5 ولت DC دارای 2 کنتاکت 8 پایه Omron
+
+توضیحات کامل:
+Specification
+Rated load: 0.5 A at  5 VDC
+Max. switching current: 0.5 A
+Max. switching capacity: 24 W
+
+
+========================================================================================================================
+
+عنوان:
+رله 5V پایه میلون T73 مارک LIMING کد JQC-3F-1C-5VDC
+
+قیمت:
+162,000
+
+توضیحات کوتاه:
+رله 7 آمپر 240 ولت AC و 10 آمپر 28 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 19×15.5×15.5
+Dielectric Strengh Between Open Contact: 750VAC
+Contact Form: 1A,1B,1C
+Between Coil and Contact: 1500VAC
+Contact Resistance: 100 mΩ
+Coil Voltage: 5VDC ~ 48VDC
+Electrical: 10^5
+Mechanical: 10^7
+Pick-up Voltage: ≤75%
+Temperature Range: -40~ +70℃
+Release Voltage: ≥10%
+Coil Power(W): 0.36
+Contact transfer Current(A): 15A
+Mounting Form: PCB Terminal
+Contact Rating: 10A 120VAC
+7A 240VAC
+10A/15A  28VDC
+Weight: 10g
+Insulation Resistance: 100 MΩ
+
+
+========================================================================================================================
+
+عنوان:
+رله 6V پایه میلون بوبین کنار 4 پین 10A تایوانی مارک SONG CHUAN کد 801H-1A-C
+
+قیمت:
+319,000
+
+توضیحات کوتاه:
+رله 10 آمپر 250 ولت AC دارای 1 کنتاکت 4 پایه Song Chuan
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Song Chuan
+Product Category: General Purpose Relays
+RoHS: Details
+Product: Power Relays
+Coil Voltage: 6VDC
+Relay Contact Form: 1 Form A (SPST-NO)
+Contact Current Rating: 10 A
+Contact Power Rating: 250VAC/10A-125VAC/15A
+Contact Termination: Quick Connect Terminal
+Mounting Style: Socket
+Coil Resistance: 1.6KOhms
+Contact Material: Silver Tin Oxide (AgSnO)
+Series: 801H
+Length: 22.5 mm
+Width: 16.5mm
+Height: 20.3mm
+
+
+========================================================================================================================
+
+عنوان:
+رله 9V مینیاتوری 10 پایه ژاپنی مارک TAKAMISAWA کد A9W-K
+
+قیمت:
+627,000
+
+توضیحات کامل:
+Description
+
+Contact Material: Gold, Silver
+Mount: Through Hole
+Number of Pins: 10
+Weight: 1.2 g
+Coil Current:15.54 mA
+Coil Resistance: 579 Ω
+Coil Type: Non-Latching
+Coil Voltage (DC): 9 V
+Contact Current Rating: 2 A
+Max Current Rating: 2 A
+Max Operating Temperature :85 °C
+Max Voltage Rating (AC): 125 V
+Max Voltage Rating (DC):110 V
+Min Operating Temperature: -40 °C
+Operate Time: 6 ms
+Power Consumption: 140 mW
+Termination: Solder
+Throw Configuration: DPDT
+Voltage Rating (AC): 125 V
+Voltage Rating (DC):110 V
+Depth: 9 mm
+Length:14 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله 9V مینیاتوری 5 پایه بوبین کنار تایوانی مارک SONG CHUAN کد 842A-1C-C
+
+قیمت:
+288,000
+
+توضیحات کوتاه:
+رله کوچک با بوبین 9 ولت و سه آمپر خروجی AC، مناسب برای کنترل بارهای پراکنده در مدارات الکترونیکی و الکتریکی سبک
+
+توضیحات کامل:
+این رله از نوع مینیاتوری با بوبین 9V DC است که وقتی بوبین با ولتاژ تغذیه شود، کنتاکت آن (SPST Normally-Open) بسته شده و مسیر جریان را برقرار می‌سازد. توان عبوری تا 3A AC در 125VAC امکان کنترل تجهیزات کم‌مصرف یا مدارات فرمان را فراهم می‌کند. مقاومت بوبین 255Ω و توان مصرفی بوبین حدود 850 mW است، که مصرف نسبتاً کم و پاسخ سریع را تضمین می‌کند. با ابعاد کوچک و پین‌های مناسب برای نصب از نوع Through-Hole (سوراخ‌کاری)، این رله برای پروژه‌های DIY، دستگاه‌های کنترلی خانگی یا صنعتی سبک، ماژول‌های رله و بردهای فرمان مناسب است.
+
+مشخصات
+
+ولتاژ بوبین: 9V DC
+توان خروجی کنتاکت: 125VAC / 3A
+فرم کنتاکت: 1 Form A (SPST Normally-Open)
+مقاومت بوبین: 255 Ω
+توان مصرفی بوبین: ~850 mW
+نوع نصب: Through-Hole
+تعداد پایانه: 5 (پنج-پین)
+
+کاربردهای رایج
+
+مدارات رله در دستگاه‌های خانگی
+ماژول‌های کنترل بار کم (مثل چراغ، فن کوچک، موتورها یا بارهای AC سبک)
+پروژه‌های DIY و بردهای آزمایشی
+اتوماسیون خانگی (Home Automation)
+سیستم‌های فرمان و کنترل صنعتی سبک
+محافظت و جداسازی مدارات فرمان از بارهای AC
+مدارات کنترل با میکروکنترلر (MCU)
+لوازم برقی با مصرف متوسط
+نمونه-سازی-های الکترونیکی
+
+This is a small-form-factor relay with a 9 V DC coil. When the coil is energized, the relay closes its SPST Normally-Open contact, allowing current to flow through the load circuit. It can switch loads up to 3 A at 125 VAC, making it ideal for controlling small electrical devices or signal-level switching circuits. The coil resistance is 255 Ω, with a coil power consumption of roughly 850 mW, ensuring low power draw and quick response. Its through-hole mounting and 5-pin configuration ease integration into PCB boards, and its small size makes it suitable for DIY projects, home automation modules, and light-duty control systems.
+
+Specifications
+
+Coil voltage: 9 V DC
+Contact configuration: 1 Form A (SPST Normally-Open)
+Contact rating: 125 VAC / 3 A
+Coil resistance: 255 Ω
+Coil power consumption: ~850 mW
+Mounting style: Through-Hole
+Number of pins: 5
+
+Common Applications
+
+Relay control circuits in home appliances
+Modules for switching light loads (lights, small fans, low-power motors, AC loads)
+DIY electronics projects and prototype boards
+Home automation systems
+Light industrial control and automation
+Isolation between control logic and AC loads
+Microcontroller-based switching circuits
+Electrical devices with moderate load
+Electronics prototyping and testing
+
+
+========================================================================================================================
+
+عنوان:
+رله فیش خور - کولری 12 ولت 30 آمپر T91 مارک LIMING کد JQX-4501F-1C-S
+
+قیمت:
+669,000
+
+توضیحات کوتاه:
+رله کولری 30 آمپر 240 ولت AC و 30 آمپر 28 ولت DC دارای 2 کنتاکت 8 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Manufacturer: LTonic
+Series: Liming
+Pin Arrangement: T91
+Model: JQX-4501F
+Coil Voltage: 12VDC
+Coil Resistance: 650ohm
+Contact Rating: NC: 20A 240VAC/28VDC
+NO: 30A 240VAC/28VDC
+electrical endurance of contacts - 100,000 times
+dielectric strength between open contacts - 1000 V rms / per 1 min
+dielectric strength between coil and contacts - 1500 V rms / per 1 min
+operating temperature - from -45°C to + 70°C
+dimensions - 32 x 27 x 28 mm
+
+
+========================================================================================================================
+
+عنوان:
+رله فیش خور - کولری 24 ولت 30 آمپر T91 مارک TIANBO کد HJQ-15F-1-S-Z
+
+قیمت:
+1,460,000
+
+توضیحات کوتاه:
+رله فیش‌خور 24 ولت 30 آمپر TIANBO، مناسب برای کاربردهای کولری و صنعتی با ظرفیت سوییچینگ بالا و پایداری الکتریکی مطلوب
+
+توضیحات کامل:
+رله HJQ-15F-1-S-Z ساخت شرکت TIANBO از نوع فیش‌خور (Quick Connect) بوده و برای کاربردهای عمومی با توان بالا مانند کولرهای گازی و صنعتی طراحی شده است. این مدل از نوع فرم C (Form C یا SPDT) با قابلیت سوئیچ جریان تا 30 آمپر در ولتاژ 240VAC می‌باشد. ولتاژ تحریک سیم‌پیچ این رله 24 ولت DC بوده و توان مصرفی آن حدود 0.93 وات است که عملکردی کم‌مصرف همراه با پاسخ‌گویی سریع فراهم می‌کند. جنس کنتاکت‌ها از آلیاژ نقره بوده که تضمین‌کننده‌ی طول عمر بالا و حداقل مقاومت الکتریکی است. از ویژگی‌های برجسته این رله می‌توان به مقاومت دی‌الکتریک 2500VAC بین کنتاکت و سیم‌پیچ، مقاومت بالا در برابر شوک و لرزش، و استانداردهای ایمنی بین‌المللی مانند UL، CQC و TÜV اشاره کرد. ساختار آب‌بندی‌شده (Sealed Type) آن نیز محافظت در برابر گرد و غبار و رطوبت را فراهم می‌آورد که برای محیط‌های صنعتی و گرمسیری مزیتی مهم به‌شمار می‌رود.
+
+مشخصات
+
+ولتاژ کاری: 24VDC
+توان مصرفی سیم‌پیچ: 0.93W
+جریان مصرفی سیم‌پیچ: 39mA
+مقاومت سیم‌پیچ: 620Ω (±10%)
+فرم کنتاکت: SPDT (Form C)
+ظرفیت کنتاکت NO: حداکثر 30A در 240VAC
+ظرفیت کنتاکت NC: حداکثر 20A در 240VAC
+حداکثر ولتاژ سوئیچینگ: 250VAC / 30VDC
+حداکثر جریان سوئیچینگ: 30A
+حداکثر توان سوئیچینگ: 7200VA / 560W
+مقاومت عایقی: حداقل 100MΩ در 500VDC
+تحمل دی‌الکتریک بین کنتاکت‌ها: 1500VAC
+تحمل دی‌الکتریک بین کنتاکت و سیم‌پیچ: 2500VAC
+زمان تحریک: حداکثر 15ms
+زمان قطع: حداکثر 10ms
+محدوده دمایی عملکرد: 40- تا 85+ درجه‌ی سانتی‌گراد (کلاس F)
+
+کاربردهای رایج
+
+این رله به‌دلیل طراحی مستحکم و ظرفیت جریان بالا، در سیستم‌های برقی خانگی و صنعتی به‌ویژه کولرهای گازی و مدارات فرمان پرجریان کاربرد دارد. همچنین در مدارات کنترلی با نیاز به ایزولاسیون بالا و سرعت سوییچ مناسب، انتخابی قابل اعتماد محسوب می‌شود.
+
+کنترل کولرهای گازی و پنجره‌ای
+مدارات فرمان صنعتی
+بردهای کنترل لوازم خانگی پرمصرف
+کنتاکتورهای کمکی برای سیستم‌های برقی
+تابلوهای برق تهویه مطبوع
+مدارات راه‌انداز کمپرسور
+کنترل بارهای مقاومتی با توان بالا
+بردهای کنترل تجهیزات خودکار
+مدارات رله‌ای محافظ برق
+دستگاه‌های تهویه صنعتی و سیستم‌های تبرید
+
+
+========================================================================================================================
+
+عنوان:
+رله مخابراتی 24V بوبین وسط 8 پین مارک QIANJI کد JRC-19F(4078)
+
+قیمت:
+391,000
+
+توضیحات کوتاه:
+رله 1 آمپر 120 ولت AC و 1 آمپر 24 ولت DC دارای 2 کنتاکت 8 پایه QIANJI
+
+توضیحات کامل:
+Specification
+
+Manufacturer: QIANJI
+Relay series: JRC-19F (4078)
+Rated winding voltage: 24VDC
+Rated current: 1.0A
+Switching voltage: 24VDC/120VAC
+Contacts: 2 groups per changeover (DPDT)
+Dimensions: 10 x 20.2 x 11.5mm (without leads)
+Winding resistance: 178 Ohm
+Contact material: AgCdO (Silver alloy)
+
+
+========================================================================================================================
+
+عنوان:
+رله مخابراتی 5V دو کنتاکت مارک TIANBO کد HJR1-2CL-05V
+
+قیمت:
+526,000
+
+توضیحات کوتاه:
+رله 1 آمپر 120 ولت AC و 2 آمپر 24 ولت DC دارای 2 کنتاکت 8 پایه تیانبو TIANBO
+
+توضیحات کامل:
+رله HJR1-2CL-05V ساخت شرکت TIANBO از نوع رله‌های مخابراتی با دو کنتاکت جابجایی (2 Form C یا DPDT) بوده و برای مصارف الکترونیکی و کنترلی که نیاز به عملکرد دقیق، حساس و قابل اعتماد دارند طراحی شده است. این رله با ساختار کوچک و استاندارد DIP به راحتی در بردهای الکترونیکی نصب می‌شود و با توان تحریک پایین، مصرف انرژی را به حداقل می‌رساند. این رله دارای توان تحریک 0.36 وات، عایق‌بندی بالا بین کنتاکت‌ها و سیم‌پیچ، مقاومت بالا در برابر شوک و لرزش و زمان پاسخ سریع است. قابلیت تحمل ولتاژ سوئیچینگ تا 240VAC یا 60VDC و جریان حداکثری 2 آمپر، آن را برای کنترل بارهای سبک ایده‌آل می‌سازد. با تاییدیه‌های ایمنی نظیر UL، cUL و TÜV، این رله انتخابی قابل اطمینان در طراحی‌های صنعتی حساس محسوب می‌شود.
+
+مشخصات
+
+ولتاژ کاری: 5VDC
+توان سیم‌پیچ: 0.36W
+مقاومت سیم‌پیچ: 56Ω
+جریان تحریک: 89.2mA
+حداکثر ولتاژ جذب: 3.75VDC
+حداقل ولتاژ رهاسازی: 0.5VDC
+نوع کنتاکت: DPDT (دو پل دو Throw - 2Z)
+جنس کنتاکت: آلیاژ نقره
+حداکثر ولتاژ سوئیچینگ: 240VAC / 60VDC
+حداکثر جریان سوئیچینگ: 2A
+حداکثر توان سوئیچینگ: 120VA / 60W
+حداقل بار: 1mA در 5VDC
+مقاومت کنتاکت: حداکثر 100mΩ در 6VDC 1A
+زمان جذب: 8ms
+زمان رهاسازی: 4ms
+مقاومت عایقی: حداقل 100MΩ در 500VDC
+تحمل شوک عملیاتی: 10G
+تحمل شوک تخریبی: 50G
+مقاومت در برابر لرزش: 10-55Hz، دامنه 1.5mm
+دمای کاری: از 30- تا 85+ درجه سانتی‌گراد
+رطوبت کاری: 40% تا 85%
+
+کاربردهای رایج
+
+رله HJR1-2CL-05V به دلیل حساسیت بالا، مصرف پایین و اندازه کوچک، انتخابی مناسب برای مدارهای کنترلی، مخابراتی، تجهیزات اندازه‌گیری و اتوماسیون صنعتی است. همچنین در کاربردهایی که فضای محدود و دقت بالا نیاز است بسیار پرکاربرد می‌باشد.
+
+کنترل تجهیزات مخابراتی
+مدارهای فرمان میکروکنترلری
+تجهیزات آزمایشگاهی دقیق
+مدارهای زمان‌سنج الکترونیکی
+بردهای کنترل صنعتی
+کنترل روشنایی کم‌مصرف
+مدارهای حفاظت ولتاژ پایین
+ماژول‌های کنترل رله چندکاناله
+سیستم‌های هشدار و آلارم
+اتوماسیون خانگی و صنعتی
+
+The TIANBO HJR1-2CL-05V is a compact and highly sensitive telecom relay featuring a DPDT (2 Form C) contact configuration. Designed for applications requiring precision, reliability, and low coil power consumption, this relay operates with a nominal coil voltage of 5VDC and a coil power of just 0.36W, making it ideal for power-efficient systems. It comes in a DIP package suitable for through-hole PCB mounting and offers a sealed construction to enhance durability in harsh environments. The relay provides high insulation between coil and contacts, ensuring safe and stable operation, and is capable of switching up to 240VAC or 60VDC at a maximum current of 2A. It has fast response times (operate time: 8ms, release time: 4ms), robust mechanical endurance, and complies with UL, cUL, and TÜV safety standards. This makes it suitable for use in telecommunication devices, control systems, and other precision electronic circuits.
+
+Specifications
+
+Coil Voltage: 5VDC
+Coil Power: 0.36W
+Coil Resistance: 56Ω
+Rated Coil Current: 89.2mA
+Max Operate Voltage: 3.75VDC
+Min Release Voltage: 0.5VDC
+Contact Type: DPDT (2 Form C)
+Contact Material: Silver Alloy
+Max Switching Voltage: 240VAC / 60VDC
+Max Switching Current: 2A
+Max Switching Power: 120VA / 60W
+Minimum Load: 1mA at 5VDC
+Contact Resistance: Max 100mΩ at 6VDC 1A
+Operate Time: 8ms
+Release Time: 4ms
+Insulation Resistance: ≥100MΩ at 500VDC
+Shock Resistance (Operating): 10G
+Shock Resistance (Destructive): 50G
+Vibration Resistance: 10–55Hz, 1.5mm amplitude
+Operating Temperature: -30°C to +85°C
+Humidity Range: 40%–85%
+Electrical Life: 100,000 operations at 30 ops/min
+Mechanical Life: 10,000,000 operations at 300 ops/min
+Weight: Approx. 5g
+Safety Approvals: UL, cUL, TÜV
+
+
+========================================================================================================================
+
+عنوان:
+سوئیچ جیوه ای 5 میلی متر
+
+قیمت:
+120,000
+
+توضیحات کوتاه:
+کلید الکترومکانیکی حساس به زاویه، با استفاده از جیوه برای تشخیص تغییرات موقعیت و وضعیت، مناسب برای پروژه‌های الکترونیکی و صنعتی.
+
+توضیحات کامل:
+سوئیچ جیوه‌ای 5 میلی‌متر یک کلید الکترومکانیکی است که با استفاده از خاصیت رسانایی جیوه، تغییرات زاویه یا وضعیت را تشخیص می‌دهد. این سوئیچ از یک لوله شیشه‌ای مهر و موم شده تشکیل شده است که درون آن مقدار کمی جیوه قرار دارد. با تغییر زاویه سوئیچ، جیوه به سمت الکترودها حرکت کرده و باعث برقراری یا قطع جریان الکتریکی می‌شود. این ویژگی، سوئیچ را برای کاربردهایی که نیاز به تشخیص تغییرات موقعیت دارند، مناسب می‌سازد.
+
+مشخصات
+
+نوع عملکرد: کلید حساس به زاویه (Tilt Switch)
+وضعیت کنتاکت: عموماً باز (Normally Open)
+ولتاژ کاری: تا 20 ولت DC
+جریان مجاز: تا 300 میلی‌آمپر
+زاویه عملکرد: بین 5 تا 10 درجه
+مقاومت کنتاکت: حدود 0.2 اهم
+ابعاد: طول 13 ± 1 میلی‌متر، قطر 4 تا 5 میلی‌متر
+نوع نصب: نصب از طریق سوراخ (Through Hole)
+جنس بدنه: شیشه‌ای
+تعداد پایه: 2 پایه
+
+کاربردهای رایج
+سوئیچ جیوه‌ای 5 میلی‌متر به دلیل حساسیت بالا به تغییرات زاویه و طراحی ساده، در بسیاری از پروژه‌های الکترونیکی و صنعتی مورد استفاده قرار می‌گیرد. این سوئیچ در سیستم‌هایی که نیاز به تشخیص تغییرات موقعیت یا وضعیت دارند، مانند سیستم‌های هشدار، تجهیزات ایمنی، و پروژه‌های DIY، کاربرد دارد. همچنین، در محیط‌هایی که نیاز به سوئیچ بدون سایش مکانیکی و با عمر طولانی است، این سوئیچ گزینه‌ای مناسب محسوب می‌شود.
+
+سیستم‌های هشدار و امنیتی
+تجهیزات ایمنی صنعتی
+پروژه‌های DIY و آموزشی
+تشخیص تغییرات موقعیت در رباتیک
+کنترل روشنایی بر اساس زاویه
+تجهیزات پزشکی و آزمایشگاهی
+
+Introduction
+
+AOOD rotating electrical connectors (also called mercury slip rings or liquid metal slip rings) use a unique design principle unlike the sliding, brush contact of a slip ring. The connection is made through a pool of liquid metal molecularly bonded to the contact, which provides a low-resistance, stable connection. During rotation, the fluid maintains the electrical connection between the contacts without any wear. They are the best solutions for those have low electrical noise, high speed or super high current transfer requirements systems.
+
+Specification
+
+Very low electric noise
+Very low cost
+Very low contact resistance
+No maintenance and high reliability
+Single pole current can up to 7500mA
+
+Applications
+
+Welding machines
+Cutting machines
+Textile machines
+Strain gages
+sanitary towel machines
+

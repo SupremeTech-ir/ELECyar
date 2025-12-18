@@ -1,0 +1,827 @@
+عنوان:
+دوبل دیود شاتکی SR1040C 10A-40V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 40 ولت 10 آمپر SR1040C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 10 A
+Vrrm - Repetitive Reverse Voltage: 40 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR1060C 10A-60V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 10 آمپر SR1060C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 10 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.75 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR1080C 10A-80V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 10 آمپر SR20150C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 10 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR20150CT 20A-150V مارک GW پکیج TO-220
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 20 آمپر SR20150CT مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 150 V
+Vf - Forward Voltage: 0.95 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2030CT 20A-30V مارک GW پکیج TO-220
+
+قیمت:
+158,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 30 ولت 20 آمپر SR2030CT مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 30 V
+Vf - Forward Voltage: 0.65 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2045C 20A-45V مارک GW پکیج TO-220
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 20 آمپر SR2045C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SR2050C 20A-50V مارک GW پکیج TO-220
+
+قیمت:
+165,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 50 ولت 20 آمپر SR2050C مارک GW پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 50 V
+Vf - Forward Voltage: 0.75 V
+Ifsm - Forward Surge Current: 150 A
+Ir-Reverse Current: 100 mA
+Package: TO-220
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF10150C 10A-150V مارک GW پکیج TO-220FP
+
+قیمت:
+171,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 10 آمپر SRF10150C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Part Number: SRF10150C
+Category: Diode Schottky
+Description: 10A, 150V, Trench Schottky
+Family: Schottky
+IF(AV) (A): 10
+IFSM (A): 100
+IR (mA): 50
+Package: TO-220FP
+TJ Max. (°C): 150
+Technology: Trench
+VF (V): 0.95
+VRRM (V): 150
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF1645C 45V-16A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 16 آمپر SRF1645C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 16 A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.65 V
+Ifsm - Forward Surge Current: 150 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF2045C 45V-20A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 45 ولت 20 آمپر SRF2045C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20A
+Vrrm - Repetitive Reverse Voltage: 45 V
+Vf - Forward Voltage: 0.75 V
+Ifsm - Forward Surge Current: 150 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF2060C 60V-20A مارک GW پکیج TO-220FP
+
+قیمت:
+163,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 20 آمپر SRF2060C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.7 V
+Ifsm - Forward Surge Current: 200 A
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF3080 80V-30A مارک GW پکیج TO-220FP
+
+قیمت:
+230,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 30 آمپر SRF3080 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 30 A
+Vrrm - Repetitive Reverse Voltage: 80 V
+Vf - Forward Voltage: 0.85 V
+Ifsm - Forward Surge Current: 250 A
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی TS805C04R 40V-20A ژاپنی مارک FUJI پکیج TO-252
+
+قیمت:
+95,200
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 40 ولت 20 آمپر TS805C04R ژاپنی مارک FUJI پکیج TO-252
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Configuration: Single
+Technology: Si
+IO- Out Put Current: 20 A
+Vrrm - Repetitive Reverse Voltage: 40 V
+Vf - Forward Voltage: 0.6 V
+Ifsm - Forward Surge Current: 120 A
+Ir - Reverse Current: 15 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Mounting Style: SMD/SMT
+Package/Case: TO-252
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YA878C12R 120V-30A ژاپنی مارک FUJI پکیج TO-220
+
+قیمت:
+309,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 120 ولت 30 آمپر YA878C12R ژاپنی مارک FUJI پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220
+Configuration: Single
+Technology: Si
+If - Forward Current: 30 A
+Vrrm - Repetitive Reverse Voltage: 120 V
+Vf - Forward Voltage: 0.88 V
+Ifsm - Forward Surge Current: 160 A
+Ir - Reverse Current: 0.30 uA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG802C06R 60V-10A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+146,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 60 ولت 10 آمپر YG802C06R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+Io: 10 A
+Vrrm - Repetitive Reverse Voltage: 60 V
+Vf - Forward Voltage: 0.58 V
+Ifsm - Forward Surge Current: 80 A
+Ir - Reverse Current: 5 mA
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی 1N5820
+
+قیمت:
+35,300
+
+توضیحات کوتاه:
+دیود شاتکی 1N5820 یک یکسوساز سریع با جریان بالا و افت ولتاژ کم برای کاربردهای با فرکانس بالا و ولتاژ پایین
+
+توضیحات کامل:
+دیود 1N5820 از نوع شاتکی و با ساختار فلز-سیلیکون طراحی شده که باعث کاهش چشمگیر افت ولتاژ مستقیم و افزایش راندمان در مدارهای یکسوساز، محافظت قطبی و مبدل‌های سوئیچینگ می‌شود. این قطعه با قابلیت عبور جریان مستقیم تا 3 آمپر و تحمل ولتاژ معکوس تا 20 ولت، مناسب برای مدارهای با ولتاژ پایین و جریان بالا است. یکی از ویژگی‌های اصلی این دیود، پاسخ‌دهی بسیار سریع در برابر تغییرات ولتاژ است که آن را برای استفاده در منابع تغذیه سوئیچینگ، اینورترهای فرکانس بالا و مدارهای محافظ در برابر پلاریته معکوس ایده‌آل می‌سازد. بدنه پلاستیکی آن از نوع DO-201AD بوده و به راحتی در هر موقعیتی قابل نصب است. این دیود همچنین دارای قابلیت تحمل جریان لحظه‌ای بالا تا 80 آمپر در مدت کوتاه است که برای مقابله با جریان‌های هجومی مناسب می‌باشد.
+
+مشخصات
+
+ولتاژ معکوس پیوسته (VRRM): 20 ولت
+ولتاژ RMS: 14 ولت
+حداکثر جریان مستقیم متوسط (IO): 3.0 آمپر
+جریان لحظه‌ای پیک (IFSM): 80 آمپر
+حداکثر ولتاژ مستقیم لحظه‌ای در جریان 3 آمپر: 0.475 ولت
+حداکثر ولتاژ مستقیم لحظه‌ای در جریان 9.4 آمپر: 0.850 ولت
+جریان نشت معکوس در 25°C: 2.0 میلی‌آمپر
+جریان نشت معکوس در 100°C: 20 میلی‌آمپر
+مقاومت حرارتی پیوند به بدنه (RθJL): 10 °C/وات
+محدوده دمای کاری و نگهداری: °C 125+ ~ °C 65-
+نوع پکیج: DO-201AD
+
+کاربردهای رایج
+
+دیود 1N5820 به دلیل ویژگی‌های شاتکی خود و افت ولتاژ کم، در مدارهای تغذیه سوئیچینگ، اینورترهای کم‌ولتاژ، مبدل‌های DC-DC، و محافظ‌های قطبیت معکوس کاربرد فراوان دارد. همچنین در مدارهای با فرکانس بالا که پاسخ‌دهی سریع اهمیت دارد، انتخابی بسیار مناسب محسوب می‌شود.
+
+استفاده در منابع تغذیه سوئیچینگ
+محافظت در برابر قطبیت معکوس
+مدارهای اصلاح‌کننده توان در فرکانس بالا
+مبدل‌های DC به DC
+اینورترهای ولتاژ پایین
+مدارهای شارژ باتری
+مدارهای تغذیه قابل‌حمل
+مدارهای حفاظت در برابر بار اضافی
+مدارهای فیلتر پس از یکسوساز
+ماژول‌های ولتاژ پایین صنعتی و خودرویی
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی 1N5822
+
+قیمت:
+39,100
+
+توضیحات کوتاه:
+دیود شاتکی 40 ولت 3 آمپر 1N5822
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package / Case: DO-201AD-2
+Configuration: Single
+Technology: Si
+If - Forward Current: 3 A
+Vrrm - Repetitive Reverse Voltage: 40 V
+Vf - Forward Voltage: 525 mV
+Ifsm - Forward Surge Current: 80 A
+Ir - Reverse Current: 2 mA
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی 3A-100V مدل SS310 پکیج SMB
+
+قیمت:
+15,400
+
+توضیحات کوتاه:
+دیود شاتکی 100 ولت 3 آمپر مدل SS310 پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category:ESD Suppressors / TVS Diodes
+RoHS:Details
+Series:SMB
+Product Type:TVS Diodes
+Vesd - Voltage ESD Contact:-
+Vesd - Voltage ESD Air Gap:-
+Polarity:Unidirectional
+Number of Channels:1 Channel
+Termination Style:SMD/SMT
+Breakdown Voltage:5.2V
+Working Voltage:3.3 V
+Clamping Voltage:6.2 V
+Ipp - Peak Pulse Current:31 A
+Package / Case:DO-214AA-2 (SMB)
+Pppm - Peak Pulse Power Dissipation:600 W
+Pd - Power Dissipation:3 W
+Minimum Operating Temperature:- 65 C
+Maximum Operating Temperature:+ 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SB320
+
+قیمت:
+35,300
+
+توضیحات کوتاه:
+دیود SB320 یک دیود شاتکی با جریان 3 آمپر و ولتاژ معکوس 20 ولت برای کاربردهای کم‌ ولتاژ و فرکانس بالا
+
+توضیحات کامل:
+دیود SB320 یک دیود شاتکی با ساختار فلز-سیلیکون از نوع رکتیفایر سریع است که با جریان مستقیم تا 3.0 آمپر و ولتاژ معکوس تا 20 ولت طراحی شده است. این دیود دارای ویژگی‌هایی از جمله افت ولتاژ مستقیم پایین (حداکثر 0.55 ولت در جریان 3 آمپر)، زمان بازیابی بسیار کوتاه و قابلیت تحمل پالس‌های جریان لحظه‌ای تا 80 آمپر می‌باشد. این ویژگی‌ها آن را برای کاربردهایی با فرکانس بالا مانند اینورترها، مدارهای فری‌ویلینگ، منابع تغذیه سوئیچینگ و محافظت پلاریته مناسب می‌سازد. بدنه پلاستیکی از نوع DO-201AD با استاندارد شعله‌پذیری UL 94V-0 ساخته شده و دارای نوار رنگی برای نشان دادن پلاریته کاتد است. نصب دیود در هر وضعیت مکانی امکان‌پذیر است و طراحی آن در برابر حرارت و ضربه مکانیکی مقاوم است.
+
+مشخصات
+
+حداکثر ولتاژ معکوس تکرارشونده (VRRM): 20V
+حداکثر ولتاژ RMS: 14V
+حداکثر ولتاژ انسدادی DC: 20V
+حداکثر جریان متوسط مستقیم (IF(AV)): 3.0A
+جریان پیک لحظه‌ای (IFSM): 80.0A
+حداکثر افت ولتاژ مستقیم  (VF): 0.55V
+جریان نشتی معکوس در 25°C: 0.5mAجریان نشتی معکوس در 100°C: 20.0mA
+مقاومت حرارتی بین پایه و محیط (RθJA): 40°C/Wمقاومت حرارتی بین پایه و لید (RθJL): 10°C/W
+بازه دمای کاری اتصال (TJ): از -65°C تا +125°C
+بازه دمای نگهداری (Tstg): از -65°C تا +150°C
+نوع پکیج: DO-201AD
+
+کاربردهای رایج
+
+دیود SB320 به‌دلیل افت ولتاژ کم و سرعت بالا، در مدارهایی که نیاز به یکسو‌سازی با بازده بالا دارند استفاده می‌شود. همچنین برای محافظت از پلاریته در تغذیه‌ها، کاهش نویز در منابع تغذیه سوئیچینگ و نیز در مدارات درایور موتورهای DC و اینورترهای کوچک کاربرد دارد.
+
+منابع تغذیه سوئیچینگ
+اینورترهای کم‌ولتاژ
+محافظ پلاریته ورودی
+مدارات فری‌ویلینگ
+رکتیفایرهای سریع AC به DC
+درایورهای موتور DC
+محافظت بار در برابر جریان معکوس
+شارژرهای خورشیدی
+مدارات با فرکانس بالا
+فیلترهای ورودی یا خروجی تغذیه
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SB340
+
+قیمت:
+18,200
+
+توضیحات کوتاه:
+دیود SB340 یک دیود شاتکی با جریان 3 آمپر و ولتاژ معکوس 40 ولت، مناسب برای کاربردهای فرکانس بالا و محافظت قطبی
+
+توضیحات کامل:
+دیود SB340 از نوع شاتکی (Schottky Barrier) بوده و برای کاربردهای فرکانس بالا و ولتاژ پایین طراحی شده است. این قطعه با ساختار اپی‌تاکسیال و هدایت توسط حامل‌های اکثریت، ویژگی‌هایی مانند افت ولتاژ مستقیم بسیار پایین (حداکثر ۰.۸۵ ولت) و سرعت سوئیچینگ بالا را ارائه می‌دهد. به‌همین دلیل راندمان توان بالایی داشته و تلفات حرارتی آن حداقل است. این دیود در پکیج DO-201AD با بدنه پلاستیکی قالب‌گیری شده و تحمل دمایی تا ۱۵۰ درجه سانتی‌گراد را دارد. مناسب برای مدارهای تصحیح (rectification)، محافظت از پلاریته، چرخش آزاد (freewheeling) و اینورترهای فرکانس بالا، SB340 در ولتاژهای DC تا ۴۰ ولت و جریان مداوم ۳ آمپر عملکرد پایدار و قابل اطمینانی را فراهم می‌کند. همچنین قابلیت تحمل جریان پیک تا ۸۰ آمپر برای پالس‌های گذرا آن را در برابر شوک‌های جریان لحظه‌ای مقاوم می‌سازد.
+
+مشخصات
+
+نوع دیود: Schottky Barrier
+پکیج: DO-201AD
+ولتاژ معکوس تکراری: 40V
+ولتاژ RMS: 28V
+ولتاژ بلوک DC : 40V
+جریان مستقیم متوسط: 3.0A
+جریان پیک در پالس: 80A
+ولتاژ مستقیم در 3A : حداکثر 0.85V
+جریان نشتی در دمای 25°C: حداکثر 0.5mA
+جریان نشتی در دمای 100°C: حداکثر 20mA
+مقاومت حرارتی از محل اتصال تا محیط : 40°C/W
+مقاومت حرارتی از محل اتصال تا پایه: 10°C/W
+دمای کاری: از -65°C تا +150°C
+دمای نگهداری: از -65°C تا +150°C
+
+کاربردهای رایج
+
+دیود SB340 به‌دلیل افت ولتاژ پایین، پاسخ سریع و مقاومت در برابر پالس‌های گذرا، برای استفاده در مدارهای تغذیه سوئیچینگ، اصلاح‌کننده‌ها، اینورترها، حفاظت پلاریته و کاربردهای دیود چرخش آزاد بسیار مناسب است. در سیستم‌هایی که سرعت سوئیچینگ و کاهش تلفات توان اهمیت بالایی دارد، این دیود گزینه‌ای ایده‌آل محسوب می‌شود.
+
+اصلاح ولتاژ در منابع تغذیه فرکانس بالا
+استفاده به‌عنوان دیود چرخش آزاد در موتورهای DC
+محافظت در برابر اشتباه در پلاریته تغذیه
+مدارهای اینورتر و مبدل DC به AC
+استفاده در پاوربانک‌ها و شارژرهای سریع
+کاربرد در درایورهای LED
+تجهیزات خورشیدی با مدار اصلاح توان
+سیستم‌های UPS و پشتیبان تغذیه
+مدارات PWM با توان پایین
+مدارات سوئیچینگ صنعتی و کنترل توان
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SB580
+
+قیمت:
+16,600
+
+توضیحات کوتاه:
+دیود شاتکی SB580 پکیج DO-201AD
+
+توضیحات کامل:
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SR8200 200V-8A مارک GW پکیج TO-220A
+
+قیمت:
+139,000
+
+توضیحات کوتاه:
+دیود شاتکی 200 ولت 8 آمپر SR8200 پکیج TO-220AC
+
+توضیحات کامل:
+معرفی
+
+دیود شاتکی SR8200 با ولتاژ بایاسینگ پایین و زمان بازیابی سریع است که برای کاربردهای توان و جریان بالا طراحی شده است. این دیود می‌تواند تا 8 آمپر جریان مستقیم و 200 ولت ولتاژ معکوس را تحمل کند و برای استفاده در منابع تغذیه سوئیچینگ، مبدل‌های DC-DC، رگولاتورهای ولتاژ و مدارهای اصلاح کننده ولتاژ مناسب است. ویژگی‌هایی مانند تحمل جریان هجومی بالا و ساختار اپیتکسیال، این دیود را به انتخابی ایده‌آل برای بهبود کارایی و قابلیت اطمینان مدارهای الکترونیکی تبدیل می‌کند.
+
+Specification
+
+Product Category:  AMP SCHOTTKY BARRIER RECTIFIERS
+P/N : SRF8200 / SR8200
+Mounting Style: Through Hole
+Package/Case:TO-220AC
+If - Forward Current: 8 A
+Vrrm - Repetitive Reverse Voltage: 200 V
+Vf - Forward Voltage: 0.85 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SR845 8A-45V مارک GW پکیج TO-220A
+
+قیمت:
+124,000
+
+توضیحات کوتاه:
+دیود شاتکی 45 ولت 8 آمپر SR845 مارک GW پکیج TO-220A
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current : 8 A
+Vrrm - Repetitive Reverse Voltage : 45 V
+Vf - Forward Voltage : 0.65 V
+Ifsm - Forward Surge Current : 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220A
+Minimum Operating Temperature : - 65 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SRF8150 150V-8A مارک GW پکیج TO-220FP
+
+قیمت:
+124,000
+
+توضیحات کوتاه:
+دیود شاتکی 150 ولت 8 آمپر SRF8150 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers
+Mounting Style: Through Hole
+Package/Case: TO-220FP
+Configuration: Single
+Technology: Si
+If - Forward Current: 8 A
+Vrrm - Repetitive Reverse Voltage: 150 V
+Vf - Forward Voltage: 0.95 V
+Ifsm - Forward Surge Current: 150 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SRF8200 200V-8A مارک GW پکیج TO-220FP
+
+قیمت:
+95,900
+
+توضیحات کوتاه:
+دیود شاتکی 200 ولت 8 آمپر SRF8200 پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category:  AMP SCHOTTKY BARRIER RECTIFIERS
+P/N : SRF8200
+Mounting Style: Through Hole
+Package/Case:TO-220FP
+If - Forward Current: 8 A
+Vrrm - Repetitive Reverse Voltage: 200 V
+Vf - Forward Voltage: 0.95 V
+Peak Forward Surge Current: 150A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SRF845 8A-45V مارک GW پکیج TO-220FP
+
+قیمت:
+94,400
+
+توضیحات کوتاه:
+دیود شاتکی 45 ولت 8 آمپر SRF845 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Rectifier
+If - Forward Current : 8 A
+Vrrm - Repetitive Reverse Voltage : 45 V
+Vf - Forward Voltage : 0.75 V
+Ifsm - Forward Surge Current : 150 A
+Ir-Reverse Current: 50mA
+Package: TO-220FP
+Minimum Operating Temperature : - 55 C
+Maximum Operating Temperature : + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SS34 5822 SMD پکیج SMA رول - بسته 2000 تایی
+
+قیمت:
+14,600,000
+
+توضیحات کوتاه:
+Schottky Diodes & Rectifiers 3a 40V Rectifier Schottky Barrier
+
+توضیحات کامل:
+Product Category:     Schottky Diodes & Rectifie
+
+RoHS:     RoHS Compliant Details
+Product:     Schottky Rectifiers
+Mounting Style:     SMD/SMT
+Package / Case:     (TE85R)  SMA (DO-214AC)
+If - Forward Current:     3 A
+Vrrm - Repetitive Reverse Voltage:     40 V
+Vf - Forward Voltage:     0.5 V
+Ifsm - Forward Surge Current:     100 A
+Configuration:     Single
+Technology:     Si
+Ir - Reverse Current:     500 uA
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 150 C
+Series:     SS34
+Packaging:     Reel
+Height:     2.45 mm (Max)
+Length:     7.15 mm (Max)
+Operating Temperature Range:     - 55 C to + 150 C
+Type:     Schottky Diode
+Width:     6.25 mm (Max)
+Part # Aliases:     SS34_NL
+
+Datasheet
+
+SM5822 SMA
+
+DO-214AC (SMAJ)
+
+
+========================================================================================================================
+
+عنوان:
+دیود شاتکی SS34 پکیج SMA رول2000 تایی (دارای درصدی خرابی)
+
+قیمت:
+2,090,000
+
+توضیحات کوتاه:
+رول 2000 عددی دیود شاتکی سطح‌نصب SS34 با درصدی از قطعات معیوب، مناسب برای کاربردهای تستی یا آموزشی
+
+توضیحات کامل:
+توجه: این کالا شامل یک رول 2000 عددی دیود شاتکی SS34 پکیج SMA است. بر اساس بررسی اولیه، حدود 30٪ از قطعات موجود در این رول معیوب یا خارج از مشخصات استاندارد هستند. لذا این کالا به‌صورت  صرفاً برای مصارف تستی یا آموزشی عرضه می‌گردد.
+
+این محصول فاقد هرگونه ضمانت عملکرد یا گارانتی است و پس از خرید قابل مرجوع نمی‌باشد.
+
+این کالا شامل یک رول حاوی 2000 عدد دیود شاتکی SS34 با پکیج SMA (DO-214AC) است. دیود SS34 معمولاً برای کاربردهای با ولتاژ پایین و فرکانس بالا استفاده می‌شود و دارای افت ولتاژ مستقیم پایین و سرعت سوئیچینگ بالا است. با این حال، در این رول خاص، بر اساس بررسی اولیه حدود 30٪ از قطعات خارج از مشخصات استاندارد یا معیوب هستند. بنابراین استفاده از آن تنها برای مقاصد آموزشی، تستی یا پروژه‌هایی که حساسیت عملکرد پایین دارند توصیه می‌شود. این محصول فاقد هرگونه ضمانت عملکرد یا امکان مرجوعی بوده و پس از خرید قابل بازگشت نمی‌باشد.
+
+مشخصات
+
+ولتاژ کاری: 40V
+جریان مستقیم متوسط: 3A
+جریان هجومی لحظه‌ای: 100A
+افت ولتاژ مستقیم در 3A: 0.5V
+جریان نشتی معکوس در 25°C: 0.5mA
+محدوده دمای کاری: -55°C تا +125°C
+پکیج: SMA (DO-214AC)
+ابعاد: 4.5mm × 2.8mm × 2.4mm
+تعداد در رول: 2000 عدد
+درصد قطعات معیوب یا خارج از مشخصات: حدود 30٪
+
+کاربردهای رایجاین رول دیود با در نظر گرفتن وجود قطعات معیوب، تنها برای مواردی مناسب است که دقت و اطمینان کامل در عملکرد مد نظر نباشد. توصیه می‌شود این کالا صرفاً در پروژه‌های آموزشی یا تستی استفاده گردد.
+
+مناسب برای پروژه‌های آزمایشگاهی و تمرینی
+قابل استفاده در تست اولیه مدارهای غیرحیاتی
+مناسب برای آموزش نصب و لحیم‌کاری قطعات SMD
+غیرمناسب برای کاربردهای صنعتی یا تجاری حساس
+

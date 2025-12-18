@@ -1,0 +1,1084 @@
+عنوان:
+دوبل دیود فوق سریع SFF1004G 10A,200V
+
+قیمت:
+230,000
+
+توضیحات کوتاه:
+Rectifiers 10A,200V,GLASS Pass Superfast,DUAL Rect
+
+توضیحات کامل:
+High efficiency, low VF
+
+-High current capability
+- High surge current capability
+- Low power loss
+- Halogen-free according to IEC 61249-2-21
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود فوق سریع SFF200-04CT 20A-400V مارک Frontier
+
+قیمت:
+571,000
+
+توضیحات کوتاه:
+دیود دوبل فوق سریع 400 ولت 20 آمپر SFF200-04CT مارک Frontier
+
+توضیحات کامل:
+Specification
+
+MAXIMUM RECURRENT PEAK REVERSE VOLTAGE(Vrrm) : 400V
+MAXIMUM RMS VOLTAGE(Vrms) : 280V
+MAXIMUM DC BLOCKING VOLTAGE(DC) : 400V
+MAXIMUM AVERAGE FORWARD RECTIFIED CURRENT(Io) : 20A
+PEAK FORWARD SURGE CURRENT, 8.3ms SINGLE HALF SINE-WAVE SUPERIMPOSED ON RATED LOAD(Ifms) : 250A
+TYPICAL JUNCTION CAPACITANCE : 175PF
+TYPICAL THERMAL RESISTANCE : 2.2C/W
+OPERATING TEMPERATURE RANGE : -55~150C
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود فوق سریع SFF508G 5A,600V
+
+قیمت:
+176,000
+
+توضیحات کوتاه:
+Rectifiers 5A,600V,GLASS Pass Superfast,DUAL Rect
+
+
+========================================================================================================================
+
+عنوان:
+دوبل دیود فوق سریع STT16R04CT مارک ST پکیج TO-220
+
+قیمت:
+499,000
+
+توضیحات کوتاه:
+دوبل دیود 400 ولت 30 آمپر STT16R04CT مارک ST پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+Manufacturer:STMicroelectronics
+P/N : STT16R04CT
+Repetitive peak reverse voltage(Vrrm) : 400 V
+Forward rms current If(rms) : 30 A
+Average forward current δ = 0.5, square wave If(AV)
+TC = 150 °C Per diode 8A
+TC = 145 °C Per device 16A
+Surge non repetitive forward current tp I(fsm) = 120 A
+Storage temperature range = -65 to +175 °C
+Maximum operating junction temperature range = -40 to +175 °C
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع 10DF6
+
+قیمت:
+7,500
+
+توضیحات کوتاه:
+دیود سریع 10DF6 پکیج DO-41
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers
+Mounting Style: Through Hole
+Package/Case: DO-41
+Vr - Reverse Voltage: 600 V
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.2 V
+Max Surge Current: 34 A
+Ir - Reverse Current: 10 uA
+Recovery Time: 100ns
+Minimum Operating Temperature: - 50 C
+Maximum Operating Temperature: + 175 C
+Series: UF4/5/6/T
+Product: Rectifiers
+Product Type: Rectifiers
+Subcategory: Diodes & Rectifiers
+Tradename: 10DF6
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع 1N4934
+
+قیمت:
+6,800
+
+توضیحات کوتاه:
+دیود 1N4934 یک دیود یکسوساز سریع با ولتاژ معکوس 100 ولت و زمان بازیابی پایین مناسب برای منابع تغذیه سوئیچینگ
+
+توضیحات کامل:
+دیود 1N4934 یک دیود یکسوساز سریع از نوع پیوند PN در پکیج DO-41 است که برای کاربردهایی با نیاز به سوئیچینگ سریع و راندمان بالا طراحی شده است. این دیود با زمان بازیابی معکوس تنها 200 نانوثانیه، در مدارهای تغذیه سوئیچینگ، اینورترها، مبدل‌ها و مدارات هرزگرد کاربرد دارد. تحمل جریان لحظه‌ای بالا تا 30 آمپر و جریان مستقیم متوسط 1 آمپر از ویژگی‌های برجسته‌ی آن است. ولتاژ معکوس تکرارشونده آن برابر 100 ولت بوده و افت ولتاژ مستقیم در جریان 1 آمپر برابر 1.2 ولت است. بدنه این قطعه از نوع پلاستیکی قالب‌گیری شده با استاندارد اشتعال‌پذیری UL 94V-0 است و دو سر آن با قلع براق جهت لحیم‌کاری آسان پوشیده شده‌اند. با توجه به ساختار سریع، این دیود گزینه‌ای مناسب برای استفاده در مدارهایی با نویز کم، عملکرد سریع و بهره‌وری بالا است.
+
+مشخصات
+
+ولتاژ کاری (معکوس تکرارشونده): 100 ولت
+ولتاژ RMS: 70 V
+ولتاژ مسدودکننده : 100 ولت
+جریان مستقیم میانگین: 1.0 آمپر
+جریان هجومی (پیک): 30 آمپر
+زمان بازیابی معکوس: 200 نانوثانیه
+جریان نشتی معکوس در 25 درجه سانتی‌گراد: 5 میکرو آمپر
+افت ولتاژ مستقیم در 1 آمپر: 1.2 ولت
+ظرفیت پیوندی: 12 پیکوفاراد
+محدوده دمای کاری اتصال: °C 150 ~ -50
+پکیج: DO-41 (DO-204AL)
+مقاومت حرارتی پیوند به محیط: 55 °C/W
+مقاومت حرارتی پیوند به پایه: 25 °C/W
+
+کاربردهای رایج
+
+دیود 1N4934 به‌دلیل زمان بازیابی کوتاه و قابلیت تحمل جریان هجومی بالا، انتخابی ایده‌آل برای مدارهایی است که نیاز به یکسوسازی سریع دارند. همچنین در منابع تغذیه سوئیچینگ، محافظت بار، مبدل‌های DC-DC، مدارهای هرزگرد برای رله‌ها و موتورها، و سیستم‌های صنعتی و مخابراتی کاربرد دارد. استفاده از این دیود موجب کاهش تلفات سوئیچینگ و بهبود کارایی کلی سیستم خواهد شد.
+
+منابع تغذیه سوئیچینگ
+مبدل‌های AC به DC و DC به DC
+مدارات هرزگرد در رله و موتور
+اینتروِرترهای توان پایین
+مدارهای پل یکسوساز با سرعت بالا
+سیستم‌های UPS و پاوربانک صنعتی
+تجهیزات مخابراتی با نویز پایین
+محافظت در برابر بازگشت جریان در باتری
+ماژول‌های LED با تغذیه پالسی
+بردهای توسعه صنعتی و آموزشی
+
+Specification
+
+Product Category: Rectifiers
+REACH - SVHC:
+Mounting Style: Through Hole
+Package/Case: DO-204AL-2
+Vr - Reverse Voltage: 100 V
+If - Forward Current: 1 A
+Type: Standard Recovery Rectifier
+Configuration: Single
+Vf - Forward Voltage: 1.2 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 200 ns
+Minimum Operating Temperature: - 50 C
+Maximum Operating Temperature: + 150 C
+Packaging: Ammo Pack
+Brand: Vishay General Semiconductor
+Height: 2.7 mm
+Length: 5.2 mm
+Product: Rectifiers
+Product Type: Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع BAV99
+
+قیمت:
+6,600
+
+توضیحات کوتاه:
+دیود دوگانه با سرعت سوئیچینگ بالا، مناسب برای کاربردهای عمومی و مدارهای پرسرعت، در پکیج SOT-23
+
+توضیحات کامل:
+دیود BAV99 یک دیود سوئیچینگ سریع با دو دیود متصل به‌صورت سری درون یک پکیج SOT-23 است. این دیود برای کاربردهای عمومی و مدارهای پرسرعت طراحی شده و دارای ویژگی‌هایی مانند جریان نشتی کم و زمان بازیابی معکوس کوتاه است. ساختار داخلی آن به‌صورت دو دیود متصل به‌صورت سری با آند و کاتد مشترک است. این دیود در مدارهای منطقی، محافظت از ورودی‌ها، مدارهای گیره و سوئیچینگ سریع مورد استفاده قرار می‌گیرد.
+
+مشخصات فنی :
+
+نوع پکیج: SOT-23 (SC-59)
+وزن تقریبی: 8.8 میلی‌گرم
+حداکثر ولتاژ معکوس غیرتکرارشونده (VRM): 100 ولت
+حداکثر ولتاژ معکوس کاری (VR): 70 ولت
+جریان لحظه‌ای پیش‌سو (tp = 1μs): 4.5 آمپر
+جریان میانگین پیش‌سو (در بار مقاومتی، فرکانس ≥ 50MHz): 150 میلی‌آمپر
+حداکثر جریان پیش‌سو پیوسته: 250 میلی‌آمپر
+توان تلفاتی کل (روی بستر سرامیکی 0.7mm): 300 میلی‌وات
+محدوده دمای کاری: منفی 55 تا مثبت 150 درجه سلسیوس
+محدوده دمای ذخیره‌سازی: منفی 55 تا مثبت 150 درجه سلسیوس
+ظرفیت خازنی دیود (CD): 1.5 پیکوفاراد (در VR = 0 و f = 1MHz)
+زمان بازیابی معکوس (trr): 6 نانوثانیه (در IF = 10mA، VR = 6V، RL = 100 اهم)
+ویژگی‌های اضافی: دارای سرعت سوئیچینگ بالا
+مناسب برای نصب سطحی (SMD)
+
+کاربردها :
+
+مدارهای منطقی و دیجیتال
+محافظت از ورودی‌ها در برابر ولتاژهای معکوس
+مدارهای گیره ولتاژ
+سوئیچینگ سریع در مدارهای الکترونیکی
+مدارهای سطح پایین و عمومی
+
+Features
+
+Fast switching speed
+High conductance
+Surface mount package ideally suited for
+automatic insertion
+Connected in series
+AEC-Q101 qualified available
+Base P/N-E3 - RoHS-compliant, commercial grade
+Base P/N-HE3 - RoHS-compliant, AEC-Q101 qualified
+High switching speed: trr ≤ 4 ns
+Low capacitance: Cd ≤ 1.5 pF
+Low leakage current
+Reverse voltage: VR ≤ 100 V
+Small SMD plastic packages
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع F1T1
+
+قیمت:
+18,200
+
+توضیحات کوتاه:
+دیود سریع F1T1 با حداکثر جریان قابل تحمل 1 آمپر 50 ولت
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Taiwan Semiconductor
+Product Category: Rectifiers
+Mounting Style: Through Hole
+Package / Case: TS-1
+Vr - Reverse Voltage: 50 V
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Vf - Forward Voltage: 1.2 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 150 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Brand: Taiwan Semiconductor
+Product: Rectifiers
+Product Type: Rectifiers
+Subcategory: Diodes & Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع F1T3
+
+قیمت:
+18,200
+
+توضیحات کوتاه:
+دیود سریع F1T3 با حداکثر جریان قابل تحمل 1 آمپر 200 ولت
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers
+Mounting Style: Through Hole
+Package / Case: TS-1
+Vr - Reverse Voltage: 200 V
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Vf - Forward Voltage: 1.2 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 150 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Brand: Taiwan Semiconductor
+Product: Rectifiers
+Subcategory: Diodes & Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع F1T7
+
+قیمت:
+18,200
+
+توضیحات کوتاه:
+دیود سریع F1T7 با حداکثر جریان قابل تحمل 1 آمپر 1000 ولت
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Taiwan Semiconductor
+
+Product Category: Rectifiers
+
+RoHS: Details
+
+Mounting Style: Through Hole
+
+Package / Case: TS-1-2
+
+Vr - Reverse Voltage: 1000 V
+
+If - Forward Current: 1 A
+
+Type: Fast Recovery Rectifiers
+
+Configuration: Single
+
+Vf - Forward Voltage: 1.3 V
+
+Max Surge Current: 30 A
+
+Ir - Reverse Current: 5 uA
+
+Recovery Time: 500 ns
+
+Minimum Operating Temperature: - 55 C
+
+Maximum Operating Temperature: + 150 C
+
+Series: F1T7
+
+Brand: Taiwan Semiconductor
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع FR107G-BP
+
+قیمت:
+21,900
+
+توضیحات کوتاه:
+دیود سریع FR107G-BP پکیج DO-41
+
+توضیحات کامل:
+Specification
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع PS1010R
+
+قیمت:
+8,000
+
+توضیحات کوتاه:
+دیود PS1010R یک دیود یک‌سویه با سرعت سوئیچینگ بالا و ولتاژ معکوس تا 1000 ولت مناسب برای کاربردهای عمومی و صنعتی
+
+توضیحات کامل:
+دیود PS1010R از سری PS100R تا PS1010R شرکت PANJIT، یک دیود یک‌سویه سریع از نوع سیلیکونی با بسته‌بندی DO-41 است که برای مدارهای نیازمند سرعت بالا و قابلیت اطمینان طراحی شده است. این دیود قابلیت تحمل جریان پیوسته 1 آمپر را در دمای محیط تا 55 درجه سانتی‌گراد بدون خطر ناپایداری حرارتی دارا می‌باشد. ویژگی کلیدی آن، زمان بازیابی معکوس سریع در محدوده 500 نانوثانیه و قابلیت تحمل ولتاژ معکوس تا 1000 ولت است. این مشخصات، PS1010R را به گزینه‌ای مناسب برای مدارهای اصلاح ولتاژ، مبدل‌های قدرت، منابع تغذیه سوئیچینگ، و مدارهای القایی تبدیل کرده است. همچنین، مقاومت حرارتی پایین، نشت جریان کم و قابلیت تحمل جریان هجومی تا 30 آمپر از دیگر مزایای فنی این قطعه محسوب می‌شود. بدنه‌ی پلاستیکی مقاوم در برابر شعله و ابعاد استاندارد DO-41 نصب و لحیم‌کاری را تسهیل می‌کند.
+
+مشخصات
+
+ولتاژ معکوس مداوم (VRRM): 1000 V
+ولتاژ RMS: 700 V
+ولتاژ قطع DC: 1000 V
+جریان مستقیم میانگین (IF(av)): 1.0 A
+جریان هجومی لحظه‌ای (IFSM): 30 A
+ولتاژ مستقیم در 1.0A (VF): 1.3 V
+جریان نشت معکوس در 25 درجه سانتی‌گراد: 5 µA
+جریان نشت معکوس در 100 درجه سانتی‌گراد: 500 µA
+ظرفیت پیوند (typ.): 12 pF
+زمان بازیابی معکوس (trr): 500 ns
+مقاومت حرارتی پیوند تا محیط: 41 °C/W
+بازه دمایی کاری و نگهداری: -55 تا +150 °C
+نوع بسته‌بندی: DO-41
+
+کاربردهای رایج
+
+دیود PS1010R به‌دلیل سرعت سوئیچینگ بالا و تحمل ولتاژ زیاد، در بسیاری از مدارهای قدرت و سیگنال به‌کار می‌رود. از جمله در منابع تغذیه سوئیچینگ، درایورهای موتور، مدارهای اصلاح نیم‌سیکل، تجهیزات UPS، و محافظت در برابر برگشت ولتاژ. طراحی جمع‌وجور و قابلیت نصب در هر موقعیت، این دیود را به گزینه‌ای مناسب برای طراحی‌های فشرده و صنعتی تبدیل کرده است.
+
+منابع تغذیه سوئیچینگ
+مدارهای اصلاح ولتاژ (Rectifier)
+مبدل‌های DC به DC
+محافظت در برابر برگشت ولتاژ
+مدارهای درایور موتور
+تجهیزات UPS
+مدارهای روشنایی LED
+مدارهای شارژ باتری
+منابع تغذیه صنعتی
+مدارهای کنترل ولتاژ و جریان
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع RGP10J پکیج DO-41
+
+قیمت:
+10,100
+
+توضیحات کوتاه:
+دیود سریع RGP10J پکیج DO-41 جریان 1 آمپر 600 ولت
+
+توضیحات کامل:
+دیود RGP10J، دیود سریع 1 آمپر 600 ولت سوییچینگ، بسته بندی DO-204AL (DO-41)
+
+Features
+
+• Superectifier structure for high reliability condition
+• Cavity-free glass-passivated junction
+• Fast switching for high efficiency
+• Low leakage current
+• High forward surge capability
+• Solder dip 275 °C max. 10 s, per JESD 22-B106
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع RGP10M 1000V-1A
+
+قیمت:
+6,600
+
+توضیحات کوتاه:
+دیود سریع 1000 ولت 1 آمپر
+
+توضیحات کامل:
+Specification
+Product Category: Rectifiers
+RoHS: Details
+REACH - SVHC:
+Mounting Style: Through Hole
+Package/Case: DO-41
+Vr - Reverse Voltage: 1 kV
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.3 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 500 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 175 C
+Series: RGP10M
+Packaging: Reel
+Packaging: Cut Tape
+Brand: onsemi / Fairchild
+Height: 2.72 mm
+Length: 5.21 mm
+Pd - Power Dissipation: 3 W
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع RL105F
+
+قیمت:
+13,300
+
+توضیحات کوتاه:
+دیود سریع با ولتاژ معکوس 600 ولت و جریان 1 آمپر مناسب مدارهای AC و سوئیچینگ
+
+توضیحات کامل:
+دیود RL105F یک دیود یک‌سویه با بازیابی سریع (Fast Recovery) از نوع نیم‌موج و مناسب کاربردهای فرکانس بالا و بارهای القایی است. این دیود برای استفاده در مدارهای یکسوکننده، منبع تغذیه سوئیچینگ (SMPS)، درایور موتور، منابع ولتاژ DC و انواع محافظت‌های الکترونیکی طراحی شده است. با تحمل ولتاژ معکوس تا 600 ولت و جریان متوسط 1 آمپر، این قطعه توانایی عملکرد در شرایط سخت را دارد. زمان بازیابی معکوس پایین (حدود 150 نانوثانیه)، آن را برای کار در مدارهای پرسرعت ایده‌آل می‌سازد. همچنین بدنه‌ی پلاستیکی A-405 با استاندارد شعله‌پذیری UL94V-0 و هدایت حرارتی مناسب، اطمینان عملکرد در دمای بالا را فراهم می‌کند.
+
+مشخصات
+
+نوع دیود: Fast Recovery Rectifier
+ولتاژ معکوس تکرارشونده (VRRM): 600V
+ولتاژ RMS: 420V
+ولتاژ معکوس DC (VDC): 600V
+جریان مستقیم متوسط (I(AV)): 1.0A
+جریان لحظه‌ای هجومی (IFSM): 30A
+ولتاژ مستقیم در جریان 1A (VF): حداکثر 1.3V
+جریان نشتی معکوس در 25°C (IR): حداکثر 5.0µA
+زمان بازیابی معکوس (Trr): 150ns
+ظرفیت پیوند (CJ): حدود 15pF
+مقاومت حرارتی پیوند به محیط (RθJA): 50°C/W
+بازه دمای کاری اتصال: -65°C تا +150°C
+بسته‌بندی: A-405 (پلاستیکی با پایه‌های Axial)
+پایان‌کاری: بدون سرب (Pb-Free)
+
+کاربردهای رایج
+
+دیود RL105F به دلیل بازیابی سریع، تحمل دمای بالا و پایداری جریان، در بسیاری از مدارهای صنعتی و مصرفی مورد استفاده قرار می‌گیرد.
+
+مدارهای یکسوکننده در منابع تغذیه سوئیچینگ
+درایور موتورهای DC و AC
+منابع تغذیه LED
+محافظت در ورودی منابع تغذیه
+مدارهای DC-DC کانورتر
+مدارهای فیلتر یا Snubber
+ابزارهای برقی قابل حمل
+مدارهای اینورتر و UPS
+مدارهای اندازه‌گیری و ابزار دقیق
+محافظ ولتاژ معکوس در باتری یا شارژرها
+
+Specification
+
+Product Category: Rectifiers
+Mounting Style: Through Hole
+Vr - Reverse Voltage: 600 V
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Vf - Forward Voltage: 1.3 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 150 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Brand: Taiwan Semiconductor
+Product: Rectifiers
+Subcategory: Diodes & Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع UF4005
+
+قیمت:
+9,900
+
+توضیحات کوتاه:
+دیود سریع UF4005 پکیج DO-41
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers
+Mounting Style: Through Hole
+Package/Case: DO-41
+Vr - Reverse Voltage: 600 V
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.7 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 75 ns
+Minimum Operating Temperature: - 50 C
+Maximum Operating Temperature: + 175 C
+Series: UF4/5/6/T
+Product: Rectifiers
+Product Type: Rectifiers
+Subcategory: Diodes & Rectifiers
+Tradename: UF4005
+
+
+========================================================================================================================
+
+عنوان:
+دیود سریع UF4007
+
+قیمت:
+9,900
+
+توضیحات کوتاه:
+UF4007 دیود بازیابی سریع با ولتاژ بالا برای کاربردهای سوئیچینگ با فرکانس بالا
+
+توضیحات کامل:
+دیود UF4007 از خانواده دیودهای سریع بازیابی ساخت شرکت Vishay است که با ولتاژ معکوس تا ۱۰۰۰ ولت و جریان مستقیم ۱ آمپر طراحی شده و مناسب برای مدارهای قدرت با فرکانس بالا، یکسوسازی در منابع تغذیه سوئیچینگ، اینورترها و مدارات فری‌ویلینگ می‌باشد. این دیود از فناوری پیوند شیشه‌ای استفاده می‌کند که مقاومت بالا در برابر ولتاژ، سرعت بازیابی معکوس بسیار پایین (حداکثر ۷۵ نانوثانیه) و افت ولتاژ مستقیم نسبتاً پایین (حداکثر ۱.۷ ولت) را فراهم می‌کند. ساختار محوری DO‑41 به‌کاررفته در این دیود موجب نصب آسان در مدارهای دیپ (DIP) شده و سازگاری بالایی با فرایند لحیم‌کاری دارد. همچنین قابلیت تحمل جریان هجومی تا ۳۰ آمپر در پالس‌های کوتاه‌مدت این دیود را برای شرایط ناگهانی بسیار مقاوم کرده است.
+
+مشخصات
+
+ولتاژ کاری معکوس (VRRM): 1000 V
+حداکثر ولتاژ RMS: 700 V
+حداکثر ولتاژ بلوکه DC: 1000 V
+جریان متوسط مستقیم (IF(AV)): 1.0 A
+جریان هجومی لحظه‌ای (IFSM): 30 A
+زمان بازیابی معکوس (trr): حداکثر 75 ns
+حداکثر ولتاژ مستقیم در جریان 1 آمپر (VF): حداکثر 1.7 V
+جریان نشت معکوس در 25 درجه (IR): حداکثر 10 μA
+ظرفیت پیوندی: 17 pF
+محدوده دمای کاری: ‎-55°C‎ تا ‎+150°C‎
+مقاومت حرارتی پیوند به محیط (RθJA): حدود 60 °C/W
+ابعاد بدنه: قطر بدنه بین ‎2.0 تا ‎2.7 میلی‌متر، طول بدنه بین ‎4.1 تا ‎5.2 میلی‌متر، طول پایه‌ها حداقل ‎25.4 میلی‌متر از هر سمت
+
+کاربردهای رایج
+دیود UF4007 به دلیل مشخصات سریع و ولتاژ بالا، انتخابی ایده‌آل برای مدارهایی است که نیاز به یکسوسازی فرکانس بالا، محافظت از ترانزیستورها در برابر ولتاژ برگشتی و جلوگیری از ایجاد نویز در سوئیچینگ دارند. این دیود در تجهیزات مصرفی، منابع تغذیه سوئیچینگ، اینورترها، مدارات UPS، شارژرها و مدارات کنترل موتور بسیار مورد استفاده قرار می‌گیرد.
+
+یکسوسازی در منابع تغذیه سوئیچینگ
+مدارات فری‌ویلینگ در درایورهای موتور
+مدارات اینورتر AC به DC
+محافظت ولتاژ معکوس در مدارات الکترونیکی
+مدارات UPS و پشتیبان تغذیه
+مبدل‌های DC-DC و DC-AC
+مدارات حذف نوسان رله و کنتاکتور
+یکنواخت‌سازی سیگنال در مدارات دیجیتال
+کاربردهای مخابراتی و صنعتی با سرعت بالا
+فیلترهای حفاظتی در ورودی تغذیه
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع 1A-200V مدل SUF103A پکیج SMA
+
+قیمت:
+11,600
+
+توضیحات کوتاه:
+دیود فوق سریع اس ام دی 200 ولت 1 آمپر SUF103A مارک SeCoS پکیج SMA
+
+توضیحات کامل:
+Specification
+
+VRRM (V) : 200
+IF (A) : 1.0
+IFSM (A) : 30
+VF (V) : 0.95
+IRM (µ) : 5
+TRR (nS) : 35
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع 31GF6 600V-3A
+
+قیمت:
+14,600
+
+توضیحات کوتاه:
+دیود فوق سریع 31GF6 مناسب برای رکتفایرهای فرکانس بالا و مدارهای اینورتر با عملکرد سریع و تلفات کم
+
+توضیحات کامل:
+دیود 31GF6 ساخت شرکت Vishay یکی از دیودهای ریکتیفایر فوق سریع (Ultrafast Rectifier) با قابلیت تحمل ولتاژ معکوس بالا و زمان بازیابی بسیار کوتاه است. این دیود دارای چیپ پسیو شده با شیشه (Glass Passivated) بوده که پایداری حرارتی و الکتریکی بالایی در شرایط سخت فراهم می‌کند. سرعت بازیابی معکوس 30 نانوثانیه، باعث شده این قطعه برای کاربردهای سوئیچینگ با فرکانس بالا مانند مبدل‌های DC-DC و اینورترها ایده‌آل باشد. افت ولتاژ مستقیم پایین (حداکثر 1.6 ولت) و قابلیت تحمل جریان هجومی تا 90 آمپر از دیگر مزیت‌های این قطعه به‌شمار می‌رود. بسته‌بندی DO-201AD با پایه‌های قلع‌کاری‌شده، نصب آسان و انتقال حرارت مناسب را تضمین می‌کند.
+
+مشخصات
+
+ولتاژ کاری (VRRM): 600 V
+ولتاژ (RMS): 420 V
+ولتاژ مسدودسازی (DC): 600 V
+جریان متوسط عبوری (IF(AV)): 3.0 A
+جریان هجومی لحظه‌ای (IFSM): 90 A
+زمان بازیابی معکوس (trr): 30 ns
+افت ولتاژ مستقیم (VF در 3A): 1.6 V
+جریان نشتی معکوس (IR): 20 µA
+توان اتلافی معکوس (EAR): 10 mJ
+محدوده دمای کاری: °C 150~ -40
+مقاومت حرارتی اتصال به محیط (RθJA): 30 °C/W
+مقاومت حرارتی اتصال به لید (RθJL): 8 °C/W
+نوع پکیج: DO-201AD
+
+کاربردهای رایج
+
+دیود فوق سریع 31GF6 با توجه به مشخصات فنی خود، به‌ویژه زمان بازیابی کوتاه و جریان هجومی بالا، برای کاربرد در منابع تغذیه سوئیچینگ، اینورترها و مدارهای اصلاح ضریب توان مناسب است. همچنین در سیستم‌های الکترونیکی صنعتی و ارتباطی که نیاز به سرعت بالا و تلفات پایین دارند، عملکرد قابل‌اعتمادی ارائه می‌دهد.
+
+مبدل‌های DC به DC
+مدارهای اینورتر
+سیستم‌های UPS
+مدارهای اصلاح ضریب توان (PFC)
+تجهیزات مخابراتی با فرکانس بالا
+بردهای تغذیه سوئیچینگ
+تجهیزات الکترونیک صنعتی
+درایورهای موتورهای DC
+مدارهای فری‌ویلینگ برای رله‌ها
+مدارهای خروجی مبدل‌های ولتاژ بالا
+
+Specification
+
+Product Category: Rectifiers
+RoHS: Details
+REACH - SVHC:
+Mounting Style: Through Hole
+Package/Case: DO-41
+Vr - Reverse Voltage: 1 kV
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.3 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 500 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 175 C
+Series: RGP10M
+Packaging: Reel
+Packaging: Cut Tape
+Brand: onsemi / Fairchild
+Height: 2.72 mm
+Length: 5.21 mm
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع D5L60 5A-600V پکیج ITO-220 مارک SHINDENGEN
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+دیود D5L60  بازیابی فوق سریع 5 آمپر با ولتاژ معکوس 600 ولت مناسب برای منابع تغذیه سوئیچینگ و مدارات PFC مارک SHINDENGEN
+
+توضیحات کامل:
+دیود D5L60 ساخت شرکت SHINDENGEN یک دیود سیلیکونی بازیابی فوق سریع (Super Fast Recovery Diode) است که با قابلیت تحمل جریان متوسط 5 آمپر و ولتاژ معکوس تا 600 ولت طراحی شده است. زمان بازیابی معکوس بسیار کوتاه 50 نانوثانیه آن، عملکرد بهینه‌ای در کاربردهای فرکانس بالا مانند مبدل‌های سوئیچینگ و اصلاح ضریب توان (PFC) فراهم می‌سازد. این دیود در پکیج ITO-220 با بدنه‌ای کاملاً ایزوله ارائه می‌شود که امکان نصب مستقیم روی هیت‌سینک بدون نیاز به عایق را فراهم می‌کند. مقاومت حرارتی پایین (3.5 درجه سانتی‌گراد بر وات) و استحکام دی‌الکتریک 1.5 کیلوولت، این دیود را برای شرایط سخت صنعتی و الکترونیکی مناسب می‌سازد. علاوه‌براین، قابلیت تحمل جریان هجومی تا 100 آمپر در یک سیکل، مقاومت بالای آن در برابر شوک‌های لحظه‌ای جریان را تضمین می‌کند.
+
+مشخصات
+
+پارت نامبر: D5L60
+نوع دیود: بازیابی فوق سریع (Super Fast Recovery)
+پکیج: ITO-220
+ولتاژ معکوس بیشینه (VRM): برابر با 600 ولت
+جریان مستقیم متوسط (IO): برابر با 5 آمپر
+جریان هجومی لحظه‌ای (IFSM): برابر با 100 آمپر (در یک سیکل، غیر تکراری)
+ولتاژ هدایت مستقیم (VF): حداکثر 1.5 ولت در جریان 5 آمپر
+جریان نشت معکوس (IR): حداکثر 10 میکروآمپر در 600 ولت
+زمان بازیابی معکوس (trr): حداکثر 50 نانوثانیه
+دمای کاری پیوندی (Tj): تا 150 درجه سانتی‌گراد
+مقاومت حرارتی اتصال تا کیس (θjc): حداکثر 3.5  درجه سانتی‌گراد بر وات
+استحکام دی‌الکتریک بین پایه‌ها و بدنه: 1500 ولت AC به مدت 1 دقیقه
+
+کاربردهای رایج
+
+دیود D5L60 به دلیل سرعت سوئیچینگ بالا و تحمل توان مناسب، در مدارهای اصلاح ضریب توان، منابع تغذیه سوئیچینگ، خروجی ولتاژ بالا در تلویزیون‌های CRT، تجهیزات روشنایی صنعتی و به‌عنوان دیود هرزگرد در مدارات درایور موتور یا القایی بسیار مورد استفاده قرار می‌گیرد. همچنین در کاربردهایی که نیاز به ایزولاسیون حرارتی مناسب و زمان بازیابی کوتاه دارند، انتخاب ایده‌آلی است.
+
+مدارات اصلاح ضریب توان (PFC)
+منابع تغذیه سوئیچینگ
+دیود هرزگرد (Freewheel) در درایورهای موتور
+مدارات خروجی ولتاژ بالا در تلویزیون‌های CRT
+تجهیزات روشنایی صنعتی
+مبدل‌های DC به DC
+درایو بارهای القایی
+مدارات اینورتر
+سیستم‌های UPS
+تجهیزات الکترونیکی صنعتی پرتوان
+
+Specification
+
+Diode Type: Super Fast Recovery
+Package: ITO-220
+Maximum Reverse Voltage (VRM): 600 V
+Average Rectified Forward Current (IO): 5 A (Tc = 123°C, 50Hz sine wave)
+Peak Surge Forward Current (IFSM): 100 A (one cycle, non-repetitive, sine wave, Tj = 25°C)
+Forward Voltage Drop (VF): Max. 1.5 V (at IF = 5 A)
+Reverse Leakage Current (IR): Max. 10 µA (at VR = 600 V)
+Reverse Recovery Time (trr): Max. 50 ns (IF = 0.5 A, IR = 1 A)
+Operating Junction Temperature (Tj): up to 150°C
+Thermal Resistance (junction-to-case, θjc): Max. 3.5 °C/W
+Dielectric Strength (terminal to case): 1.5 kV AC, 1 minute
+Mounting Torque: Max. 0.5 N·m (Recommended: 0.3 N·m)
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع EGL41C
+
+قیمت:
+17,100
+
+توضیحات کوتاه:
+دیود فوق سریع EGL41C
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: DO-213AB(GL41)
+Vr - Reverse Voltage: 150 V
+If - Forward Current: 1 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 50 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 175 C
+Packaging: MouseReel
+Pd - Power Dissipation: -
+Product: Rectifiers
+Product Type: Rectifiers
+Subcategory: Diodes & Rectifiers
+Termination Style: MELF
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع EGP10F 300V-1A
+
+قیمت:
+6,600
+
+توضیحات کوتاه:
+دیود فوق سریع 300 ولت 1 آمپر
+
+توضیحات کامل:
+Specification
+Product Category: Rectifiers
+RoHS: Details
+REACH - SVHC:
+Mounting Style: Through Hole
+Package/Case: DO-41
+Vr - Reverse Voltage: 300 V
+If - Forward Current: 1 A
+Type: Ultra Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.25 V
+Max Surge Current: 30 A
+Ir - Reverse Current: 5 uA
+Recovery Time: 50 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Series: EGP10F
+Packaging: Reel
+Packaging: Cut Tape
+Brand: onsemi / Fairchild
+Height: 2.72 mm
+Length: 5.21 mm
+Pd - Power Dissipation: 2.5 W
+Product: Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع ES1G پکیج SMA
+
+قیمت:
+16,200
+
+توضیحات کوتاه:
+دیود فوق سریع اس ام دی 400 ولت 1 آمپر ES1G پکیج SMA
+
+توضیحات کامل:
+Specification
+
+Diode Type: Standard
+
+Voltage - DC Reverse (Vr) (Max): 400 V
+
+Current - Average Rectified (Io): 1A
+
+Voltage - Forward (Vf) (Max) @ If: 1.7 V @ 1 A
+
+Speed: Fast Recovery =< 500ns, > 200mA (Io)
+
+Reverse Recovery Time (trr): 60 ns
+
+Current - Reverse Leakage @ Vr: 5 µA @ 600 V
+
+Capacitance @ Vr, F: 8pF @ 0V, 1MHz
+
+Mounting Type: Surface Mount
+
+Supplier Device Package: DO-214AC (SMA)
+
+Operating Temperature - Junction: 150°C (Max)
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع ES2J پکیج SMA
+
+قیمت:
+16,200
+
+توضیحات کوتاه:
+دیود فوق سریع اس ام دی 600 ولت 2 آمپر ES2J پکیج SMA
+
+توضیحات کامل:
+Specification
+
+Diode Type: Standard
+
+Voltage - DC Reverse (Vr) (Max): 600 V
+
+Current - Average Rectified (Io): 2A
+
+Voltage - Forward (Vf) (Max) @ If: 1.7 V @ 1 A
+
+Speed: Fast Recovery =< 500ns, > 200mA (Io)
+
+Reverse Recovery Time (trr): 35 ns
+
+Current - Reverse Leakage @ Vr: 5 µA @ 600 V
+
+Capacitance @ Vr, F: 8pF @ 0V, 1MHz
+
+Mounting Type: Surface Mount
+
+Supplier Device Package: DO-214AC (SMA)
+
+Operating Temperature - Junction: 150°C (Max)
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع MUR1560 15A,600V
+
+قیمت:
+151,000
+
+توضیحات کوتاه:
+Rectifiers 600V 15A UltraFast
+
+توضیحات کامل:
+Specification
+
+Manufacturer: ON Semiconductor
+Product Category: Rectifiers
+RoHS: N
+Mounting Style: Through Hole
+Package/Case: TO-220-2
+Vr - Reverse Voltage: 600 V
+If - Forward Current: 15 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.5 V
+Max Surge Current: 150 A
+Ir - Reverse Current: 10 uA
+Recovery Time: 60 ns
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 175 C
+Packaging: Tube
+Height: 9.19 mm (Max)
+Length: 10.36 mm (Max)
+Product: Rectifiers
+Termination Style: Through Hole
+Width: 4.9 mm (Max)
+Brand: ON Semiconductor
+Product Type: Rectifiers
+Factory Pack Quantity: 50
+Subcategory: Diodes & Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع MUR460 4A,600V
+
+قیمت:
+40,000
+
+توضیحات کامل:
+Vr - Reverse Voltage:     600 V
+If - Forward Current:     4 A
+Type:     Fast Recovery Rectifiers
+Configuration:     Single
+Vf - Forward Voltage:     1.25 V
+Max Surge Current:     150 A
+Ir - Reverse Current:     10 uA
+Recovery Time:     50 ns
+Minimum Operating Temperature:     - 65 C
+Maximum Operating Temperature:     + 175 C
+Packaging:     Ammo Pack
+Brand:     Vishay Semiconductors
+Diameter:     5.3 mm
+Height:     5.3 mm
+Length:     9.5 mm
+
+DATASHEET
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع US1J پکیج SMA
+
+قیمت:
+15,700
+
+توضیحات کوتاه:
+دیود فوق سریع اس ام دی 600 ولت 1 آمپر US1J پکیج SMA
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Hottech
+
+Product Category: Rectifiers
+
+Mounting Style: SMD/SMT
+
+Package / Case: SMA
+
+Vr - Reverse Voltage: 600 V
+
+If - Forward Current: 1 A
+
+Type: Fast Recovery Rectifiers
+
+Configuration: Single
+
+Vf - Forward Voltage: 1.7 V
+
+Max Surge Current: 30 A
+
+Ir - Reverse Current: 10 uA
+
+Recovery Time: 75 ns
+
+Minimum Operating Temperature: - 55 C
+
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+دیود فوق سریع US1M پکیج SMA
+
+قیمت:
+5,400
+
+توضیحات کوتاه:
+دیود یک‌سویه فوق سریع مناسب برای یکسوسازی ولتاژهای تا 1000 ولت ولت 1 آمپر US1M پکیج SMA
+
+توضیحات کامل:
+دیود US1M یک یک‌سوساز فوق سریع از نوع Surface Mount است که برای کاربردهایی با نیاز به بازیابی سریع و راندمان بالا طراحی شده است. این دیود با قابلیت تحمل ولتاژ معکوس تا 1000 ولت و جریان میانگین 1 آمپر، برای محافظت، یکسوسازی و کنترل جریان در مدارهای سوئیچینگ و منابع تغذیه کاربرد دارد. سرعت بازیابی بالا (حداکثر 75 نانوثانیه) آن را برای کاربردهایی با سوئیچینگ سریع مناسب می‌سازد. بدنه‌ی پلاستیکی با رتبه‌بندی شعله‌پذیری 94V-0 و نشان‌گذاری پلاریته با نوار کاتد، نصب آسان و ایمن را در مدارهای سطحی فراهم می‌کند. از مزایای اصلی آن می‌توان به افت ولتاژ مستقیم پایین، تحمل جریان هجومی بالا (30آمپر) و ابعاد کوچک با وزن کم اشاره کرد. این دیود با پکیج SMA و ساختار مناسب برای مونتاژ خودکار، گزینه‌ای مطمئن برای طراحی‌های صنعتی مدرن محسوب می‌شود.
+
+مشخصات
+
+ولتاژ کاری: 1000 ولت (حداکثر ولتاژ معکوس)
+فرکانس کاری: مناسب برای مدارهای فرکانس بالا با زمان بازیابی 75 نانوثانیه
+جریان مصرفی: جریان مستقیم میانگین 1 آمپر در دمای 75درجه سانتی‌گراد
+جریان هجومی: 30 آمپر (پیک در نیم سیکل 8.3 میلی‌ثانیه)
+افت ولتاژ مستقیم: حداکثر 1.7 ولت در جریان 1 آمپر
+جریان نشتی معکوس: 50 میکروآمپر در 100 درجه سانتی‌گراد
+ظرفیت پیوندی: 15 پیکوفاراد
+مقاومت حرارتی اتصال به پایه: 50 درجه سانتی‌گراد بر وات
+بازه دمای کاری و نگهداری: منفی 65 تا مثبت 150 درجه سانتی‌گراد
+پکیج: SMA (DO-214AC)
+
+کاربردهای رایج
+
+دیود US1M به دلیل سرعت بازیابی بالا، ولتاژ تحملی زیاد و ابعاد کوچک، در مدارهای قدرت، منابع تغذیه سوئیچینگ، شارژرها، درایورهای موتور، اینورترها، و مدارات حفاظت ولتاژی مورد استفاده قرار می‌گیرد. این دیود برای کاربردهایی که نیازمند عملکرد سریع و قابل‌اطمینان در فضای محدود هستند بسیار مناسب است.
+
+منابع تغذیه سوئیچینگ
+مدارهای اصلاح ضریب توان (PFC)
+شارژرهای صنعتی و خانگی
+مدارهای ولتاژ معکوس در UPS
+درایورهای LED و موتورهای DC
+مبدل‌های DC به DC
+مدارات کلمپ ولتاژ
+حفاظت ولتاژی در تجهیزات مخابراتی
+اینورترهای توان پایین
+سیستم‌های تغذیه قابل حمل
+
+Specification
+
+Diode Type: Standard
+Voltage - DC Reverse (Vr) (Max): 1000 V
+Current - Average Rectified (Io): 1A
+Voltage - Forward (Vf) (Max) @ If: 1.7 V @ 1 A
+Speed: Fast Recovery =< 500ns, > 200mA (Io)
+Reverse Recovery Time (trr): 75 ns
+Current - Reverse Leakage @ Vr: 5 µA @ 600 V
+Capacitance @ Vr, F: 8pF @ 0V, 1MHz
+Mounting Type: Surface Mount
+Supplier Device Package: DO-214AA (SMA)
+Operating Temperature - Junction: 150°C (Max)
+

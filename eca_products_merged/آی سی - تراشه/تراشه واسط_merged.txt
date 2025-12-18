@@ -1,0 +1,897 @@
+عنوان:
+تراشه ترنسیور +MAX485CPA پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی +MAX485CPA فرستنده گیرنده انتقال دهنده Transceivers استانداردهای RS485 و RS422 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer:Maxim Integrated
+Product Category: RS-422/RS-485 Interface IC
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Series: MAX485
+Function: Transceiver
+Data Rate: 2.5 Mb/s
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Operating Supply Voltage: 5 V
+Operating Supply Current: 500 uA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Height: 4.45 mm (Max)
+Length: 9.91 mm (Max)
+Width: 7.87 mm (Max)
+Duplex: Half Duplex
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور +MAX485EPA پکیج DIP
+
+قیمت:
+84,900
+
+توضیحات کوتاه:
+آی سی +MAX485EPA انتقال دهنده (Transceivers) Half Duplex برای استانداردهای RS485 و RS422 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Series: MAX485
+Function: Transceiver
+Data Rate: 2.5 Mb/s
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Operating Supply Voltage: 5 V
+Operating Supply Current: 500 uA
+Minimum Operating Temperature: -40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 4.45 mm (Max)
+Length: 9.91 mm (Max)
+Width: 7.87 mm (Max)
+Duplex: Half Duplex
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MAX3085 معادل تراشه MAX485 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی MAX3085 انتقال دهنده (Transceivers) Half Duplex برای استاندارهای RS485 و RS422
+
+توضیحات کامل:
+Introduction
+The MAX3080–MAX3089 high-speed transceivers for RS-485/RS-422 communication contain one driver and one receiver. These devices feature fail-safe circuitry, which guarantees a logic-high receiver output when the receiver inputs are open or shorted. This means that the receiver output will be a logic high if all transmitters on a terminated bus are disabled (high impedance). The MAX3080/MAX3081/MAX3082 feature reduced slew-rate drivers that minimize EMI and reduce reflections caused by improperly terminated cables, allowing error-free data transmission up to 115kbps. The MAX3083/MAX3084/MAX3085 offer higher driver output slew-rate limits, allowing transmit speeds up to 500kbps. The MAX3086/MAX3087/MAX3088’s driver slew rates are not limited, making transmit speeds up to 10Mbps possible. The MAX3089’s slew rate is selectable between 115kbps, 500kbps, and 10Mbps by driving a selector pin with a single three-state driver.
+
+Specification
+Data Rate: 500 kbps
+Interface: RS-422, RS-485
+Logic Function: Transceiver
+Max Operating Temperature: 85 °C
+Max Power Dissipation: 667 mW
+Max Supply Voltage: 5.25 V
+Min Operating Temperature: -40 °C
+Min Supply Voltage: 4.75 V
+Number of Drivers: 1
+Number of Receivers: 1
+Number of Transceivers: 1
+Number of Transmitters: 1
+Operating Supply Current: 600 µA
+Operating Supply Voltage: 5 V
+Simplex/Duplex: Half Duplex
+Package:SOIC-8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MAX3232CSE پکیج SO-16
+
+قیمت:
+94,400
+
+توضیحات کوتاه:
+آی سی ترنسیور Transceivers فرستنده گیرنده  MAX3232CSE پکیج SMD SO-16 برای استاندارد RS-232
+
+توضیحات کامل:
+Specification
+RS-232 Interface IC 3-5.5V 235kbps Transceiver
+
+Manufacturer:     Maxim Integrated
+Product Category:     RS-232 Interface IC
+Function:     Transceiver
+Data Rate:     235 kb/s
+Number of Drivers:     2 Driver
+Number of Receivers:     2 Receiver
+Operating Supply Voltage:     3 V to 5.5 V
+Supply Current:     1 mA
+Maximum Operating Temperature:     + 70 C
+Mounting Style:     SMD/SMT
+Package / Case:     SO-16 Narrow
+Packaging:     Tube
+Brand:     Maxim Integrated
+Minimum Operating Temperature:     0 C
+Propagation Delay Time ns:     0.3 us
+Series:     MAX3232
+Shutdown:     Without Shutdown
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MAX485CSA پکیج SO-8
+
+قیمت:
+62,200
+
+توضیحات کوتاه:
+آی سی MAX485 فرستنده گیرنده انتقال دهنده Transceivers استانداردهای RS485 و RS422 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Maxim Integrated
+Product Category: RS-422/RS-485 Interface IC
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SO-8
+Series: MAX485
+Function: Transceiver
+Data Rate: 2.5 Mb/s
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Operating Supply Voltage: 5 V
+Operating Supply Current: 500 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 1.5 mm
+Length: 5 mm
+Width: 4 mm
+Brand: Maxim Integrated
+Duplex: Half Duplex
+Product Type: RS-422/RS-485 Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MAX485ESA پکیج SO-8
+
+قیمت:
+47,300
+
+توضیحات کوتاه:
+تراشه MAX485ESA یک ترنسیور کم‌مصرف برای ارتباطات RS-485 و RS-422 با سرعت بالا تا 2.5 مگابیت‌برثانیه در پکیج SMD نوع SO-8
+
+توضیحات کامل:
+MAX485ESA یک ترنسیور کم‌مصرف و نیمه‌دوطرفه (Half-Duplex) است که برای انتقال داده‌ها بر بستر استاندارد RS-485 یا RS-422 طراحی شده است. این تراشه شامل یک درایور و یک گیرنده می‌باشد و امکان برقراری ارتباط تا فاصله‌های طولانی و در محیط‌های نویزی را فراهم می‌کند.
+ویژگی برجسته‌ی این تراشه توان مصرفی پایین (حدود 300 میکروآمپر در حالت عادی) و قابلیت انتقال داده با سرعت حداکثر 2.5 مگابیت‌برثانیه است. همچنین، مدار داخلی محافظت در برابر اتصال کوتاه و قطع حرارتی (thermal shutdown) دارد که باعث افزایش پایداری و طول عمر دستگاه می‌شود. ورودی گیرنده دارای قابلیت Fail-Safe است، به این معنی که در صورت قطع اتصال یا حالت ورودی باز، خروجی منطقی بالا تولید می‌کند تا از خطای داده جلوگیری شود.
+پایه‌های کنترل RE (Receiver Enable) و DE (Driver Enable) امکان فعال یا غیرفعال کردن جداگانه‌ی درایور و گیرنده را فراهم می‌کنند. این ویژگی، تراشه را برای سیستم‌های چند‌نقطه‌ای (Multipoint Bus) ایده‌آل می‌سازد.
+
+مشخصات
+
+ولتاژ تغذیه (Vcc): 4.75 تا 5.25 ولت
+نوع ارتباط: RS-485 / RS-422 Half-Duplex
+نرخ انتقال داده (Data Rate): تا 2.5 Mbps
+جریان مصرفی: حدود 300 µA (در حالت فعال)
+محدوده دمای کاری: °C85~40-
+مقاومت ورودی گیرنده: 12 kΩ
+تعداد دستگاه قابل اتصال در باس: تا 32 واحد
+حفاظت در برابر اتصال کوتاه و حرارت زیاد
+پکیج: SO-8
+
+کابردهای رایج
+
+ارتباطات صنعتی مبتنی بر RS-485
+شبکه‌های کنترل محلی (LAN صنعتی)
+تبدیل سطح سیگنال بین TTL و RS-485
+سیستم‌های اندازه‌گیری و داده‌برداری
+تجهیزات اتوماسیون و کنترل از راه دور
+ماژول‌های ارتباطی برای میکروکنترلرها و PLC
+
+Specification
+
+Manufacturer: Analog Devices Inc.
+Product Category: RS-422/RS-485 Interface IC
+Series: MAX485
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Function: Transceiver
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Data Rate: 2.5 Mb/s
+Supply Voltage - Max: 5 V
+Supply Voltage - Min: 5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Reel
+Packaging: Cut Tape
+Packaging: MouseReel
+Brand: Analog Devices / Maxim Integrated
+Duplex: Half Duplex
+Height: 1.5 mm
+Length: 5 mm
+Operating Supply Current: 500 uA
+Operating Supply Voltage: 5 V
+Product Type: RS-422/RS-485 Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MCP2551 پکیج DIP
+
+قیمت:
+705,000
+
+توضیحات کوتاه:
+آی سی MCP2551 انتقال دهنده Transceivers برای ارتباط CAN پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: CAN Interface IC
+Type: CAN Transceiver
+Data Rate: 1 Mb/s
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Maximum Operating Temperature: + 85 C
+Minimum Operating Temperature: - 40 C
+Mounting Style: Through Hole
+Package / Case:PDIP-8
+Packaging: Tube
+Brand: Microchip Technology
+Number of Transceivers: 1
+Operating Supply Voltage: 5 V
+Product: CAN Controllers
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور MCP2551 پکیج SO-8
+
+قیمت:
+583,000
+
+توضیحات کوتاه:
+ترنسیور پرسرعت رابط CAN با توانایی ارتباط دوطرفه بین لایه فیزیکی و لایه داده در شبکه‌های صنعتی و خودرویی
+
+توضیحات کامل:
+تراشه MCP2551 یک ترنسیور (Transceiver) استاندارد High-Speed CAN است که برای استفاده در شبکه‌های مبتنی بر پروتکل CAN طراحی شده و مطابق با استاندارد ISO-11898 عمل می‌کند. این قطعه وظیفه‌ی تبدیل سیگنال دیجیتال TTL از میکروکنترلر به سیگنال دیفرانسیلی CAN و بالعکس را برعهده دارد. MCP2551 قادر است با سرعتی تا 1Mbps در توپولوژی‌های مختلف شبکه CAN کار کند و دارای خروجی مقاوم در برابر اتصال کوتاه، حفاظت در برابر دما، حالت Sleep و پایداری بالا در محیط‌های نویزی صنعتی و خودرویی است. این تراشه برای اتصال مستقیم به میکروکنترلرهایی که کنترل‌کننده داخلی CAN دارند (مثل MCP2515 یا STM32) مناسب است.
+
+مشخصات
+
+نوع قطعه: ترنسیور CAN با سرعت بالا
+پروتکل پشتیبانی‌شده: ISO-11898
+پکیج: SO-8
+ولتاژ کاری: 4.5V تا 5.5V
+حداکثر سرعت انتقال داده: 1Mbps
+نوع ارتباط: دوطرفه
+محدوده دمای کاری: 40- تا 125+ درجه سانتی‌گراد
+توان مصرفی حالت آماده‌به‌کار: کمتر از 5μA
+مقاومت در برابر اتصال کوتاه: تا ±40V در خطوط CANH و CANL
+حفاظت داخلی در برابر افزایش دما: دارد
+قابلیت تحمل نویز: بالا (مناسب محیط‌های صنعتی)
+قابلیت Hot-Plug: دارد
+تطابق ولتاژی با میکروکنترلرهای 5V و سازگار با خروجی TTL
+پیکربندی پایه‌ها:TXD: ورودی سیگنال از کنترلرRXD: خروجی سیگنال به کنترلرCANH / CANL: خطوط دیفرانسیلی به باسVDD / GND / VREF
+
+کاربردهای رایج
+
+MCP2551 یکی از پرکاربردترین درایورها برای پیاده‌سازی شبکه‌های CAN است که در خودروها، سیستم‌های اتوماسیون صنعتی و ابزارهای دقیق استفاده می‌شود.
+
+شبکه‌های CAN در خودرو (ECU، ABS، ایربگ و ...)
+شبکه‌های اتوماسیون صنعتی
+ارتباط بین بردهای الکترونیکی با باس CAN
+تجهیزات پزشکی و ابزار دقیق با شبکه CAN
+ارتباط بین ربات‌ها و سیستم‌های توزیع‌شده
+استفاده در خانه‌های هوشمند مبتنی بر CAN
+درایور مکمل برای کنترلر MCP2515
+تست و توسعه پروتکل CAN در بردهای آزمایشگاهی
+شبکه‌های BMS در سیستم‌های مدیریت باتری
+کنترل پنل‌های صنعتی و SCADA
+
+Specification
+
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Series: MCP2551
+Type: CAN Controller
+Data Rate: 1 Mb/s
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Moisture Sensitive: Yes
+Number of Transceivers: 1
+Operating Supply Voltage: 5 V
+Product Type: CAN Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور SN65176BP پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رابط Transceiver فرستنده گیرنده SN65176BP برای استاندارد RS-485 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments
+Product Category: RS-485 Interface IC
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Series: SN65176B
+Function: Transceiver
+Data Rate: 10 Mb/s
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Duplex: Half Duplex
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Operating Supply Current: 70 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 105 C
+Product: RS-485 Transceivers
+Brand: Texas Instruments
+Shutdown: Shutdown
+Operating Supply Voltage: 5 V
+Product Type: RS-485 Interface IC
+Subcategory: Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور SN75176B پکیج SOP-8
+
+قیمت:
+161,000
+
+توضیحات کوتاه:
+تراشه رابط RS-422 / RS-485 مدل SN75176B پکیج SOP-8
+
+توضیحات کامل:
+Specification
+
+Product Category: RS-422/RS-485 Interface Transceivers IC
+Series: SN75176B
+Mounting Style: SMD/SMT
+Package/Case: SOP-8
+Function: Transceiver
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Data Rate: 10 Mb/s
+Supply Voltage - Max: 5.25 V
+Supply Voltage - Min: 4.75 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Reel
+Packaging: Cut Tape
+Packaging: MouseReel
+Brand: Texas Instruments
+Duplex: Half Duplex
+Operating Supply Current: 70 mA
+Operating Supply Voltage: 5 V
+Product: RS-422/RS-485 Transceivers
+Product Type: RS-422/RS-485 Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه ترنسیور SP3485EN پکیج SO-8
+
+قیمت:
+55,700
+
+توضیحات کوتاه:
+آی سی SP3485EN / SP3485EE فرستنده گیرنده انتقال دهنده Transceivers استانداردهای RS485 و RS422 پکیج SO-8 SMD
+
+توضیحات کامل:
+تراشه SP3485EN یک ترنسیور RS-485 نیمه‌دوطرفه مبتنی بر فناوری BiCMOS است که ارتباط سریال پایدار، کم‌مصرف و با ایمنی بالا را فراهم می‌کند. این قطعه با کارکرد در ولتاژ 3.3V و قابلیت تحمل محدوده وسیع ولتاژ مشترک از ‎-7V‎ تا ‎+12V‎، امکان اتصال مطمئن بین ماژول‌ها و دستگاه‌هایی با اختلاف پتانسیل زمین را فراهم می‌سازد. وجود ورودی‌های کنترلی DE و RE اجازه مدیریت دقیق حالت ارسال، دریافت و تری‌استیت را می‌دهد و از نویز یا تداخل در خطوط جلوگیری می‌کند. بهره‌مندی از حفاظت اتصال کوتاه تا جریان ‎±250mA‎ و سازگاری کامل با استاندارد 75176 باعث شده این تراشه گزینه‌ای قابل اتکا در شبکه‌های صنعتی، کنترلرها، سیستم‌های اندازه‌گیری و تجهیزات مخابراتی باشد. سرعت انتقال داده تا ‎10Mb/s‎ نیز اطمینان می‌دهد که SP3485EN در کاربردهای با سرعت بالا عملکردی پایدار و کم‌تاخیر دارد.
+
+مشخصات
+
+مدل : SP3485EN / SP3485EE
+ولتاژ کاری: ‎3.135V‎ تا ‎3.465V‎
+سرعت داده: ‎10Mb/s‎
+جریان مصرفی بدون بار: ‎425µA‎ تا ‎2000µA‎ (طبق دما و شرایط تست)
+محدوده دمای کاری: ‎-40°C‎ تا ‎+85°C‎
+نوع ارتباط: RS-485 / RS-422 نیمه‌دوطرفه
+تعداد درایور: ‎1‎
+تعداد گیرنده: ‎1‎
+جریان اتصال کوتاه خروجی درایور: ‎±250mA‎
+ایمپدانس ورودی گیرنده: ‎12kΩ‎
+حساسیت ورودی گیرنده: ‎±200mV‎
+محدوده ولتاژ مشترک ورودی: ‎-7V‎ تا ‎+12V‎
+پکیج: SO-8‎
+
+کاربردهای رایج
+
+این تراشه برای ایجاد ارتباط سریال پایدار در محیط‌های صنعتی، سیستم‌های کنترل توزیع‌شده، شبکه‌های RS-485، تجهیزات اندازه‌گیری و سیستم‌های مخابراتی مورد استفاده قرار می‌گیرد. به دلیل مصرف کم، ایمنی بالا و سازگاری کامل با استانداردهای صنعتی، انتخابی مطمئن برای طراحی سیستم‌های مبتنی بر ارتباطات باس نیمه‌دوطرفه است.
+
+سیستم‌های اتوماسیون صنعتی
+شبکه‌های RS-485 طولانی
+سیستم‌های مانیتورینگ و سنسورهای هوشمند
+مدارهای کنترل موتور
+کنتورهای هوشمند
+کنترلرهای PLC
+دستگاه‌های مخابراتی کم‌توان
+ارتباط بین بردهای الکترونیکی
+سیستم‌های HVAC
+شبکه‌های پردازش توزیع‌شده
+
+Specification
+
+Product Category: RS-485 Interface IC
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SO-8 Narrow
+Series: SP3485EN /SP3485EEN
+Function: Transceiver
+Data Rate: 10 Mb/s
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Duplex: Half Duplex
+Supply Voltage - Max: 3.465 V
+Supply Voltage - Min: 3.135 V
+Operating Supply Current: 800 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Product: RS-485 Transceivers
+Brand: MaxLinear
+Shutdown: No Shutdown
+Operating Supply Voltage: 3.3 V
+Product Type: RS-485 Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رابط ADM202E پکیج TSSOP-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی ADM202E مناسب ارتباط های پروتکل RS-232 پکیج SMD TSSOP-16
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Analog Devices Inc.
+
+Product Category: RS-232 Interface IC
+
+Mounting Style: SMD/SMT
+
+Package / Case: TSSOP-16
+
+Series: ADM202E
+
+Function: Transceiver
+
+Data Rate: 230 kb/s
+
+Number of Drivers: 2 Driver
+
+Number of Receivers: 2 Receiver
+
+Operating Supply Voltage: 5 V
+
+Operating Supply Current: 6 mA
+
+Minimum Operating Temperature: - 40 C
+
+Maximum Operating Temperature: + 85 C
+
+ESD Protection: 15 kV
+
+Packaging: Tube
+
+Height: 1.05 mm (Max)
+
+Length: 5 mm
+
+Output Type: Single-Ended
+
+Product: RS-232 Transceivers
+
+Supply Type: Single Supply
+
+Width: 4.4 mm
+
+Brand: Analog Devices
+
+Shutdown: Without Shutdown
+
+Number of Transceivers: 1 Transceiver
+
+Product Type: RS-232 Interface IC
+
+Protocol Supported: RS-232
+
+Receiver Signal Type: Single-Ended
+
+Subcategory: Interface ICs
+
+Supply Voltage - Max: 5.5 V
+
+Supply Voltage - Min: 4.5 V
+
+
+========================================================================================================================
+
+عنوان:
+تراشه رابط MAX232 پکیج SO-16
+
+قیمت:
+99,000
+
+توضیحات کوتاه:
+آی سی رابط MAX232 پکیج SMD SO-16 برای استاندارد RS-232
+
+توضیحات کامل:
+Specification
+Product Category: RS-232 Interface IC
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: SOIC-Narrow-16
+Series: MAX232
+Function: Transceiver
+Data Rate: 120 kb/s
+Number of Drivers: 2 Driver
+Number of Receivers: 2 Receiver
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Operating Supply Current: 10 mA
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Packaging: Tube
+Height: 1.5 mm
+Length: 10 mm
+Product: RS-232 Transceivers
+Supply Type: Single Supply
+Width: 4 mm
+Brand: Maxim Integrated
+Shutdown: Without Shutdown
+Operating Supply Voltage: 5 V
+Product Type: RS-232 Interface IC
+Propagation Delay Time: 10 us
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340G پکیج SOP-16
+
+قیمت:
+395,400
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340G پکیج SMD SOP-16
+
+توضیحات کامل:
+Introduction
+
+CH340g is a USB to TTL chip an alternative to difficult to solder CP2102 & the costly but reliable FT232. As of now, the CH340g is the cheapest USB to TTL IC in the market with very easy to solder footprint it has solder pitch of 1.27mm and SOP-16 package. So if you want to integrate this SMD IC into
+The CH340 IC does exactly what you would expect them to do: a full-speed USB device that emulates a standard serial interface, with speeds from 50bps to 2Mpbs. The chip supports 5V and 3.3V, and all the weird modem lines are supported. Nowadays lots of Node MCU, Arduino Nano, and USB to TTL Converter Modules use this IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340K پکیج ESSOP-10
+
+قیمت:
+475,000
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340K پکیج ESSOP-10 SMD
+
+توضیحات کامل:
+Specification
+
+Part Number: CH340K
+Data Rate: 50bps to 2Mbps
+Speed: Full Speed
+Standard: USB 2.0
+Packaging: Reel
+Mounting Style: SMD/SMT
+Maximum Operating Temperature : +70C
+Minimum Operating Temperature: -20C
+Type : Bridge, USB to UART
+Supply Voltage - Max : 5.3V
+Supply Voltage - Min : 4V
+Package-Case : ESSOP-10
+Operating Supply Current : 7mA
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340N پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340N پکیج SOP-8 SMD
+
+توضیحات کامل:
+Specification
+Data Rate 2 Mb/s
+Function USB Interface IC
+Speed Compatible Full Speed
+Standard USB V2.0
+Interface Type Series USB to UART
+Type Series USB to UART Interface Integrated Circuit
+Mounting Style SMD/SMT
+Supply Voltage (Min) 4 V
+Supply Voltage (Max) 5.3 V
+Minimum Operating Temperature -40 C°
+Maximum Operating Temperature +85 C°
+Brand Jiangsu Qinheng Co
+Package SOP-8
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340T پکیج SSOP-20
+
+قیمت:
+460,000
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340T پکیج SMD SOP-20
+
+توضیحات کامل:
+Introduction
+
+CH340 is a USB bus convert chip and it can realize USB convert to serial interface, USB convert to IrDA infrared or USB convert to printer interface. In serial interface mode, CH340 supplies common MODEM liaison signal, used to enlarge asynchronous serial interface of computer or upgrade the common serial device to USB bus directly. More detail about USB convert to printer interface please referring to the second manual CH340DS2. In infrared mode, add infrared transceiver to CH340 can compose USB infrared adapter, realize SIR infrared communication.
+
+Features
+
+Full speed USB device interface, conforms to USB Specification Version 2.0, only needs crystal and capacitance external.
+Emulate standard serial interface, used to upgrade the former peripheral device, or add excess serial interface through USB.
+Totally compatible with serial application program in computer endpoint Windows operation system.
+Hardware full duplex serial interface, set transceiver buffer, supports communication baud rate varies from 50bps to 2Mbps.
+Supports common MODEM liaison signal RTS, DTR, DCD, RI, DSR and CTS.
+Through adding level converter equipment to supply RS232, RS485, RS422 and other interface.
+Supports IrDA criterion SIR infrared communication, supports baud rate varies from 2400bps to
+115200bps.
+For it is through USB converts to serial interface, only compatible with application layer not totally.
+Software compatible with CH341, using drive of CH341 directly.
+Support 5V and 3.3V source voltage.
+Supply SSOP-20 package without lead, compatible with RoHS.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CP2102 پکیج QFN-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به UART سریال CP2102 پکیج QFN-28 SMD
+
+توضیحات کامل:
+Specification
+
+Single-Chip USB to UART Data Transfer
+- Integrated USB transceiver; no external resistors
+required
+- Integrated clock; no external crystal required
+- Internal 1024-byte programmable ROM for vendor ID,
+product ID, serial number, power descriptor, release
+number, and product description strings
+- EEPROM (CP2102)
+- EPROM (One-time programmable) (CP2109)
+- On-chip power-on reset circuit
+- On-chip voltage regulator
+- 3.3 V output (CP2102)
+- 3.45 V output (CP2109)
+- 100% pin and software compatible with CP2101
+USB Function Controller
+- USB Specification 2.0 compliant; full-speed (12 Mbps)
+- USB suspend states supported via SUSPEND pins
+Asynchronous Serial Data BUS (UART)
+- All handshaking and modem interface signals
+- Data formats supported:
+- Data bits: 5, 6, 7, and 8
+- Stop bits: 1, 1.5, and 2
+- Parity: odd, even, mark, space, no parity
+- Baud rates: 300 bps to 1 Mbps
+- 576 Byte receive buffer; 640 byte transmit buffer
+- Hardware or X-On/X-Off handshaking supported
+- Event character support
+- Line break transmission
+Virtual COM Port Device Drivers
+- Works with existing COM port PC Applications
+- Royalty-free distribution license
+- Windows 8/7/Vista/Server 2003/XP/2000
+- Mac OS-X/OS-9
+- Linux
+
+Manufacturer: Silicon Laboratories
+Product Category: USB Interface IC
+RoHS: Details
+Mounting Style: SMD/SMT
+Package / Case: QFN-28
+Series: CP2102
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+Packaging: Tube
+Brand: Silicon Labs
+Operating Supply Voltage: 3.6 V
+Product Type: USB Interface IC
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال FT232RL پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال FT232RL پکیج SMD SOP-28
+
+توضیحات کامل:
+معرفی
+آی سی FT232RL یک مبدل USB به سریال میباشد که به راحتی از طریق پورت های سریال میکرو (rxd  , txd) میتوان با کامپیوتر تبادل اطلاعات داشت و از طریق ساخت یک پورت مجازی این کار صورت میگیرد.از ویژگیهای بارز این آی سی می توان به تغذیه کاری بین ۴٫۴ تا ۵٫۲۵ ولت،سازگار شده با usb 1.1  و usb 2 و تبادل اطلاعات توسط یک چیپ و با حداقل قطعات جانبی اشاره کرد.
+
+Specification
+Part Status Active
+Protocol USB
+Function Bridge, USB to UART
+Interface UART
+Standards USB 2.0
+Voltage - Supply 3.3V ~ 5.25V
+Current - Supply 15mA
+Operating Temperature -40°C ~ 85°C
+Package / Case 28-SSOP (0.209", 5.30mm Width)
+Supplier Device Package 28-SSOP
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال PL2303HXD پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال PL2303HXD پکیج SMD SOP-28
+
+توضیحات کامل:
+مدل HXD این تراشه قابلیت نصب بر روی لینوکس و ویندوز 8 را دارا می باشد.
+
+Introduction
+
+Prolific provides Android USB Host API driver solution (NO root permission needed) for connecting PL2303 USB-to-Serial devices to Android-powered devices with USB Host API mode support. The PL2303 Android JAVA driver library allows customers and developers to write Android applications to interface their PL2303 RS-232/UART devices with millions of Android USB host devices like Smartphones, Tablets, and Smart TVs.
+
+Download PL2303 Android USB Host API SDK (v1.0.0.6)
+
+Requirements
+
+- USB Device with PL2303HXD, PL2303EA, PL2303RA, or PL2303SA controller chip
+   NOTE: PL2303HXA and PL2303XA are not supported (Discontinued Products)
+- Android-Powered Device (Tablet/Phones) with USB Host Mode Support
+- Android 3.2 and above OS versions
+
+SDK Package includes following
+
+1. PL2303 Sample Test Android App Software  (ap_PL2303HXDSimpleTest.apk)
+2. PL2303 Android USB Host Solution Application Note
+3. PL2303 Sample Test Android App Source Code
+4. PL2303 Android Java Driver Library  (pl2303driver.jar)
+5. PL2303 Android App Development Reference Documents
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال PL2303TA پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال PL2303TA پکیج SMD SOP-28
+
+توضیحات کامل:
+Potential Product Applications
+Single-chip upgrade solution for Legacy RS232 devices to USB interface
+USB to RS232 converters/cables/dongles
+Healthcare/Medical USB Interface Data Transfer Cable
+Personal Infotainment/Media Player Docking USB Interface
+Cellular/PDA USB Interface Data Transfer Cable
+Serial-over-IP Wireless Solution
+USB Barcode/Smart Card Readers
+GPS/Navigation USB Interface
+Point-of-Sale (POS) Terminals/Printers
+PC Docking Station/Port Replicators
+Industrial/Instrumentation/Automation Control USB Interface
+USB Modem/Wireless/Zigbee USB Interface
+Set-Top Box (STB) / Home Gateway USB Interface
+Battery Charger Application
+MCU-based devices to USB interface
+
+PL2303TA is exclusively designed for mobile and embedded solutions in mind, providing a small footprint that could easily fit in to any connectors and handheld devices. With very small power consumption in either operating or suspend mode, PL2303TA is perfect for bus powered operation with plenty of power left for the attached devices. Flexible signal level requirement on the RS232-like serial port side also allows PL2303TA to connect directly to any 3.3V~1.8V range devices.
+
+
+========================================================================================================================
+
+عنوان:
+تراشه مبدل سطح ولتاژ MAX232 پکیج DIP
+
+قیمت:
+186,000
+
+توضیحات کوتاه:
+آی سی MAX232 یک مبدل دو طرفه سطح ولتاژ است و با کمک آن می توان میکرو را به پورت سریال متصل کرد.
+
+توضیحات کامل:
+معرفی
+MAX232 یک مبدل دو طرفه سطح ولتاژ است که از آن برای تطبیق سطوح ولتاژی منطقی (5ولت) با سطح ولتاژ پورت سریال (12 ولت) استفاده می شود و با کمک آن می توان میکرو و ... را به پورت سریال متصل کرد . برای اطلاعات بیشتر می توانید دیتاشیت آی سی را مطالعه کنید .
+
+Specification
+Manufacturer: Texas Instruments
+Product Category: RS-232 Interface IC
+RoHS: Details
+Mounting Style: Through Hole
+Package / Case: PDIP-16
+Series: MAX232
+Function: Transceiver
+Data Rate: 120 kb/s
+Number of Drivers: 2 Driver
+Number of Receivers: 2 Receiver
+Duplex: Full Duplex
+Supply Voltage - Max: 5.5 V
+Supply Voltage - Min: 4.5 V
+Operating Supply Current: 10 mA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 4.57 mm
+Length: 19.3 mm
+Product: RS-232 Transceivers
+Supply Type: Single Supply
+Width: 6.35 mm
+Brand: Texas Instruments
+Operating Supply Voltage: 5 V
+Product Type: RS-232 Interface IC
+

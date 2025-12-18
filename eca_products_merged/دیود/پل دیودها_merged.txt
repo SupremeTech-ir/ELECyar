@@ -1,0 +1,914 @@
+عنوان:
+پل دیود 1000V-1A مربعی DB107
+
+قیمت:
+25,200
+
+توضیحات کوتاه:
+پل دیود 1000ولت 1 آمپر مربعی DB107
+
+توضیحات کامل:
+Specification
+
+Product Category: Bridge Rectifiers
+RoHS: Details
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Solder Lead
+Package / Case: DB-1
+If - Forward Current: 1 A
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 40 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 8.8 mm
+Width: 6.5 mm
+Height: 3.4 mm
+Series: DB10
+Packaging: Tube
+Ir - Reverse Current: 5 uA
+Product Type: Bridge Rectifiers
+Subcategory: Diodes & Rectifiers
+Vr - Reverse Voltage: 700 V
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 1000V-1A مربعی DB107S پکیج SMD
+
+قیمت:
+20,100
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 1آمپر مربعی DB107S پکیج SMD
+
+توضیحات کامل:
+Specification
+Type: Single Phase Bridge
+Mounting Style: SMD/SMT
+Termination Style: SMD/SMT
+Package / Case: DBS
+If - Forward Current: 1 A
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 40 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 8.8 mm
+Width: 6.5 mm
+Height: 3.4 mm
+Series: DB10
+Packaging: Tube
+Product: Bridge Rectifiers
+Brand:
+Rectron
+Ir - Reverse Current: 5 uA
+Product Type: Bridge Rectifiers
+Subcategory: Diodes & Rectifiers
+Vr - Reverse Voltage: 700 V
+Part # Aliases: DB107S-C
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 10A-1000V تخت شانه ای GBLA10
+
+قیمت:
+334,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 1000 ولت 10 آمپر GBLA10
+
+توضیحات کامل:
+Specification
+
+Type: Single Phase Bridge
+If - Forward Current: 10 A
+Peak Reverse Voltage: 1000 V
+Max Surge Current: 120 A
+Vf - Forward Voltage: 1 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 10A-1000V تخت شانه ای KBU1010
+
+قیمت:
+251,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 10 آمپر KBU1010
+
+توضیحات کامل:
+Specification
+Product Category:     Bridge Rectifiers
+RoHS:      Details
+Mounting Style:     Through Hole
+Termination Style:     Through Hole
+Package/Case:     KBU
+If - Forward Current:     10 A
+Peak Reverse Voltage:     1000 V
+Vf - Forward Voltage:     1.05 V
+Max Surge Current:     300 A
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 150 C
+Series:     KBU
+Packaging:     Bulk
+Product:     Bridge Rectifier
+Brand:     GeneSiC Semiconductor
+Ir - Reverse Current:     10:00 AM
+Product Type:     Bridge Rectifiers
+Factory Pack Quantity:     400
+Subcategory:     Diodes & Rectifiers
+Vr - Reverse Voltage:     700 V
+Unit Weight:     8 g
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 10A-1000V مربعی BR1010C تایوانی مارک Rectron
+
+قیمت:
+511,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 1000 ولت 10 آمپر BR1010C تایوانی مارک Rectron
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Rectron
+Product Category: Bridge DIODE
+RoHS: Details
+Type: Single Phase Bridge
+Termination Style: Through Hole
+If - Forward Current: 10 A
+Peak Reverse Voltage: 1000 V
+Max Surge Current: 200 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 18.5 mm
+Width: 18.5 mm
+Height: 7 mm
+Packaging: Tube
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 10A-600V تخت شانه ای KBJ1006G تایوانی مارک Lite-On
+
+قیمت:
+302,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 600 ولت 10 آمپر KBJ1006G  تایوانی مارک Lite-On
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Lite-On
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+If - Forward Current: 10 A
+Peak Reverse Voltage: 600 V
+Max Surge Current: 170 A
+Vf - Forward Voltage: 1.1 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+size : 24.8x32.1x3.5 mm
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 15A-1000V تخت شانه ای KBU1510
+
+قیمت:
+252,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 15 آمپر KBU1510
+
+توضیحات کامل:
+Specification
+Product Category:     Bridge Rectifiers
+RoHS:      Details
+Type:     Single Phase Bridge
+Mounting Style:     Through Hole
+Package/Case:     KBU
+If - Forward Current:     15 A
+Peak Reverse Voltage:     1000 V
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 150 C
+Series:     KBU
+Packaging:     Bulk
+Product:     Bridge Rectifier
+Technology:     Si
+Brand:     GeneSiC Semiconductor
+Ir - Reverse Current:     15 A
+Product Type:     Bridge Rectifiers
+Factory Pack Quantity:     300
+Subcategory:     Diodes & Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 15A-600V تخت شانه ای D15XB60 مارک Shindengen
+
+قیمت:
+566,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 600 ولت 15 آمپر D15XB60 مارک Shindengen
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Shindengen
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Solder Pin
+Package / Case: 5S
+If - Forward Current: 15 A
+Peak Reverse Voltage: 600 V
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 200 A
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Length: 30 mm
+Width: 4.6 mm
+Height: 20 mm
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 15A-600V تخت شانه ای GBJ1506
+
+قیمت:
+492,000
+
+توضیحات کوتاه:
+پل دیود 15 آمپر 600 ولت GBJ1506
+
+توضیحات کامل:
+Specification
+Product Category: Bridge Rectifiers
+RoHS: RoHS Compliant Details
+Mounting Style: Through Hole
+Termination Style: Through Hole
+Package / Case: GBJ
+If - Forward Current: 15 A
+Peak Reverse Voltag: 600 V
+Vf - Forward Voltage: 1.05 V
+Max Surge Current: 240 A
+Minimum Operating Temperature: - 65 C
+Maximum Operating Temperature: + 150 C
+Ir - Reverse Current: 10 uA
+Product: Bridge Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 15A-600V تخت شانه ای GBJ15J
+
+قیمت:
+492,000
+
+توضیحات کوتاه:
+پل دیود 15 آمپر 600 ولت GBJ15J
+
+توضیحات کامل:
+Specification
+Product Category: Bridge Rectifiers
+RoHS: RoHS Compliant Details
+Mounting Style: Through Hole
+Termination Style: Through Hole
+Package / Case: GBJ
+If - Forward Current: 15 A
+Peak Reverse Voltag: 600 V
+Vf - Forward Voltage: 1.05 V
+Max Surge Current: 250 A
+Minimum Operating Temperature: - 50 C
+Maximum Operating Temperature: + 150 C
+Ir - Reverse Current: 5 uA
+Product: Bridge Rectifiers
+Vr - Reverse Voltage: 600 V
+Length: 30 mm
+Height: 4.6 mm
+Width: 20 mm
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 15A-800V تخت شانه ای D15XB80 مارک Shindengen
+
+قیمت:
+614,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 800 ولت 15 آمپر D15XB80 مارک Shindengen
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Shindengen
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Solder Pin
+Package / Case: 5S
+If - Forward Current: 15 A
+Peak Reverse Voltage: 800 V
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 200 A
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Length: 30 mm
+Width: 4.6 mm
+Height: 20 mm
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 15A-800V تخت شانه ای T15XB80 مارک Si Power
+
+قیمت:
+535,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 800 ولت 15 آمپر T15XB80 مارک Si Power
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Si Power
+Product Category: Bridge DIODE
+RoHS: Details
+Type: Single Phase Bridge
+Termination Style: Through Hole
+If - Forward Current: 15 A
+Peak Reverse Voltage: 800 V
+Max Surge Current: 200 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 30 mm
+Width: 3.6 mm
+Height: 20 mm
+Packaging: Tube
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 25A-600V تخت شانه ای D25XB60 ژاپنی مارک Shindengen
+
+قیمت:
+535,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 600 ولت 25 آمپر D25XB60 ژاپنی مارک Shindengen
+
+توضیحات کامل:
+Specification
+
+Manufacturer: SHINDENGEN
+Product Category: Bridge DIODE
+RoHS: Details
+Type: Single Phase Bridge
+Termination Style: Through Hole
+If - Forward Current: 25 A
+Peak Reverse Voltage: 600 V
+Max Surge Current: 350 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 30 mm
+Width: 3.6 mm
+Height: 20 mm
+Packaging: Tube
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 2A-1000V تخت شانه ای KBP210
+
+قیمت:
+63,900
+
+توضیحات کوتاه:
+پل دیود 2 آمپر - 1000ولت
+
+توضیحات کامل:
+Specification
+Bridge Rectifiers 2.0 Amp 1000 Volt 60 Amp IFSMPeak Reverse Repetitive Voltage (V) 1000
+Peak Average Forward Current (A) 2@Ta=50C
+Peak RMS Reverse Voltage (V) 700
+Peak Non-Repetitive Forward Surge Current (A) 60
+Peak Forward Voltage (V) 1.2@3.14A
+Peak Reverse Current (uA) 10
+Minimum Operating Temperature (°C) -55
+Maximum Operating Temperature (°C) 150
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 3A-1000V تخت شانه ای KBP310
+
+قیمت:
+68,600
+
+توضیحات کوتاه:
+پل دیود 3آمپر 1000ولت
+
+توضیحات کامل:
+Specification
+
+Type:     Single Phase Bridge
+Mounting Style:     Through Hole
+Package / Case:     KBP
+If - Forward Current:     3 A
+Peak Reverse Voltage:     1000 V
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 150 C
+Series:     KBP
+Packaging:     Bulk
+Product:     Bridge Rectifier
+Technology:     Si
+Brand:     GeneSiC Semiconductor
+Ir - Reverse Current:     3:00 AM
+Product Type:     Bridge Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 4A-1000V تخت شانه ای KBL410
+
+قیمت:
+123,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 4 آمپر KBL410
+
+توضیحات کامل:
+Desciption
+High current capability
+High surge current capability
+High reliability
+Low reverse current
+Low forward voltage drop
+Ideal for printed circuit board
+
+Specification
+
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+Package / Case: KBL-4
+If - Forward Current: 4 A
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 1.1 V
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 19.5 mm
+Width: 6.5 mm
+Height: 16.3 mm
+Series: KBL410
+Packaging: Bulk
+Technology: Si
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 4A-600V تخت شانه ای D4SB60 تایوانی مارک Shindengen
+
+قیمت:
+122,000
+
+توضیحات کوتاه:
+پل دیود تک فاز 600 ولت 4 آمپر D4SB60 تایوانی مارک Shindengen
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Shindengen
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Solder Pin
+Package/Case: 3S
+If - Forward Current: 4 A
+Peak Reverse Voltage: 600 V
+Vf - Forward Voltage: 0.95 V
+Max Surge Current: 150 A
+Ir - Reverse Current: 10 uA
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Length: 25 mm
+Width: 4.6 mm
+Height: 15 mm
+Packaging: Bulk
+Brand: Shindengen
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 4A-800V تخت شانه ای KBL406
+
+قیمت:
+135,000
+
+توضیحات کوتاه:
+پل دیود 4 آمپر 800 ولت
+
+توضیحات کامل:
+Specification
+
+Product Category:     Bridge Rectifiers
+Manufacturer:     Taiwan Semiconductor
+Type:     Single Phase Bridge
+Mounting Style:     Through Hole
+Termination Style:     Through Hole
+Package / Case:     KBL-3
+Peak Reverse Voltage:     800 V
+Vf - Forward Voltage:     1.1 V
+Max Surge Current:     200 A
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 125 C
+Length:     19.6 mm
+Width:     6.48 mm
+Height:     16.38 mm
+Packaging:     Bulk
+Brand:     Taiwan Semiconductor
+Ir - Reverse Current:     10 uA
+Product:     Bridge Rectifiers
+Factory Pack Quantity:     500
+Vr - Reverse Voltage:     560 V
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 600V-1.5A گرد W06M
+
+قیمت:
+53,800
+
+توضیحات کوتاه:
+پل دیود گرد 600 ولت 1.5 آمپر W06M
+
+توضیحات کامل:
+مشخصات
+حداکثر ولتاژ قابل تحمل: 600 ولت
+جریان بار: 1.5 آمپر
+حداکثر جریان لحظه ای: 50 آمپر
+
+Specification
+
+Type of bridge rectifier  single-phase
+
+Max. off-state voltage    600V
+
+Load current  1.5A
+
+Max. forward impulse current  50A
+
+Version  round
+
+Case  WOM
+
+Electrical mounting  THT
+
+Leads  wire Ø 0.75mm
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 6A-1000V تخت شانه ای KBL610
+
+قیمت:
+108,000
+
+توضیحات کامل:
+Specification
+
+Product Category:     Bridge Rectifiers
+Manufacturer:     GeneSiC Semiconductor
+RoHS:     RoHS Compliant Details
+Mounting Style:     PCB Mount
+Termination Style:     Through Hole
+Package / Case:     KBL
+If - Forward Current:     6 A
+Peak Reverse Voltage:     1000 V
+Vf - Forward Voltage:     1.1 V
+Max Surge Current:     180 A
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 150 C
+Series:     KBL6
+Packaging:     Bulk
+Brand:     GeneSiC Semiconductor
+Ir - Reverse Current:     5 uA
+Product:     Bridge Rectifiers
+Factory Pack Quantity:     500
+Vr - Reverse Voltage:     700 V
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 6A-1000V تخت شانه ای KBU610
+
+قیمت:
+199,000
+
+توضیحات کوتاه:
+پل دیود 1000 ولت 6 آمپر تخت شانه ای KBU610
+
+توضیحات کامل:
+Specification
+
+Product Category: Bridge Rectifiers
+Mounting Style: PCB Mount
+Termination Style: Through Hole
+Package / Case: KBU
+If - Forward Current: 6 A
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 1 V
+Max Surge Current: 250 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Packaging: Bulk
+Ir - Reverse Current: 5 uA
+Product: Bridge Rectifiers
+Vr - Reverse Voltage: 700 V
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 8A-1000V تخت شانه ای GBU810
+
+قیمت:
+182,000
+
+توضیحات کوتاه:
+پل دیود GBU-810 برای یک‌سوسازی جریان AC تا 8 آمپر و ولتاژ 1000 ولت مناسب مدارهای قدرت
+
+توضیحات کامل:
+پل دیود GBU810 یک یک‌سوساز یک‌فاز قدرتمند در پکیج تخت GBU است که از چهار دیود با ساختار glass passivated در یک ماژول یکپارچه ساخته شده است. این قطعه توانایی یک‌سوسازی جریان‌های تا 8 آمپر را به‌صورت پیوسته دارد و برای مدارهایی با ولتاژ برگشتی تا 1000 ولت طراحی شده است. مقاومت بالا در برابر جریان‌های لحظه‌ای (تا 200 آمپر در مدت 8.3 میلی‌ثانیه) و قابلیت نصب مستقیم روی هیت‌سینک، آن را به انتخابی مناسب برای منابع تغذیه، راه‌اندازهای موتور و دستگاه‌های صنعتی تبدیل کرده است. ولتاژ فوروارد هر دیود در جریان 4 آمپر حدود 1.0 ولت است. همچنین این قطعه دارای بدنه مقاوم با استاندارد اشتعال‌پذیری UL 94V-0 و طراحی مناسب برای نصب با پیچ یا لحیم روی بردهای قدرت می‌باشد.
+
+مشخصات
+
+ولتاژ کاری پیوسته (DC Blocking): 1000 V
+ولتاژ معکوس تکرارشونده (VRRM): 1000 V
+ولتاژ معکوس موثر (RMS): 700 V
+جریان متوسط خروجی (در دمای بدنه 100°C): 8.0 A
+جریان پیک لحظه‌ای (8.3 ms نیم‌سینوسی): 200 A
+ولتاژ فوروارد هر دیود در 4.0 A: 1.0 V
+جریان نشتی معکوس در 25°C: 5.0 µA
+جریان نشتی معکوس در 125°C: 500 µA
+ظرفیت دیود (در 1.0 MHz، 4.0 V): 130 pF
+مقاومت حرارتی junction به کیس: 2.2 °C/W
+دمای کاری : -55 تا +150 °C
+نوع پکیج: GBU
+
+کاربردهای رایج
+
+پل دیود GBU810 به دلیل تحمل جریان بالا و طراحی مناسب برای نصب روی هیت‌سینک، در مدارهای قدرت صنعتی و منابع تغذیه کاربرد فراوانی دارد. عملکرد قابل‌اعتماد در شرایط سخت، آن را گزینه‌ای ایده‌آل برای انواع درایورها و تجهیزات الکترونیکی کرده است.
+
+منابع تغذیه سوئیچینگ (SMPS)
+راه‌اندازهای موتور تک‌فاز
+یک‌سوسازی خروجی ترانسفورماتور
+مدارهای اصلاح ضریب توان (PFC)
+اینورترهای کوچک و خانگی
+دستگاه‌های جوشکاری الکترونیکی
+کولر گازی و وسایل سرمایشی قدرتی
+لامپ‌های صنعتی با توان بالا
+تجهیزات UPS و پشتیبان برق
+بردهای قدرت در لوازم خانگی بزرگ
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود 8A-1000V تخت شانه ای KBU810
+
+قیمت:
+218,000
+
+توضیحات کوتاه:
+پل دیود 8 آمپر 1000ولت
+
+توضیحات کامل:
+Specification
+Product Category:     Bridge Rectifiers
+Manufacturer:     GeneSiC Semiconductor
+RoHS:     RoHS Compliant Details
+Mounting Style:     Through Hole
+Termination Style:     Through Hole
+Package / Case:     KBU
+If - Forward Current:     8 A
+Peak Reverse Voltage:     1000 V
+Vf - Forward Voltage:     1 V
+Max Surge Current:     300 A
+Minimum Operating Temperature:     - 55 C
+Maximum Operating Temperature:     + 150 C
+Series:     KBU8
+Packaging:     Bulk
+Brand:     GeneSiC Semiconductor
+Ir - Reverse Current:     10 uA
+Product:     Bridge Rectifiers
+Factory Pack Quantity:     300
+Vr - Reverse Voltage:     700 V
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود MB10F
+
+قیمت:
+7,568
+
+توضیحات کوتاه:
+دیود 1000 ولت 0.8 آمپر
+
+توضیحات کامل:
+Specification
+Product Category: Bridge Rectifiers
+RoHS:  Details
+Type: Single Phase Bridge
+Mounting Style: SMD/SMT
+Package / Case: MBF-4
+If - Forward Current: 800 mA
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 0.94 V
+Max Surge Current: 30 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 4.95 mm
+Width: 4.1 mm
+Height: 1.6 mm
+Series: MB10
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Product: Bridge Rectifiers
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود مربعی 3 آمپر KBPC310
+
+قیمت:
+127,000
+
+توضیحات کوتاه:
+پل دیود مربعی 3 آمپر KBPC310
+
+توضیحات کامل:
+پل دیود مربعی 3 آمپر
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود مربعی 50 آمپر KBPC5010
+
+قیمت:
+535,000
+
+توضیحات کوتاه:
+پل دیود یکپارچه با توان عبور جریان 50 آمپر و تحمل ولتاژ تا 1000 ولت، مناسب برای یکسوسازی ولتاژ در منابع تغذیه و مدارات قدرت.
+
+توضیحات کامل:
+پل دیود KBPC5010 یکی از انواع پل دیودهای یکپارچه با بدنه مربعی فلزی است که برای یکسوسازی جریان AC به DC در مدارهای قدرت و منابع تغذیه مورد استفاده قرار می‌گیرد. این مدل خاص با تحمل جریان حداکثر 50 آمپر و ولتاژ معکوس تا 1000 ولت، برای کاربردهای عمومی تا صنعتی سبک مناسب است. پل دیود KBPC از چهار دیود داخلی تشکیل شده که به‌صورت یک پل تمام‌موج متصل شده‌اند و در یک پکیج فلزی یا پلاستیکی مهر و موم شده قرار دارند. پایه‌ها به‌صورت مشخص برای ورودی AC و خروجی + و - تعریف شده‌اند، که نصب و استفاده از آن را آسان می‌سازد.
+
+این قطعه معمولاً در منابع تغذیه سوییچینگ، درایورهای موتور DC، سیستم‌های روشنایی صنعتی و مدارهای الکترونیکی با توان متوسط به کار می‌رود.
+
+مشخصات
+
+مدل: KBPC5010
+نوع پل: تک‌فاز (Single Phase)
+پیک جریان متوسط مستقیم (IF(AV)): 50 آمپر
+حداکثر ولتاژ معکوس تکرارشونده (VRRM): 1000 ولت
+جریان هجومی غیرتکراری (IFSM): 500 آمپر
+ولتاژ پیک مستقیم (VF): 1.1 ولت
+جریان نشت معکوس (IR): 10 میکروآمپر
+پکیج: KBPC
+نوع نصب: Through Hole (پایه‌ای برای نصب روی برد یا شاسی)
+تعداد پایه: 4 پایه
+پیکربندی داخلی: مشترک آند، مشترک کاتد (Common Anode, Common Cathode)
+محدوده دمای کاری: از -55 تا +150 درجه سانتی‌گراد
+
+کاربردها
+
+یکسوسازی ولتاژ در منابع تغذیه صنعتی
+درایورهای موتورهای DC با توان بالا
+سیستم‌های UPS و شارژرهای حرفه‌ای
+مدارهای قدرت در تجهیزات صوتی یا جوشکاری
+مبدل‌ها و اینورترهای توان بالا
+
+Specification
+
+Model: KBPC5010
+Peak Average Forward Current: 50A
+Peak Reverse Repetitive Voltage: 1000V
+Mounting Type Through Hole
+Package Type KBPC
+Pin Count 4
+Configuration Common Anode, Common Cathode
+Peak Non-Repetitive Forward Surge Current 500A
+Maximum Operating Temperature +150 °C
+Minimum Operating Temperature -55 °C
+Peak Forward Voltage 1.1V
+Peak Reverse Current 10µA
+
+Application
+
+Rectification in AC to DC Power Supplies
+DC Motor Drivers
+AC Powered LED Lighting Circuits
+Industrial Equipment with Mains Power Input
+Power Boost Circuits
+UPS Systems and Chargers
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود مربعی فلزی 1000V / 35A مدل KBPC3510
+
+قیمت:
+490,000
+
+توضیحات کوتاه:
+پل دیود مربعی فلزی 1000ولت 35آمپر
+
+توضیحات کامل:
+Specification
+
+Product Category: Bridge Rectifiers
+RoHS: Details
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Quick Connect
+Package / Case: KBPC-4
+If - Forward Current: 35 A
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 400 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 28.8 mm
+Width: 28.8 mm
+Height: 11.23 mm
+Series: KBPC3510
+
+
+========================================================================================================================
+
+عنوان:
+پل دیود گرد 2 آمپر 2W10
+
+قیمت:
+57,700
+
+توضیحات کوتاه:
+پل دیود گرد 2 آمپر مدل 2W10
+
+توضیحات کامل:
+Specification
+Product Category: Bridge Rectifiers
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Solder Lead
+Package / Case: WOG-4
+Peak Reverse Voltage: 1 kV
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 60 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Brand: Vishay General Semiconductor
+Ir - Reverse Current: 5 uA
+Product Type: Bridge Rectifiers Subcategory: Diodes & Rectifiers
+Vr - Reverse Voltage: 700 V
+
