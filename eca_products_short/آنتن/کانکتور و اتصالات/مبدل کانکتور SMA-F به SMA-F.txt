@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/کانکتور-و-اتصالات/13668-مبدل-کانکتور-sma-f-به-sma-f.html
+================================================================================
+
+عنوان:
+مبدل کانکتور SMA-F به SMA-F
+
+قیمت:
+351,000
+
+توضیحات کوتاه:
+SMA Female to SMA Female (SMA-KK) Connector Adapter
+
+توضیحات کامل:
+Specification 
+Connection 1: SMA Female
+Connection 2: SMA Female
+Color: Gold
+Characteristic Impedance: 50Ω
+Frequency Range: DC~18GHz
+Temperature Range: -65℃ ~ +165℃
+Housing material: Metal
+Gold Plated: Yes
+Power: 2W
+

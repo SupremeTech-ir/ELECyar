@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/23832-دوبل-دیود-شاتکی-srf10150c-10a-150v-مارک-gw-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF10150C 10A-150V مارک GW پکیج TO-220FP
+
+قیمت:
+180,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 10 آمپر SRF10150C مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Part Number: SRF10150C
+Category: Diode Schottky
+Description: 10A, 150V, Trench Schottky
+Family: Schottky
+IF(AV) (A): 10
+IFSM (A): 100
+IR (mA): 50
+Package: TO-220FP
+TJ Max. (°C): 150
+Technology: Trench
+VF (V): 0.95
+VRRM (V): 150
+

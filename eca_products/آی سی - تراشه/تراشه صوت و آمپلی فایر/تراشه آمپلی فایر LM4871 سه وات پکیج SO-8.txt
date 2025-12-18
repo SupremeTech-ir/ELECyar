@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/5849-تراشه-آمپلی-فایر-lm4871-سه-وات-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر LM4871 سه وات پکیج SO-8
+
+قیمت:
+31,900
+
+توضیحات کوتاه:
+آی سی صوتی آمپلی فایر LM4871 سه وات
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Audio Amplifiers 
+Series: LM4871 
+Product: Audio Amplifiers 
+Class: Class-AB 
+Output Power: 3 W 
+Mounting Style: SMD/SMT 
+Type: 1-Channel Mono 
+Package / Case: SOIC-8 
+Audio - Load Impedance: 3 Ohms 
+THD plus Noise: 0.25 % 
+Supply Voltage - Max: 5.5 V 
+Supply Voltage - Min: 2 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Reel 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Brand: Texas Instruments 
+Number of Channels: 1 Channel 
+Operating Supply Voltage: 2 V to 5.5 V 
+Product Type: Audio Amplifiers 
+PSRR - Power Supply Rejection Ratio: 60 dB
+

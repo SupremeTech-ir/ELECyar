@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/24569-دیود-شاتکی-3a-100v-مدل-ss310-پکیج-smb.html
+================================================================================
+
+عنوان:
+دیود شاتکی 3A-100V مدل SS310 پکیج SMB
+
+قیمت:
+16,200
+
+توضیحات کوتاه:
+دیود شاتکی 100 ولت 3 آمپر مدل SS310 پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category:ESD Suppressors / TVS Diodes
+RoHS:Details
+Series:SMB
+Product Type:TVS Diodes
+Vesd - Voltage ESD Contact:-
+Vesd - Voltage ESD Air Gap:-
+Polarity:Unidirectional
+Number of Channels:1 Channel
+Termination Style:SMD/SMT
+Breakdown Voltage:5.2V
+Working Voltage:3.3 V
+Clamping Voltage:6.2 V
+Ipp - Peak Pulse Current:31 A
+Package / Case:DO-214AA-2 (SMB)
+Pppm - Peak Pulse Power Dissipation:600 W
+Pd - Power Dissipation:3 W
+Minimum Operating Temperature:- 65 C
+Maximum Operating Temperature:+ 150 C
+

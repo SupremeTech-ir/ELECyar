@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/11338-وریستور-vdr-07d560k.html
+================================================================================
+
+عنوان:
+وریستور VDR 07D560K
+
+قیمت:
+14,300
+
+توضیحات کوتاه:
+وریستور 56 ولت با تلرانس 10 درصد کد 07D560K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: MOV-07DxxxK     
+Mounting Style: PCB Mount     
+Termination Style: Radial     
+Voltage Rating DC: 62 VDC     
+Clamping Voltage:  110 V     
+Diameter: 7 mm     
+Peak Surge Current: 250 A     
+Surge Energy Rating: 3.1 J     
+Capacitance:  890 pF     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C     
+Tolerance: 10 %
+

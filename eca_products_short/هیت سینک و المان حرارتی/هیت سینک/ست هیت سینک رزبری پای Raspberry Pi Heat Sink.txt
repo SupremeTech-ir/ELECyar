@@ -1,0 +1,45 @@
+URL: https://eshop.eca.ir/رزبری-پای-raspberry-pi/7117-ست-هیت-سینک-رزبری-پای-raspberry-pi-heat-sink.html
+================================================================================
+
+عنوان:
+ست هیت سینک رزبری پای Raspberry Pi Heat Sink
+
+قیمت:
+877,000
+
+توضیحات کوتاه:
+ سه عدد هیت سینک آلومینیومی مخصوص تراشه های CPU ، LAN  و USB رزبری پای
+
+توضیحات کامل:
+معرفی
+
+ست کامل هیت سینک مخصوص رزبری پای، این ست از دو هیت سینک یکی مخصوص تراشه اصلی و دیگری مخصوص تراشه گرافیکی رزبری پای است. این مدل دارای چسب مخصوص نصب بر روی آی سی می‌باشد.
+
+ویژگی
+
+هیت سینک : 3 عدد مخصوص تراشه های USB وCPU و LAN
+جنس : آلومنینیوم
+ابعاد :
+14x14x6 میلی متر
+14x10x6 میلی متر
+9x9x5 میلی متر
+کاربرد : خنک کننده برد رزبری پای
+
+Features
+
+This is the heat sink specially made for Raspberry Pi 4B.
+It contain 3 piece for CPU, USB and LAN module.
+They will provide better heat dissipation for Raspberry Pi so that your Raspberry Pi can work better and longer.
+We offer green, golden, black and blue 4 colors to choose.
+Heat sink with thermal conductive adhesive tape.
+
+Specifications
+
+Material: aluminum
+Color: Blue
+Size: 14x14x6mm
+14x10x6mm
+9x9x5mm
+Paste material: Thermal conductivity of silica gel
+Use for: Raspberry Pi 4B
+

@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14706-تراشه-بافر-74hc244-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HC244 پکیج DIP مارک INTEGRAL
+
+قیمت:
+95,300
+
+توضیحات کوتاه:
+آی سی بافر 74HC244AN سه حالته 8 کاناله با خروجی سه حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Buffers & Line Drivers 
+Number of Input Lines: 8 Input 
+Number of Output Lines: 8 Output 
+Polarity: Non-Inverting 
+Supply Voltage - Max: 6 V 
+Supply Voltage - Min: 2 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-20 
+Function: Buffer/Line Driver 
+Output Type: 3-State 
+Quiescent Current: 8 uA
+

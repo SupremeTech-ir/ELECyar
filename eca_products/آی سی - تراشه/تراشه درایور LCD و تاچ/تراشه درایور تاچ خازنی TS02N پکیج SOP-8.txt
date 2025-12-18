@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/5975-تراشه-درایور-تاچ-خازنی-ts02n-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه درایور تاچ خازنی TS02N پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی درایور تاچ خازنی 2 کانال TS02N پکیج SMD SOP-8
+
+توضیحات کامل:
+Feature
+
+2 Channel capacitive touch sensor embedded self sensitivity ca
+libration 
+Low power consumption 
+Sync function for parallel operation 
+Adjustable sense frequency by RB resister 
+Open-drain digital output 
+Embedded noise elimination circuit 
+Embedded Internal power reset circuit
+
+Application
+
+Home application (White goods, blue goods etc) 
+Membrane switch replacement 
+Human interface for toys & interactive games 
+Sealed control panels, keypads
+

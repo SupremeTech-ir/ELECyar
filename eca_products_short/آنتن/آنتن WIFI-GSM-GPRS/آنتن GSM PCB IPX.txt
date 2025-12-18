@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/آنتن-wifigsmgprs/2167-آنتن-gsm-pcb-ipx.html
+================================================================================
+
+عنوان:
+آنتن GSM PCB IPX
+
+قیمت:
+263,000
+
+توضیحات کامل:
+طول سیم آنتن : 14 سانتی متر 
+
+Specification
+
+Frequency(MHz): 824～960 MHz / 1710～1990 MHz
+V.S.W.R(in BW) : ≤1.6︰1
+Gain(Zenith): 2 dB
+Polarization: Vertical
+Impedance: 50 Ω
+Connector: SMA Male Right
+Plastic Housing: Black
+Size: Φ35×6.5mm
+

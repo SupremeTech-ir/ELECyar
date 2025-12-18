@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/3904-تراشه-آمپلی-فایرlm4881m-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایرLM4881M پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر LM4881M 
+
+توضیحات کامل:
+Specification
+
+Manufacturer:Texas Instruments     
+Product Category:Audio Amplifiers     
+RoHS: RoHS Compliant Details     
+Product: Headphone Amplifiers     
+Class: Class-AB     
+Output Power: 0.15 W     
+THD plus Noise: 0.02 %     
+Operating Supply Voltage:2.7 V to 5.5 V     
+Maximum Operating Temperature:+ 85 C     
+Mounting Style:SMD/SMT     
+Package / Case:SOIC-8     
+Packaging:Tube     
+Audio Load Resistance:8 Ohms     
+Brand: Texas Instruments     
+Input Offset Voltage:5 mV     
+Minimum Operating Temperature:- 40 C     
+Number of Channels:2 Channel     
+Series: LM4881     
+Factory Pack Quantity:95     
+Supply Current: 3.6 mA     
+Supply Voltage - Max: 5.5 V     
+Supply Voltage - Min: 2.7 V
+

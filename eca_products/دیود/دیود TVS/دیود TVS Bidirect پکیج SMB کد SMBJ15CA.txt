@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/دیود-tvs/23109-دیود-tvs-bidirect-پکیج-smb-کد-smbj15ca.html
+================================================================================
+
+عنوان:
+دیود TVS Bidirect پکیج SMB کد SMBJ15CA
+
+قیمت:
+15,700
+
+توضیحات کوتاه:
+دیود تی وی اس 15  ولت 600 وات SMBJ15CA پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes 
+RoHS: Details 
+Polarity: Bidirectional 
+Number of Channels: 1 Channel 
+Working Voltage: 15 V 
+Termination Style: SMD/SMT 
+Clamping Voltage: 24.4 V 
+Breakdown Voltage: 16.7 V 
+Package/Case: DO-214AA-2 
+Ipp - Peak Pulse Current: 24.6 A 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Product Type: TVS Diodes 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Series: SMBJ 
+Operating Supply Voltage: 15 V 
+Pd - Power Dissipation: 5 W 
+Subcategory: TVS Diodes / ESD Suppression Diodes 
+Vf - Forward Voltage: 3.5 V
+

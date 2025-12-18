@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/14194-تراشه-اپتوکوپلر-سریع-hcpl3120-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر سریع HCPL3120 پکیج SO-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+درایور گیت IGBT با اپتوکوپلر سریع و حداکثر جریان 2 آمپری HCPL-3120
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Broadcom Limited 
+Product Category: Logic Output Optocouplers 
+Package / Case: DIP-8 
+Output Type: Open Collector 
+Number of Channels: 1 Channel 
+Isolation Voltage: 3750 Vrms 
+If - Forward Current: 16 mA 
+Vf - Forward Voltage: 1.8 V 
+Vr - Reverse Voltage: 5 V 
+Pd - Power Dissipation: 295 mW 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 100 C 
+Brand: Broadcom / Avago 
+Propagation Delay - Max: 500 ns 
+Fall Time: 100 ns 
+Product Type: Logic Output Optocouplers
+

@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14745-تراشه-شمارنده-74hc193ad-پکیج-so-16-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه شمارنده 74HC193AD پکیج SO-16 مارک INTEGRAL
+
+قیمت:
+107,000
+
+توضیحات کوتاه:
+آی سی مدل 74HC193AD شمارنده باینری بالا شمار / پایین شمار پکیج SO-16 مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Product Category: Counter ICs     
+Mounting Style: SMD/SMT     
+Package / Case: SO-16     
+Counter Type: Binary     
+Number of Bits: 4 bit     
+Counting Sequence: Up/Down     
+Operating Supply Voltage: 2V to 6V     
+Minimum Operating Temperature: - 55 C     
+Maximum Operating Temperature: + 125 C
+

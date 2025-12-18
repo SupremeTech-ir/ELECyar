@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/رگولاتور/18718-رگولاتور-tps563201ddcr-پکیج-sot-23-6.html
+================================================================================
+
+عنوان:
+رگولاتور TPS563201DDCR پکیج SOT-23-6
+
+قیمت:
+242,000
+
+توضیحات کوتاه:
+رگولاتور ولتاژ سوئیچینگ با خروجی  760mV تا 7V
+
+توضیحات کامل:
+Specification
+Manufacturer: Texas Instruments 
+Product Category: Switching Voltage Regulators 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SOT-23-Thin-6 
+Topology: Buck 
+Output Voltage: 760 mV to 7 V 
+Output Current: 3 A 
+Number of Outputs: 1 Output 
+Input Voltage, Min: 4.5 V 
+Input Voltage, Max: 17 V 
+Quiescent Current: 1 mA 
+Switching Frequency: 580 kHz 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Series: TPS563201 
+Brand: Texas Instruments 
+Input Voltage: 4.5 V to 17 V 
+Operating Supply Current: 380 uA 
+Product Type: Switching Voltage Regulators 
+Subcategory: PMIC - Power Management ICs 
+Supply Voltage - Min: 4.5 V 
+Type: Synchronous Buck Regulator 
+Width: 1.75 mm
+

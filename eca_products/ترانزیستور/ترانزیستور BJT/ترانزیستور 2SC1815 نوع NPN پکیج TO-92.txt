@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/1721-ترانزیستور-2sc1815-نوع-npn-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور 2SC1815 نوع NPN پکیج TO-92
+
+قیمت:
+6,910
+
+توضیحات کوتاه:
+ترانزیستور 2SC1815 نوع NPN پکیج TO-92 ولتاژ 50V جریان 150mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+Specification 
+
+Product Category : Bipolar Transistors - BJT
+Mounting Style : Through Hole
+Package / Case: TO-92-3
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Collector- Base Voltage VCBO: 60 V
+Emitter- Base Voltage VEBO: 5 V
+Collector-Emitter Saturation Voltage: 250 mV
+Maximum DC Collector Current: 150 mA
+Pd - Power Dissipation: 400 mW
+Gain Bandwidth Product fT: 80 MHz
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 125 C
+

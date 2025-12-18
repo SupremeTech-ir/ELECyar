@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/23387-تراشه-ht9170d-رسیور-dtmf-مارک-holtek-پکیج-sow-18.html
+================================================================================
+
+عنوان:
+تراشه HT9170D رسیور DTMF مارک HOLTEK پکیج SOW-18
+
+قیمت:
+312,000
+
+توضیحات کوتاه:
+تراشه انکودر سیگنال های DTMF مارک HOLTEK پکیج SOW-18
+
+توضیحات کامل:
+Introduction
+
+The HT9170B/D are Dual Tone Multi Frequency (DTMF) receivers integrated with digital decoder and bandsplit filter functions as well as power-down mode and inhibit mode operations. Such devices use digital counting techniques to detect and decode all the 16 DTMF tone pairs into a 4-bit code output.
+Highly accurate switched capacitor filters are implemented to divide tone signals into low and high group signals. A built-in dial tone rejection circuit is provided to eliminate the need for pre-filtering
+
+Specification
+
+Operating voltage: 2.5V~5.5V
+Minimal external components
+No external filter is required
+Low standby current (on power down mode)
+Excellent performance
+Tristate data output for MCU interface
+3.58MHz crystal or ceramic resonator
+1633Hz can be inhibited by the INH pin
+HT9170B: 18-pin DIP package
+HT9170D: 18-pin SOP package
+

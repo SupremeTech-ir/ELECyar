@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-واسط/14295-تراشه-ترنسیور-sn65176bp-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور SN65176BP پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رابط Transceiver فرستنده گیرنده SN65176BP برای استاندارد RS-485 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments     
+Product Category: RS-485 Interface IC       
+Mounting Style: Through Hole     
+Package / Case: PDIP-8     
+Series: SN65176B     
+Function: Transceiver     
+Data Rate: 10 Mb/s     
+Number of Drivers: 1 Driver     
+Number of Receivers: 1 Receiver     
+Duplex: Half Duplex     
+Supply Voltage - Max: 5.25 V     
+Supply Voltage - Min: 4.75 V     
+Operating Supply Current: 70 mA     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 105 C     
+Product: RS-485 Transceivers     
+Brand: Texas Instruments     
+Shutdown: Shutdown     
+Operating Supply Voltage: 5 V     
+Product Type: RS-485 Interface IC     
+Subcategory: Interface IC
+

@@ -1,0 +1,72 @@
+URL: https://eshop.eca.ir/آنتن-gps/17317-آنتن-gps-اکتیو-با-کابل-15متری-سرفیش-sma.html
+================================================================================
+
+عنوان:
+آنتن GPS اکتیو با کابل 1.5متری سرفیش SMA
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آنتن اکتیو GNSS سه‌سیستمی برای دریافت سیگنال‌های دقیق موقعیت‌یابی با کابل 1.5 متری و کانکتور SMA
+
+توضیحات کامل:
+آنتن GNSS اکتیو مدل G101 یک راه‌حل قدرتمند برای دریافت سیگنال‌های موقعیت‌یابی از سه سیستم ماهواره‌ای اصلی یعنی GPS، BeiDou و GLONASS است. این آنتن با بهره‌گیری از تقویت‌کننده نویز پایین (LNA) داخلی با بهره حداکثر 35 dB و نویز فاکتور پایین، عملکردی دقیق و پایدار حتی در محیط‌های با سیگنال ضعیف یا نویز بالا ارائه می‌دهد. پهنای باند گسترده، VSWR پایین، قطبش دایروی RHCP و امپدانس 50 اهم، شرایط ایده‌آلی برای کاربردهای صنعتی، تجاری و تحقیقاتی فراهم می‌سازد. طراحی جمع‌وجور با ابعاد مناسب و کابل 1.5 متری از نوع RG174 با کانکتور SMA نری، امکان نصب آسان در انواع پروژه‌ها را ممکن می‌سازد. پشتیبانی از باند فرکانسی L1 تضمین می‌کند که اطلاعات مکانی دریافتی، دقیق و قابل اعتماد باشند.
+
+مشخصات
+
+فرکانس کاری: GPS: 1575 MHz
+فرکانس کاری: BeiDou: 1561 MHz
+فرکانس کاری: GLONASS: 1602 MHz
+ولتاژ کاری: 3.0 تا 5.0 VDC
+VSWR: حداکثر 2.0
+بهره تقویت‌کننده (LNA): 28 تا 35 dB
+بهره آنتن: 5 dBi
+نویز فاکتور: 1.5 dB در دمای 25±10 درجه سانتی‌گراد
+امپدانس: 50Ω
+قطبش: RHCP
+پهنای باند: بیش از 20 MHz
+نوع کابل: RG174
+طول کابل: 1.5 متر (قابل سفارشی‌سازی)
+ابعاد: 36×38×15 mm
+رنگ: مشکی
+نوع کانکتور: SMA نری
+
+کاربردهای رایج
+
+این آنتن با قابلیت دریافت از سه سیستم GNSS، برای پروژه‌هایی که به موقعیت‌یابی سریع، دقیق و پایدار نیاز دارند ایده‌آل است. مناسب برای نصب در تجهیزات متحرک، وسایل نقلیه، ایستگاه‌های مانیتورینگ و سیستم‌های مکان‌یابی صنعتی و شهری می‌باشد.
+
+ ردیابی خودرو و ناوگان حمل‌ونقل
+ سیستم‌های موقعیت‌یابی صنعتی
+ پروژه‌های تحقیقاتی و دانشگاهی
+ تجهیزات قابل حمل GPS
+ ماژول‌های توسعه GNSS
+ پهپادهای نیمه‌حرفه‌ای
+ پروژه‌های مبتنی بر Arduino و Raspberry Pi
+ ایستگاه‌های GNSS زمین‌پایه
+ سیستم‌های زمان‌سنجی دقیق
+ تجهیزات IoT با نیاز به موقعیت‌یابی مستمر
+
+Specifications
+
+Condition：Post Environmental Tolerance (Refer to the form 1)
+Temperature Range 25±3℃
+Relative Humidity Range 55~75%RH
+Operating Temperature Range -40℃~+85℃
+Storage Temperature Range -40℃~+100℃
+a.Moisture Proof
+The device should satisfy the electrical characteristics specified in form 1 after exposed to the temperature 40±2℃ and the relative humidity 90~95% RH for 96 hours and 1~2 hours recovery time under normal condition.
+b.Vibration Resist
+The device should satisfy the electrical characteristics specified in form 1 after applied to the vibration of 10 to 55Hz with amplitude of 1.5mm for 2 hours each in X, Y and Z directions.
+c.Drop Shock
+The device should satisfy the electrical characteristics specified in form 1 after dropping onto the hard wooden board from the height of 30cm for 3 times each facet of the 3 dimensions of the device.
+High Temperature Endurance
+The device should satisfy the electrical characteristics specified in form 1 after exposed to temperature 80±5℃ for 24±2 hours and 1~2 hours recovery time under normal temperature.
+d.Low Temperature Endurance
+The device should also satisfy the electrical characteristics specified in form 1 after exposed to the temperature -40℃±5℃ for 24±2 hours and to 2 hours recovery time under normal temperature.
+Temperature Cycle Test
+The device should also satisfy the electrical characteristics specified in form 1 after exposed to the low temperature -25℃ and high temperature +85℃ for 30±2 min each by 5 cycles and 1 to 2 hours recovery time under normal temperature.
+
+Weatherproof
+Put the antennas in 1m deep water for 12h, and find 100% waterproof.
+

@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/1435-ترانزیستور-قدرت-tip42c-نوع-pnp-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ترانزیستور قدرت TIP42C نوع PNP پکیج TO-220
+
+قیمت:
+85,400
+
+توضیحات کوتاه:
+ترانزیستور قدرت TIP42C نوع PNP پکیج TO-220 ولتاژ100V جریان 6A
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Product Category : Bipolar Transistors - BJT 
+Mounting Style : Through Hole 
+Package / Case : TO-220-3 
+Transistor Polarity : PNP 
+Configuration : Single 
+Collector- Emitter Voltage VCEO Max : 100 V 
+Collector- Base Voltage VCBO : 100 V 
+Emitter- Base Voltage VEBO : 5 V 
+Collector-Emitter Saturation Voltage : 1.5 V 
+Maximum DC Collector Current : 6 A 
+Pd - Power Dissipation : 65 W 
+Continuous Collector Current : 6 A 
+DC Collector/Base Gain hfe Min :15 
+DC Current Gain hFE Max : 75
+

@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/کانکتور-کامپیوتری/23128-کانکتور-mini-din-4-مدل-md-40fc.html
+================================================================================
+
+عنوان:
+کانکتور Mini DIN 4 مدل MD-40FC
+
+قیمت:
+0
+
+توضیحات کوتاه:
+کانکتور Mini DIN 4 مناسب برای انواع اتصالات صوتی و تصوری
+
+توضیحات کامل:
+معرفی
+
+کانکتور Mini DIN (مینی دین) یک نوع کانکتور است که برای اتصال دستگاه‌های الکترونیکی و صوتی/تصویری استفاده می‌شود. این کانکتور دارای ابعاد کوچکتری نسبت به کانکتور DIN است و به طور عمده در تلویزیون‌ها، ویدئو پروژکتورها، دستگاه‌های صوتی، ماوس و کیبوردهای کامپیوتر، دوربین‌های دیجیتال و سایر تجهیزات الکترونیکی استفاده می‌شود.
+
+Specification
+
+Product Category: Circular DIN Connectors 
+Product: Connectors 
+Standard: Mini DIN 
+Number of Contacts: 5 Contact 
+Contact Gender: Pin (Male) 
+Shielding: Shielded 
+Contact Plating: Silver 
+Mounting Style: PCB Mount 
+Termination Style: Solder Pin 
+Current Rating: 1 A 
+Voltage Rating: 100 VAC, 12 VDC 
+Brand: CUI Devices 
+Contact Material: Phosphor Bronze 
+Product Type: Circular DIN Connectors 
+Subcategory: Circular Connectors
+

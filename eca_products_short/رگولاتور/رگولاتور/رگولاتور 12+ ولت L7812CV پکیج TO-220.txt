@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/رگولاتور/658-رگولاتور-12-ولت-l7812cv-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 12+ ولت L7812CV پکیج TO-220
+
+قیمت:
+91,300
+
+توضیحات کوتاه:
+رگولاتور ولتاژ خطی  مثبت 12 ولت L7812CV پکیج TO-220
+
+توضیحات کامل:
+رگولاتور L7812CV با پکیج TO-220 یک تنظیم‌کننده ولتاژ خطی است که ولتاژ ورودی متغیر را به خروجی ثابت 12 ولت تبدیل می‌کند. این رگولاتور با قابلیت تأمین جریان تا 1.5 آمپر و پایداری در برابر نوسانات ولتاژ ورودی، برای کاربردهایی نظیر تغذیه مدارات آنالوگ، سیستم‌های صوتی، و تجهیزات صنعتی مناسب است. پکیج TO-220 این قطعه امکان نصب هیت‌سینک و دفع حرارت موثر را فراهم کرده و برای عملکرد مطمئن در بارهای سنگین، خصوصاً در محیط‌های صنعتی و پرمصرف، کاربرد گسترده‌ای دارد.
+
+Specification
+
+Mounting Style: Through Hole
+Package / Case: TO-220-3
+Number of Outputs: 1 Output
+Polarity: Positive
+Output Voltage: 12 V
+Output Current: 1 A
+Output Type: Fixed
+Input Voltage MAX: 18 V
+Input Voltage MIN: 5 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+Load Regulation: 1.6 mV
+Line Regulation: 7.5 mV
+Quiescent Current: 3.4 mA
+Packaging: Tube
+Product: LDO Voltage Regulators
+Type: Positive Voltage Regulator
+

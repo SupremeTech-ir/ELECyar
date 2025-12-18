@@ -1,0 +1,45 @@
+URL: https://eshop.eca.ir/فیوز-smd/15911-فیوز-05-آمپر-smd-مدل-b0500t.html
+================================================================================
+
+عنوان:
+فیوز 0.5 آمپر SMD مدل B0500T
+
+قیمت:
+0
+
+توضیحات کوتاه:
+فیوز 0.5 آمپر 600 ولت SMD
+
+توضیحات کامل:
+Applications
+
+Manufacturer: Bourns 
+
+Product Category: Surface Mount Fuses 
+
+RoHS: Details 
+
+Series: B0500T 
+
+Product: Surface Mount Fuse 
+
+Fuse Type: Fast Blow 
+
+Current Rating: 500 mA 
+
+Voltage Rating AC: 600 VAC 
+
+Fuse Size/Group: Telefuse 
+
+Minimum Operating Temperature: - 55 C 
+
+Maximum Operating Temperature: + 125 C 
+
+Packaging: Reel 
+
+Packaging: Cut Tape 
+
+Packaging: MouseReel 
+
+Resistance: 350 mOhms
+

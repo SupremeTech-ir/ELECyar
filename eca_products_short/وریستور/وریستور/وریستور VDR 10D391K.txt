@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/11332-وریستور-vdr-10d391k.html
+================================================================================
+
+عنوان:
+وریستور VDR 10D391K
+
+قیمت:
+21,000
+
+توضیحات کوتاه:
+وریستور 390 ولت با تلرانس 10 درصد کد 10D391K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: MOV-10DxxxK     
+Mounting Style: PCB Mount     
+Termination Style: Radial     
+Voltage Rating DC: 429 VDC     
+Clamping Voltage: 650 V     
+Diameter: 10 mm     
+Peak Surge Current: 2.5 kA     
+Surge Energy Rating: 60 J     
+Capacitance: 260 pF     
+Minimum Operating Temperature: -40 C     
+Maximum Operating Temperature: +85 C     
+Tolerance: 10 %
+

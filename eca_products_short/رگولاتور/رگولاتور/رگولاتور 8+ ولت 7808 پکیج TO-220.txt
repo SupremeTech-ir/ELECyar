@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/رگولاتور/1499-رگولاتور-8-ولت-7808-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 8+ ولت 7808 پکیج TO-220
+
+قیمت:
+122,000
+
+توضیحات کوتاه:
+رگولاتور با خروجی ثابت 8+ ولت 7808 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+رگولاتور های 780X به منظور تثبیت ولتاژ در یک مقدار معین (مثبت) به کار می روند که X بیانگر ولتاژ تثبیت شده خروجی است . به عنوان مثال 7808 یک تثبیت کننده ولتاژ با خروجی 8+ ولت ثابت است .
+
+Specification
+
+Package / Case: TO-220 
+Number of Outputs: 1 Output 
+Polarity:Positive 
+Output Voltage: 8 V 
+Output Current: 1.5 A 
+Output Type: Fixed 
+Input Voltage, Min: 10 V 
+Input Voltage, Max: 35 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 125 C 
+Load Regulation: 100 mV 
+Line Regulation: 80 mV 
+Quiescent Current: 4.3 mA 
+Series: L78 
+Packaging: Tube 
+Height: 9.15 mm 
+Length: 10.4 mm
+

@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/خازن-متغیر-واریابل/13374-خازن-متغیر-واریابل-موج-amfm-ژاپنی-mitsumi.html
+================================================================================
+
+عنوان:
+خازن متغیر - واریابل موج AM/FM ژاپنی MITSUMI
+
+قیمت:
+279,000
+
+توضیحات کوتاه:
+MITSUMI VARIABLE CAP FOR AM&FM RADIO
+
+توضیحات کامل:
+معرفی
+
+خازن متغیر خازنی است که ظرفیت آن می‌تواند به صورت مکانیکی بر روی مقدار دلخواه تنظیم شود. خازن واریابل (به انگلیسی: variable capacitor): نوعی از خازن متغیر است که بیشتر در رادیوها استفاده میشود و برای تغییر فرکانس نوسان‌ساز داخلی بکار میرود. این خازن در گیرنده های رادیویی FM , AM جهت تفکیک و دریافت ایستگاه های رادیویی استفاده می شود.
+
+Specification
+
+MITSUMI variable capacitor
+Model: FJUN
+FM tuning circuit for making radio
+Capacitor Construction: Polyester Film
+Minimum Operating Temperature: 0 °C
+Termination Style: Soldering
+Tolerance Rating: ±20 %
+Brand: MITSUMI
+Maximum Operating Temperature: 70 °C
+Type: Trimmer Capacitor
+Spindle dims.: 10x6mm
+Plastic shell size (mm): 21 x 21 x 19.5 mm
+

@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/سایر-دیودها/19184-دیود-1n4007-بسته-5000-تایی.html
+================================================================================
+
+عنوان:
+دیود 1N4007 بسته 5000 تایی
+
+قیمت:
+26,600,000
+
+توضیحات کوتاه:
+دیود 1 آمپر 1 کیلو ولت General Purpose Rectifier ; 1000V , 1A (Axial Lead)
+
+توضیحات کامل:
+معرفی
+
+1N4007 یک دیود  یکسوساز با تحمل جریان لحظه ای بالا و افت ولتاژ  پائین برای کاربرد های عمومی می باشد.این دیود توانایی هدایت جریان مدام تقریبا 1 آمپر را دارد.پیک ولتاژ معکوس این دیود 1000 ولت می باشد.
+1N4001 تا 1N4007 ، دیودهای سیلیسیومی با قدرت جریان دهی 1 آمپر هستند که عموما در مدارات یکسوسازی کاربرد دارند . 
+
+Specification
+
+Product Category: Rectifiers
+Tradename: 1N4007 
+Mounting Style: Through Hole 
+Package / Case: DO-41 
+Vr - Reverse Voltage: 1 kV 
+If - Forward Current: 1 A 
+Type: Standard Recovery Rectifiers 
+Configuration: Single 
+Vf - Forward Voltage: 1.1 V 
+Max Surge Current: 27 A 
+Ir - Reverse Current: 5 uA 
+Recovery Time: 1.5 us 
+Minimum Operating Temperature: - 50 C 
+Maximum Operating Temperature: + 175 C 
+Subcategory: Diodes & Rectifiers
+

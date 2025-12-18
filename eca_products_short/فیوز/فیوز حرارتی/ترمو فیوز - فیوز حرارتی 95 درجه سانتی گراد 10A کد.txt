@@ -1,0 +1,64 @@
+URL: https://eshop.eca.ir/فیوز-حرارتی/10806-ترمو-فیوز-فیوز-حرارتی-95-درجه-سانتی-گراد-10a-کد-sf91e.html
+================================================================================
+
+عنوان:
+ترمو فیوز - فیوز حرارتی 95 درجه سانتی گراد 10A کد SF91E
+
+قیمت:
+93,500
+
+توضیحات کوتاه:
+ترموفیوز SF91E با دمای عملکرد 95°C و جریان 10A از برند SEFUSE، برای حفاظت حرارتی در تجهیزات الکترونیکی، منابع تغذیه و لوازم خانگی
+
+توضیحات کامل:
+ترموفیوز SEFUSE SF91E از سری SF/E تولید شرکت NEC Schott ژاپن، یک فیوز حرارتی دقیق و ایمن برای محافظت از مدارهای الکتریکی در برابر دمای بیش از حد است. این فیوز در دمای 95°C فعال شده و مدار را به‌صورت دائم قطع می‌کند تا از آسیب قطعات و خطرات ناشی از حرارت بالا جلوگیری شود.در طراحی داخلی SF91E از یک پلت حرارتی حساس (Thermosensitive Pellet) استفاده شده است که هنگام رسیدن به دمای عملکرد ذوب می‌شود و باعث آزاد شدن فنر داخلی و قطع مسیر جریان می‌گردد. این عملکرد غیرقابل بازگشت بوده و فیوز پس از عمل باید تعویض شود.بدنه فلزی مقاوم، سیم‌های نسوز و ابعاد کوچک، باعث شده تا این فیوز در تجهیزات الکترونیکی، منابع تغذیه و سیستم‌های گرمایشی کاربرد وسیعی داشته باشد. ترموفیوز SF91E دارای تأییدیه‌های UL، VDE، CSA، BEAB، CCC، PSE و IEC60691 است و برای ولتاژ 250V AC و جریان 10A مناسب می‌باشد.
+
+مشخصات 
+
+مدل: SF91E
+نوع عملکرد: قطع دائمی حرارتی (One-shot Thermal Cutoff)
+دمای عملکرد (Tf): 95°C ±2°C
+دمای نگهداری (Th): 79°C
+دمای بیشینه مجاز (Tm): 172°C
+ولتاژ نامی: 250V AC
+جریان نامی: 10A (مقاومتی)
+مکانیزم عملکرد: پلت حرارتی داخلی با فنر لغزنده
+نوع نصب: سیم‌دار، قابل لحیم‌کاری
+قطر بدنه: 4mm
+استانداردها: IEC60691, UL, VDE, CSA, BEAB, CCC, PSE
+
+کاربردهای رایج
+
+ترموفیوز SF91E برای حفاظت در سیستم‌هایی با دمای کاری پایین تا متوسط استفاده می‌شود که نیاز به ایمنی و پایداری بالا دارند.
+
+منابع تغذیه و آداپتورها
+تجهیزات روشنایی و الکترونیکی
+هیترها و المنت‌های دمای پایین
+موتورهای الکتریکی کوچک و پمپ‌ها
+ترانسفورماتورها و شارژرها
+دستگاه‌های خانگی مانند سشوار، اتو و قهوه‌ساز
+سیستم‌های کنترل و محافظ حرارتی
+
+Specification 
+
+Type:SF91E,95°C
+Rated current/voltage:10A/250V
+Excellently sensitive to ambient temperature.
+Stable and precise operation.
+One shot operation
+SF types has ceramic pipe to protect sealing resin from the stress when bending the leads
+Meets many safety standards
+Cadmium free and Lead free SF is available
+Application:
+Irons, hair dryers, heaters.
+Refrigerators, rice cookers, water pots, coffee makers.
+Air conditioners, ventilation fans, electric fans, gas boilers.
+Transformers, power suppliers, adaptors, solenoides.
+Chargers, battery packs.
+Copiers, laser beam printers, power taps.
+RY-01 Thermal fuse:
+1.Rated Current:10A (AC)
+2.Rated Volt:250V (AC)
+3.Rated Temperature: 94C
+4.Color:Silver
+

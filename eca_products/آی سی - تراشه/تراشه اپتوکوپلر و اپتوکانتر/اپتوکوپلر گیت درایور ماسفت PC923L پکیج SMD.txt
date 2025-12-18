@@ -1,0 +1,83 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/26436-اپتوکوپلر-گیت-درایور-ماسفت-pc923l-پکیج-smd.html
+================================================================================
+
+عنوان:
+اپتوکوپلر گیت درایور ماسفت PC923L پکیج SMD
+
+قیمت:
+325,000
+
+توضیحات کوتاه:
+اپتوکوپلر PC923L ایزولاتور پرسرعت و ایزوله با خروجی دارلینگتون برای سوئیچ مستقیم IGBT و MOSFET در کاربردهای صنعتی پکیج SMD
+
+توضیحات کامل:
+اپتوکوپلر PC923L یک ایزولاتور نوری با توان بالا و طراحی اختصاصی برای درایو مستقیم ترانزیستورهای قدرت مانند IGBT و MOSFET است. این قطعه شامل یک دیود نوری (IRED) و یک OPIC (Optical IC) در پکیج SMD با ساختار دو قالبی (Double Mold) می‌باشد. خروجی دارلینگتون داخلی، قابلیت هدایت جریان تا 0.6A را فراهم می‌کند که برای کاربردهای سنگین و صنعتی بسیار مناسب است. PC923L دارای سرعت پاسخ‌دهی بالا با زمان انتقال کمتر از 0.5µs، ولتاژ کاری گسترده از 15V تا 35V، توان مصرفی پایین و ایزولاسیون ولتاژی بالا برابر با 5000Vrms است. این قطعه همچنین دارای نرخ مقاومت به نویز (CMR) حداقل 15kV/µs می‌باشد که عملکرد پایدار آن را در محیط‌های پرنویز تضمین می‌کند. تمامی این ویژگی‌ها باعث شده‌اند این اپتوکوپلر در طراحی‌های پیشرفته تجهیزات الکترونیکی و کنترلی صنعتی جایگاه ویژه‌ای پیدا کند.
+
+مشخصات
+
+ولتاژ کاری: 15V تا 35V
+جریان ورودی (IF): حداکثر 20mA
+ولتاژ فروارد دیود (VF): معمولی 1.6V، حداکثر 1.75V
+جریان برگشتی دیود (IR): حداکثر 10µA
+ظرفیت خازنی ورودی (Ct): معمولی 150pF
+ولتاژ برگشتی دیود (VR): حداکثر 5V
+جریان خروجی پیک (IO1P / IO2P): حداکثر 0.6A
+جریان نشتی خروجی (IOH): حداکثر 500nA
+جریان مصرفی در حالت High (ICCH): معمولی 1.3mA، حداکثر 3.0mA
+جریان مصرفی در حالت Low (ICCL): معمولی 1.3mA، حداکثر 3.0mA
+زمان انتقال "L → H" (tPLH): معمولی 0.3µs، حداکثر 0.5µs
+زمان انتقال "H → L" (tPHL): معمولی 0.3µs، حداکثر 0.5µs
+زمان Rise (tr): معمولی 0.2µs
+زمان Fall (tf): معمولی 0.2µs، حداکثر 0.5µs
+ولتاژ ایزولاسیون (Viso): 5000Vrms
+مقاومت ایزولاسیون (RSO): حداقل 5×10¹⁰Ω
+نویز پذیری (CMH/ CML): حداقل ±15kV/µs
+توان مصرفی کلی (PTOT): حداکثر 550mW
+دمای کاری: 40- تا 85+ درجه سانتی‌گراد
+دمای نگهداری: 55- تا 125+ درجه سانتی‌گراد
+نوع پکیج: SMD، نوع Gullwing Lead، 8 پایه
+
+کاربردهای رایج
+
+این اپتوکوپلر در مدارهای قدرتی که نیاز به ایزولاسیون بالا و پاسخ‌گویی سریع دارند، به‌ویژه در درایورهای IGBT و MOSFET کاربرد دارد. طراحی آن به‌گونه‌ای است که امکان استفاده در سیستم‌های کنترل دقیق اینورتر، تجهیزات سرمایشی و گرمایشی و کاربردهای صنعتی حساس را فراهم می‌سازد. به‌دلیل سطح بالای ایزولاسیون، در محیط‌هایی با نویز بالا نیز عملکرد پایدار دارد.
+
+کنترل اینورتر یخچال‌های صنعتی
+درایور مستقیم IGBT در اینورترهای تهویه مطبوع
+اینورترهای کنترل دقیق توان
+مدارهای درایور صنعتی با ایزولاسیون بالا
+کنترلرهای تجهیزات گرمایشی با کارایی بالا
+ایزولاسیون نوری در بردهای قدرت
+تجهیزات پزشکی دارای مدار ایزوله‌شده
+مدارهای کنترلی در رباتیک صنعتی
+تجهیزات اندازه‌گیری ولتاژ بالا
+کنترل جریان در منابع تغذیه سوئیچینگ
+
+Specification
+
+Electrical Specifications (PC923L - SMD Package)
+Forward voltage (VF): 1.6V typical, 1.75V max (IF = 10mA, Ta = 25°C)
+Reverse current (IR): 10µA max (VR = 5V, Ta = 25°C)
+Terminal capacitance (Ct): 150pF typical (V = 0V, f = 1MHz)
+Input reverse voltage (VR): 5V max
+Input forward current (IF): 20mA max
+Supply voltage (Vcc): 15V to 35V
+High-level output current (peak): 0.6A max (Pulse width ≤ 0.5µs, Duty cycle ≤ 0.01)
+Low-level output voltage (VOL1): 0.2V typical, 0.4V max (IOL = 0.1A)
+Output leakage current (IOH): 500nA max (VO = 35V)
+High-level supply current (ICCH): 1.3mA typical, 3.0mA max (Vcc = 24V, RL = ∞)
+Low-level supply current (ICCL): 1.3mA typical, 3.0mA max (Vcc = 24V, RL = ∞)
+"L to H" threshold input current (IFHL): 1.0mA typical, 3.0mA max (Vcc = 24V)
+Propagation delay time "L → H" (tPLH): 0.3µs typical, 0.5µs max
+Propagation delay time "H → L" (tPHL): 0.3µs typical, 0.5µs max
+Rise time (tr): 0.2µs typical
+Fall time (tf): 0.2µs typical, 0.5µs max
+Common mode transient immunity (high level, CMH): ±15kV/µs min (VCM = 1500V, Vcc = 24V)
+Common mode transient immunity (low level, CML): ±15kV/µs min
+Isolation resistance (RSO): ≥5×10¹⁰Ω (DC = 500V, RH = 60%)
+Isolation voltage (Viso): 5000Vrms (AC, 1 min)
+Total power dissipation: 550mW max
+Operating temperature range: −40°C to +85°C
+Storage temperature range: −55°C to +125°C
+Soldering temperature: 270°C (for 10s)
+Package type: SMD, Gullwing leads, 8-pin
+

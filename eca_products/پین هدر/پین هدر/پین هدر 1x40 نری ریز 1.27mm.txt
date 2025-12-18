@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/پین-هدر/18724-پین-هدر-1x40-نری-ریز-127mm.html
+================================================================================
+
+عنوان:
+پین هدر 1x40 نری ریز 1.27mm
+
+قیمت:
+113,000
+
+توضیحات کوتاه:
+پین هدر 1x40 نری ریز فاصله پین 1.27mm 
+
+توضیحات کامل:
+Specification
+Connector socket
+Connector type pin strips
+Connector type male
+Number of pins 40
+Spatial orientation straight
+Contacts pitch 1.27mm
+Electrical mounting THT
+Type of pin configuration 1x40
+Maximum current 1A
+Max. contact resistance: 30mΩ
+Height 7.2mm
+

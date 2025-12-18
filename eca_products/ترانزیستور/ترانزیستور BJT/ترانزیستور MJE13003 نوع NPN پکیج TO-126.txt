@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/1458-ترانزیستور-mje13003-نوع-npn-پکیج-to-126.html
+================================================================================
+
+عنوان:
+ترانزیستور MJE13003 نوع NPN پکیج TO-126
+
+قیمت:
+31,200
+
+توضیحات کوتاه:
+ترانزیستور MJE13003 نوع NPN پکیج TO-225 ولتاژ 400V جریان 1.5A
+
+مشخصات فنی:
+پکیج: TO-225
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Manufacturer: onsemi 
+Product Category: Bipolar Transistors - BJT 
+Mounting Style: Through Hole 
+Package / Case: TO-225-3 
+Transistor Polarity: NPN 
+Configuration: Single 
+Collector- Emitter Voltage VCEO Max: 400 V 
+Collector- Base Voltage VCBO: 100 V 
+Emitter- Base Voltage VEBO: 5 V 
+Collector-Emitter Saturation Voltage: 500 mV 
+Maximum DC Collector Current: 1.5 A 
+Pd - Power Dissipation: 1.75 W 
+Gain Bandwidth Product fT: 3 MHz 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C
+

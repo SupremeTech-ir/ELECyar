@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-واسط/5977-تراشه-مبدل-usb-به-سریال-ch340t-پکیج-ssop-20.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340T پکیج SSOP-20
+
+قیمت:
+487,000
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340T پکیج SMD SOP-20
+
+توضیحات کامل:
+Introduction
+
+CH340 is a USB bus convert chip and it can realize USB convert to serial interface, USB convert to IrDA infrared or USB convert to printer interface. In serial interface mode, CH340 supplies common MODEM liaison signal, used to enlarge asynchronous serial interface of computer or upgrade the common serial device to USB bus directly. More detail about USB convert to printer interface please referring to the second manual CH340DS2. In infrared mode, add infrared transceiver to CH340 can compose USB infrared adapter, realize SIR infrared communication.
+
+Features
+
+Full speed USB device interface, conforms to USB Specification Version 2.0, only needs crystal and capacitance external.
+Emulate standard serial interface, used to upgrade the former peripheral device, or add excess serial interface through USB.
+Totally compatible with serial application program in computer endpoint Windows operation system.
+Hardware full duplex serial interface, set transceiver buffer, supports communication baud rate varies from 50bps to 2Mbps.
+Supports common MODEM liaison signal RTS, DTR, DCD, RI, DSR and CTS.
+Through adding level converter equipment to supply RS232, RS485, RS422 and other interface.
+Supports IrDA criterion SIR infrared communication, supports baud rate varies from 2400bps to
+115200bps.
+For it is through USB converts to serial interface, only compatible with application layer not totally.
+Software compatible with CH341, using drive of CH341 directly.
+Support 5V and 3.3V source voltage.
+Supply SSOP-20 package without lead, compatible with RoHS.
+

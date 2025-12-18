@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/رگولاتور/3483-رگولاتور-lm2596s-5v-3a-پکیج-to-263-5.html
+================================================================================
+
+عنوان:
+رگولاتور LM2596S-5V 3A پکیج TO-263-5
+
+قیمت:
+164,000
+
+توضیحات کوتاه:
+رگولاتور 5 ولت 3 آمپر LM2596S پکیج TO-263-5
+
+توضیحات کامل:
+Specification
+
+Product Category: Switching Voltage Regulators
+Switching Voltage Regulators
+Mounting Style: SMD/SMT
+Package / Case: TO-263-5
+Output Voltage: 5 V
+Output Current: 3 A
+Number of Outputs: 1 Output
+Input Voltage MAX: 40 V
+Topology: Buck
+Input Voltage MIN: 4.5 V
+Switching Frequency: 173 kHz
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 125 C
+

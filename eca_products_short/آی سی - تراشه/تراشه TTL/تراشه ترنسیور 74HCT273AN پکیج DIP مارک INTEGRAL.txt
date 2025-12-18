@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/تراشه-ttl/16728-تراشه-ترنسیور-74hct273an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور 74HCT273AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+149,000
+
+توضیحات کوتاه:
+آی سی 74HCT273AN ترنسیور 3 حالته 8 کانال با خروجی CMOS و TTL پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Introduction
+
+The IN74HCT273A is identical in pinout to the LS/ALS273.The IN74HCT273A may be used as a level converter for interfacing TTL or NMOS outputs to High-Speed CMOS inputs. This device consists of eight D flip-flops with common Clock and Reset inputs. Each flip-flop is loaded with a low-to-high transition of the Clock input. Reset is asynchronous and active low. 
+
+Specification
+
+TTL/NMOS Compatible Input Levels
+Outputs Directly Interface to CMOS, NMOS, and TTL
+Operating Voltage Range: 4.5 to 5.5 V
+Low Input Current: 1.0 μA
+

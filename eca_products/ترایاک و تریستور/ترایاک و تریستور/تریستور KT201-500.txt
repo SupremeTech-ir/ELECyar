@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/14258-تریستور-kt201500.html
+================================================================================
+
+عنوان:
+تریستور KT201/500
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تریستور KT201/500 پکیج TO-220
+
+توضیحات کامل:
+Specification
+
+I tav: 3 A
+I tsm: 40 A
+Vdrm: 500 V
+Repetitive Reverse Voltage Vrrm Max: 500 V
+Power: 5W
+Number of Pins: 3
+Case Style: TO-220AB
+Mounting: Through Hole
+

@@ -1,0 +1,18 @@
+URL: https://eshop.eca.ir/تراشه-واسط/6515-تراشه-مبدل-usb-به-سریال-ch340g-پکیج-sop-16.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340G پکیج SOP-16
+
+قیمت:
+415,000
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340G پکیج SMD SOP-16
+
+توضیحات کامل:
+Introduction
+
+CH340g is a USB to TTL chip an alternative to difficult to solder CP2102 & the costly but reliable FT232. As of now, the CH340g is the cheapest USB to TTL IC in the market with very easy to solder footprint it has solder pitch of 1.27mm and SOP-16 package. So if you want to integrate this SMD IC into 
+The CH340 IC does exactly what you would expect them to do: a full-speed USB device that emulates a standard serial interface, with speeds from 50bps to 2Mpbs. The chip supports 5V and 3.3V, and all the weird modem lines are supported. Nowadays lots of Node MCU, Arduino Nano, and USB to TTL Converter Modules use this IC
+

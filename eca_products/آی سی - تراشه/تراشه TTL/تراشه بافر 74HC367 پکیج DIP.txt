@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14751-تراشه-بافر-74hc367-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HC367 پکیج DIP
+
+قیمت:
+243,000
+
+توضیحات کوتاه:
+آی سی بافر 74HC367 شش کاناله با خروجی سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Buffers & Line Drivers
+Number of Input Lines: 6 Input
+Number of Output Lines: 6 Output
+Supply Voltage - Max: 6 V
+Supply Voltage - Min: 2 V
+Package/Case: PDIP-16
+Function: Buffer/Line Driver
+High Level Output Current: - 2.6 mA
+Input Signal Type: Single-Ended
+

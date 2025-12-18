@@ -1,0 +1,43 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14759-تراشه-74ls540-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74LS540 پکیج DIP
+
+قیمت:
+100,000
+
+توضیحات کوتاه:
+inverting octal buffer with three-state outputs
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments    
+Product Category: Buffers & Line Drivers    
+Number of Input Lines: 8 Input    
+Number of Output Lines: 8 Output    
+Polarity: Inverting    
+High Level Output Current: - 15 mA    
+Low-Level Output Current: 24 mA    
+Supply Voltage - Max: 5.25 V    
+Supply Voltage - Min: 4.75 V    
+Operating Supply Current: 45 uA    
+Minimum Operating Temperature: 0 C    
+Maximum Operating Temperature: + 70 C    
+Mounting Style: Through Hole    
+Package / Case: PDIP-20    
+Packaging: Tube    
+Function: Buffer/Line Driver   
+Operating Temperature Range:    0 C to + 70 C    
+Output Type: 3-State    
+Series: SN74LS540    
+Technology: Bipolar    
+Logic Family: LS    
+Logic Type: Bipolar    
+Number of Channels: 8    
+Input Signal Type: Single-Ended    
+Operating Supply Voltage: 5 V    
+Product Type: Buffers & Line Drivers    
+Propagation Delay Time: 15 ns at 5 V
+

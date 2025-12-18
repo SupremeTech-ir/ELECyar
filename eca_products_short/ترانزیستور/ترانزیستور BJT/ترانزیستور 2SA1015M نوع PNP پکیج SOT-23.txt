@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/14887-ترانزیستور-2sa1015m-نوع-pnp-پکیج-sot-23.html
+================================================================================
+
+عنوان:
+ترانزیستور 2SA1015M نوع PNP پکیج SOT-23
+
+قیمت:
+6,000
+
+توضیحات کوتاه:
+ترانزیستور 2SA1015M نوع PNP پکیج SMD SOT-23 ولتاژ 50V جریان 150mA
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: 2SA1015M
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.3 W
+Maximum Collector-Base Voltage |Vcb|: 50 V
+Maximum Collector-Emitter Voltage |Vce|: 50 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.15 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 80 MHz
+Collector Capacitance (Cc): 7 pF
+Forward Current Transfer Ratio (hFE), MIN: 70
+Package: SOT23
+

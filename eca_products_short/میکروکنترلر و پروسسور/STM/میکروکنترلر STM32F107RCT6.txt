@@ -1,0 +1,73 @@
+URL: https://eshop.eca.ir/stm/6224-میکروکنترلر-stm32f107rct6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F107RCT6
+
+قیمت:
+3,849,000
+
+توضیحات کوتاه:
+ میکروکنترلر STM32F107RCT6 با هسته ARM Cortex M3 با حافظه 256KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F107RCT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 256 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F107RCT6 دارای 51 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F107RCT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F1
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 256 kB
+پکیج : LQFP-64
+تعداد پین ها ورودی/خروجی : 51
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM32F107RCT6 microcontroller has a 32-bit ARM Cortex M3 processor core made by STMicroelectronics and operates at a frequency of 72 MHz. This microcontroller provides 256KB of FLASH memory on the chip. The STM32F107RCT6 microcontroller has 51 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM32F107RCT6 microcontroller has a working voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: ARM Microcontrollers - MCU 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: LQFP-64 
+Series: STM32F107RC 
+Core: ARM Cortex M3 
+Data Bus Width: 32 bit 
+Maximum Clock Frequency: 72 MHz 
+Program Memory Size: 256 kB 
+Data RAM Size: 64 kB 
+ADC Resolution: 12 bit 
+Number of I/Os: 51 I/O 
+Operating Supply Voltage: 2 V to 3.6 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Packaging: Tray 
+Height: 1.4 mm 
+Length: 10 mm 
+Program Memory Type: Flash 
+Width: 10 mm 
+Brand: STMicroelectronics 
+Data RAM Type: SRAM 
+Interface Type: CAN, I2C, SPI, USART 
+Moisture Sensitive: Yes 
+Number of ADC Channels: 16 
+Number of Timers/Counters: 10 Timer 
+Processor Series: ARM Cortex M 
+Product Type: ARM Microcontrollers - MCU 
+Subcategory: Microcontrollers - MCU 
+Supply Voltage - Max: 3.6 V 
+Supply Voltage - Min: 2 V 
+Tradename: STM32 
+Unit Weight: 0.012088 oz
+

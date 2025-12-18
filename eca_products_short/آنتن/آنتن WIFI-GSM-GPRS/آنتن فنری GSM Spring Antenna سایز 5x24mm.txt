@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/آنتن-wifigsmgprs/17671-آنتن-فنری-gsm-spring-antenna-سایز-5x24mm.html
+================================================================================
+
+عنوان:
+آنتن فنری GSM Spring Antenna سایز 5x24mm
+
+قیمت:
+90,400
+
+توضیحات کوتاه:
+آنتن فنری فلزی اسپرینگ دارای گین 2dBi تا 3dBi قابل استفاده در شبکه های 2G و 3G 
+
+توضیحات کامل:
+معرفی
+آنتن فنری GSM دارای گین 2dBi تا 3dBi و امپدانس ۵۰ اهم می باشد و بازه فرکانسی 824 تا 960 مگاهرتز و 1710 تا 1990 مگاهرتز را پشتیبانی می کند. توانایی استفاده در شبکه های 2G و 3G، و قابلیت نصب آسان به وسیله لحیم کاری.
+
+Specification
+
+Frequency Range (MHz): 824-960MHz + / 1710-1990MHz
+Standing wave ratio VSWR: <= 1.8
+Input Impedance Input Impedance (OHM): 50
+Gain (dBi): 2dBi-3dBi
+Wire diameter (mm): 0.8MM
+Interface form Connector Type: direct welding
+

@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/دیود-tvs/20453-دیود-tvs-unidirect-کد-p6ke82a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect کد P6KE8.2A
+
+قیمت:
+17,900
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 7.02 ولت 600 وات P6KE8.2A پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Vishay 
+Product Category: ESD Suppressors / TVS Diodes 
+Product Type: TVS Diodes 
+Polarity: Unidirectional 
+Working Voltage: 7.02 V 
+Number of Channels: 1 Channel 
+Termination Style: Axial 
+Package / Case: DO-204AC-2 
+Breakdown Voltage: 7.79 V 
+Clamping Voltage: 12.1 V 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Vesd - Voltage ESD Contact: - 
+Vesd - Voltage ESD Air Gap: - 
+Ipp - Peak Pulse Current: 49.6 A 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C
+

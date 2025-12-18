@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/رگولاتور/537-رگولاتور-6-ولت-7806-پکیج-to-220.html
+================================================================================
+
+عنوان:
+رگولاتور 6+ ولت 7806 پکیج TO-220
+
+قیمت:
+125,000
+
+توضیحات کوتاه:
+رگولاتور 6+ ولت 7806 پکیج TO-220
+
+توضیحات کامل:
+معرفی
+
+رگولاتور های 780X به منظور تثبیت ولتاژ در یک مقدار معین (مثبت) به کار می روند که X بیانگر ولتاژ تثبیت شده خروجی است . به عنوان مثال 7806 یک تثبیت کننده ولتاژ با خروجی 6+ ولت ثابت است .
+
+Specification
+
+Product Category: Linear Voltage Regulators 
+Mounting Style: Through Hole 
+Package / Case: TO-220 
+Number of Outputs: 1 Output 
+Polarity: Positive 
+Output Voltage: 6 V 
+Output Current: 1.5 A 
+Output Type: Fixed
+Input Voltage, Min: 8 V 
+Input Voltage, Max: 35 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 125 C 
+PSRR / Ripple Rejection - Type : 59 dB
+

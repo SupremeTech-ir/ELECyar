@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/24801-ترانزیستور-bd139-نوع-npn-مارک-st-پکیج-to-126.html
+================================================================================
+
+عنوان:
+ترانزیستور BD139 نوع NPN مارک ST پکیج TO-126
+
+قیمت:
+147,000
+
+توضیحات کوتاه:
+ترانزیستور BD139 نوع NPN پکیج TO-126 ولتاژ 80V جریان 1.5A مارک ST
+
+مشخصات فنی:
+پکیج: TO-126 (SOT32)
+پلاریته: NPN
+
+توضیحات کامل:
+These epitaxial planar transistors are mounted in the TO-126 plastic package. They are designed for audio amplifiers and drivers utilizing complementary or quasi-complementary circuits. The NPN types are the BD135 and BD139, and the complementary PNP types are the BD136 and BD140 .
+
+Specification
+
+Type Designator: BD139
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 12.5 W
+Maximum Collector-Base Voltage |Vcb|: 80 V
+Maximum Collector-Emitter Voltage |Vce|: 80 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 1.5 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 50 MHz
+Forward Current Transfer Ratio (hFE), MIN: 40
+Package: TO-126
+
+Applications
+
+Power Management, Consumer Electronics, Portable Devices, Industrial
+
+پکیج SOT-32 تقریبا مشابه TO-126 میباشد و تفاوت خیلی کم دارند .
+

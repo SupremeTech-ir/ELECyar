@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/7239-رله-فیش-خور-کولری-12-ولت-30-آمپر-t91-مارک-liming-کد-jqx-4501f-1c-s.html
+================================================================================
+
+عنوان:
+رله فیش خور - کولری 12 ولت 30 آمپر T91 مارک LIMING کد JQX-4501F-1C-S
+
+قیمت:
+702,000
+
+توضیحات کوتاه:
+رله کولری 30 آمپر 240 ولت AC و 30 آمپر 28 ولت DC دارای 2 کنتاکت 8 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Manufacturer: LTonic
+Series: Liming
+Pin Arrangement: T91
+Model: JQX-4501F
+Coil Voltage: 12VDC
+Coil Resistance: 650ohm
+Contact Rating: NC: 20A 240VAC/28VDC
+NO: 30A 240VAC/28VDC
+electrical endurance of contacts - 100,000 times
+dielectric strength between open contacts - 1000 V rms / per 1 min
+dielectric strength between coil and contacts - 1500 V rms / per 1 min
+operating temperature - from -45°C to + 70°C
+dimensions - 32 x 27 x 28 mm
+

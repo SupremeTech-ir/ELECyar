@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/سایر-دیودها/7762-دیود-heraf805g-8a400v.html
+================================================================================
+
+عنوان:
+دیود HERAF805G 8A,400V
+
+قیمت:
+382,000
+
+توضیحات کوتاه:
+Rectifiers 8A,400V, G.P. HIGH EFFICIENT SINGLE RECTIFIER, ISOLATED
+
+توضیحات کامل:
+Manufacturer: Taiwan Semiconductor
+Product Category: Rectifiers 
+Mounting Style: Through Hole
+Package / Case: ITO-220AC-2
+Vr - Reverse Voltage: 400 V
+If - Forward Current: 8 A
+Type: Fast Recovery Rectifiers
+Configuration: Single
+Vf - Forward Voltage: 1.3 V
+Max Surge Current: 150 A
+Ir - Reverse Current: 10 uA
+Recovery Time: 50 ns
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Packaging: Reel
+Height: 8.6 mm 
+Length: 10.3 mm
+Product: Rectifiers
+Width: 4.7 mm
+

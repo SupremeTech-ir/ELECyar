@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/14297-تراشه-am29f400bb-پکیج-tsop.html
+================================================================================
+
+عنوان:
+تراشه AM29F400BB پکیج TSOP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+4 Megabit (512 K x 8-Bit/256 K x 16-Bit)
+
+توضیحات کامل:
+Introduction
+
+The Am29F400B is a 4 Mbit, 5.0 volt-only Flash memory organized as 524,288 bytes or 262,144 words. The device is offered in 44-pin SO and 48-pin TSOP packages. The word-wide data (x16) appears on DQ15–DQ0; the byte-wide (x8) data appears on DQ7–DQ0. This device is designed to be programmed insystem with the standard system 5.0 volt VCC supply. A 12.0V VPP is not required for write or erase operations. The device can also be programmed in standard EPROM programmers.
+
+Specification
+
+Single power supply operation
+Manufactured on 0.32 µm process technology
+High performance
+Low power consumption (typical values at 5 MHz)
+Flexible sector architecture
+Top or bottom boot block configurations available
+Embedded Algorithms
+Minimum 1,000,000 program/erase cycles per sector guaranteed
+20-year data retention at 125°C
+Compatibility with JEDEC standards
+Data# Polling and toggle bits 
+Ready/Busy# pin (RY/BY#)
+Erase Suspend/Erase Resume 
+Hardware reset pin (RESET#)
+

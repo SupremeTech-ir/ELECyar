@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/led-smd/18395-led-سفید-آفتابی-smd-پکیج-5050-رول1000-تایی.html
+================================================================================
+
+عنوان:
+LED سفید آفتابی SMD پکیج 5050 رول1000 تایی
+
+قیمت:
+4,010,000
+
+توضیحات کوتاه:
+ال ای دی smd سفید آفتابی سایز  5050
+
+مشخصات فنی:
+پکیج LED: 5050
+
+توضیحات کامل:
+Specification
+
+Color Temperature: 2850 K
+Continuous Forward Current: 3x20 mA
+CRI: 72 CRI
+Forward Voltage: 3.2V
+LED Color: Warm 2850K
+LED Package: 5mm x 5mm
+LED Type: 5050 SMD
+Lumen: 19 Lumen
+Maximum Forward Voltage: 3.4V
+Millicandela: 6000mcd
+Operating Temperature: -20~+80 °C (-4~+176 °F)
+Peak Forward Current: 3x100mA
+Power Dissipation: 3x120mW
+Reverse Voltage: 5V
+Storage Temperature: -40~+85 °C
+Total Power Consumption: 0.192 Watts
+Viewing Angle: 120 degree
+

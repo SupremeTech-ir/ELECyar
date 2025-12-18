@@ -1,0 +1,103 @@
+URL: https://eshop.eca.ir/تراشه-سوئیچینگ/26438-تراشه-سوئیچینگ-top246yn-پکیج-to-220-7c.html
+================================================================================
+
+عنوان:
+تراشه سوئیچینگ TOP246YN پکیج TO-220-7C
+
+قیمت:
+651,000
+
+توضیحات کوتاه:
+درایور سوئیچینگ AC/DC با ماسفت داخلی و عملکرد پرقدرت برای منابع تغذیه فلای‌بک در پکیج TO-220-7
+
+توضیحات کامل:
+TOP246YN یکی از قدرتمندترین اعضای خانواده TOPSwitch-GX است که به‌منظور ساده‌سازی طراحی منابع تغذیه ایزوله و غیرایزوله فلای‌بک برای توان‌های متوسط تا نسبتاً بالا توسعه یافته است. این آی‌سی با تلفیق MOSFET قدرت (تا 700 ولت)، کنترلر PWM، حفاظت‌های داخلی (UV، OV، OCP، OTP)، شروع نرم (Soft-Start)، خاموشی خودکار (Auto-Restart) و مدارهای کاهش فرکانس در حالت بی‌بار، یک راه‌حل مجتمع و حرفه‌ای را در اختیار طراح قرار می‌دهد.
+
+پکیج TO-220-7C که با کد Y Package نیز شناخته می‌شود، با داشتن پایه‌های اختصاصی برای کنترل فرکانس، حس ولتاژ خط، و تنظیم جریان محدود، انعطاف بسیار بالایی برای کنترل دینامیک منبع تغذیه فراهم می‌کند. این پکیج همچنین به دلیل طراحی ترمال پیشرفته، امکان دستیابی به توان‌های بالا (تا 64 وات در حالت آداپتور و تا 125 وات در حالت open-frame) را بدون افزایش دمای بیش از حد فراهم می‌سازد.
+
+مشخصات
+
+ورودی AC: از 85VAC تا 265VAC
+فرکانس کلیدزنی: 132kHz ثابت (با قابلیت کاهش در بار سبک تا ~30kHz)
+فرکانس در حالت VIDEO (optional) برابر 66kHz با اتصال پایه F به کنترل
+فرکانس جیتری (EMI Reduction): ±4kHz با نرخ 250Hz
+توان خروجی در حالت آداپتور: حداکثر 64W (230VAC، محفظه بسته)
+توان خروجی در حالت open-frame: تا 125W (با تهویه مناسب)
+توان مصرفی در حالت Standby: حدود 80mW در 110VAC و 160mW در 230VAC
+محدوده ولتاژ راه‌اندازی CONTROL: از 4.8V تا 5.8V
+حداکثر Duty Cycle (DCMAX): 78% در ولتاژ پایین، کاهش‌یافته تا 38% در ولتاژ بالا
+حفاظت حرارتی: فعال در 140°C، بازگشت خودکار در 70°C
+قابلیت Auto-Restart: با duty cycle حدود 4% در حالت خطا
+قابلیت تنظیم جریان محدود: از 30% تا 100% مقدار پیش‌فرض از طریق مقاومت روی پایه X
+قابلیت تنظیم ولتاژ UV و OV: از طریق مقاومت روی پایه L (مثلاً 100V و 450V با 2MΩ)
+ماکزیمم ولتاژ DRAIN: 700V
+مقاومت روشن MOSFET (R<sub>DS(on)</sub>): حدود 3.5Ω (typ.)
+پکیج: TO-220-7C (پلاستیکی، نصب روی هیت‌سینک ممکن است نیاز باشد)
+نوع پایه‌ها:
+• D: خروجی Drain
+• S: مشترک (ground)
+• C: کنترل
+• L: حس ولتاژ خط (Line Sense)
+• X: تنظیم جریان محدود (External Current Limit)
+• F: تنظیم فرکانس
+• NC یا پایه بدون اتصال
+
+کاربردهای رایج
+
+TOP246YN با طراحی خاص خود برای کاربردهای صنعتی و مصرفی که نیاز به منبع تغذیه با توان متوسط، بهره‌وری بالا و تعداد قطعات حداقلی دارند بسیار مناسب است. این تراشه امکان طراحی منابع تغذیه ارزان، فشرده و ایمن را برای تولیدکنندگان حرفه‌ای فراهم می‌سازد.
+
+منبع تغذیه سوئیچینگ صنعتی با توان 60W+
+درایور LED توان بالا با ورودی AC
+تجهیزات شبکه، مودم و رادیوهای مخابراتی
+سیستم‌های روشنایی خیابانی یا کارگاهی
+منابع تغذیه تجهیزات پزشکی
+آداپتورهای صنعتی با ولتاژ خروجی ثابت یا چندگانه
+کنترلر تغذیه تجهیزات امنیتی و مانیتورینگ
+تجهیزات الکترونیک مصرفی پرقدرت مانند پرینتر و UPS
+منابع تغذیه برای نمایشگرهای صنعتی یا ویدئو وال
+کنترلر تغذیه موتورهای کوچک و پمپ‌های AC
+
+Specifications
+
+AC input voltage range: 85VAC to 265VAC (universal)
+Switching frequency: 132kHz (fixed), with frequency jittering (±4kHz @ 250Hz) to reduce EMI
+Optional frequency: 66kHz mode (by tying F pin to CONTROL pin)
+Standby power consumption:
+• ~80mW @ 110VAC
+• ~160mW @ 230VAC
+Startup/operating CONTROL pin voltage: 4.8V (UVLO) to 5.8V (regulation)
+Maximum duty cycle (DCMAX):
+• 78% at low line
+• Reduced to 38% at high line (via line feed-forward)
+Output power capability:
+• 64W max (sealed adapter @ 230VAC, 50°C ambient)
+• 125W max (open-frame design with airflow)
+Internal MOSFET drain voltage rating: 700V
+MOSFET R<sub>DS(on)</sub>: ~3.5Ω (typical)
+Thermal shutdown: Enabled at 140°C (typical), auto-recovery below 70°C (typical hysteresis)
+Auto-restart: ~4% duty cycle under fault conditions (open loop, over-temperature, overload)
+Line undervoltage (UV) and overvoltage (OV):
+• Programmable via resistor on L pin
+• Example thresholds: 100VDC (UV), 450VDC (OV) with 2MΩ resistor
+External current limit:
+• Adjustable via resistor on X pin
+• Range: 30% to 100% of default ILIMIT
+Remote ON/OFF:
+• Supported via L or X pins (active-on or active-off modes)
+Light-load efficiency:
+• Frequency and duty cycle reduced dynamically to lower losses
+Start-up soft-start duration: ~10ms linear ramp (voltage and current)
+Control loop: PWM voltage mode with internal oscillator and error amplifier
+Bias current: Internally sourced from DRAIN during startup, then via CONTROL pin
+Package type: TO-220-7C (Y Package), 7-lead through-hole (heatsink-mountable)
+Max junction temperature: 150°C
+Storage temperature: -65°C to +150°C
+Pinout (Y Package – TO-220-7C)
+C – CONTROL (Feedback input and bias capacitor)
+L – LINE SENSE (UV/OV detection, feed-forward, remote ON/OFF)
+X – EXTERNAL CURRENT LIMIT (and ON/OFF control)
+S – SOURCE (Ground / reference)
+F – FREQUENCY SELECT (tie to SOURCE for 132kHz, or to CONTROL for 66kHz)
+– (No connection or internal use)
+D – DRAIN (MOSFET drain / high-voltage input)
+

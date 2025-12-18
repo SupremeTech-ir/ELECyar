@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22827-دوبل-دیود-شاتکی-srf30150-150v-30a-مارک-gw-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی SRF30150 150V-30A مارک GW پکیج TO-220FP
+
+قیمت:
+240,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 150 ولت 30 آمپر SRF30150 مارک GW پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 30 A 
+Vrrm - Repetitive Reverse Voltage: 150 V 
+Vf - Forward Voltage: 0.95 V 
+Ifsm - Forward Surge Current: 300 A 
+Ir - Reverse Current: 0.5 mA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

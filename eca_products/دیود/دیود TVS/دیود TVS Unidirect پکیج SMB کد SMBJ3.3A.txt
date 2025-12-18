@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/دیود-tvs/22065-دیود-tvs-unidirect-پکیج-smb-کد-smbj33a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ3.3A
+
+قیمت:
+17,900
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 3.3 ولت 600 وات SMBJ3.3A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category:ESD Suppressors / TVS Diodes
+RoHS:Details
+Series:SMBJ
+Product Type:TVS Diodes
+Vesd - Voltage ESD Contact:-
+Vesd - Voltage ESD Air Gap:-
+Polarity:Unidirectional
+Number of Channels:1 Channel
+Termination Style:SMD/SMT
+Breakdown Voltage:5.2V
+Working Voltage:3.3 V
+Clamping Voltage:6.2 V
+Ipp - Peak Pulse Current:31 A
+Package / Case:DO-214AA-2 (SMB)
+Pppm - Peak Pulse Power Dissipation:600 W
+Pd - Power Dissipation:3 W
+Minimum Operating Temperature:- 65 C
+Maximum Operating Temperature:+ 150 C
+

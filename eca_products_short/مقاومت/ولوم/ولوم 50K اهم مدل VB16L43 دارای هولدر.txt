@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/ولوم/24399-ولوم-50k-اهم-مدل-vb16l43-دارای-هولدر.html
+================================================================================
+
+عنوان:
+ولوم 50K اهم مدل VB16L43 دارای هولدر
+
+قیمت:
+113,000
+
+توضیحات کوتاه:
+ولوم 500 اهم مدل VB16L43 ژاپنی شفت با هولدر فلزی 
+
+توضیحات کامل:
+Specification
+
+model : VB16L43
+Nominal Total Resistance : 50KΩ
+Total Resistance Tolerance : Within ±10％ of the nominal total resistance
+Insulation Resistance : 100MΩ at DC500V
+Dielectric Strength : AC500V for 1 minute
+Total Rotational Angle : 260±5°
+Rotational Torque : 2 to 20 mN・m
+Mounting style : panel mount type
+Operating Temperature Range : -10 to 85℃
+Rated Power : 0.1W - 0.05W 
+Maximum Operating Voltage in AC mode : 200V - 160V 
+Maximum Operating Voltage in DC mode : 30V - 50V
+
+L: 28.5mm 
+A: 12mm
+

@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14746-تراشه-فلیپ-فلاپ-74hc174ad-پکیج-sop-16-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه فلیپ فلاپ 74HC174AD پکیج SOP-16 مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+تراشه فلیپ فلاپ شش تایی نوع D دارای کلاک مشترک CMOS پکیج SMD - SOP16  مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Product Category: Flip Flops     
+Number of Circuits: 7     
+Logic Type: D-Type Flip-Flop     
+Polarity: Non-Inverting     
+Input Type: CMOS     
+Output Type: CMOS     
+Propagation Delay Time: 165 ns     
+High Level Output Current: - 5.2 mA     
+Low Level Output Current: 5.2 mA     
+Supply Voltage - Min: 2 V     
+Supply Voltage - Max: 6 V     
+Minimum Operating Temperature: - 55 C     
+Maximum Operating Temperature: + 125 C     
+Mounting Style: SMD/SMT     
+Package / Case: SOP-16     
+Function: Hex High Speed CMOS          
+Operating Temperature Range: - 55 C to + 125 C     
+Quiescent Current: 8 uA
+

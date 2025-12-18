@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/22802-دوبل-دیود-شاتکی-yg865c08r-80v-20a-ژاپنی-مارک-fuji-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+دوبل دیود شاتکی YG865C08R 80V-20A ژاپنی مارک FUJI پکیج TO-220FP
+
+قیمت:
+213,000
+
+توضیحات کوتاه:
+دوبل دیود شاتکی 80 ولت 20 آمپر YG865C08R ژاپنی مارک FUJI پکیج TO-220FP
+
+توضیحات کامل:
+Specification
+
+Product Category: Schottky Diodes & Rectifiers
+Product: Schottky Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: TO-220FP
+Configuration: Single 
+Technology: Si 
+If - Forward Current: 20 A 
+Vrrm - Repetitive Reverse Voltage: 80 V 
+Vf - Forward Voltage: 0.76 V 
+Ifsm - Forward Surge Current: 145 A 
+Ir - Reverse Current: 175 uA 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C
+

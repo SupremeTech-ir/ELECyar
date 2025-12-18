@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-cmos/15576-تراشه-cd4001-گیت-nor-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه CD4001 گیت NOR پکیج SO-14
+
+قیمت:
+81,200
+
+توضیحات کوتاه:
+تراشه لاجیک 4 کانال 2 ورودی NOR با تکنولوژی CMOS پکیج SMD SO-14
+
+توضیحات کامل:
+Specification
+
+Product Category:     Logic Gates     
+RoHS:      Details     
+Product:     Single-Function Gate     
+Logic Function:     NOR     
+Logic Family:     CD4000     
+Number of Gates:     4 Gate     
+Number of Input Lines:     2 Input     
+Number of Output Lines:     1 Output     
+High Level Output Current:     - 1.5 mA     
+Low Level Output Current:     1.5 mA     
+Propagation Delay Time:     120 ns     
+Supply Voltage - Max:     18 V     
+Supply Voltage - Min:     3 V     
+Minimum Operating Temperature:     - 55 C     
+Maximum Operating Temperature:     + 125 C     
+Mounting Style:     SMD/SMT     
+Package/Case:     SO-14     
+Packaging:     Tube     
+Function:     CMOS Quad 2-In     
+Height:     1.58 mm     
+Input Type:     CMOS     
+Length:     8.65 mm     
+Operating Temperature Range:     - 55 C to + 125 C     
+Output Type:     CMOS     
+Quiescent Current:     20 nA     
+Series:     CD4001B     
+Width:     3.91 mm     
+Logic Type:     2-Input NOR     
+Number of Bits:     4 bit     
+Operating Supply Current:     15 uA     
+Operating Supply Voltage:     10 V     
+Product Type:     Logic Gates     
+Subcategory:     Logic ICs
+

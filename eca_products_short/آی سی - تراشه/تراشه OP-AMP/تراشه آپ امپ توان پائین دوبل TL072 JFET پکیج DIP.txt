@@ -1,0 +1,48 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/2060-تراشه-آپ-امپ-توان-پائین-دوبل-tl072-jfet-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ توان پائین دوبل TL072 JFET پکیج DIP
+
+قیمت:
+77,300
+
+توضیحات کوتاه:
+آی سی آپ امپ توان پائین دوبل TL072 JFET پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Operational Amplifiers - Op Amps 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Supply Voltage - Max: 36 V 
+Number of Channels: 2 Channel 
+GBP - Gain Bandwidth Product: 3 MHz 
+SR - Slew Rate: 13 V/us 
+CMRR - Common Mode Rejection Ratio: 70 dB to 100 dB 
+Ib - Input Bias Current: 200 pA 
+Vos - Input Offset Voltage: 6 mV 
+Supply Voltage - Min: 7 V 
+Operating Supply Current: 1.4 mA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Shutdown: No Shutdown 
+Series: TL072 
+Packaging: Tube 
+Amplifier Type: Low Noise Amplifier 
+Height: 4.57 mm
+Width: 6.35 mm 
+Length: 9.81 mm
+Input Type: Rail-to-Rail  
+Product: Operational Amplifiers 
+Supply Type: Single, Dual 
+Technology: BiFET
+Brand: Texas Instruments 
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V 
+en - Input Voltage Noise Density: 18 nV/sqrt Hz 
+In - Input Noise Current Density: 0.01 pA/sqrt Hz 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 3.5 V 
+Operating Supply Voltage: 7 V to 36 V, +/- 3.5 V to +/- 18 V
+

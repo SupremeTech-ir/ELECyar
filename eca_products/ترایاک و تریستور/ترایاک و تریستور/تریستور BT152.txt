@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/2484-تریستور-bt152.html
+================================================================================
+
+عنوان:
+تریستور BT152
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+تریستور BT152
+
+توضیحات کامل:
+Specification
+
+Rated Repetitive Off-State Voltage VDRM: 650 V 
+Off-State Leakage Current @ VDRM IDRM: 0.2 mA 
+On-State RMS Current - It RMS: 20 A 
+Maximum Gate Peak Inverse Voltage: 5 V 
+Gate Trigger Voltage - Vgt: 0.6 V 
+Gate Trigger Current - Igt: 3 mA 
+Maximum Operating Temperature: + 125 C 
+Mounting Style: Through Hole 
+Package/Case: TO-220-3 
+Brand: WeEn Semiconductors 
+Current Rating: 13 A 
+Height: 15.8 mm 
+Holding Current Ih Max: 60 mA 
+Length: 10.3 mm 
+Non Repetitive On-State Current: 220 A
+

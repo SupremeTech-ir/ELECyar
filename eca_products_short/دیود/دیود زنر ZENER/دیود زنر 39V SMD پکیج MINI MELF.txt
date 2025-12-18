@@ -1,0 +1,20 @@
+URL: https://eshop.eca.ir/دیود-زنر-zener/14386-دیود-زنر-39v-smd-پکیج-mini-melf.html
+================================================================================
+
+عنوان:
+دیود زنر 39V SMD پکیج MINI MELF
+
+قیمت:
+4,400
+
+توضیحات کوتاه:
+دیود زنر 39 ولت 0.5 وات پکیج SMD Mini Melf
+
+توضیحات کامل:
+Specification
+
+Zener Voltage (Vz): 39V     
+Power Dissipation: 500 mW     
+Mounting Style: SMD/SMT     
+Package: SOD-80 (MiniMELF)
+

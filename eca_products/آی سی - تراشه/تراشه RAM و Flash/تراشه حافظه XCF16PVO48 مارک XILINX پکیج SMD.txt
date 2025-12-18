@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/14271-تراشه-حافظه-xcf16pvo48-مارک-xilinx-پکیج-smd.html
+================================================================================
+
+عنوان:
+تراشه حافظه XCF16PVO48 مارک XILINX پکیج SMD
+
+قیمت:
+5,570,000
+
+توضیحات کوتاه:
+آی سی EEPROMحافظه XCF16PVO48 پکیج SMD
+
+توضیحات کامل:
+Specification 
+Manufacturer: Xilinx     
+Product Category: FPGA - Configuration Memory     
+RoHS: Details     
+Memory Type: EEPROM     
+Memory Size: 16 Mbit     
+Maximum Operating Frequency: 50 MHz     
+Operating Supply Voltage: 1.8 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C     
+Mounting Style: SMD/SMT     
+Package / Case: TSOP-48     
+Packaging: Tray     
+Series: XCF16P     
+Brand: Xilinx     
+Moisture Sensitive: Yes     
+Operating Supply Current: 10 mA     
+Product Type: FPGA - Configuration Memory     
+Subcategory: Programmable Logic ICS     
+Supply Voltage - Max: 2 V     
+Supply Voltage - Min: 1.65 V
+

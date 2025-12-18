@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14735-تراشه-مولتی-ویبراتور-cd4528bn-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه مولتی ویبراتور CD4528BN پکیج DIP مارک INTEGRAL
+
+قیمت:
+100,000
+
+توضیحات کوتاه:
+آی سی CD4528BN مولتی ویبراتور مونو استیبل دوبل با قابلیت ریست / تحریک
+
+توضیحات کامل:
+Specification
+
+Product Category: Monostable Multi vibrator     
+Elements per Chip: 2     
+Logic Type: Monostable Multi vibrator     
+Package / Case: PDIP-16 Wide     
+Supply Current - Max: 0.02 mA     
+Propagation Delay Time: 500 ns, 250 ns, 150 ns     
+High Level Output Current: - 1.8 mA     
+Low Level Output Current: 4.2 mA     
+Supply Voltage - Max: 18 V     
+Supply Voltage - Min: 3 V     
+Minimum Operating Temperature: - 55 C  
+Maximum Operating Temperature: + 125 C 
+Mounting Style: Through Hole     
+Product Type: Monostable Multi Vibrator     
+Subcategory: Logic ICs
+

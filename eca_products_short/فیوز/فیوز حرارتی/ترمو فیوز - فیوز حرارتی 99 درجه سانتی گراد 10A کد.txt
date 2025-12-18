@@ -1,0 +1,64 @@
+URL: https://eshop.eca.ir/فیوز-حرارتی/10807-ترمو-فیوز-فیوز-حرارتی-99-درجه-سانتی-گراد-10a-کد-sf96e.html
+================================================================================
+
+عنوان:
+ترمو فیوز - فیوز حرارتی 99 درجه سانتی گراد 10A کد SF96E
+
+قیمت:
+107,000
+
+توضیحات کوتاه:
+ترموفیوز SF96E از برند SEFUSE با دمای عملکرد 99°C و جریان 10A، برای حفاظت حرارتی دقیق در لوازم خانگی، منابع تغذیه و تجهیزات صنعتی
+
+توضیحات کامل:
+ترموفیوز SEFUSE SF96E از سری SF/E ساخت شرکت NEC Schott ژاپن، یک فیوز حرارتی با دقت بالا و واکنش سریع است که جهت جلوگیری از افزایش دمای ناایمن در دستگاه‌های الکتریکی استفاده می‌شود. این فیوز در دمای 99°C فعال شده و مدار را به‌صورت دائمی قطع می‌کند تا از آسیب دیدن قطعات و بروز خطرات ناشی از گرمای بیش از حد جلوگیری کند.مکانیزم عملکرد این فیوز بر پایه‌ی پلت حرارتی حساس (Thermosensitive Pellet) طراحی شده است. هنگامی که دمای محیط به مقدار تعیین‌شده می‌رسد، ماده‌ی داخلی ذوب شده و فنر داخلی باعث قطع کامل مسیر جریان می‌شود. این فرایند غیرقابل بازگشت است و پس از عملکرد، فیوز باید تعویض شود.بدنه فلزی مقاوم، سیم‌های نسوز و ابعاد کوچک، موجب شده تا ترموفیوز SF96E انتخابی ایده‌آل برای مدارهای کنترل حرارتی، منابع تغذیه، شارژرها و دستگاه‌های گرمایشی با دمای متوسط باشد. این فیوز برای ولتاژ 250V AC و جریان 10A طراحی شده و با استانداردهای UL، VDE، CSA، BEAB، CCC، PSE و IEC60691 مطابقت دارد.
+
+مشخصات 
+
+مدل: SF96E
+نوع عملکرد: قطع دائمی حرارتی (One-shot Thermal Cutoff)
+دمای عملکرد (Tf): 99°C ±2°C
+دمای نگهداری (Th): 79°C
+دمای بیشینه مجاز (Tm): 172°C
+ولتاژ نامی: 250V AC
+جریان نامی: 10A (مقاومتی)
+مکانیزم عملکرد: پلت حرارتی داخلی با فنر لغزنده
+نوع نصب: سیم‌دار، قابل لحیم‌کاری
+قطر بدنه: 4mm
+استانداردها: IEC60691, UL, VDE, CSA, BEAB, CCC, PSE
+
+کاربردهای رایج
+
+ترموفیوز SF96E برای جلوگیری از افزایش دما در تجهیزات الکتریکی و گرمایی کاربرد دارد و در بسیاری از سیستم‌های حفاظتی حرارتی مورد استفاده قرار می‌گیرد.
+
+منابع تغذیه و آداپتورها
+هیترها و المنت‌های گرمایی
+موتورهای الکتریکی و پمپ‌ها
+ترانسفورماتورها و شارژرها
+تجهیزات روشنایی و کنترلی
+دستگاه‌های خانگی (اتو، قهوه‌ساز، سشوار)
+مدارهای کنترل و محافظ دما
+
+Specification
+
+ Type:SF96E,99°C
+Rated current/voltage:10A/250V
+Excellently sensitive to ambient temperature.
+Stable and precise operation.
+One shot operation
+SF types has ceramic pipe to protect sealing resin from the stress when bending the leads
+Meets many safety standards
+Cadmium free and Lead free SF is available
+Application:
+Irons, hair dryers, heaters.
+Refrigerators, rice cookers, water pots, coffee makers.
+Air conditioners, ventilation fans, electric fans, gas boilers.
+Transformers, power suppliers, adaptors, solenoides.
+Chargers, battery packs.
+Copiers, laser beam printers, power taps.
+RY-01 Thermal fuse:
+1.Rated Current:10A (AC)
+2.Rated Volt:250V (AC)
+3.Rated Temperature: 99C
+4.Color:Silver
+

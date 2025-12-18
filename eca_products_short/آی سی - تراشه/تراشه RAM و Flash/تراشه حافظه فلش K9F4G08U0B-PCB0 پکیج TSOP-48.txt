@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/3608-تراشه-حافظه-فلش-k9f4g08u0b-pcb0-پکیج-tsop-48.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش K9F4G08U0B-PCB0 پکیج TSOP-48
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش K9F4G08U0B-PCB0 پکیج SMD TSOP-48
+
+توضیحات کامل:
+Specification 
+• Voltage Supply
+ - 2.7V Device(K9F4G08B0B) : 2.5V ~ 2.9V
+ - 3.3V Device(K9F4G08U0B) : 2.7V ~ 3.6V
+• Organization
+ - Memory Cell Array : (512M + 16M) x 8bit
+ - Data Register : (2K + 64) x 8bit
+• Automatic Program and Erase
+ - Page Program : (2K + 64)Byte
+ - Block Erase : (128K + 4K)Byte
+• Page Read Operation
+ - Page Size : (2K + 64)Byte
+ - Random Read : 25µs(Max.)
+ - Serial Access : 25ns(Min.)
+• Fast Write Cycle Time
+ - Page Program time : 200µs(Typ.)
+ - Block Erase Time : 1.5ms(Typ.)
+• Command/Address/Data Multiplexed I/O Port
+• Hardware Data Protection
+ - Program/Erase Lockout During Power Transitions
+• Reliable CMOS Floating-Gate Technology
+ -Endurance : 100K Program/Erase Cycles(with 1bit/528Byte
+ECC)
+ - Data Retention : 10 Years
+• Command Driven Operation
+• Unique ID for Copyright Protection
+• Package :
+ - K9F4G08B0B-PCB0/PIB0
+ 48 - Pin TSOP I (12 x 20 / 0.5 mm pitch)
+ - K9F4G08U0B-PCB0/PIB0
+ 48 - Pin TSOP I (12 x 20 / 0.5 mm pitch)
+ - K9F4G08U0B-ICB0/IIB0
+ 52 - Pin ULGA (12 x 17 / 1.00 mm pitch)
+ - K9K8G08U1B-ICB0/IIB0
+ 52 - Pin ULGA (12 x 17 / 1.00 mm pitch)
+

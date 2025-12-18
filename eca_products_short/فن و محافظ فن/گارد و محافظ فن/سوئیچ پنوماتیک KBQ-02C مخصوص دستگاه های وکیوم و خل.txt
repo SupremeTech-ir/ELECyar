@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/گارد-و-محافظ-فن/21773-سوئیچ-پنوماتیک-kbq-02c-مخصوص-دستگاه-های-وکیوم-و-خلاء.html
+================================================================================
+
+عنوان:
+سوئیچ پنوماتیک KBQ-02C مخصوص دستگاه های وکیوم و خلاء
+
+قیمت:
+944,000
+
+توضیحات کوتاه:
+سوئیچ پنیوماتیک  KBQ-02C  مناسب دستگاه های بسته بندی خلا  با ولتاژ کاری 220 ولت AC و تحمل فشار 80 کیلو پاسکال
+
+توضیحات کامل:
+سوئیچ های پنوماتیک یکی از قطعات اصلی دستگاه های وکیوم و خلاء بوده که توسط آنها فشار مورد نیاز تنظیم می گردد. 
+
+مشخصات
+
+ولتاژ کاری : 220 ولت AC (1500 ولت AC حدود 3 ثانیه)
+جریان مصرفی : 20 میلی آمپر 
+مقدار مقاومت : حدود 50 میلی اهم 
+دمای کاری : 0 ای 85 درجه سانتی گراد 
+رطوبت کاری : 35 الی 85 درصد 
+فشار هوا : 0 الی 80 کیلو پاسکال
+
+Introduction
+
+As the controlling part of pressure systems, the performance of KBQ-02C series pneumatic switches is stable and reliable. The switch can be used to test negative pressure nearly without any lag. The design of the switch makes its air interface rotate at any angle. In addition to directly welding on to printed circuit boards, the connection also fits to electric wires and inserted terminal.
+
+Specification
+
+1.Power Parameters : 220v AC - 50mA
+2.Switch contact resistance : <50mΩ
+3.Switch contact form : unipolar control normaly
+4.Operating temperature : -10 to +95 C
+5.Electrical life : 10.000 cycles
+6.Pressure range : 1Kpa - 80Kpa 
+7.Applicable pressure : Negative Pressure
+

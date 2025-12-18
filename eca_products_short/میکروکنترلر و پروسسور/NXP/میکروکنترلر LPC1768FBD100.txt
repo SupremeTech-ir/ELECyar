@@ -1,0 +1,120 @@
+URL: https://eshop.eca.ir/nxp/739-میکروکنترلر-lpc1768fbd100.html
+================================================================================
+
+عنوان:
+میکروکنترلر LPC1768FBD100
+
+قیمت:
+7,740,000
+
+توضیحات کوتاه:
+میکروکنترلر LPC1768FBD100 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 100MHz ساخت شرکت NXP می باشد
+
+توضیحات کامل:
+میکروکنترلر LPC1768FBD100 از خانواده LPC17xx شرکت NXP یک MCU قدرتمند مبتنی بر هسته ARM Cortex‑M3 با فرکانس کاری تا 100MHz است. این تراشه دارای مجموعه‌ای گسترده از امکانات ارتباطی شامل USB 2.0، Ethernet، CAN، UART، SPI، I2C، PWM و تایمرهای پیشرفته است. وجود مبدل ADC و DAC داخلی، حافظه فلش 512KB و RAM با سرعت بالا، آن را به یکی از محبوب‌ترین گزینه‌ها برای طراحی سیستم‌های صنعتی، شبکه‌ای و کنترل دقیق تبدیل کرده است.
+
+مشخصات فنی کامل
+
+پردازنده
+
+هسته: ARM Cortex‑M3
+فرکانس کاری: 100MHz
+پشتیبانی از Thumb‑2 Instruction Set
+واحد کنترل وقفه: NVIC
+
+حافظه‌ها
+
+حافظه Flash: 512KB
+حافظه RAM:
+64KB اصلی
+16KB AHB RAM
+ROM بوت داخلی
+
+ورودی/خروجی (I/O)
+
+تعداد پایه‌ها: 100 پین LQFP
+GPIO های قابل نگاشت (Multiplexed Pins)
+پشتیبانی از Fast GPIO
+
+واحدهای ارتباطی
+
+Ethernet MAC 10/100 (RMII)
+USB 2.0 Full-Speed با قابلیت Device/Host/OTG
+2× CAN Bus
+4× UART
+2× I²C
+3× SPI / SSP
+I²S برای کاربردهای صوتی
+PWM خروجی متعدد (6 کانال)
+
+مبدل‌ها و تایمرها
+
+مبدل آنالوگ به دیجیتال: 12-bit / 8 channel
+مبدل دیجیتال به آنالوگ: 10-bit DAC
+تایمرهای 32 بیتی و 16 بیتی
+واحد RTC داخلی
+Watchdog Timer
+
+ولتاژ و توان
+
+ولتاژ کاری: 2.4V تا 3.6V
+ولتاژ I/O برابر 3.3V
+حالت‌های کاهش توان: Sleep / Deep Sleep / Power Down / Deep Power Down
+
+ویژگی‌ها
+
+پردازنده سریع 100MHz با کارایی بالا
+ارتباطات شبکه‌ای کامل: Ethernet + USB + CAN
+ADC و DAC داخلی برای اندازه‌گیری و تولید سیگنال
+قابلیت اجرای هم‌زمان چند پروتکل ارتباطی
+توان مصرفی پایین
+تعداد زیاد GPIO و قابلیت نگاشت (Pin Function Select)
+مناسب طراحی سیستم‌های صنعتی و حرفه‌ای
+
+کاربردهای رایج
+
+میکروکنترلر LPC1768FBD100 به‌دلیل داشتن Ethernet، USB، CAN و پردازنده 100MHz یکی از بهترین گزینه‌ها برای ساخت تجهیزات صنعتی، شبکه‌ای، کنترل دقیق و هوشمند است. این تراشه در سیستم‌های اتوماسیون، رباتیک، تجهیزات اندازه‌گیری و ارتباطی به‌طور گسترده استفاده می‌شود.
+
+سیستم‌های اتوماسیون صنعتی
+کنترل‌کننده‌های شبکه و Ethernet
+رباتیک و کنترل حرکت
+تجهیزات مخابراتی و ارتباطی
+تجهیزات پزشکی و اندازه‌گیری
+کنترل موتور و درایوهای صنعتی
+طراحی بردهای هوشمند و IoT پیشرفته
+
+Introduction
+
+The LPC1768FBD100 microcontroller has a 32-bit ARM Cortex M3 processor core made by NXP and operates at a frequency of 100MHz. This microcontroller provides 512KB of FLASH memory on the chip. The LPC1768FBD100 microcontroller has 70 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The LPC1768FBD100 microcontroller has a working voltage of 3.3 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category: ARM Microcontrollers - MCU     
+Manufacturer: NXP     
+Mounting Style: SMD/SMT     
+Package / Case:LQFP-100     
+Core:     ARM Cortex M3     
+Data Bus Width:32 bit     
+Maximum Clock Frequency:100 MHz     
+Program Memory Size: 512 kB     
+Data RAM Size:64 kB     
+ADC Resolution:12 bit     
+Operating Supply Voltage:3.3 V     
+Maximum Operating Temperature:+ 85 C     
+Processor Series: LPC17     
+Packaging:Tray     
+Brand:NXP Semiconductors     
+Data RAM Type:SRAM     
+Interface Type:CAN, I2C, SPI, UART     
+Minimum Operating Temperature:- 40 C     
+Number of ADC Channels: 8     
+Number of I/Os:70 I/O     
+Number of Timers/Counters:3 Timer     
+Program Memory Type:Flash     
+Series: LPC17xx     
+Supply Voltage - Max:3.6 V     
+Supply Voltage - Min:2.4 V     
+Tradename:LPC
+

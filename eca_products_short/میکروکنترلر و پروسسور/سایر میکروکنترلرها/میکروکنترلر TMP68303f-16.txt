@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/سایر-میکروکنترلرها/17807-میکروکنترلر-tmp68303f-16.html
+================================================================================
+
+عنوان:
+میکروکنترلر TMP68303f-16
+
+قیمت:
+2,970,000
+
+توضیحات کوتاه:
+میکروکنترلر 16 بیتی 100 پایه پکیج SMD ساخت شرکت TOSHIBA
+
+توضیحات کامل:
+Description
+TMP68303 is a high-speed, high-function 16-bit microprocessor developed for applications in control devices. TMP68303 uses the 68HC000, the CMOS version of the 68000, as its core processor. It also includes peripheral circuits such as a serial interface, parallel interface, timer, interrupt controller, DMA controller, DRAM controller, stepping motor controller, and address decoder.
+In addition, TMP68303 can directly use 68000 development environments and software resources.
+Features
+-Core processor 68HC000
+-Minimum instruction execution time:240 ns(with 16.67MHz-system clock)
+-17 32-bit registers
+-16M-byte direct addressing
+-56 powerful basic instructions
+-14addressing modes
+-2-channel asynchronous serial interface
+-10-bit parallel I/O interface
+-3-channel,16-bit timer/counter(with built-in watchdog timer)
+-2-channel,8-bit timer/counter
+-12-channel interrupt controller (3 external channels,9 internal channels)
+-3-channel DMA controller(max.8MB/s)
+-DRAM controller(RAS/CAS, multiplexed address output)2-channel stepping motor controller(4-phase output)
+-2-channel chip-select signal output(CSO, CS1)
+-Automatic wait insertion 
+-Bus monitor function 
+-Low power consumption(CMOS)
+

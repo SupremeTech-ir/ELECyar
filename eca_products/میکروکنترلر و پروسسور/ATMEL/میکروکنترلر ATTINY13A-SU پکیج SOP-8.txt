@@ -1,0 +1,72 @@
+URL: https://eshop.eca.ir/atmel/6485-میکروکنترلر-attiny13a-su-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATTINY13A-SU پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY13A-SU با هسته AVR(پکیج SOP-8) با حافظه 1KB، فرکانس کاری 20MHz و 8 پایه ساخت شرکت Microchip
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY13A-SU دارای هسته پردازنده 8 بیتی AVR (پکیج SOP-8) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 1 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY13A-SU دارای 6 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.این سری از میکروکنترلرها دارای مصرف انرژی بسیار پائین بوده و مناسب سیستمهای پرتابل می باشند.
+
+میکروکنترلر ATTINY13A-SU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +125 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : ATtiny13A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20Mhz 
+حافظه: 1 kB
+پکیج : SOP-8
+تعداد پین ها ورودی/خروجی : 6
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATTINY13A-SU is a 8-bit low-power CMOS Microcontroller Unit based on the AVR enhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATtiny13A achieves throughputs approaching 1MIPS per MHz allowing the system designed to optimize power consumption versus processing speed. The AVR core combines a rich instruction set with 32 general purpose working registers. All 32 registers are directly connected to the arithmetic logic unit (ALU), allowing two independent registers to be accessed in one single instruction executed in one clock cycle. The resulting architecture is more code efficient while achieving throughputs up to ten times faster than conventional CISC microcontrollers.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU     
+Manufacturer: Microchip        
+Mounting Style: SMD/SMT     
+Package / Case: SOP-8 / 8S2    
+Core: AVR     
+Data Bus Width:8 bit     
+Maximum Clock Frequency: 20 MHz     
+Program Memory Size: 1 kB     
+Data RAM Size: 64 B     
+ADC Resolution: 10 bit     
+Operating Supply Voltage: 1.8 V to 5.5 V     
+Maximum Operating Temperature: + 85 C     
+Processor Series: TinyAVR     
+Packaging: Tube     
+Brand: Microchip Technology / Atmel     
+Data RAM Type: SRAM     
+Data ROM Size: 64 B     
+Data ROM Type: EEPROM     
+Height: 1.91 mm     
+Interface Type: SPI     
+Length: 5.35 mm     
+Minimum Operating Temperature: - 40 C     
+Number of ADC Channels: 4     
+Number of I/Os:6 I/O     
+Number of Timers/Counters: 1 Timer     
+Product: MCU     
+Program Memory Type: Flash     
+Series: ATTINY 13A     
+Factory Pack Quantity:  95     
+Supply Voltage - Max: 5.5 V     
+Supply Voltage - Min: 1.8 V     
+Tradename: ATTINY     
+Width:  5.4 mm
+

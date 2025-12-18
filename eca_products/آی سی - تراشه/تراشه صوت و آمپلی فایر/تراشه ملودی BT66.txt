@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/13874-تراشه-ملودی-bt66.html
+================================================================================
+
+عنوان:
+تراشه ملودی BT66
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه ملودی BT66
+
+توضیحات کامل:
+تراشه ملودی BT66 آهنگ for elise
+
+Introduction
+
+UM66 is a 64 note melody generator IC that is available in the TO-92 package. The IC can play five different tones based on the version. It can be easily used along with an NPN transistor to drive a speaker which is rated for 6/8 ohms. It is commonly used in toys, bells, alarm clocks, etc. The features of the UM66 IC is given below
+
+Specification
+
+Operating Voltage: 3.3V
+Current consumption: 1uA
+Supply voltage range: 0.3V to 3.5V
+for elise melody
+Each melody consists of 64 notes.
+Can easily drive a speaker through NPN Transistor
+
+Application
+
+Frequently used in Toys, Calling Bells, Alarms, etc.
+Use in hobby projects to make them more attractive using sound
+To notify users through a melody tone
+

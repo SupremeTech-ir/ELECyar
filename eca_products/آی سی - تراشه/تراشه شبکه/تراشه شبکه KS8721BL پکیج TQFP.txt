@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/تراشه-شبکه/1402-تراشه-شبکه-ks8721bl-پکیج-tqfp.html
+================================================================================
+
+عنوان:
+تراشه شبکه KS8721BL پکیج TQFP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه شبکه KS8721BL پکیج TQFP SMD
+
+توضیحات کامل:
+Specification
+
+• Single chip 100BASE-TX/100BASE-FX/10BASE-T
+physical layer solution
+• 2.5V CMOS design; 2.5/3.3V tolerance on I/O
+• 3.3V single power supply with built-in voltage
+regulator; Power consumption <340mW (including
+output driver current)
+• Fully compliant to IEEE 802.3u standard
+• Supports MII and Reduced MII (RMII)
+• Supports 10BASE-T, 100BASE-TX, and 100BASE-FX
+with Far_End_Fault Detection
+• Supports power-down and power-saving modes
+• Configurable through MII serial management ports or
+via external control pins
+

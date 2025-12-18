@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/14298-تراشه-آپ-امپ-tl322c-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ TL322C پکیج SO-8
+
+قیمت:
+277,000
+
+توضیحات کوتاه:
+آی سی آپ امپ TL322C پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments     
+Product Category: Operational Amplifiers - Op Amps         
+Mounting Style: SMD/SMT     
+Package / Case: SOIC-8     
+Number of Channels: 2 Channel     
+Supply Voltage - Max: 30 V     
+GBP - Gain Bandwidth Product: 1 MHz     
+SR - Slew Rate: 600 mV/us     
+Vos - Input Offset Voltage: 10 mV     
+Supply Voltage - Min: 5 V     
+Minimum Operating Temperature: 0 C     
+Maximum Operating Temperature: +70 C     
+Ib - Input Bias Current: 500 nA     
+Operating Supply Current: 4 mA     
+Shutdown: No Shutdown     
+CMRR - Common Mode Rejection Ratio: 70 dB     
+Packaging: Cut Tape     
+Amplifier Type: Low Power Amplifier     
+Product: Operational Amplifiers     
+Supply Type: Single, Dual     
+Technology: Bipolar     
+Brand: Texas Instruments     
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V     
+Maximum Dual Supply Voltage: +/- 15 V     
+Minimum Dual Supply Voltage: +/- 2.5 V     
+Operating Supply Voltage: 5 V to 30 V, +/- 2.5 V to +/- 15 V     
+Pd - Power Dissipation: 680 mW     
+Product Type: Op Amps - Operational Amplifiers     
+Subcategory: Amplifier ICs     
+Vcm - Common Mode Voltage: Negative Rail to Positive Rail - 2 V     
+Voltage Gain dB: 106.02 dB
+

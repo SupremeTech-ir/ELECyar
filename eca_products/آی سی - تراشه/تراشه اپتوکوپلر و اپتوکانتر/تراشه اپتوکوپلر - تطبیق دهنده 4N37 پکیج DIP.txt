@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/623-تراشه-اپتو-کوپلر-تطبیق-دهنده-4n37.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر / تطبیق دهنده 4N37 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر تک کانال 4N37 با خروجی فتوترانزیستور
+
+توضیحات کامل:
+این آی سی یک ایزوله کننده نوری یا اپتوکوپلر / تطبیق دهنده است که در مدارات تشخیص گذر از صفر ، تغییر سطح ولتاژ و ... کاربرد دارد و در طراحی آن از گیت های استاندارد TTL استفاده شده است .
+
+Specification
+
+Manufacturer: Lite-On 
+Product Category: Transistor Output Optocouplers 
+RoHS: Details 
+Package / Case: PDIP-6 
+Output Type: NPN Phototransistor 
+Number of Channels: 1 Channel 
+If - Forward Current: 60 mA 
+Maximum Collector Emitter Voltage: 30 V 
+Maximum Collector Current: 100 mA 
+Isolation Voltage: 1500 Vrms 
+Maximum Collector Emitter Saturation Voltage: 0.3 V 
+Vf - Forward Voltage: 1.5 V 
+Vr - Reverse Voltage: 6 V 
+Pd - Power Dissipation: 350 mW 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 100 C 
+Packaging: Tube 
+Height: 3.5 mm 
+Length: 7.3 mm 
+Width: 6.5 mm 
+Brand: Lite-On 
+Mounting Style: Through Hole 
+Product Type: Transistor Output Optocouplers
+

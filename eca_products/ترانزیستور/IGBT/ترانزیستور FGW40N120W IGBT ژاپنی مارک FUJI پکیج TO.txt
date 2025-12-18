@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/igbt/22445-ترانزیستور-fgw40n120w-igbt-ژاپنی-مارک-fuji-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور FGW40N120W IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 40 آمپر FGW40N120W پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW40N120W
+Type: IGBT
+Marking Code: 40G120W
+Type of IGBT Channel: N-Channel
+Maximum Power Dissipation (Pc), W: 360
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 40
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2
+Maximum Junction Temperature (Tj), ℃: 175
+Rise Time (tr), typ, nS: 54
+Collector Capacity (Cc), typ, pF: 110
+

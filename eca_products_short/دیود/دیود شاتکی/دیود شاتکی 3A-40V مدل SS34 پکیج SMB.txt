@@ -1,0 +1,51 @@
+URL: https://eshop.eca.ir/دیود-شاتکی/7502-دیود-شاتکی-3a-40v-مدل-ss34-پکیج-smb.html
+================================================================================
+
+عنوان:
+دیود شاتکی 3A-40V مدل SS34 پکیج SMB
+
+قیمت:
+14,700
+
+توضیحات کوتاه:
+دیود شاتکی 40 ولت 3 آمپر SS34 5822 پکیج SMB 
+
+توضیحات کامل:
+Specification
+
+DO-214AA (SMB)
+
+Toshiba Corporation
+
+Product Category:     Schottky Diodes & Rectifiers
+
+Product:     Schottky Rectifiers
+
+Mounting Style:     SMD/SMT
+
+Package / Case:     SMB (DO-214AA)
+
+If - Forward Current:     3 A
+
+Vrrm - Repetitive Reverse Voltage:     40 V
+
+Vf - Forward Voltage:     0.5 V
+
+Ifsm - Forward Surge Current:     100 A
+
+Configuration:     Single
+
+Technology:     Si
+
+Ir - Reverse Current:     500 uA
+
+Minimum Operating Temperature:     - 55 C
+
+Maximum Operating Temperature:     + 150 C
+
+Series:     SS34
+
+Operating Temperature Range:     -55 C to + 150 C
+
+Type:     Schottky Diode
+

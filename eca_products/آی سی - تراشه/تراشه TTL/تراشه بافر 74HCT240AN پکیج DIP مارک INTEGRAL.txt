@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14714-تراشه-بافر-74hct240an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HCT240AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی 74HCT240AN  بافر سه حالته 8 کاناله با خروجی سه حالته پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Integral
+Product Category: Buffers & Line Drivers 
+Number of Input Lines: 8 Input 
+Number of Output Lines: 8 Output 
+Polarity: Inverting 
+Supply Voltage - Max: 5.5V 
+Supply Voltage - Min: 4.5V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-20 
+Function: Buffer/Line Driver 
+Output Type: 3-State 
+Quiescent Current: 8 uA
+

@@ -1,0 +1,52 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/1938-تراشه-آپ-امپ-تک-تغذیه-mcp601-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ تک تغذیه MCP601 پکیج SO-8
+
+قیمت:
+320,000
+
+توضیحات کوتاه:
+آی سی OPAMP تک تغذیه MCP601 پکیج SMD
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: Operational Amplifiers - Op Amps 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SOIC-8 
+Supply Voltage - Max: 5.5 V 
+Output Current per Channel: 22 mA 
+Number of Channels: 1 Channel 
+GBP - Gain Bandwidth Product: 2.8 MHz 
+SR - Slew Rate: 2.3 V/us 
+CMRR - Common Mode Rejection Ratio: 75 dB 
+Ib - Input Bias Current: 60 pA 
+Vos - Input Offset Voltage: 700 uV 
+Supply Voltage - Min: 2.7 V 
+Operating Supply Current: 23 uA 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Shutdown: No Shutdown 
+Series: MCP601 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Amplifier Type: Operational Amplifiers 
+Height: 1.25 mm (Min) 
+Length: 4.9 mm 
+Product: Operational Amplifiers 
+Supply Type: Single 
+Technology: CMOS 
+Width: 3.9 mm 
+Brand: Microchip Technology 
+en - Input Voltage Noise Density: 29 nV/sqrt Hz 
+In - Input Noise Current Density: 0.0006 pA/sqrt Hz 
+Moisture Sensitive: Yes 
+Operating Supply Voltage: 2.7 V to 5.5 V 
+Product Type: Op Amps - Operational Amplifiers 
+PSRR - Power Supply Rejection Ratio: 88 dB
+

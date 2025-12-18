@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-cmos/10232-تراشه-مالتی-پلکسر-cd4512bm96-پکیج-sop-16.html
+================================================================================
+
+عنوان:
+تراشه مالتی پلکسر CD4512BM96 پکیج SOP-16
+
+قیمت:
+258,000
+
+توضیحات کوتاه:
+آی سی CMOS اینکودر دیکودر پلکسر و مالتی پلکسر CD4512BM96 پکیج SMD SOP-16
+
+توضیحات کامل:
+Specification
+
+Product Category: Encoders, Decoders, Multiplexers & Demultiplexers 
+RoHS: Details 
+Product: Selectors / Multiplexers 
+Logic Family: CD4000 
+Number of Input Lines: 8 Input 
+Number of Output Lines: 1 Output 
+Propagation Delay Time: 140 ns 
+Supply Voltage - Min: 3 V 
+Supply Voltage - Max: 18 V 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 125 C 
+Mounting Style: SMD/SMT 
+Package / Case: SOP-16 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Function: Multiplexer 
+Height: 1.58 mm 
+Length: 9.9 mm 
+Number of Circuits: Octal 
+Operating Temperature Range: - 55 C to + 125 C 
+Quiescent Current: 80 nA 
+Series: CD4512B 
+Technology: CMOS 
+Width: 3.91 mm 
+Brand: Texas Instruments 
+Logic Type: Data Selectors/Multiplexers 
+Supply Current - Max: 0.08 uA 
+High Level Output Current: - 1.5 mA 
+Low Level Output Current: 1.5 mA 
+Maximum Clock Frequency: 8 MHz 
+Operating Supply Voltage: 3 V to 18 V 
+Product Type: Encoders, Decoders, Multiplexers & Demultiplexers
+

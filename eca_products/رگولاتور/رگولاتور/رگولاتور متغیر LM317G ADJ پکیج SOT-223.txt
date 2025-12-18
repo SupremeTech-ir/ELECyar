@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/رگولاتور/26256-رگولاتور-متغیر-lm317g-adj-پکیج-sot-223.html
+================================================================================
+
+عنوان:
+رگولاتور متغیر LM317G ADJ پکیج SOT-223
+
+قیمت:
+63,200
+
+توضیحات کوتاه:
+رگولاتور خطی قابل تنظیم LM317G ADJ تا 1.5 آمپر با خروجی 1.25 تا 37 ولت؛ مناسب پروژه‌هایی که نیاز به ولتاژ پایدار یا قابل تنظیم دارند
+
+توضیحات کامل:
+LM317G یک رگولاتور خطی مثبت و قابل تنظیم است که ولتاژ خروجی آن توسط دو مقاومت ساده در محدوده 1.25 تا 37 ولت تعیین می‌شود. این تراشه قادر به تأمین جریان تا حدود 1.5 آمپر بوده و دارای محافظ داخلی در برابر حرارت بالا، اضافه‌جریان و عملکرد خارج از محدوده امن است. نوع SOT-223 این قطعه با طراحی SMD برای استفاده در مدارها بسیار مناسب بوده و در انواع کاربردهای صنعتی، آزمایشگاهی و پروژه‌های آموزشی کاربرد دارد.
+
+مشخصات
+
+ولتاژ ورودی (حداکثر): 40 ولت
+محدوده ولتاژ خروجی قابل تنظیم: 1.25  تا 37 ولت
+جریان خروجی: تا 1.5 آمپر (با هیت‌سینک مناسب)
+پایداری ولتاژ (Line Regulation): تقریباً 0.01٪/ولت
+پایداری بار (Load Regulation): تقریباً 0.1٪
+پکیج: SOT-223
+
+کاربردهای رایج
+
+منابع تغذیه قابل تنظیم برای میکروکنترلرها
+مدارات شارژ باتری
+کنترل موتور با ولتاژ متغیر
+مدارهای آزمایشگاهی و آموزشی
+کاهش و تثبیت ولتاژ در تجهیزات صنعتی
+
+LM317G Adjustable Voltage Regulator – SOT-223 Package
+
+Specifications
+
+• Input Voltage (max): 40V DC
+• Output Voltage Range: 1.25V to 37V (adjustable via external resistors)
+• Output Current: Up to 1.5A (with proper heatsinking)
+• Line Regulation: Typically 0.01% / V
+• Load Regulation: Typically 0.1%
+• Package Type: SOT-223 (Surface Mount – 4-pin)
+• Operating Temperature Range: 0°C to +125°C
+• Internal Protections:
+ – Overcurrent protection
+ – Overtemperature shutdown
+ – Safe operating area (SOA) protection
+• Mounting Type: SMD / Surface-Mount
+• Output Type: Positive adjustable linear regulator
+
+Applications
+
+– Adjustable DC power supplies
+– Battery chargers and current-limit circuits
+– Voltage regulation for microcontrollers
+– Lab and educational electronics
+– General-purpose power management
+

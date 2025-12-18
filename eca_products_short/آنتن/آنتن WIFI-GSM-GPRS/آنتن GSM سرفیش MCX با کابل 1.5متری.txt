@@ -1,0 +1,25 @@
+URL: https://eshop.eca.ir/آنتن-wifigsmgprs/17356-آنتن-gsm-سر-فیش-mcx-با-کابل-15متری.html
+================================================================================
+
+عنوان:
+آنتن GSM سرفیش MCX با کابل 1.5متری
+
+قیمت:
+1,650,000
+
+توضیحات کوتاه:
+آنتن GSM سر فیش MCX با کابل 1.5متری
+
+توضیحات کامل:
+Specification
+Product Type: Antenna
+Input Impedance: 50 Ohm
+Frequency Range: 824-960Mhz/1710-1990Mhz
+V.S.W.R.: ≤1.5
+Gain:     3 dbi
+Polarization: Vertical 
+Bandwidth: 136/280
+Directionality: omnidirection 
+Connector: MCX
+Antenna Length(mm): 120*22*7
+

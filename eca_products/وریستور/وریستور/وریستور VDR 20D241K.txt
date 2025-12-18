@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/وریستور/19503-وریستور-vdr-20d241k.html
+================================================================================
+
+عنوان:
+وریستور VDR 20D241K
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 240 ولت با تلرانس 10 درصد کد 20D241K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors 
+Series: 20D 
+Termination Style: Radial 
+Voltage Rating AC: 150 VAC 
+Voltage Rating DC: 200 VDC 
+Varistor Voltage: 240 V 
+Clamping Voltage: 395 V 
+Diameter: 20 mm 
+Peak Surge Current: 6.50 kA 
+Surge Energy Rating: 108 J 
+Capacitance: 1650 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Subcategory: Varistors 
+Tolerance: 10 %
+

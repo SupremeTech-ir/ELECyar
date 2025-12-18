@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14738-تراشه-شمارنده-4020bd-پکیج-sop-16-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه شمارنده 4020BD پکیج SOP-16 مارک INTEGRAL
+
+قیمت:
+102,000
+
+توضیحات کوتاه:
+آی سی 4020BD شمارنده باینری دارای ورودی های اشمیت تریگر پکیج SMD SOIC-16 مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Product Category: Counter Shift Registers     
+Counter Type: Binary     
+Counting Sequence: Up     
+Number of Circuits: 1     
+Number of Bits: 14 bit     
+Package / Case: SOIC-16     
+Logic Type: CMOS     
+Number of Input Lines: 1     
+Propagation Delay Time: 3900 ns, 1725 ns, 1200 ns     
+Supply Voltage - Min: 3 V     
+Supply Voltage - Max: 18 V     
+Minimum Operating Temperature: - 55 C     
+Maximum Operating Temperature: + 125 C     
+Function: Counter/Divider     
+Brand: Integral
+Mounting Style: SMD/SMT
+

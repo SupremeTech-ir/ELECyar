@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/1522-تراشه-تایمر-icm7555-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه تایمر ICM7555 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی تایمر ICM7555 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Maxim Integrated 
+Product Category: Timers & Support Products 
+RoHS: Details 
+Series: ICM7555 
+Type: Standard 
+Number of Internal Timers: 1 Timer 
+Supply Voltage - Max: 18 V 
+Supply Voltage - Min: 2 V 
+Minimum Operating Temperature: - 20 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Packaging: Tube 
+Height: 4.45 mm 
+Length: 9.91 mm 
+Width: 7.87 mm 
+Brand: Maxim Integrated 
+Pd - Power Dissipation: 200 mW 
+Product Type: Timers & Support Products
+

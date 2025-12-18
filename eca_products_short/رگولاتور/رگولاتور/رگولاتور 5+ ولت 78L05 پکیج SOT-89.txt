@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/رگولاتور/5855-رگولاتور-5-ولت-78l05-پکیج-sot-89.html
+================================================================================
+
+عنوان:
+رگولاتور 5+ ولت 78L05 پکیج SOT-89
+
+قیمت:
+18,900
+
+توضیحات کوتاه:
+رگولاتور 5+ ولت 100 میلی آمپر 78L05 پکیج SOT-89
+
+توضیحات کامل:
+Specification
+
+Part Number: CJ78L05 / UMW 78L05
+Product Category: Linear Voltage Regulators 
+RoHS: RoHS Compliant Details 
+Mounting Style: SMD/SMT 
+Package / Case: SOT-89 
+Output Voltage: 5 V 
+Output Current: 100 mA 
+Output Type: Fixed 
+Input Voltage MAX: 30 V 
+Maximum Operating Temperature: + 125 C 
+Load Regulation: 60 mV 
+Line Regulation: 150 mV 
+Series: KA78L05A 
+Input Voltage MIN: 7 V 
+Minimum Operating Temperature: 0 C 
+Number of Outputs: 1 
+Packaging: Reel 
+Pd - Power Dissipation: 750 mW 
+Polarity: Positive
+

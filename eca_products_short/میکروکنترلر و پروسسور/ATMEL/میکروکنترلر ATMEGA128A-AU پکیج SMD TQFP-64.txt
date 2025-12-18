@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/atmel/344-میکروکنترلر-atmega128a-au-پکیج-smd-tqfp-64.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATMEGA128A-AU پکیج SMD TQFP-64
+
+قیمت:
+3,070,000
+
+توضیحات کوتاه:
+میکروکنترلر ATMEGA128A-AU پکیج SMD TQFP-64 با حافظه 128KB و فرکانس کاری 16MHz دارای 53 پین ورودی/خروجی 
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATMEGA128A-AU دارای هسته پردازنده 8 بیتی AVR (پکیج TQFP-64 ) با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATMEGA128A-AU دارای 53 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد. همچنین میکروکنترلر ATMEGA128A-AU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +105 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سری : ATmega128A
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 128 kB
+پکیج : TQFP-64
+تعداد پین ها ورودی/خروجی : 53
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +105 درجه سانتیگراد
+
+Introduction
+
+The high-performance, low-power Microchip 8-bit AVR RISC-based microcontroller combines 128 KB flash memory with read-while-write capabilities, 4 KB EEPROM, 4 KB SRAM, 53 general purpose I/O lines, 32 general purpose working registers, a real-time counter, four flexible timer/counters with compare modes and PWM, two USARTs, a byte-oriented Two-Wire serial interface, an 8-channel/10-bit A/D converter with optional differential input stage with programmable gain, programmable watchdog timer with internal oscillator, SPI serial port, a JTAG (IEEE® 1149.1 compliant) test interface for accessing the on-chip debugging and programming, and six software selectable power saving modes. The device operates between 2.7-5.5 volts.
+
+Specification
+
+Product Category: 8-bit Microcontrollers - MCU     
+Manufacturer: Microchip     
+RoHS: RoHS Compliant Details     
+Mounting Style: SMD/SMT     
+Package / Case: TQFP-64     
+Core: AVR     
+Data Bus Width: 8 bit     
+Maximum Clock Frequency: 16 MHz     
+Program Memory Size:128 kB     
+Data RAM Size: 4 kB     
+ADC Resolution: 10 bit     
+Operating Supply Voltage: 2.7 V to 5.5 V     
+Maximum Operating Temperature: + 85 C     
+Processor Series: megaAVR     
+Packaging: Tray     
+Brand: Microchip Technology / Atmel     
+Data RAM Type: SRAM     
+Data ROM Size: 4 kB     
+Data ROM Type: EEPROM     
+Height: 1 mm     
+Interface Type: JTAG     
+Length:14 mm     
+Minimum Operating Temperature: - 40 C     
+Number of ADC Channels: 8     
+Number of I/Os: 53 I/O     
+Number of Timers/Counters: 4 Timer
+

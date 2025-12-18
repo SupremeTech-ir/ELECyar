@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/3485-تراشه-حافظه-فلش-k9f1g08u0c-pcb0-پکیج-tsop-48.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش K9F1G08U0C-PCB0 پکیج TSOP-48
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی حافظه فلش K9F1G08U0C-PCB0 پکیج SMD TSOP-48
+
+توضیحات کامل:
+Specification 
+K9F1G08U0C Features
+Voltage Supply
+3.3V Device(K9F1G08U0C) : 2.7V ~ 3.6V
+Organization
+Memory Cell Array : (128M + 4M) x 8bit
+Data Register : (2K + 64) x 8bit
+Automatic Program and Erase
+Page Program : (2K + 64)Byte
+Block Erase : (128K + 4K)Byte
+Page Read Operation
+Page Size : (2K + 64)Byte
+Random Read : 25μs(Max.)
+Serial Access : 25ns(Min.)
+Fast Write Cycle Time
+Page Program time : 200μs(Typ.)
+- Block Erase Time : 1.5ms(Typ.)
+Command/Address/Data Multiplexed I/O Port
+Hardware Data Protection
+Program/Erase Lockout During Power Transitions
+Reliable CMOS Floating-Gate Technology
+Endurance : TBD Program/Erase Cycles(with 1bit/512Byte ECC)
+Data Retention : TBD
+Command Driven Operation
+Intelligent Copy-Back with internal 1bit/528Byte EDC
+Unique ID for Copyright Protection
+

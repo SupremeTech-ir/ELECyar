@@ -1,0 +1,20 @@
+URL: https://eshop.eca.ir/دیود-زنر-zener/9975-دیود-زنر-33v-smd-پکیج-mini-melf.html
+================================================================================
+
+عنوان:
+دیود زنر 3.3V SMD پکیج MINI MELF
+
+قیمت:
+3,800
+
+توضیحات کوتاه:
+دیود زنر 3.3 ولت 0.5 وات پکیج SMD Mini Melf
+
+توضیحات کامل:
+Specification
+
+Zener Voltage (Vz): 3.3V     
+Power Dissipation: 500 mW     
+Mounting Style: SMD/SMT     
+Package: SOD-80 (MiniMELF)
+

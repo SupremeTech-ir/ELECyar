@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/تراشه-ttl/1492-تراشه-74hc02-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه 74HC02 گیت NOR پکیج DIP
+
+قیمت:
+99,800
+
+توضیحات کوتاه:
+آی سی منطقی 74HC04 گیت NOR پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+Product Category: Logic Gates 
+Product: Single-Function Gate 
+Logic Function: NOR 
+Logic Family: TTL 
+Number of Gates: 4 Gate 
+Number of Input Lines: 2 Input 
+Number of Output Lines: 1 Output 
+High Level Output Current: - 16 mA 
+Low Level Output Current: 0.8 mA 
+Propagation Delay Time: 22 ns 
+Supply Voltage - Max: 5.25 V 
+Supply Voltage - Min: 4.75 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Mounting Style: SMD/SMT 
+Package / Case: PDIP-14 
+Packaging: Tube 
+Function: NOR 
+Height: 4.57 mm 
+Input Type: TTL 
+Length: 19.3 mm 
+Operating Temperature Range: 0 C to + 70 C 
+Output Type: TTL 
+Series: SN7402 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Logic Type: 2-Input NOR 
+Number of Bits: 4 bit 
+Operating Supply Current: 27 uA 
+Operating Supply Voltage: 5 V 
+Product Type: Logic Gates
+

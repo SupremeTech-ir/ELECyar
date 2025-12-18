@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/فن-کامپیوتری/15077-فن-کیس-rgb-led-pwm-سایز-12x12-مدل-rf120m-مارک-deepcool.html
+================================================================================
+
+عنوان:
+فن کیس RGB LED PWM سایز 12X12 مدل RF120M مارک DEEPCOOL
+
+قیمت:
+0
+
+توضیحات کوتاه:
+فن کیس بی صدا با RGB LED قابل کنترل با حداکثر پرتاب باد 56CFM مارک DEEPCOOL
+
+توضیحات کامل:
+معرفی
+
+فن‌های RF120M با 6 عدد LED RGB خود قادراند تا افکت‌ها نورپردازی جادویی و رنگ‌های بی‌نظیر را به سیستم شما هدیه دهند. قابلیت شخصی سازی با کمک کنترلرهای چندگانه و 3 حالت نورپردازی مختلف به شما اجازه می‌دهد تا سیستم خود را با توجه به نورپردازی مورد نظر شخصی سازی کنید. 
+با امکان استفاده از کنترلرهای کابلی و نرم افزاری در مادربردهایی با قابلیت پشتیبانی از RGB SYNC و دارای کنترلر 4 پین12 ولتی RGB و ایجاد توازن میان جریان و فشار هوا و ایجاد خنک کنندگی بهینه در سیستم و بهره‌گیری از کنترلر PWM به منظور کاهش میزان صدا و لرزش.
+
+مشخصات
+
+نوع طراحی: Hydro Bearing
+ابعاد فن: 25 * 120 * 120 میلی متر
+سرعت چرخش: 1300 دور در دقیقه
+تعداد پین: 4 عدد
+ تعداد تیغه: 9 عدد
+مصرف برق: 1.99 وات
+میزان نویز: 21.9 dBA
+جریان هوا: 48.9 CFM
+سرعت چرخش مناسب با نویز صوتی بسیار اندک
+مناسب برای استفاده در سیستم های دسکتاپ و منابع تغذیه
+فن 120 میلیمتری با بدنه مشکی نیمه شفاف و نورپردازی آبی برای ارائه جلوه های بصری زیبا
+
+Introduction
+
+6 high brightness RGB LED lights for impressive lighting magic.
+Intelligent PWM functions to meet system cooling demands.
+RGB lighting system controlled by RGB SYNC motherboard software*.
+Anti-vibration rubber design for noise and vibration-reduction.
+Multiple control modes: breathing, static state, or multi-color cycling.
+Balanced airflow and air pressure designed for perfect compatibility with your case or cooler.
+*Motherboard software support is available if the motherboard features RGB SYNC and a 12V RGB 4-pin port.
+Support up to 6 pcs of Deepcool RGB devices, including: RF120M fan, GAMMAXX GT, Captain EX RGB, RGB 200EX,and so on.
+
+Specification
+
+Model: RF120M(DF1202512CL)
+Fan Dimension: 120×120×25mm
+FAN Speed: 500~1500 RPM±10%
+Fan Air Flow: 56.5 CFM
+Fan Air Pressure: 1.66 mmAq
+Fan Noise: ≤27 dB(A)
+Fan Connector: 4-pin PWM
+Bearing Type: Hydro Bearing 
+Fan Rated Voltage: 12VDC
+Fan Rated Current: 0.11 A±10%
+Fan Power Consumption: 1.32 W
+LED Type: RGB LED
+LED Connector: 4-pin(+12V-G-R-B)
+LED Rated Voltage: 12VDC
+LED Rated Current : 0.12 A
+LED Power Consumption: 1.44W
+

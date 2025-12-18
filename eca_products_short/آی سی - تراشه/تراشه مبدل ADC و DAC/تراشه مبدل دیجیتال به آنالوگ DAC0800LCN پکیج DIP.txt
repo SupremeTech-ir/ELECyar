@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/1511-تراشه-مبدل-دیجیتال-به-آنالوگ-dac0800lcn-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل دیجیتال به آنالوگ DAC0800LCN پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل دیجیتال به آنالوگ پارت نامبر DAC0800LCN پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Digital to Analog Converters - DAC 
+Series: DAC0800 
+Resolution: 8 bit 
+Sampling Rate: 6.6 MS/s 
+Number of Channels: 1 Channel 
+Settling Time: 100 ns 
+Output Type: Current Unbuffered 
+Interface Type: Parallel 
+Analog Supply Voltage: +/- 4.5 V to +/- 18 V 
+Digital Supply Voltage: +/- 4.5 V to +/- 18 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Mounting Style: Through Hole 
+Package / Case: PDIP-16 
+Brand: Texas Instruments 
+DNL - Differential Nonlinearity: - 
+Features: Current Output 
+Gain Error: 0.2 % FSR 
+INL - Integral Nonlinearity: +/- 0.5 LSB 
+Power Consumption: 33 mW 
+Product Type: DACs - Digital to Analog Converters
+

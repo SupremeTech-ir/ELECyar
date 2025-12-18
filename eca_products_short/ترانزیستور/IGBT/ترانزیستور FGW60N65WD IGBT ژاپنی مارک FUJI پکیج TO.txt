@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/igbt/22308-ترانزیستور-fgw60n65wd-igbt-ژاپنی-مارک-fuji-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور FGW60N65WD IGBT ژاپنی مارک FUJI پکیج TO-247
+
+قیمت:
+0
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 650 ولت 60 آمپر مدل 60G65WD پکیج TO-247 ژاپنی FUJI
+
+توضیحات کامل:
+Specification
+
+Type Designator: FGW60N65WD
+Type: IGBT
+Marking Code: 60G65WD
+Maximum Power Dissipation (Pc), W: 230
+Maximum Collector-Emitter Voltage |Vce|, V: 650
+Maximum Gate-Emitter Voltage |Vge|, V: 20
+Maximum Collector Current |Ic| @25℃, A: 60
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 15
+Maximum Junction Temperature (Tj), ℃: 150
+Package: TO247
+

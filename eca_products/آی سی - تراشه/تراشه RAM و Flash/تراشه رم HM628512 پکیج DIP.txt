@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/13870-تراشه-رم-hm628512-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه رم HM628512 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی رم HM628512 پکیج DIP
+
+توضیحات کامل:
+Specification 
+Manufacturer: HITACHI
+Product Category: SRAM
+Brand: HITACHI
+Maximum Operating Temperature: +125°C
+Minimum Operating Temperature: -55°C
+Mounting Style: DIP
+Package / Case: DIP-32
+Operating Supply Voltage: 5V
+Part # Aliases: HM628512
+

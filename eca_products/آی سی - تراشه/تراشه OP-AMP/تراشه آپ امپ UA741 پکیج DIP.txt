@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/1336-تراشه-آپ-امپ-ua741-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ UA741 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ UA741 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Series: UA741 / LM741
+Product Category: Operational Amplifiers - Op Amps 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Supply Voltage - Max: 36 V 
+Number of Channels: 1 Channel 
+GBP - Gain Bandwidth Product: 1 MHz 
+SR - Slew Rate: 0.5 V/us 
+CMRR - Common Mode Rejection Ratio: 70 dB to 90 dB 
+Ib - Input Bias Current: 500 nA 
+Vos - Input Offset Voltage: 5 mV 
+Supply Voltage - Min: 7 V 
+Operating Supply Current: 1.7 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Shutdown: No Shutdown 
+Packaging: Tube 
+Amplifier Type: General Purpose Amplifier 
+Height: 4.57 mm 
+Length: 9.81 mm 
+Product: Operational Amplifiers 
+Supply Type: Dual 
+Technology: Bipolar 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+Dual Supply Voltage: +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 3.5 V 
+Operating Supply Voltage: +/- 3.5 V to +/- 18 V 
+Pd - Power Dissipation: 500 mW (1/2 W) 
+Product Type: Op Amps - Operational Amplifiers
+

@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/11747-ترانزیستور-2n2907-نوع-pnp-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور 2N2907 نوع PNP پکیج TO-92
+
+قیمت:
+8,860
+
+توضیحات کوتاه:
+ترانزیستور 2N2907 نوع PNP پکیج TO-92 ولتاژ 60V جریان 600mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Having a high value of current (max. 600 mA)
+Low voltage value (max. 60 V)
+Comes in a different type of packages – TO-92
+These are Lead (Pb) free devices
+Collector to Emitter voltage (VCEO) is 60v (max.)
+Collector to Base voltage (VCBO) is 60v (max.)
+Emitter to Base voltage(VEBO) is 5v (normally)
+The maximum value of Collector current is 600mA
+Power dissipation at ambient temperature is about 400mW
+Having DC current gain (hfe) of 100 to 300 (max.)
+The temperature of operation and storage is -65 to +150 °C
+

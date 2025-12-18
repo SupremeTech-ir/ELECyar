@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-ram-و-flash/3492-تراشه-حافظه-فلش-w25q32fv-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه فلش W25Q32FV پکیج SOIC-8
+
+قیمت:
+369,000
+
+توضیحات کوتاه:
+آی سی حافظه فلش W25Q32FV پکیج SMD SOIC-8
+
+توضیحات کامل:
+تراشه حافظه فلش W25Q32FV  یک حافظه سریال با عملکرد بالا است که برای ذخیره‌سازی داده‌ها در دستگاه‌های مختلف طراحی شده است. این تراشه با بهره‌گیری از تکنولوژی‌های پیشرفته، امکان خواندن و نوشتن سریع داده‌ها را فراهم می‌آورد و با قابلیت‌های محافظتی مختلف از داده‌ها در برابر دسترسی‌های غیرمجاز محافظت می‌کند. همچنین، عملکرد آن در دماهای مختلف و در شرایط انرژی پایین نیز بهینه است. با توجه به طراحی فشرده و کارآمد این تراشه، می‌توان از آن در طیف وسیعی از کاربردها از جمله دستگاه‌های مصرفی و صنعتی استفاده کرد.
+
+Specification
+
+Manufacturer: Winbond 
+Single/Dual/Quad SPI amd QPI operation
+Uniform 4KB erasable sectors & 32KB/64KB erasable blocks
+32,768 pages (256 bytes), page program in 0.7mS (typ.)
+Continuous Read with 8/16/32/64 Byte Wrap
+Quad Peripheral Interface (QPI) reduces instruction overhead 
+Clock operation up to 104MHz (208/416MHz equivalent with Quad I/O Read)
+2.7 to 3.6V power supply
+4mA active read current, 1µA power down current
+-40° to +85°C operating range
+Program/Erase Suspend/Resume, Suspend Status Bit 
+Factory-programmed unique ID
+Electronic ID with Dual/Quad I/O, Hardware and software write protection for top or bottom blocks
+Volatile & Non-volatile Status Register Bits 
+Lock-Down and OTP protection
+Serial Flash Discoverable Parameters(SFDP)
+3X256byte Security Registers with OTP locks
+Complement Array Protection Bit
+Software Reset
+Package:SOIC8
+

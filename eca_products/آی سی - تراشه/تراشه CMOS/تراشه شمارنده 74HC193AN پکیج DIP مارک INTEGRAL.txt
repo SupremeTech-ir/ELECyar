@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14662-تراشه-شمارنده-74hc193an-پکیج-dip-مارک-integral.html
+================================================================================
+
+عنوان:
+تراشه شمارنده 74HC193AN پکیج DIP مارک INTEGRAL
+
+قیمت:
+134,000
+
+توضیحات کوتاه:
+آی سی 74HC193AN شمارنده باینری 4 بیتی بالا شمار / پایین شمار سنکرون پکیج DIP مارک INTEGRAL
+
+توضیحات کامل:
+Specification
+
+Number of Bits 4 bit 
+Counter Type Binary 
+Counting Method SYNCHRONOUS 
+Counting Sequence Up, Down 
+Mounting Style SMD/SMT 
+Supply Voltage (Min) 2 V 
+Supply Voltage (Max) 6 V 
+Minimum Operating Temperature -40 C° 
+Maximum Operating Temperature +85 C° 
+Brand Philips Semiconductor 
+Package DIP-16
+

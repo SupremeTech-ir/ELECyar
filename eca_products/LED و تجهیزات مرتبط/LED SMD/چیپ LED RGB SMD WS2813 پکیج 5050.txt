@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/led-smd/10746-چیپ-led-rgb-smd-ws2813-پکیج-5050.html
+================================================================================
+
+عنوان:
+چیپ LED RGB SMD WS2813 پکیج 5050
+
+قیمت:
+58,300
+
+توضیحات کوتاه:
+ LED RGB دارای 6 پین پکیج 2813 سایز 5050
+
+توضیحات کامل:
+Specification
+
+Product name: 6PIN 5050RGB 2813 LED
+Input voltage: DC3V-7.5V
+Wave length(NM):R-650mcd, G-520mcd,B-460mcd
+Signal:2813 chip
+Life span:no less than 50000hrs
+

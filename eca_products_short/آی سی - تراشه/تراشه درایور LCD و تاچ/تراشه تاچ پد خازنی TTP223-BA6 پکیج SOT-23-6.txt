@@ -1,0 +1,46 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/13367-تراشه-تاچ-پد-خازنی-ttp223-ba6-پکیج-sot-23-6.html
+================================================================================
+
+عنوان:
+تراشه تاچ پد خازنی TTP223-BA6 پکیج SOT-23-6
+
+قیمت:
+35,300
+
+توضیحات کوتاه:
+آی سی تاچ پد خازنی TTP223-BA6 پکیج SMD SOT-23-6
+
+توضیحات کامل:
+Introduction
+
+The TTP223-BA6/TTP223N-BA6 TonTouchTM is a touch pad detector IC which offers 1 touch
+key. The touching detection IC is designed for replacing traditional direct button key with diverse pad
+size. Low power consumption and wide operating voltage are the contact key features for DC or AC
+application.
+
+Specification
+
+Operating voltage 2.0V~5.5V
+Operating current @VDD=3V, no load
+At low power mode typical 1.5uA, maximum 3.0uA
+The response time max 220mS at low power mode @VDD=3V
+Sensitivity can adjust by the capacitance(0~50pF) outside
+Stable touching detection of human body for replacing traditional direct switch key
+Provides Low Power mode
+Provides direct mode、toggle mode by pad option(TOG pin)
+Q pin is CMOS output
+All output modes can be selected active high or active low by pad option(AHLB pin)
+After power-on have about 0.5sec stable-time, during the time do not touch the key pad,
+And the function is disabled
+Auto calibration for life
+At low power mode the re-calibration period is about 4.0sec normally,
+When key detected touch and released touch, the auto re-calibration will be redoing after
+about 16sec from releasing key
+The sensitivity of TTP223N-BA6 is better than TTP223-BA6’s
+But the stability of TTP223N-BA6 is worse than TTP223-BA6’s
+
+Applications
+
+Wide consumer products
+Button key replacement
+

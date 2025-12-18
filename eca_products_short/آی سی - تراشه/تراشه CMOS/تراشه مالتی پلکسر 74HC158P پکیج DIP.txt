@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-cmos/14763-تراشه-مالتی-پلکسر-74hc158p-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مالتی پلکسر 74HC158P پکیج DIP
+
+قیمت:
+200,000
+
+توضیحات کوتاه:
+تراشه مالتی پلکسر / انکودر 4 کاناله دو ورودی خروجی وارون ساز
+
+توضیحات کامل:
+Specification
+
+Product Category: Encoders, Decoders, Multiplexers & Demultiplexers       
+Product: Selectors / Multiplexers     
+Number of Input Lines: 2 Input     
+Number of Output Lines: 1 Output     
+Propagation Delay Time: 32 ns     
+Supply Voltage - Min: 2 V     
+Supply Voltage - Max: 6 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C          
+Package / Case:  PDIP-16     
+Function: Quad 2 to 1     
+Input Voltage: - 0.5 V to 7.0 V
+

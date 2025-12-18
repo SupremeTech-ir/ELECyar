@@ -1,0 +1,39 @@
+URL: https://eshop.eca.ir/تراشه-درایور-lcd-و-تاچ/3179-تراشه-درایور-بک-لایت-tps61040dbvr-پکیج-sot-23-5.html
+================================================================================
+
+عنوان:
+تراشه درایور بک لایت TPS61040DBVR پکیج SOT-23-5
+
+قیمت:
+223,000
+
+توضیحات کوتاه:
+آی سی درایور بک لایت مناسب برای انواع بک لایت ها تا 28 ولت پکیج SOT-23-5
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Switching Voltage Regulators 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: SOT-23-5 
+Output Current: 400 mA 
+Number of Outputs: 1 Output 
+Topology: Boost 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Series: TPS61040 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Height: 1.15 mm 
+Input Voltage: 1.8 V to 6 V 
+Length: 2.9 mm 
+Operating Temperature Range: - 40 C to + 85 C 
+Type: Inductive 
+Width: 1.6 mm 
+Brand: Texas Instruments 
+Operating Supply Current: 28 uA 
+Product Type: Switching Voltage Regulators
+

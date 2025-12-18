@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/رگولاتور/1825-رگولاتور-متغیر-tl431-پکیج-to-92.html
+================================================================================
+
+عنوان:
+رگولاتور متغیر TL431 پکیج TO-92
+
+قیمت:
+16,600
+
+توضیحات کوتاه:
+رگولاتور متغیر TL431 پکیج TO-92
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole 
+Package / Case: TO-92-3 
+Reference Type: Shunt Adjustable Precision References 
+Output Voltage: Adjustable 
+Initial Accuracy: 2 % 
+Temperature Coefficient: 100 PPM / C 
+Series VREF - Input Voltage - Max: 36 V 
+Shunt Current - Max: 100 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C
+

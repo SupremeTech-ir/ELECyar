@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/-ولتمتر-و-آمپرمتر-روپنلی/13707-شنت-جریان-dc-مستقیم-100-آمپر.html
+================================================================================
+
+عنوان:
+شنت جریان DC مستقیم 100 آمپر
+
+قیمت:
+0
+
+توضیحات کوتاه:
+مدل FL-2 مناسب برای آمپرمتر ولتمترهای DC روپنلی 100 آمپر 0v-100v 
+
+توضیحات کامل:
+برای اندازه گیری جریان بالای DC در مدارات جریان مستقیم ، از شنت با کلاسهای دقت 0.5 و 1 استفاده می شـود . این شنت دارای کلاس 0.5 و تبدیل افت ولتاژ 75mv میباشد.
+شنت DC ، جریان بالا در مدارات DC را به افت ولتاژ متناسب با شنت تبدیل کرده (50mV/60mV/75mV/150mV) که می توان به ولت متر های DC که جهت اندازه گیری جریان بالا در مدارات قرار گرفته است ، متصل نمود.
+
+An Ammeter Shunt resistor allows the measurement of current values too large to be directly measured by a particular ammeter. Could be used either in a Digital or an Analog meter.Good quality, good performance and easily installation.
+
+Feature:
+
+Model No: FL-2-100.
+Current Rating: 100A/75mV.
+Voltage drop: 75mV@100A.
+Accuracy: 0.5 class.
+Dimensions: (105 x 23 x 9) mm.
+Net Weight: 125g.
+
+نحوه ی سیم بندی:
+

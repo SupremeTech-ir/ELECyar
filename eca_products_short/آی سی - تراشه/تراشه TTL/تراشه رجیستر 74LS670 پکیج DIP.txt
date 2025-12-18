@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14758-تراشه-رجیستر-74ls670-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه رجیستر 74LS670 پکیج DIP
+
+قیمت:
+145,000
+
+توضیحات کوتاه:
+آی سی منطقی 74LS670 رجیستر 4x4 شامل خروجی سه حالته پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage range: 4.75V to 5.25V
+Typical input voltage level: 2.0V (minimum) to 5.5V (maximum)
+Maximum input current: ±0.4mA
+Maximum output current: ±16mA
+Maximum propagation delay time: 30ns (at 5V and 25°C)
+4 x 4 register file function with open collector outputs
+Four independent registers, each with 4 bits
+16 data input/output pins (I0 to I3 and O0 to O3 for each register)
+Four control input pins (S0 to S3) for selecting the register to be accessed
+Active-low output enable control pin (OE#) for enabling or disabling the open collector outputs
+Low-power Schottky TTL technology
+16-pin DIP (dual in-line package) package
+

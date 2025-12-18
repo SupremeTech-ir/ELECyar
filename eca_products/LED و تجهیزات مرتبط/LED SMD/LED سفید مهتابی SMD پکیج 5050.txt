@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/led-smd/5024-led-سفید-مهتابی-smd-پکیج-5050.html
+================================================================================
+
+عنوان:
+LED سفید مهتابی SMD پکیج 5050
+
+قیمت:
+5,700
+
+توضیحات کوتاه:
+LED سفید مهتابی SMD پکیج 5050
+
+مشخصات فنی:
+پکیج LED: 5050
+
+توضیحات کامل:
+Description
+
+LED Package : 5.0mm*5.0mm
+Typical Forward Voltage :  3.0 to 3.2 Volt 
+Max DC Forward Current : 60 mA
+Typical Power Dissipation  : 0.1 to 0.2 Watt
+Typical Luminous Flux 9lm-12lm
+CRI >80Ra
+CCT Range: 6100-7200K
+Emitting Color Cool White
+Viewing angle 120°
+Operating Temperature :  -40℃～+85℃
+Storage Temperature : -40℃～+100℃
+

@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/5372-تراشه-آپ-امپ-lm393-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM393 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM393 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: Analog Comparators 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Comparator Type: Differential 
+Number of Channels: 2 Channel 
+Output Type: Rail-to-Rail 
+Ib - Input Bias Current: 250 nA 
+Vos - Input Offset Voltage: 5 mV 
+Supply Voltage - Max: 36 V 
+Supply Voltage - Min: 2 V 
+Operating Supply Current: 200 uA 
+Response Time: 700 ns 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Features: Small Size, Standard comparator 
+Product: Analog Comparators 
+Series: LM393-N 
+Brand: Texas Instruments 
+GBP - Gain Bandwidth Product: - 
+Operating Supply Voltage: 2 V to 36 V
+

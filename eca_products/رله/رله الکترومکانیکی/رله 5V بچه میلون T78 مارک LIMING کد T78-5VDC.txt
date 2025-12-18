@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/7240-رله-5v-بچه-میلون-t78-مارک-liming-کد-t78-5vdc.html
+================================================================================
+
+عنوان:
+رله 5V بچه میلون T78 مارک LIMING کد T78-5VDC
+
+قیمت:
+244,000
+
+توضیحات کوتاه:
+رله 10 آمپر 120 ولت AC و 20 آمپر 14 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 15.7×12.3×14
+Dielectric Strengh: Between Open Contact 500VAC
+Between Coil and Contact: 500VAC
+Contact Form: 1A,1C
+Contact Resistance: < 50 mΩ
+Coil Voltage: 5VDC
+Mechanical: 10^7
+Electrical 10^5
+Pick-up Voltage: ≤65%
+Temperature Range: -40~ +85℃
+Release Voltage: ≥10%
+Coil Power(W): 0.6W,0.8W
+Mounting Form: PCB Terminal
+Contact Rating: NO:20A 14VDC 10A 120VAC
+NC:15A 14VDC 10A 120VAC
+Weight: 6g
+Insulation Resistance: 100 MΩ
+Safty Approval: UL,TUV
+

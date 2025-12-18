@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/وریستور/19516-وریستور-vdr-14d201k.html
+================================================================================
+
+عنوان:
+وریستور VDR 14D201K
+
+قیمت:
+44,100
+
+توضیحات کوتاه:
+وریستور 200 ولت با تلرانس 10 درصد کد 14D201K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors 
+Series: 14D 
+Termination Style: Radial 
+Voltage Rating AC: 130 VAC 
+Voltage Rating DC: 200 VDC 
+Varistor Voltage: 200 V 
+Clamping Voltage: 340 V 
+Diameter: 14 mm 
+Peak Surge Current: 4.5 KA 
+Surge Energy Rating: 57 J
+Capacitance: 1000 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Subcategory: Varistors 
+Tolerance: 10 %
+

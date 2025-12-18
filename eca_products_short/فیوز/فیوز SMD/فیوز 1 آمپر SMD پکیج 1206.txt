@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/فیوز-smd/5626-فیوز-1-آمپر-smd-پکیج-1206.html
+================================================================================
+
+عنوان:
+فیوز 1 آمپر SMD پکیج 1206
+
+قیمت:
+26,400
+
+توضیحات کوتاه:
+فیوز smd پکیج 1206
+
+توضیحات کامل:
+Specification
+Product Category: Surface Mount Fuses 
+RoHS: Details 
+Series: CC12H 
+Product: Surface Mount Fuses 
+Fuse Type: Time Delay / Slow Blow 
+Voltage Rating DC: 63 VDC 
+Fuse Size/Group: 1206 (3216 metric) 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 125 C 
+Qualification: AEC-Q200 
+Resistance: 350 mOhms 
+Brand: Bussmann / Eaton 
+Height: 0.6 mm 
+Length: 3.2 mm 
+Product Type: SMD Fuses 
+Subcategory: Fuses 
+Width: 1.6 mm 
+Part # Aliases: TR-CC12H1A
+

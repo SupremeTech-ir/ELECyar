@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/14230-تراشه-دیکودر-ویدئو-tvp5160-پکیج-smd-tqfp-128.html
+================================================================================
+
+عنوان:
+تراشه دیکودر ویدئو TVP5160 پکیج SMD TQFP-128
+
+قیمت:
+1,070,000
+
+توضیحات کوتاه:
+آی سی دیکودر ویدئو دیجیتال TVP5160 
+
+توضیحات کامل:
+Introduction
+
+The TVP5160 device is a high quality, digital video decoder that digitizes and decodes all popular baseband analog video formats into digital component video. The TVP5160 decoder supports the A/D conversion of component YPbPr and RGB (SCART) signals, as well as the A/D conversion and decoding of NTSC, PAL, and SECAM composite and S-Video into component YCbCr. Additionally, component progressive signals can be digitized. The chip includes two 11-bit, 60-MSPS, A/D converters (ADCs). Prior to each ADC, each analog channel contains an analog circuit, which clamps the input to a reference voltage and applies a programmable gain and offset. A total of 12 video input terminals can be configured to a combination of YPbPr, RGB, CVBS, and S-Video video inputs.
+
+Specification
+
+Two 11-Bit 60-MSPS Analog-to-Digital (A/D) Converters With Analog Preprocessors (Clamp/AGC)
+Fixed RGB-to-YUV Color Space Conversion
+Robust Sync Detection for Weak and Noisy Signals as Well as VCR
+Supports NTSC (J, M, 4.43), PAL (B, D, G, H, I, M, N, Nc, 60) and SECAM (B, D, G, K, K1, L) CVBS, S-Video
+Supports Component Standards 480i, 576i, 480p, and 576p
+Supports ITU-R BT.601 Pixel Sampling Frequencies
+Supports 3D Y/C Separation, or 2D 5-Line (5H) Adaptive Comb and Chroma Trap Filter for Both PAL and NTSC Signals
+Concurrent Temporal, Frame Recursive, Noise Reduction (3DNR)
+IF Compensation
+Line-Based Time Base Correction (TBC)
+Fast Switch 4x Oversampled Input for Digital RGB Overlay Switching Between Any CVBS, S-Video, or Component Video Input
+SCART 4x Oversampled Fast Switching Between Component RGB Input and CBVS Input
+Analog Video Output
+Chrominance Processor
+Luminance Processor
+Clock/Timing Processor and Power-Down Control
+Output Formatter Supports Both ITU-R BT.656 (Embedded Syncs) and ITU-R BT.601 (4:2:2 With Discrete Syncs)
+I2C Host Port Interface
+VBI Data Processor
+"Blue" Screen (Programmable Color) Output
+Macrovision™ Copy Protection Detection Circuit (Types 1, 2, and 3) on Both Interlaced and Progressive Signals
+

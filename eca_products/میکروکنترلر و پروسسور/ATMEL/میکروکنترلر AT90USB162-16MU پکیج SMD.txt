@@ -1,0 +1,65 @@
+URL: https://eshop.eca.ir/atmel/5952-میکروکنترلر-at90usb162-16mu-پکیج-smd.html
+================================================================================
+
+عنوان:
+میکروکنترلر AT90USB162-16MU پکیج SMD
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر AT90USB162-16MU با هسته 8 بیتی AVR (پکیج SMD) با حافظه 16KB، فرکانس کاری 16MHz و 32 پایه ساخت شرکت میکروچیپ می باشد.
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر AT90USB162-16MU دارای هسته پردازنده 8 بیتی AVR (پکیج SMD) توسط شرکت Microchip ساخته شده است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 16 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر AT90USB162-16MU دارای 22 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر AT90USB162-16MU دارای ولتاژ کاری 2.7 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : AT90USB162
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 2.7 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 16 kB
+پکیج : QFN-32
+تعداد پین ها ورودی/خروجی : 22
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The AT90USB162-16MU microcontroller has an 8-bit AVR processor core (SMD package) made by Microchip and operates at a frequency of 20 MHz. This microcontroller provides 16 KB of FLASH memory on the chip. AT90USB162-16MU microcontroller has 22 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The AT90USB162-16MU microcontroller has an operating voltage of 2.7 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Part Number: AT90USB162-16MU 
+Product Category: 8-bit Microcontrollers - MCU     
+Manufacturer: Microchip     
+RoHS: RoHS Compliant Details     
+Mounting Style: SMD/SMT     
+Package / Case: QFN-32     
+Core: AVR     
+Data Bus Width: 8 bit     
+Maximum Clock Frequency: 16 MHz     
+Program Memory Size: 16 kB     
+Data RAM Size: 512 B     
+ADC Resolution:  No ADC     
+Operating Supply Voltage: 2.7 V to 5.5 V     
+Maximum Operating Temperature: + 85 C     
+Processor Series:  AT90USBx     
+Packaging: Tray          
+Data RAM Type: SRAM     
+Data ROM Size: 512 B     
+Data ROM Type: EEPROM     
+Interface Type: SPI     
+Length: 5 mm     
+Minimum Operating Temperature: - 40 C     
+Number of I/Os: 22 I/O     
+Number of Timers/Counters: 2 Timer
+

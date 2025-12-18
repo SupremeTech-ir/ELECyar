@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/پل-دیودها/1366-پل-دیود-8a-1000v-تخت-شانه-ای-kbu810.html
+================================================================================
+
+عنوان:
+پل دیود 8A-1000V تخت شانه ای KBU810
+
+قیمت:
+218,000
+
+توضیحات کوتاه:
+پل دیود 8 آمپر 1000ولت
+
+توضیحات کامل:
+Specification 
+Product Category:     Bridge Rectifiers     
+Manufacturer:     GeneSiC Semiconductor     
+RoHS:     RoHS Compliant Details     
+Mounting Style:     Through Hole     
+Termination Style:     Through Hole     
+Package / Case:     KBU     
+If - Forward Current:     8 A     
+Peak Reverse Voltage:     1000 V     
+Vf - Forward Voltage:     1 V     
+Max Surge Current:     300 A     
+Minimum Operating Temperature:     - 55 C     
+Maximum Operating Temperature:     + 150 C     
+Series:     KBU8     
+Packaging:     Bulk     
+Brand:     GeneSiC Semiconductor     
+Ir - Reverse Current:     10 uA     
+Product:     Bridge Rectifiers     
+Factory Pack Quantity:     300     
+Vr - Reverse Voltage:     700 V
+

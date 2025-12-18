@@ -1,0 +1,48 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/4670-تراشه-آمپلی-فایر-tda7266sa.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7266SA
+
+قیمت:
+903,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر TDA7266SA
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Audio Amplifiers 
+RoHS: Details 
+Series: TDA7266SA 
+Product: Audio Amplifiers 
+Class: Class-AB 
+Output Power: 7 W 
+Mounting Style: Through Hole 
+Type: 2-Channel Stereo 
+Package / Case: Clipwatt-15 
+Audio - Load Impedance: 8 Ohms 
+THD plus Noise: 0.05 % 
+Supply Voltage - Max: 18 V 
+Supply Voltage - Min: 3 V 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Packaging: Tube 
+Description/Function: Speaker 
+Height: 11 mm 
+Input Type: Single 
+Length: 19.85 mm 
+Output Current: 2000 mA 
+Supply Type: Single 
+Width: 3.2 mm 
+Brand: STMicroelectronics 
+Gain: 26 dB 
+Number of Channels: 2 Channel 
+Operating Supply Voltage: 11 V 
+Output Signal Type: Differential 
+Pd - Power Dissipation: 20000 mW 
+Product Type: Audio Amplifiers 
+PSRR - Power Supply Rejection Ratio: 56 dB
+

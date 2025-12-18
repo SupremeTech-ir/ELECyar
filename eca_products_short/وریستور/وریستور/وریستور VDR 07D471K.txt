@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/11337-وریستور-vdr-07d471k.html
+================================================================================
+
+عنوان:
+وریستور VDR 07D471K
+
+قیمت:
+12,300
+
+توضیحات کوتاه:
+وریستور 470 ولت با تلرانس 10 درصد کد 07D471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors     
+Series: MOV-07DxxxK     
+Mounting Style: PCB Mount     
+Termination Style: Radial     
+Voltage Rating DC: 517 VDC     
+Clamping Voltage: 775 V     
+Diameter: 7 mm     
+Peak Surge Current: 1.2 kA     
+Surge Energy Rating: 30 J     
+Capacitance: 105 pF     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C     
+Tolerance: 10 %
+

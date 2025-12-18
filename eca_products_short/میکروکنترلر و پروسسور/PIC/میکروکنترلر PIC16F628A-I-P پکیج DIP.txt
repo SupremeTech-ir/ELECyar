@@ -1,0 +1,74 @@
+URL: https://eshop.eca.ir/pic/2660-میکروکنترلر-pic16f628a-ip-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر PIC16F628A-I/P پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر PIC16F628A-I/P با هسته 8 بیتی PIC16 (پکیج DIP ) با حافظه 3.5KB و فرکانس کاری 20MHz ساخت شرکت میکروچیپ می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر PIC16F628A-I/P دارای هسته پردازنده 8 بیتی PIC16 (پکیج DIP) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 3.5 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر PIC16F628A-I/P دارای 16 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر PIC16F628A-I/P دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : PIC16(L)F62x
+دارای هسته 8 بیتی PIC16
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+حافظه: 3.5 kB
+پکیج : PDIP-18
+تعداد پین ها ورودی/خروجی : 16
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The PIC16F628A-I/P microcontroller has an 8-bit PIC16 core (DIP package) made by Microchip and operates at a frequency of 20 MHz. This microcontroller stores 3.5 KB of FLASH memory on the chip. ThePIC16F628A-I/P microcontroller has 16 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The PIC16F628A-I/P microcontroller has a voltage of 1.8 to 5.5 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Product Category:     8-bit Microcontrollers - MCU     
+Manufacturer:     Microchip     
+RoHS:     RoHS Compliant Details     
+Mounting Style:     Through Hole     
+Package / Case:     PDIP-18     
+Core:     PIC16     
+Data Bus Width:     8 bit     
+Maximum Clock Frequency:     20 MHz     
+Program Memory Size:     3.5 kB     
+Data RAM Size:     224 B     
+ADC Resolution:     No ADC     
+Operating Supply Voltage:     2 V to 5.5 V     
+Maximum Operating Temperature:     + 85 C     
+Processor Series:     PIC16     
+Packaging:     Tube     
+Brand:     Microchip Technology     
+Data ROM Size:     128 B     
+Data ROM Type:     Flash     
+Height:     3.3 mm     
+Interface Type:     SCI, USART     
+Length:     22.86 mm     
+Minimum Operating Temperature:     - 40 C     
+Number of I/Os:     16 I/O     
+Number of Timers/Counters:     3 Timer     
+Product:     MCU     
+Program Memory Type:     Flash     
+Series:     PIC16     
+Factory Pack Quantity:     25     
+Supply Voltage - Max:     5.5 V     
+Supply Voltage - Min:     3 V     
+Tradename:     PIC     
+Width:     6.35 mm     
+Unit Weight:     0.044801 oz
+

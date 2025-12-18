@@ -1,0 +1,67 @@
+URL: https://eshop.eca.ir/فیوز-حرارتی/10808-ترمو-فیوز-فیوز-حرارتی-113-درجه-سانتی-گراد-10a-کد-sf109e.html
+================================================================================
+
+عنوان:
+ترمو فیوز - فیوز حرارتی 113 درجه سانتی گراد 10A کد SF109E
+
+قیمت:
+93,100
+
+توضیحات کوتاه:
+ترموفیوز SF109E از برند SEFUSE فیوز حرارتی با دمای قطع 113°C و جریان نامی 10A است که برای حفاظت حرارتی در لوازم برقی و صنعتی
+
+توضیحات کامل:
+ترموفیوز SEFUSE SF109E یکی از محصولات سری SF/E از شرکت NEC Schott است که جهت محافظت حرارتی تجهیزات الکتریکی طراحی شده است. این فیوز حرارتی در دمای مشخص 113°C عمل کرده و مدار را به‌طور دائم قطع می‌کند تا از داغ‌شدن بیش از حد یا آتش‌سوزی جلوگیری شود.
+ساختار داخلی آن شامل یک پلت حرارتی حساس (Thermosensitive Pellet) درون بدنه‌ی فلزی است که با افزایش دما ذوب شده و مکانیزم فنری داخلی باعث قطع کامل مسیر جریان می‌گردد. این عملکرد غیرقابل بازگشت بوده و ترموفیوز پس از عمل نیاز به تعویض دارد.
+ترموفیوز SF109E برای کار در مدارهای AC تا ولتاژ 250 ولت و جریان حداکثر 10 آمپر طراحی شده است و با استانداردهای UL، VDE، CSA، BEAB، CCC، PSE و IEC60691 سازگار است. ابعاد کوچک و دقت عملکرد بالا، آن را به گزینه‌ای ایده‌آل برای استفاده در سیستم‌های گرمایشی، شارژرها، موتورهای برقی، منابع تغذیه و لوازم خانگی تبدیل کرده است.
+
+مشخصات 
+
+مدل: SF109E
+نوع عملکرد: قطع دائمی حرارتی (One-shot Thermal Cutoff)
+دمای عملکرد (Tf): 113°C ±2°C
+دمای نگهداری (Th): 84°C
+دمای بیشینه مجاز (Tm): 150°C
+ولتاژ نامی: 250V AC
+جریان نامی: 10A (مقاومتی)
+مکانیزم عملکرد: پلت حرارتی داخلی با فنر لغزنده
+نوع نصب: سیم‌دار، قابل لحیم‌کاری
+طول کل (تقریبی): 66mm
+قطر بدنه: 4mm
+استانداردها: IEC60691, UL, VDE, CSA, BEAB, CCC, PSE
+کشور سازنده: تایلند (NEC Schott Components Corporation)
+
+کاربردهای رایج
+
+ترموفیوز SF109E برای حفاظت حرارتی در مدارها و وسایل الکتریکی استفاده می‌شود که امکان افزایش دمای خطرناک در آن‌ها وجود دارد.
+
+منابع تغذیه و آداپتورها
+هیترها و المنت‌های حرارتی
+موتورهای الکتریکی و کمپرسورها
+دستگاه‌های خانگی (اتو، بخاری، سشوار، قهوه‌ساز)
+شارژرها و ترانسفورماتورها
+تجهیزات روشنایی و صنعتی
+
+Specification
+
+ Type:TF113 / SF113E / SF109E,113°C
+Rated current/voltage:10A/250V
+Excellently sensitive to ambient temperature.
+Stable and precise operation.
+One shot operation
+SF types has ceramic pipe to protect sealing resin from the stress when bending the leads
+Meets many safety standards
+Cadmium free and Lead free SF is available
+Application:
+Irons, hair dryers, heaters.
+Refrigerators, rice cookers, water pots, coffee makers.
+Air conditioners, ventilation fans, electric fans, gas boilers.
+Transformers, power suppliers, adaptors, solenoides.
+Chargers, battery packs.
+Copiers, laser beam printers, power taps.
+RY-01 Thermal fuse:
+1.Rated Current:10A (AC)
+2.Rated Volt:250V (AC)
+3.Rated Temperature: 113C
+4.Color:Silver
+

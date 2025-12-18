@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/9804-تراشه-تایمر-ne555-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه تایمر NE555 پکیج SO-8
+
+قیمت:
+24,900
+
+توضیحات کوتاه:
+آی سی زمان سنج، نوسانگر و تولید پالس NE555 پکیج SO-8 SMD
+
+توضیحات کامل:
+معرفی
+
+آی سی NE555 یکی از آی سی های نسبتا مشهور که مولد موج مربعی است و در صنعت الکترونیک کاربرد زیادی دارد ,  می باشد. از این آی سی میتوان در مدار نوسان ساز های مربعی ,در تایمر ها , در مدار های آژیر و غیره استفاده نمود.
+این آی سی دارای دقت فوق العاده زیاد و خطای کم می باشد و بوسیله ی آن می توان تایمر هایی از مدت زمانهای کم تا چندین ساعت را ایجاد کرد .
+
+Specification
+
+Number of Internal Timers: 1 Timer
+Supply Voltage - Max: 16 V
+Supply Voltage - Min: 4.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Mounting Style: SMD/SMT
+Package / Case: SOIC-8
+Packaging: Cut Tape
+Packaging: MouseReel
+Packaging: Reel
+Height: 1.58 mm 
+Length: 4.9 mm 
+Width: 3.91 mm 
+Brand: Texas Instruments  
+High Level Output Current: 200 mA
+

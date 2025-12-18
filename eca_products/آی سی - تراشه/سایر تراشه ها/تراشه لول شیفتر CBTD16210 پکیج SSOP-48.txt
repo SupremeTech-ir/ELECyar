@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/3977-تراشه-لول-شیفتر-cbtd16210-پکیج-ssop-48.html
+================================================================================
+
+عنوان:
+تراشه لول شیفتر CBTD16210 پکیج SSOP-48
+
+قیمت:
+430,000
+
+توضیحات کوتاه:
+آی سی سوئیچ باس تغییر سطح CBTD16210 پکیج SMD SSOP48
+
+توضیحات کامل:
+Specification
+
+FEATURES
+• 5W switch connection between two ports
+• TTL compatible control input levels
+• Designed to be used in 5.5 V to 3.3 V level shifting applications
+• Package SSOP
+

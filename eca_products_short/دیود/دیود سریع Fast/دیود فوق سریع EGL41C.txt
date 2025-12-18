@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/6834-دیود-فوق-سریع-egl41c.html
+================================================================================
+
+عنوان:
+دیود فوق سریع EGL41C
+
+قیمت:
+18,000
+
+توضیحات کوتاه:
+دیود فوق سریع EGL41C
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: DO-213AB(GL41) 
+Vr - Reverse Voltage: 150 V 
+If - Forward Current: 1 A 
+Type: Fast Recovery Rectifiers 
+Configuration: Single 
+Vf - Forward Voltage: 1 V 
+Max Surge Current: 30 A 
+Ir - Reverse Current: 5 uA 
+Recovery Time: 50 ns 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 175 C 
+Packaging: MouseReel 
+Pd - Power Dissipation: - 
+Product: Rectifiers 
+Product Type: Rectifiers 
+Subcategory: Diodes & Rectifiers 
+Termination Style: MELF
+

@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/23782-تراشه-vu-level-meter-درایور-ba6144-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه VU level meter درایور BA6144 پکیج DIP
+
+قیمت:
+229,000
+
+توضیحات کوتاه:
+تراشه درایور VU level meter مدل BA6144 پکیج DIP
+
+توضیحات کامل:
+معرفی
+
+تراشه BA6144 در واقع یک آی سی درایور برای سطح سنج یا همان LED VU Meter می باشد که اغلب در تجهیزات صوتی استفاده می گردد .این IC می تواند سطح ورودی بین محدوده: 13- دسی بل تا 17+ دسی بل را روی 5 عدد LED  نمایش دهد. 
+
+BA6144 دارای یک تقویت کننده یکسو کننده است که اجازه ورودی ولتاژ AC را نیز می دهد و دارای خروجی های جریان ثابت است، بنابراین می تواند به صورت مستقیم عملیات درایو را انجام دهد.
+
+Description 
+
+The BA6144 is a driver IC for LED VU level meters in stereo equipment and other display applications. The IC displays the input level (range: -13dB to +17dB) on a 5-point, bar-type LED display.The BA6144 includes a rectifier amplifier allowing direct AC input, and has constant-current outputs, so it can directly drive the LEDs without variations in LED current due to supply voltage fluctuations.
+
+Applications
+
+VU meters, signal meters, and other display devices.
+
+Features
+
+1) Rectifier amplifier allows either AC or DC input.
+2) Wide display level range (-13 to +17), so signals with large dynamic range can be displayed.
+3) Constant-current outputs for constant LED current when the power supply voltage fluctuates.
+4) Built-in reference voltage means that power supply voltage fluctuations do not effect the display.
+5) Wide operating power supply voltage range (5.5V to16V) for a wide range of applications.
+6) Low PCB space requirements. Comes in a compact 9-pin SIP package and requires few external components.
+

@@ -1,0 +1,38 @@
+URL: https://eshop.eca.ir/تراشه-درایور/5451-تراشه-درایور-uln2804a-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه درایور ULN2804A پکیج DIP
+
+قیمت:
+244,000
+
+توضیحات کوتاه:
+آی سی درایور ULN2804A
+
+توضیحات کامل:
+معرفی
+
+این آی سی شامل 8 زوج دارلینگتون است که برای تقویت جریان به کار می روند و در مواردی نظیر راه اندازی موتور های پله ای و ... به عنوان بافر و تقویت کننده جریان عمل می کنند .
+
+Specification
+
+Product Category: Darlington Transistors
+RoHS: Details
+Configuration: Octal
+Transistor Polarity: NPN
+Collector- Emitter Voltage VCEO Max: 50 V
+Maximum DC Collector Current: 0.5 A
+Mounting Style: Through Hole
+Package / Case: PDIP-18
+Minimum Operating Temperature: - 20 C
+Maximum Operating Temperature: + 85 C
+Series: ULN2804A
+Packaging: Tube
+Height: 3.68 mm
+Length: 23.24 mm
+Width: 7.1 mm
+Brand: STMicroelectronics
+Continuous Collector Current: 500 mA
+Product Type: Darlington Transistors
+

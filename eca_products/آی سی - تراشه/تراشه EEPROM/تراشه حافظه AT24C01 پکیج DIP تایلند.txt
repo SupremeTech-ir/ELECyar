@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/15823-تراشه-حافظه-at24c01-پکیج-dip-تایلند.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C01 پکیج DIP تایلند
+
+قیمت:
+29,800
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C01 پکیج DIP
+
+توضیحات کامل:
+Description
+The Microchip Technology Inc. 24XX01(1) is a 1-Kbit Electrically Erasable PROM (EEPROM). The device is organized as one block of 128 x 8-bit memory with a two-wire serial interface. Its low-voltage design permits operation down to 1.7V with standby and active currents of only 1 μA and 1 mA, respectively. The 24XX01 also has a page write capability for up to 8 bytes of data.
+
+Specification
+
+Single Supply with Operation down to 1.7V for
+24AA01 and 24FC01 Devices, 2.5V for 24LC01B Devices
+Low-Power CMOS Technology:
+Read current 1 mA, maximum
+Standby current 1 μA, maximum (I-temp.)
+Two-Wire Serial Interface, I2C Compatible
+Schmitt Trigger Inputs for Noise Suppression
+Output Slope Control to Eliminate Ground Bounce
+100 kHz, 400 kHz and 1 MHz Compatibility
+Page Write Time: 5 ms, Maximum
+Self-Timed Erase/Write Cycle
+8-Byte Page Write Buffer
+Hardware Write-Protect
+ESD Protection >4,000V
+More than 1 Million Erase/Write Cycles
+Data Retention >200 Years
+Factory Programming Available
+

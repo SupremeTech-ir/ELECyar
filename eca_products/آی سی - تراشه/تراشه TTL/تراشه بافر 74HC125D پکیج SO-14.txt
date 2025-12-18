@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/تراشه-ttl/1704-تراشه-بافر-74hc125d-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه بافر 74HC125D پکیج SO-14
+
+قیمت:
+75,400
+
+توضیحات کوتاه:
+تراشه بافر74HC125D دارای باس 4 تایی و خروجی 3 تایی پکیج SO-14 SMD
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 2V to 6V
+Maximum clock frequency: 50 MHz
+Contains four independent buffer/line driver circuits
+3-state outputs allow the outputs to be disabled 
+and effectively disconnected from the rest of the circuit when the output enable input is high
+Outputs are buffered and can drive up to 10 TTL loads
+Power dissipation: 500 mW
+Operating temperature range: -40°C to 125°C
+

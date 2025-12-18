@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/23142-تراشه-تقویت-کننده-ولتاژ-پایین-an6550.html
+================================================================================
+
+عنوان:
+تراشه تقویت کننده ولتاژ پایین AN6550
+
+قیمت:
+43,600
+
+توضیحات کوتاه:
+تراشه تقویت کننده ولتاژ پایین AN6550 
+
+توضیحات کامل:
+معرفی
+
+تراشه AN6550 یک تقویت کننده عملیاتی دوگانه است که توسط شرکت Panasonic ساخته شده است. این قطعه دارای یک مدار جبران فاز داخلی است که امکان عملکرد ولتاژ پایین را فراهم می کند. این قطعه همه کاره برای مدارهای الکترونیکی مختلف از جمله فیلترهای فعال و پیش تقویت کننده های صوتی مناسب است.
+
+Introduction
+
+The AN6550 is a dual operational amplifier with a phase compensation circuit built-in, allowing low voltage operation.It is suitable for application to various electronic circuits such as active filters and audio preamplifiers.
+
+Features
+
+Phase compensation circuit
+High voltage gain, low noise
+Output short protection circuit
+Low voltage operation(±2.5V to±10V)
+

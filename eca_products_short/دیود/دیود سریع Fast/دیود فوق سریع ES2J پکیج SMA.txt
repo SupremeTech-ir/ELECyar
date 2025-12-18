@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/17056-دیود-فوق-سریع-es2j-پکیج-sma.html
+================================================================================
+
+عنوان:
+دیود فوق سریع ES2J پکیج SMA
+
+قیمت:
+17,000
+
+توضیحات کوتاه:
+دیود فوق سریع اس ام دی 600 ولت 2 آمپر ES2J پکیج SMA
+
+توضیحات کامل:
+Specification
+
+Diode Type: Standard
+
+Voltage - DC Reverse (Vr) (Max): 600 V
+
+Current - Average Rectified (Io): 2A
+
+Voltage - Forward (Vf) (Max) @ If: 1.7 V @ 1 A
+
+Speed: Fast Recovery =< 500ns, > 200mA (Io)
+
+Reverse Recovery Time (trr): 35 ns
+
+Current - Reverse Leakage @ Vr: 5 µA @ 600 V
+
+Capacitance @ Vr, F: 8pF @ 0V, 1MHz
+
+Mounting Type: Surface Mount
+
+Supplier Device Package: DO-214AC (SMA)
+
+Operating Temperature - Junction: 150°C (Max)
+

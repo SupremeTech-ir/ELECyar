@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/1068-تراشه-حافظه-at24c08-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C08 پکیج DIP
+
+قیمت:
+79,800
+
+توضیحات کوتاه:
+آی سی حافظه  EEPROM پارت نامبر AT24C08 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Product Category: EEPROM
+Mounting Style: SMD/SMT
+Memory Size: 8 kbit
+Organization: 1 k x 8
+Interface Type: Serial, 2-Wire, I2C
+Access Time: 4500 ns
+Data Retention: 100 Year
+Maximum Clock Frequency: 100 kHz
+Supply Current - Max: 3 mA
+Supply Voltage - Min: 2.7 V
+Supply Voltage - Max: 5.5 V
+Minimum Operating Temperature: 0 C
+Maximum Operating Temperature: + 70 C
+Height: 1.48 mm (Max)
+Length: 4.98 mm (Max)
+Width: 3.99 mm (Max)
+Brand: Microchip Technology / Atmel
+Operating Supply Current: 3 mA
+Operating Supply Voltage: 3.3 V, 5 V
+

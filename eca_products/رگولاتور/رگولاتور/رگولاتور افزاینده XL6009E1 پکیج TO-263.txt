@@ -1,0 +1,91 @@
+URL: https://eshop.eca.ir/رگولاتور/5848-رگولاتور-افزاینده-xl6009e1-پکیج-to-263.html
+================================================================================
+
+عنوان:
+رگولاتور افزاینده XL6009E1 پکیج TO-263
+
+قیمت:
+393,000
+
+توضیحات کوتاه:
+رگولاتور XL6009E1 یک مبدل DC-DC سوئیچینگ افزاینده با فرکانس کاری 400kHz، جریان خروجی تا 4A و ولتاژ کاری تا 60V در پکیج TO-263-5L
+
+توضیحات کامل:
+رگولاتور XL6009E1 از محصولات شرکت XLsemi یک مبدل جریان سوئیچینگ پرکاربرد است که می‌تواند به‌عنوان Boost، Buck-Boost یا Inverting Converter عمل کند. این تراشه با فرکانس کاری بالا (400kHz) طراحی شده تا ابعاد سلف و خازن‌ها کاهش یافته و راندمان سیستم بهبود یابد. با پشتیبانی از ورودی 5V تا 32V و خروجی تا 60V، XL6009E1 گزینه‌ای مناسب برای سیستم‌های تغذیه صنعتی، تقویت ولتاژ باتری، تغذیه ماژول‌های ارتباطی و کاربردهای خودرویی است. مدار داخلی شامل MOSFET قدرت داخلی، مقایسه‌گر خطا، تقویت‌کننده خطا و حفاظت در برابر اضافه‌جریان است. ولتاژ بازخورد (Feedback Voltage) آن 1.25V بوده و کنترل ولتاژ خروجی از طریق شبکه مقاومت خارجی انجام می‌شود.
+
+مشخصات
+
+نوع رگولاتور: مبدل افزاینده DC-DC (Boost)
+ولتاژ ورودی: 5V تا 32V
+ولتاژ خروجی: تا 60V
+حداکثر جریان خروجی: 4A
+فرکانس سوئیچینگ: 400kHz
+راندمان: تا 94%
+ولتاژ بازخورد (Feedback): 1.25V
+محدوده دمای کاری: -40 تا +125°C
+پکیج: TO-263-5L
+پین‌ها:
+GND (زمین)
+EN (پایه فعال‌سازی)
+SW (خروجی سوئیچ)
+VIN (ورودی تغذیه)
+FB (ورودی بازخورد ولتاژ)
+نوع سوئیچ داخلی: N-Channel Power MOSFET
+قابلیت‌ها: حفاظت در برابر اضافه‌جریان و حرارت
+
+کاربردهای رایج
+
+رگولاتور XL6009E1 به دلیل بازده بالا و توان خروجی مناسب در مدارهایی که نیاز به افزایش ولتاژ دارند، بسیار پرکاربرد است. از آن می‌توان در منابع تغذیه قابل‌تنظیم، تغذیه نمایشگرها، سیستم‌های خودرویی و مبدل‌های باتری استفاده کرد.
+
+ مبدل افزاینده ولتاژ باتری لیتیوم
+ تغذیه ماژول‌های ارتباطی و بی‌سیم
+ مبدل DC-DC برای خودرو و لپ‌تاپ
+ منابع تغذیه صنعتی قابل‌تنظیم
+ مبدل ولتاژ برای پنل‌های خورشیدی
+ سیستم‌های نورپردازی LED با ولتاژ بالا
+ درایور موتور و فن با تغذیه متغیر
+ مبدل معکوس (Inverting Converter) برای ولتاژ منفی
+ کاربرد در تجهیزات قابل‌حمل و IoT
+ طراحی منابع تغذیه سوئیچینگ آموزشی
+
+Introduction
+
+The XL6009E1 regulator is a wide input range, current mode, DC/DC converter which is capable of generating either positive or negative output voltages. It can be configured as either a boost, fly back, SEPIC or inverting converter. The XL6009 built in N-channel power MOSFET and fixed frequency oscillator, current-mode architecture results in stable operation over a wide range of supply and output voltages.
+
+Features
+
+Wide 5V to 32V Input Voltage Range
+Positive or Negative Output Voltage Programming with a Single Feedback Pin
+Current Mode Control Provides Excellent Transient Response
+1.25V reference adjustable version
+Fixed 400KHz Switching Frequency
+Maximum 4A Switching Current
+SW PIN Built in Over Voltage Protection
+Excellent line and load regulation
+EN PIN TTL shutdown capability
+Internal Optimize Power MOSFET
+High efficiency up to 94%
+Built in Frequency Compensation
+Built in Soft-Start Function
+Built in Thermal Shutdown Function
+Built in Current Limit Function
+TO263 package
+
+Specification 
+
+Input Voltage: 5 to 32 V
+Max Output Voltage: 35 V
+Max Output Current :4 A
+Adjustment 25-Turn Trimpot
+Efficiency up to 94%
+Switching Frequency 400 KHz
+Length: 43 mm (1.69")
+Width: 21 mm (0.82")
+Height:14 mm (0.55")
+
+Applications
+
+EPC / Notebook Car Adapter
+Automotive and Industrial Boost / Buck-Boost / Inverting Converters
+Portable Electronic Equipment
+

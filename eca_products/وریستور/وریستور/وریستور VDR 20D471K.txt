@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/وریستور/19540-وریستور-vdr-20d471k.html
+================================================================================
+
+عنوان:
+وریستور VDR 20D471K
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 470 ولت با تلرانس 10 درصد کد 20D471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors 
+Series: 20D 
+Termination Style: Radial 
+Voltage Rating AC: 300 VAC 
+Voltage Rating DC: 385 VDC 
+Varistor Voltage: 470 V 
+Clamping Voltage: 775 V 
+Diameter: 20 mm 
+Peak Surge Current: 6.5 KA 
+Surge Energy Rating: 204 J
+Capacitance: 850 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Subcategory: Varistors 
+Tolerance: 10 %
+

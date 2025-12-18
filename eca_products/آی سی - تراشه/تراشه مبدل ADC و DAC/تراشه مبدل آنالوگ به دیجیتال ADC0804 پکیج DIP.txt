@@ -1,0 +1,40 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/2127-تراشه-مبدل-آنالوگ-به-دیجیتال-adc0804-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADC0804 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+تراشه مبدل آنالوگ به دیجیتال 8 بیتی ADC0804 پکیج DIP
+
+توضیحات کامل:
+Introduction
+
+ADC0804 is a very commonly used 8-bit analog to digital convertor. It is a single channel IC, i.e., it can take only one analog signal as input. The digital outputs vary from 0 to a maximum of 255. The step size can be adjusted by setting the reference voltage at pin9. When this pin is not connected, the default reference voltage is the operating voltage, i.e., Vcc. The step size at 5V is 19.53mV (5V/255), i.e., for every 19.53mV rise in the analog input, the output varies by 1 unit. To set a particular voltage level as the reference value, this pin is connected to half the voltage. For example, to set a reference of 4V (Vref), pin9 is connected to 2V (Vref/2), thereby reducing the step size to 15.62mV (4V/255). 
+ADC0804 needs a clock to operate. The time taken to convert the analog value to digital value is dependent on this clock source. An external clock can be given at the Clock IN pin. ADC 0804 also has an inbuilt clock which can be used in absence of external clock. A suitable RC circuit is connected between the Clock IN and Clock R pins to use the internal clock.
+
+Specification
+
+Category: Integrated Circuits (ICs)Data Acquisition: Analog to Digital Converters (ADC)
+Mfr: Texas Instruments
+Package:Tube
+Product Status: Obsolete
+Number of Bits: 8
+Sampling Rate (Per Second): 10k
+Number of Inputs: 1
+Input Type: Differential
+Data Interface: Parallel
+Configuration: ADC
+Number of A/D Converters: 1
+Architecture: SAR
+Reference Type: External, Supply
+Voltage - Supply, Analog: 4.5V ~ 6.3V
+Voltage - Supply, Digital: 4.5V ~ 6.3V
+Operating Temperature: -40°C ~ 85°C
+Package / Case:20-DIP (0.300", 7.62mm)
+Supplier Device Package: 20-PDIP
+Mounting Type: Through Hole
+

@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/14292-تراشه-فیلتر-mf10ccn-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه فیلتر دوبل خازنی MF10CCN پکیج DIP
+
+قیمت:
+981,000
+
+توضیحات کوتاه:
+تراشه فیلتر خازنی cmos فعال 200KHz
+Universal Monolithic Dual Switched Capacitor Universal Monolithic Dual Switched Capacitor Filter
+
+توضیحات کامل:
+Specification
+
+Case/Package: PDIP
+Mount: Through Hole
+Number of Pins: 20
+Dual Supply Voltage: 5 V
+Frequency: 30 kHz
+Max Dual Supply Voltage: 7 V
+Max Frequency: 1.5 MHz
+Max Operating Temperature: 70 °C
+Max Supply Voltage: 14 V
+Min Dual Supply Voltage: 4.5 V
+Min Operating Temperature: 0 °C
+Min Supply Voltage: 9 V
+Nominal Supply Current: 8 mA
+Number of Channels: 4
+Number of Circuits: 2
+Operating Supply Voltage:12 V
+Slew Rate: 7 V/µs
+

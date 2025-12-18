@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/1746-ترانزیستور-mje13001-نوع-npn-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور MJE13001 نوع NPN پکیج TO-92
+
+قیمت:
+9,500
+
+توضیحات کوتاه:
+ترانزیستور MJE13001 نوع NPN پکیج TO-92 ولتاژ 400V جریان 200mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Type Designator: MJE13001
+Material of Transistor: Si
+Polarity: NPN
+Maximum Collector Power Dissipation (Pc): 0.75 W
+Maximum Collector-Base Voltage |Vcb|: 600 V
+Maximum Collector-Emitter Voltage |Vce|: 400 V
+Maximum Emitter-Base Voltage |Veb|: 7 V
+Maximum Collector Current |Ic max|: 0.2 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 8 MHz
+Forward Current Transfer Ratio (hFE), MIN: 10
+Noise Figure, dB: -
+Package: TO-92
+

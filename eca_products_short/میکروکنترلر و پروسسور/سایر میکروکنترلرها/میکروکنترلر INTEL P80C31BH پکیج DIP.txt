@@ -1,0 +1,37 @@
+URL: https://eshop.eca.ir/سایر-میکروکنترلرها/14269-میکروکنترلر-intel-p80c31bh-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر INTEL P80C31BH پکیج DIP
+
+قیمت:
+1,310,000
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 40 پایه CHMOS 12MHZ پکیج DIP ساخت شرکت INTEL
+
+توضیحات کامل:
+Introduction
+
+Extended Automotive Temperature Range 125 C Ambient) High-Performance CHMOS Process Power Control Modes 4 Kbyte On-Chip ROM EPROM x 8-bit RAM 32 Programmable I O Lines Two 16-Bit Timer Counters 5 Interrupt Sources Quick-Pulse EPROM Programming 2-Level Program Memory Lock EPROM Boolean Processor.
+Programmable Serial Port TTL- and CMOS-Compatible Logic Levels 64K External Program Memory Space 64K External Data Memory Space IDLE and POWER DOWN Modes ONCE Mode Facilitates System Testing Available in 12 MHz and 16 MHz Versions Available in PLCC and DIP Packages.
+
+Specification
+
+High-performance CHMOS EPROM
+24 MHz operation
+The improved quick-pulse programming algorithm
+3-Level program memory lock
+Boolean processor
+128-Byte data RAM
+32 Programmable I/O lines
+Two 16-bit timer/counters
+Extended temperature range (-40°C to +85°C)
+5 Interrupt sources
+Programmable serial port
+TTL-and CMOS-compatible logic levels
+64K External program memory space
+64K External data memory space
+ONCE mode facilitates system testing
+Power control modes: Idle and Power-down
+

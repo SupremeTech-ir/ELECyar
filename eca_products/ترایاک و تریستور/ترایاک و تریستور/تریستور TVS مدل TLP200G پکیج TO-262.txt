@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترایاک-و-تریستور/14251-تریستور-tvs-مدل-tlp200g-پکیج-to-262.html
+================================================================================
+
+عنوان:
+تریستور TVS مدل TLP200G پکیج TO-262
+
+قیمت:
+110,000
+
+توضیحات کوتاه:
+تریستور TVS مدل TLP200G پکیج TO-262
+
+توضیحات کامل:
+Specification
+
+Categories: Circuit Protection / TVS - Thyristors     
+Manufacturer: STMicroelectronics     
+Series: TLP     
+Packaging: Tube      
+Part Status:  Obsolete     
+Voltage - Breakover: 290V     
+Voltage - Off State: -     
+Current - Peak Pulse (10/1000µs): 100A     
+Current - Hold (Ih): 150mA     
+Number of Elements: 1     
+Capacitance: 110pF     
+Mounting Type: Through Hole     
+Package / Case: TO-262-3 Long Leads, I²Pak, TO-262AA
+

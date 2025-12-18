@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/2875-تراشه-آمپلی-فایر-tda7375.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7375
+
+قیمت:
+0
+
+توضیحات کوتاه:
+Audio Amplifiers 2X35W PWR AMPLIFIER
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Audio Amplifiers 
+RoHS: Details 
+Series: TDA7375V 
+Product: Audio Amplifiers 
+Class: Class-AB 
+Output Power: 40 W 
+Mounting Style: Through Hole 
+Type: 2-Channel Stereo or 4-Channel Stereo 
+Package / Case: Multiwatt-15 
+Audio - Load Impedance: 4 Ohms 
+THD plus Noise: 0.03 % 
+Supply Voltage - Max: 18 V 
+Supply Voltage - Min: 8 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 150 C 
+Qualification: AEC-Q100 
+Packaging: Tube 
+Description/Function: Speaker 
+Height: 10.7 mm 
+Input Type: Single 
+Length: 19.6 mm 
+Output Current: 3500 mA 
+Supply Type: Single 
+Width: 5 mm 
+Brand: STMicroelectronics 
+Gain: 26 dB 
+Number of Channels: 4 Channel 
+Operating Supply Voltage: 18 V 
+Output Signal Type: Differential, Single 
+Pd - Power Dissipation: 36 W 
+Product Type: Audio Amplifiers 
+PSRR - Power Supply Rejection Ratio: 50 dB
+

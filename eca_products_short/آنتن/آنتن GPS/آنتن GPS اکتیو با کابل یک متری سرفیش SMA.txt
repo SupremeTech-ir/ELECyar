@@ -1,0 +1,72 @@
+URL: https://eshop.eca.ir/آنتن-gps/25254-آنتن-gps-اکتیو-با-کابل-یک-متری-سرفیش-sma.html
+================================================================================
+
+عنوان:
+آنتن GPS اکتیو با کابل یک متری سرفیش SMA
+
+قیمت:
+2,170,000
+
+توضیحات کوتاه:
+آنتن اکتیو GNSS با پشتیبانی از GPS، BD و GLONASS برای موقعیت‌یابی دقیق در شرایط سخت محیطی
+
+توضیحات کامل:
+این آنتن اکتیو GNSS برای دریافت سیگنال‌های موقعیت‌یابی از سه سیستم ماهواره‌ای جهانی شامل GPS (آمریکا)، BeiDou (چین) و GLONASS (روسیه) طراحی شده است. پشتیبانی از باند L1 این سه سیستم، دقت و پوشش موقعیتی بالایی را برای انواع کاربردهای الکترونیکی فراهم می‌کند. به لطف بهره‌گیری از تقویت‌کننده سیگنال داخلی (LNA) با بهره بالا تا ۳۵ dB، این آنتن قادر است سیگنال‌های ضعیف را در محیط‌های دشوار مانند مناطق شهری متراکم یا فضای باز با پوشش گیاهی سنگین دریافت کند. طراحی فشرده، مقاومت در برابر شرایط محیطی و وجود کانکتور SMA، این آنتن را برای استفاده در انواع سیستم‌های موقعیت‌یاب، دستگاه‌های IoT و ماژول‌های مخابراتی ایده‌آل می‌سازد. پهنای باند بالا، VSWR پایین و امپدانس ۵۰ اهم از دیگر ویژگی‌هایی هستند که عملکرد پایدار و دقیق آنتن را تضمین می‌کنند.
+
+مشخصات
+
+فرکانس کاری: GPS: 1575 MHz
+فرکانس کاری: BeiDou: 1561 MHz
+فرکانس کاری: GLONASS: 1602 MHz
+ولتاژ کاری: 3.0 تا 5.0 VDC
+VSWR: حداکثر 2.0
+بهره تقویت‌کننده LNA: 28 تا 35 dB
+بهره آنتن: 5 dBi
+امپدانس: 50Ω
+نویز فاکتور (در دمای 25±10 درجه): 1.5 dB
+قطبش: RHCP
+پهنای باند: بیشتر از 20 MHz
+نوع کابل: RG174
+طول کابل: 1 متر
+ابعاد: 36×38×15 mm
+رنگ: مشکی
+نوع کانکتور: SMA نری
+
+کاربردهای رایج
+
+این آنتن در پروژه‌های مبتنی بر موقعیت‌یابی دقیق و پایدار، به‌ویژه در شرایط سخت محیطی که نیاز به دریافت سیگنال‌های ضعیف GNSS وجود دارد، مورد استفاده قرار می‌گیرد. بهره‌گیری همزمان از سه سیستم ماهواره‌ای باعث افزایش دقت، کاهش زمان اولیه دریافت سیگنال (TTFF) و پایداری در موقعیت‌یابی می‌شود.
+
+ دستگاه‌های ردیابی خودرو
+ سیستم‌های پایش ناوگان
+ تجهیزات نقشه‌برداری دقیق
+ پهپادهای حرفه‌ای
+ تجهیزات IoT با قابلیت مکان‌یابی
+ ماژول‌های GPS توسعه‌پذیر
+ دستگاه‌های قابل حمل مکان‌یاب
+ تجهیزات زمان‌سنجی صنعتی
+ پروژه‌های Arduino و Raspberry Pi
+ایستگاه‌های زمینی GNSS
+
+Specifications
+
+Condition：Post Environmental Tolerance (Refer to the form 1)
+Temperature Range 25±3℃
+Relative Humidity Range 55~75%RH
+Operating Temperature Range -40℃~+85℃
+Storage Temperature Range -40℃~+100℃
+a.Moisture Proof
+The device should satisfy the electrical characteristics specified in form 1 after exposed to the temperature 40±2℃ and the relative humidity 90~95% RH for 96 hours and 1~2 hours recovery time under normal condition.
+b.Vibration Resist
+The device should satisfy the electrical characteristics specified in form 1 after applied to the vibration of 10 to 55Hz with amplitude of 1.5mm for 2 hours each in X, Y and Z directions.
+c.Drop Shock
+The device should satisfy the electrical characteristics specified in form 1 after dropping onto the hard wooden board from the height of 30cm for 3 times each facet of the 3 dimensions of the device.
+High Temperature Endurance
+The device should satisfy the electrical characteristics specified in form 1 after exposed to temperature 80±5℃ for 24±2 hours and 1~2 hours recovery time under normal temperature.
+d.Low Temperature Endurance
+The device should also satisfy the electrical characteristics specified in form 1 after exposed to the temperature -40℃±5℃ for 24±2 hours and to 2 hours recovery time under normal temperature.
+Temperature Cycle Test
+The device should also satisfy the electrical characteristics specified in form 1 after exposed to the low temperature -25℃ and high temperature +85℃ for 30±2 min each by 5 cycles and 1 to 2 hours recovery time under normal temperature.
+
+Weatherproof
+Put the antennas in 1m deep water for 12h, and find 100% waterproof.
+

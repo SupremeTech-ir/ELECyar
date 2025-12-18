@@ -1,0 +1,94 @@
+URL: https://eshop.eca.ir/تراشه-سوئیچینگ/26439-تراشه-سوئیچینگ-srt-g6352-پکیج-to-220f-5.html
+================================================================================
+
+عنوان:
+تراشه سوئیچینگ SRT-G6352 پکیج TO-220F-5
+
+قیمت:
+707,000
+
+توضیحات کوتاه:
+تراشه سوئیچینگ SRT-G6352 فلای‌بک با عملکرد شبه-رزونانسی و ماسفت داخلی 650 ولتی، مناسب منابع تغذیه با بازده بالا و توان متوسط پکیج TO-220F-5
+
+توضیحات کامل:
+تراشه STR‑G6352 یک آی‌سی سوئیچینگ از نوع کنترلر مجتمع PWM به‌همراه ماسفت قدرت داخلی است. این قطعه برای منابع تغذیه فلای‌بک AC/DC با توان متوسط تا بالا و نیازمند بازده بالا و قابلیت‌های حفاظتی کامل طراحی شده است. تکنولوژی شبه-رزونانسی (Quasi-Resonant) مورد استفاده در این تراشه باعث کاهش EMI و افزایش بهره‌وری می‌شود.تراشه STR‑G6352 دارای قابلیت‌های داخلی مانند حفاظت اضافه‌ولتاژ (OVP)، حفاظت دمایی (OTP)، محدودکننده جریان (OCP)، کاهش توان در حالت آماده‌به‌کار و کنترل نسبت پالس در حالت بی‌باری است. پکیج TO‑220F‑5 که کاملاً ایزوله و مناسب نصب روی هیت‌سینک است، امکان استفاده از این قطعه در طراحی منابع تغذیه صنعتی را فراهم می‌کند.
+
+مشخصات
+
+جریان پیک درین: 6.8A
+جریان سوییچینگ ماکزیمم: 2.7A (در ولتاژ V₂₋₃ = 0.82V و دمای -20 تا +125°C)
+انرژی آوالانچ تک‌پالس: 92mJ (در VDD = 99V، اندوکتانس 20mH)
+ولتاژ ورودی بخش کنترل: 35V (حداکثر)
+ولتاژ آستانه پایه FB/OCP: حداکثر 6V
+توان تلفاتی ماسفت داخلی با هیت‌سینک نامحدود: 24W
+توان تلفاتی ماسفت بدون هیت‌سینک: 1.5W
+توان تلفاتی مدار کنترل (MIC): 0.14W
+دمای عملکرد قاب داخلی: از -20°C تا +125°C
+دمای عملکرد محیطی: از -20°C تا +125°C
+دمای ذخیره‌سازی: از -40°C تا +125°C
+حداکثر دمای کانال: +150°C
+ویژگی‌های بخش کنترل
+ولتاژ شروع به کار: 15.8V (مینیمم)، 17.6V (تیپیکال)، 19.4V (ماکزیمم)
+ولتاژ توقف عملکرد: 9.1V تا 11.1V
+جریان مصرفی در حالت عملکرد: حداکثر 5mA
+جریان مصرفی در حالت غیرفعال: حداکثر 50µA
+حداکثر زمان OFF: تا 18µs
+ولتاژ آستانه 1 پایه FB: از 0.70V تا 0.82V
+ولتاژ آستانه 2 پایه FB: از 1.3V تا 1.7V
+جریان کشیده‌شده از پایه FB: حدود 0.8mA
+ولتاژ فعال‌شدن حفاظت اضافه‌ولتاژ: 23.2V تا 27.8V
+جریان لاتچ روشن: حداکثر 70µA
+ولتاژ آزادسازی حالت لاتچ: 7.9V تا 10.5V
+دمای فعال‌شدن حفاظت حرارتی: حدود 135°C
+مشخصات ماسفت داخلی
+ولتاژ شکست درین به سورس: حداقل 650V
+جریان نشتی درین: حداکثر 300µA
+مقاومت در حالت روشن (R<sub>DS(on)</sub>): حداکثر 3.95Ω
+زمان کلیدزنی (سوئیچینگ): حداکثر 250ns
+مقاومت حرارتی (channel to frame): حدود 2.4°C/W
+
+کاربردهای رایج
+
+منابع تغذیه سوئیچینگ فلای‌بک صنعتی
+آداپتورهای AC/DC با توان متوسط تا 80 وات
+درایورهای LED ایزوله‌شده
+منابع تغذیه تجهیزات خانگی و الکترونیکی
+منابع تغذیه تلویزیون، ست‌تاپ‌باکس و گیرنده دیجیتال
+منابع تغذیه ابزارهای اندازه‌گیری و تجهیزات پزشکی
+ماژول‌های تغذیه سیستم‌های حفاظتی و دوربین مداربسته
+
+Specifications
+
+Absolute Maximum Ratings (Ta = 25°C)
+Drain peak current: 6.8 A (single pulse)
+Maximum switching current: 2.7 A (V23 = 0.82 V, Ta = −20°C to +125°C)
+Avalanche energy (single pulse): 92 mJ (VDD = 99 V, L = 20 mH, IL peak = 2.8 A)
+Input voltage for control part: 35 V max
+OCP/FB/Tri terminal voltage: 6 V max
+Power dissipation of MOSFET (with infinite heatsink): 24 W
+Power dissipation of MOSFET (without heatsink): 1.5 W
+Power dissipation of control block (MIC): 0.14 W
+Operating internal frame temperature: −20°C to +125°C
+Operating ambient temperature: −20°C to +125°C
+Storage temperature: −40°C to +125°C
+Maximum channel temperature: +150°C
+Electrical Characteristics – Control Block (VIN = 20 V, Ta = 25°C)
+Startup voltage (VIN ON): 15.8 V min, 17.6 V typ, 19.4 V max
+Shutdown voltage (VIN OFF): 9.1 V min, 10.1 V typ, 11.1 V max
+Operating current (IIN ON): max 5 mA
+Standby current (IIN OFF): max 50 µA
+Maximum OFF time (TOFF MAX): 12 µs min, 15 µs typ, 18 µs max
+Threshold voltage 1 (Vth1): 0.70 V min, 0.76 V typ, 0.82 V max
+Threshold voltage 2 (Vth2): 1.3 V min, 1.5 V typ, 1.7 V max
+Terminal extraction current (I OCP/FB/Tri): 0.7 mA min, 0.8 mA typ, 0.9 mA max
+OVP operation voltage: 23.2 V min, 25.5 V typ, 27.8 V max
+Latch ON current (IIN H): max 70 µA
+Latch OFF voltage (VIN La.OFF): 7.9 V min, 10.5 V max
+Thermal shutdown temperature: 135°C typ
+MOSFET Characteristics (Ta = 25°C)
+Drain-to-source breakdown voltage (VDSS): 650 V min
+Drain leakage current (IDSS): max 300 µA
+On-resistance (RDS ON): max 3.95 Ω
+Switching time (tf): max 250 ns
+Thermal resistance (junction to frame): 2.4 °C/W
+

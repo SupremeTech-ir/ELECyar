@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/6549-ماسفت-2n7002-نوع-n-channel-پکیج-sot-23.html
+================================================================================
+
+عنوان:
+ماسفت 2N7002 نوع N-Channel پکیج SOT-23
+
+قیمت:
+11,000
+
+توضیحات کوتاه:
+ماسفت 60 ولت 300 میلی آمپر 2N7002 نوع N-Channel پکیج SOT-23
+
+مشخصات فنی:
+پکیج: SOT-23
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+P/N : 2N7002 
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 300 mW
+Drain-Source Voltage |Vds|: 60 V
+Gate-Source Voltage |Vgs|: ± 20 V
+Gate-Threshold Voltage |Vgs(V)|: 3 V
+Drain Current |Id|: 280 mA
+Package: SOT-23
+

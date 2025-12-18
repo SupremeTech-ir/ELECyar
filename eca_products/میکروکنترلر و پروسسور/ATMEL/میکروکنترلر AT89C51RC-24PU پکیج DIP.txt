@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/atmel/14281-میکروکنترلر-at89c51rc-24pu-پکیج-dip.html
+================================================================================
+
+عنوان:
+میکروکنترلر AT89C51RC-24PU پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+میکروکنترلر 8 بیتی 40 پایه CMOS پکیج DIP با حافظه فلش 32KB
+
+توضیحات کامل:
+Introduction
+
+Low-power, high-performance CMOS 8-bit microcontroller with 32KB of flash programmable ROM and 512 bytes of RAM. It uses Microchip high-density nonvolatile memory technology and is compatible with the industry-standard 80C51 and 80C52 instruction set and pinout. On-chip flash allows the program memory to be user programmed by a conventional nonvolatile memory programmer. This versatile 8-bit CPU with flash provides a highly-flexible and cost-effective solution for many embedded control applications.
+
+Specification
+
+Program Memory Type: Flash
+Program Memory Size (KB): 32
+CPU Speed (MIPS/DMIPS): 4
+Digital Communication Peripherals: 1-UART
+Operating Voltage Range (V): 4 to 6
+Pin Count: 44
+

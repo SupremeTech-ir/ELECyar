@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/تراشه-مبدل-adc-و-dac/15196-تراشه-مبدل-آنالوگ-به-دیجیتال-ads1230-پکیج-tssop-16.html
+================================================================================
+
+عنوان:
+تراشه مبدل آنالوگ به دیجیتال ADS1230 پکیج TSSOP-16
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل آنالوگ به دیجیتال دقیق 20 بیتی ADS1230  پکیج TSSOP-16
+
+توضیحات کامل:
+Introduction
+
+The ADS1230 is a precision 20-bit analog-to-digital converter (ADC). With an onboard low-noise programmable gain amplifier (PGA), onboard oscillator, and precision 20-bit delta-sigma ADC, the ADS1230 provides a complete front-end solution for bridge sensor applications including weigh scales, strain gauges, and pressure sensors.
+
+The low-noise PGA has a gain of 64 or 128, supporting a full-scale differential input of ±39mV or ±19.5mV, respectively. The delta-sigma ADC has 20-bit effective resolution and is comprised of a 3rd-order modulator and 4th-order digital filter. Two data rates are supported: 10SPS (with both 50Hz and 60Hz rejection) and 80SPS. The ADS1230 can be clocked by the internal oscillator or an external clock source. Offset calibration is performed on-demand, and the ADS1230 can be put in a low-power standby mode or shut off completely in power-down mode.
+
+All of the features of the ADS1230 are controlled by dedicated pins; there are no digital registers to program. Data are output over an easily-isolated serial interface that connects directly to the MSP430 and other microcontrollers.
+The ADS1230 is available in a TSSOP-16 package and is specified from -40°C to +85°C.
+
+Specification
+
+Resolution (Bits): 20
+Number of input channels: 1
+Sample rate (Max) (kSPS): 0.08
+Interface type: SPI
+Architecture: Delta-Sigma
+Input type: Differential, Single-Ended
+Multi-channel configuration: —
+Reference mode: Ext
+Input range (Max): 0.039(V)
+Input range (Min): 0(V)
+Features: 50/60 Hz Rejection, Oscillator, PGA
+Operating temperature range: -40(C) to 85(C)
+Power consumption (Typ): 2.9(mW)
+Analog voltage AVDD (Min): 2.7(V)
+Analog voltage AVDD (Max): 5.3(V)
+Digital supply (Min): 2.7(V)
+Digital supply (Max): 5.3(V)
+
+Applications
+
+Weigh Scales
+Strain Gauges
+Pressure Sensors
+Industrial Process Control
+

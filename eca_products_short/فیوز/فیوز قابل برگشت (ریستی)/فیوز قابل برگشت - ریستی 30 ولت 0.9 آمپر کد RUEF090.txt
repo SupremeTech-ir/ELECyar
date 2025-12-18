@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/فیوز-قابل-برگشت-ریستی/10615-فیوز-قابل-برگشت-ریستی-30-ولت-09-آمپر-کد-ruef090.html
+================================================================================
+
+عنوان:
+فیوز قابل برگشت - ریستی 30 ولت 0.9 آمپر کد RUEF090
+
+قیمت:
+31,000
+
+توضیحات کوتاه:
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC با ضریب دمایی مثبت (PPTC)
+
+توضیحات کامل:
+معرفی
+
+فیوز برگشت پذیر (ریستی) با نام Resettable Fuses - PPTC ، یک عنصر الکترونیک پسیو با ضریب دمایی مثبت (PPTC) است که برای محافظت در برابر اضافه جریان در مدارهای الکترونیکی استفاده می شود.
+این فیوز ها در حالتی که بیش از جریان مورد نظر از آن جریان عبور کند ، به شدت داغ شده و در صورت ادامه داشتن اضافه جریان ، فیوز قطع می شود . با برگشت دمای فیوز به حالت عادی ، فیوز مجددا وصل خواهد شد .
+
+Feature
+
+Product Category: Resettable Fuses - PPTC
+Series: RUEF
+P/N :X30 - UF090 
+Termination Style: Radial
+Hold Current: 900 mA
+Maximum Voltage: 30 V
+Trip Current: 1.8 A
+Current Rating - Max: 100 A
+Resistance: 220 mOhms
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 85 C
+Lead Spacing: 5.8 mm
+Packaging: Bulk
+Height: 3 mm
+Length: 12.2 mm
+Type: PolySwitch Resettable Fuses 
+Width: 7.4 mm 
+Mounting Style: PCB Mount 
+Pd - Power Dissipation: 600 mW 
+Resettable Fuses - PPTC
+

@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/igbt/22051-ترانزیستور-fgh30n60-igbt-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور FGH30N60 IGBT پکیج TO-247
+
+قیمت:
+1,270,000
+
+توضیحات کوتاه:
+ترانزیستور IGBT با 600 ولت 30 آمپر مدل FGH30N60 پکیج TO-247
+
+توضیحات کامل:
+Specification
+
+Product Category: IGBT Transistors 
+Technology: Si 
+Package/Case: TO-247 
+Mounting Style: Through Hole 
+Configuration: Single 
+Collector- Emitter Voltage VCEO Max: 600 V 
+Collector-Emitter Saturation Voltage: 1.4 V 
+Maximum Gate Emitter Voltage: - 20 V, 20 V 
+Continuous Collector Current at 25 C: 60 A 
+Pd - Power Dissipation: 480 W 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 175 C
+

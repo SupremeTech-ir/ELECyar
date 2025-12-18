@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/23084-وریستور-vdr-20d151k-کد-z151-20ul.html
+================================================================================
+
+عنوان:
+وریستور VDR 20D151K کد Z151-20UL
+
+قیمت:
+129,000
+
+توضیحات کوتاه:
+وریستور 150 ولت با تلرانس 10 درصد کد Z151-20UL
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors
+Diameter : 20mm     
+Termination Style: Radial 
+Voltage Rating AC: 150 VAC 
+Voltage Rating DC: 200 VDC 
+Varistor Voltage: 259 V 
+Clamping Voltage: 395 V
+Peak Surge Current: 12 kA 
+Surge Energy Rating: 170 J 
+Capacitance: 1701 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Subcategory: Varistors
+

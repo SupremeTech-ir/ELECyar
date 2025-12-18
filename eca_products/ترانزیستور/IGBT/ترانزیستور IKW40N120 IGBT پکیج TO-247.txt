@@ -1,0 +1,33 @@
+URL: https://eshop.eca.ir/igbt/21209-ترانزیستور-ikw40n120-igbt-پکیج-to-247.html
+================================================================================
+
+عنوان:
+ترانزیستور IKW40N120 IGBT پکیج TO-247
+
+قیمت:
+1,250,000
+
+توضیحات کوتاه:
+ترانزیستور 1200 ولت 80 آمپر IGBT
+
+توضیحات کامل:
+Specification
+
+ Type Designator: IKW40N120 
+
+Type: IGBT
+
+Marking Code: K40T120 / 40T120FES
+
+Type of IGBT Channel: N-Channel
+
+Maximum Power Dissipation (Pc), W: 483
+
+Maximum Collector-Emitter Voltage |Vce|, V: 1200
+
+Maximum Collector Current |Ic| @25℃, A: 80
+
+Collector-Emitter saturation Voltage |VCE(sat)|, typ, V: 2.05
+
+Package: TO-247
+

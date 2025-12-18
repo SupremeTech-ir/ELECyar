@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/دیود-سریع-fast/23032-دیود-سریع-uf4005.html
+================================================================================
+
+عنوان:
+دیود سریع UF4005
+
+قیمت:
+9,900
+
+توضیحات کوتاه:
+دیود سریع UF4005 پکیج DO-41
+
+توضیحات کامل:
+Specification
+
+Product Category: Rectifiers 
+Mounting Style: Through Hole 
+Package/Case: DO-41 
+Vr - Reverse Voltage: 600 V 
+If - Forward Current: 1 A 
+Type: Fast Recovery Rectifiers 
+Configuration: Single 
+Vf - Forward Voltage: 1.7 V 
+Max Surge Current: 30 A 
+Ir - Reverse Current: 5 uA 
+Recovery Time: 75 ns 
+Minimum Operating Temperature: - 50 C 
+Maximum Operating Temperature: + 175 C 
+Series: UF4/5/6/T
+Product: Rectifiers 
+Product Type: Rectifiers
+Subcategory: Diodes & Rectifiers 
+Tradename: UF4005
+

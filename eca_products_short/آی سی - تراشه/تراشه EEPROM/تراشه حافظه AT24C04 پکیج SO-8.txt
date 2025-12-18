@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-eeprom/2200-تراشه-حافظه-at24c04-پکیج-so-8.html
+================================================================================
+
+عنوان:
+تراشه حافظه AT24C04 پکیج SO-8
+
+قیمت:
+53,700
+
+توضیحات کوتاه:
+تراشه حافظه  EEPROM پارت نامبر AT24C04 پکیج SMD SO-8
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: EEPROM 
+Interface Type: 2-Wire, I2C 
+Memory Size:4 kbit 
+Organization: 512 x 8 
+Supply Voltage - Min: 1.8 V 
+Supply Voltage - Max: 2.7 V 
+Brand: Microchip Technology / Atmel 
+Operating Supply Voltage: 1.8 V, 2.7 V 
+Product Type: EEPROM 
+Subcategory: Memory & Data Storage
+

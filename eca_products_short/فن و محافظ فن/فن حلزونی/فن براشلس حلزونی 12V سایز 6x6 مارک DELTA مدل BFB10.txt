@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/فن-حلزونی/10524-فن-براشلس-حلزونی-12v-سایز-6x6-مارک-delta-مدل-bfb1012eh.html
+================================================================================
+
+عنوان:
+فن براشلس حلزونی 12V سایز 6x6 مارک DELTA مدل BFB1012EH
+
+قیمت:
+0
+
+توضیحات کوتاه:
+فن براشلس حلزونی 12 ولت 2.94 آمپر دو سیمه دلتا مدل BFB1012EH
+
+توضیحات کامل:
+Specification
+
+Manufacturer: DELTA ELECTRONICS
+Subcategory: Fans, Blowers & Accessories
+Product Category: DC Fans
+Type: Axial
+Height: 40 mm
+Width: 40 mm
+Depth: 28 mm
+Rated Voltage: 12VDC
+Operation Voltage: 7 - 12.6VDC
+Input Current: 2.94A
+Power Rating: 29.4W
+Speed: 5300 RPM
+Airflow: 46 CFM (1.302 m^3/min)
+Air Pressure: 71.48 mmH2O
+Noise: 64 dBA
+

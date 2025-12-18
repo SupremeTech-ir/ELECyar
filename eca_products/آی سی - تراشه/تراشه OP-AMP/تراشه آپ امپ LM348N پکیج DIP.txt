@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/5532-تراشه-آپ-امپ-lm348n-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM348N پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM348N پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole 
+Package / Case: PDIP-14 
+Output Current per Channel: 25 mA 
+Number of Channels: 4 Channel 
+GBP - Gain Bandwidth Product: 1.3 MHz 
+SR - Slew Rate: 0.5 V/us 
+CMRR - Common Mode Rejection Ratio: 70 dB 
+Ib - Input Bias Current: 100 nA 
+Vos - Input Offset Voltage: 5 mV 
+Operating Supply Current: 3.6 mA 
+Maximum Operating Temperature: + 70 C 
+Minimum Operating Temperature: 0 C 
+Shutdown: No Shutdown 
+Series: LM348 
+Packaging: Tube 
+Amplifier Type: Low Power Amplifier 
+en - Input Voltage Noise Density: 40 nV/sqrt Hz 
+Height: 5.1 mm (Max) 
+Length: 20 mm (Max) 
+Maximum Dual Supply Voltage: +/- 22 V 
+Minimum Dual Supply Voltage: +/- 18 V 
+Operating Supply Voltage: +/- 4 V to +/- 18 V 
+Pd - Power Dissipation: 500 mW 
+Product: Operational Amplifiers 
+PSRR - Power Supply Rejection Ratio: 77 dB
+

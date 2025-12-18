@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/18717-ترانزیستور-bd238-نوع-pnp-پکیج-to-126.html
+================================================================================
+
+عنوان:
+ترانزیستور BD238 نوع PNP پکیج TO-126
+
+قیمت:
+28,300
+
+توضیحات کوتاه:
+ترانزیستور BD238 نوع PNP پکیج TO-126 ولتاژ 80V جریان 2A
+
+مشخصات فنی:
+پکیج: TO-126 (SOT32)
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Product Category : Bipolar Transistors - BJT 
+Mounting Style : Through Hole 
+Transistor Polarity : PNP 
+Collector- Emitter Voltage VCEO Max : 80 V 
+Collector- Base Voltage VCBO : 100 V 
+Emitter- Base Voltage VEBO : 5 V 
+Collector-Emitter Saturation Voltage : 600 mV 
+Maximum DC Collector Current : 2 A 
+Pd - Power Dissipation : 25 W 
+Gain Bandwidth Product fT : 3 MHz 
+Minimum Operating Temperature : - 55 C 
+Maximum Operating Temperature : + 150 C 
+Continuous Collector Current : 2 A 
+DC Collector/Base Gain hfe Min : 40
+

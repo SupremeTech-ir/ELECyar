@@ -1,0 +1,62 @@
+URL: https://eshop.eca.ir/stm/3203-میکروکنترلر-stm8s003f3p6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM8S003F3P6
+
+قیمت:
+237,000
+
+توضیحات کوتاه:
+میکروکنترلر STM8S003F3P6 با هسته STM8 با حافظه 8KB و فرکانس کاری 16MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM8S003F3P6 دارای هسته پردازنده 8 بیتی STM8 توسط شرکت STMicroelectronics ساخته شده است است و با فرکانس 16 مگاهرتز کار می کند. این میکروکنترلر 8 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM8S003F3P6 دارای 16 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM8S003F3P6 دارای ولتاژ کاری 2.95 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+دارای هسته 8 بیتی STM8 
+ولتاژ کاری : 2.95 ولت تا 5.5 ولت
+سرعت: 16 Mhz
+حافظه: 8 kB
+پکیج : TSSOP-20
+تعداد پین ها ورودی/خروجی : 16
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Introduction
+
+The STM8S003F3P6 microcontroller has an 8-bit STM8 processor core made by STMicroelectronics and operates at a frequency of 16 MHz. This microcontroller provides 8 KB of FLASH memory on the chip. The STM8S003F3P6 microcontroller has 16 input / output pins and communication protocols: I2C, SPI UART / USART.
+
+The STM8S003F3P6 microcontroller has an operating voltage of 2.4 to 3.6 volts and operates in the temperature range of -40 to +85 degrees Celsius.
+
+Specification
+
+Manufacturer:     STMicroelectronics     
+Product Category: 8-bit Microcontrollers - MCU         
+Core: STM8
+Data Bus Width: 8 bit     
+Maximum Clock Frequency: 16 MHz     
+Program Memory Size: 8 kB     
+Data RAM Size: 1 kB     
+A/D Channels Available: 5     
+A/D Bit Size: 10 bit
+Operating Supply Voltage: 2.95 V to 5.5 V     
+Operating Temperature: + 85 C  - 40 C   
+Package / Case: TSSOP-20     
+Mounting Style: SMD/SMT     
+Brand:     STMicroelectronics     
+Data RAM Type: RAM     
+Data ROM Size: 128 B     
+Data ROM Type: EEPROM     
+Interface Type:  I2C, SPI, UART        
+Number of Timers:     3 Timer     
+On-Chip DAC: Without DAC     
+Packaging: Tube   
+Processor Series: STM8S     
+Program Memory Type: Flash
+

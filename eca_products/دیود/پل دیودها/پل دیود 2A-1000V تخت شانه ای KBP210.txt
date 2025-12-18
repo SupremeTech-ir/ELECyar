@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/پل-دیودها/6696-پل-دیود-2a-1000v-تخت-شانه-ای-kbp210.html
+================================================================================
+
+عنوان:
+پل دیود 2A-1000V تخت شانه ای KBP210
+
+قیمت:
+63,900
+
+توضیحات کوتاه:
+پل دیود 2 آمپر - 1000ولت
+
+توضیحات کامل:
+Specification
+Bridge Rectifiers 2.0 Amp 1000 Volt 60 Amp IFSMPeak Reverse Repetitive Voltage (V) 1000
+Peak Average Forward Current (A) 2@Ta=50C
+Peak RMS Reverse Voltage (V) 700
+Peak Non-Repetitive Forward Surge Current (A) 60
+Peak Forward Voltage (V) 1.2@3.14A
+Peak Reverse Current (uA) 10
+Minimum Operating Temperature (°C) -55
+Maximum Operating Temperature (°C) 150
+

@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-واسط/19567-تراشه-مبدل-usb-به-سریال-ch340n-پکیج-sop-8.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CH340N پکیج SOP-8
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال CH340N پکیج SOP-8 SMD
+
+توضیحات کامل:
+Specification 
+Data Rate 2 Mb/s 
+Function USB Interface IC 
+Speed Compatible Full Speed 
+Standard USB V2.0 
+Interface Type Series USB to UART 
+Type Series USB to UART Interface Integrated Circuit 
+Mounting Style SMD/SMT 
+Supply Voltage (Min) 4 V 
+Supply Voltage (Max) 5.3 V 
+Minimum Operating Temperature -40 C° 
+Maximum Operating Temperature +85 C° 
+Brand Jiangsu Qinheng Co 
+Package SOP-8
+

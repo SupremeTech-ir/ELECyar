@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-شبکه/732-تراشه-کنترلر-شبکه-enc28j60-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه کنترلر شبکه ENC28J60 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی کنترلر شبکه ENC28J60 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Microchip 
+Product Category: Ethernet ICs 
+RoHS: Details 
+Product: Ethernet Controllers 
+Number of Transceivers: 1 Transceiver 
+Data Rate: 10 Mb/s 
+Interface Type: MII, MIIM 
+Operating Supply Voltage: 3.3 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: Through Hole 
+Package / Case: SPDIP-28 
+Packaging: Tube 
+Height: 3.3 mm 
+Length: 34.67 mm 
+Width: 7.24 mm 
+Brand: Microchip Technology 
+Duplex: Full Duplex, Half Duplex 
+Product Type: Ethernet ICs 
+Standard: 10BASE-T
+

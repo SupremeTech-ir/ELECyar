@@ -1,0 +1,69 @@
+URL: https://eshop.eca.ir/stm/13787-میکروکنترلر-stm32f101cbt6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F101CBT6
+
+قیمت:
+2,330,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F101CBT6 با هسته ARM Cortex M3 با حافظه 128KB و فرکانس کاری 36MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+میکروکنترلر STM32F101CBT6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 36 مگاهرتز کار می کند. این میکروکنترلر 128 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F101CBT6 دارای 37 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+
+میکروکنترلر STM32F101CBT6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F101CB
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 36 Mhz
+حافظه: 128 کیلو بایت
+دارای 4 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 37
+ماکزیمم سرعت: 48Mhz
+پکیج : LQFP-48
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+
+Manufacturer: STMicroelectronics     
+Product Category: ARM Microcontrollers - MCU     
+RoHS: Details     
+Series: STM32F101CB     
+Mounting Style: SMD/SMT     
+Package / Case: LQFP-48     
+Core: ARM Cortex M3     
+Program Memory Size: 128 kB     
+Data Bus Width: 32 bit     
+ADC Resolution: 12 bit     
+Maximum Clock Frequency: 36 MHz     
+Number of I/Os: 37 I/O     
+Data RAM Size: 16 kB     
+Operating Supply Voltage: 2 V to 3.6 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 85 C     
+Packaging: Tray     
+Height: 1.4 mm     
+Length: 7 mm     
+Product: MCU     
+Program Memory Type: Flash     
+Width: 7 mm     
+Brand: STMicroelectronics     
+Data RAM Type: SRAM     
+Interface Type: I2C, SPI, USART     
+Moisture Sensitive: Yes     
+Number of ADC Channels: 10 Channel     
+Number of Timers/Counters: 3 Timer     
+Processor Series: ARM Cortex M     
+Product Type:  ARM Microcontrollers - MCU     
+Subcategory:  Microcontrollers - MCU     
+Supply Voltage - Max: 3.6 V     
+Supply Voltage - Min: 2 V     
+Tradename: STM32
+

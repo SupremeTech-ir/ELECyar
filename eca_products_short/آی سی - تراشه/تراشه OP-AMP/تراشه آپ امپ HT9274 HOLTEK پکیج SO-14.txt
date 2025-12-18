@@ -1,0 +1,27 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/18528-تراشه-آپ-امپ-ht9274-holtek-پکیج-so-14.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ HT9274 HOLTEK پکیج SO-14
+
+قیمت:
+223,000
+
+توضیحات کوتاه:
+آی سی آپ امپ HT9274 HOLTEK پکیج SO-14
+
+توضیحات کامل:
+Specification
+
+Gain Bandwidth Product (fT) 0.1 MHz
+Slew Rate 0.03 V/µs
+Input Bias Current 1 pA
+Input Offset Voltage 5 mV
+Mounting Style SMD/SMT
+Supply Voltage (Min) 1.6 V
+Supply Voltage (Max) 5.5 V
+Minimum Operating Temperature -20 C°
+Maximum Operating Temperature 75 C°
+Brand Holtek Semiconductor
+Package SO-14
+

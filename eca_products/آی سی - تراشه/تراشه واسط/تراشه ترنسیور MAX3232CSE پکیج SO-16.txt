@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-واسط/3973-تراشه-ترنسیور-max3232cse-پکیج-so-16.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور MAX3232CSE پکیج SO-16
+
+قیمت:
+94,400
+
+توضیحات کوتاه:
+آی سی ترنسیور Transceivers فرستنده گیرنده  MAX3232CSE پکیج SMD SO-16 برای استاندارد RS-232
+
+توضیحات کامل:
+Specification
+RS-232 Interface IC 3-5.5V 235kbps Transceiver
+
+Manufacturer:     Maxim Integrated     
+Product Category:     RS-232 Interface IC     
+Function:     Transceiver     
+Data Rate:     235 kb/s     
+Number of Drivers:     2 Driver     
+Number of Receivers:     2 Receiver     
+Operating Supply Voltage:     3 V to 5.5 V     
+Supply Current:     1 mA     
+Maximum Operating Temperature:     + 70 C     
+Mounting Style:     SMD/SMT     
+Package / Case:     SO-16 Narrow     
+Packaging:     Tube     
+Brand:     Maxim Integrated     
+Minimum Operating Temperature:     0 C     
+Propagation Delay Time ns:     0.3 us     
+Series:     MAX3232     
+Shutdown:     Without Shutdown
+

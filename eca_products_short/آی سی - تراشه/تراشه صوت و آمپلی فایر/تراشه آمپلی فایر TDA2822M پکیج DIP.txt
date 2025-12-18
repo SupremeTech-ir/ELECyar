@@ -1,0 +1,50 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/2478-تراشه-آمپلی-فایر-tda2822m-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2822M پکیج DIP
+
+قیمت:
+61,100
+
+توضیحات کوتاه:
+آی سی تقویت کننده صدا آمپلی فایر TDA2822M پکیج DIP 
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics
+Product Category: Audio Amplifiers
+RoHS: Details
+Series: TDA2822M
+Product: Audio Amplifiers
+Class: Class-AB
+Output Power: 2 W
+Mounting Style: Through Hole
+Type: 1-Channel Mono or 2-Channel Stereo
+Package / Case: PDIP-8
+Audio - Load Impedance: 32 Ohms
+THD plus Noise: 0.2 %
+Supply Voltage - Max: 15 V
+Supply Voltage - Min: 1.8 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Description/Function: Headphone/Speaker
+Height: 3.32 mm
+Input Type: Single
+Length: 10.92 mm
+Output Current: 1000 mA
+Supply Type: Single
+Width: 6.6 mm
+Brand: STMicroelectronics
+Gain: 39 dB
+Number of Channels: 2 Channel
+Ib - Input Bias Current: 100 nA
+Operating Supply Current: 1 A
+Operating Supply Voltage: 3 V, 5 V, 9 V, 12 V
+Output Signal Type: Differential, Single
+Pd - Power Dissipation: 1400 mW
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 40 dB
+

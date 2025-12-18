@@ -1,0 +1,20 @@
+URL: https://eshop.eca.ir/دیود-زنر-zener/14395-دیود-زنر-62v-smd-پکیج-mini-melf.html
+================================================================================
+
+عنوان:
+دیود زنر 6.2V SMD پکیج MINI MELF
+
+قیمت:
+3,800
+
+توضیحات کوتاه:
+دیود زنر 6.2 ولت 0.5 وات پکیج SMD Mini Melf
+
+توضیحات کامل:
+Specification
+
+Zener Voltage (Vz): 6.2V     
+Power Dissipation: 500 mW     
+Mounting Style: SMD/SMT     
+Package: SOD-80 (MiniMELF)
+

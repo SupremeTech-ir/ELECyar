@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/دیود-tvs/22062-دیود-tvs-unidirect-پکیج-smb-کد-smbj75a.html
+================================================================================
+
+عنوان:
+دیود TVS Unidirect پکیج SMB کد SMBJ7.5A
+
+قیمت:
+16,900
+
+توضیحات کوتاه:
+دیود TVS Unidirect تی وی اس 7.5 ولت 600 وات SMBJ7.5A پکیج SMB
+
+توضیحات کامل:
+Specification
+
+Product Category: ESD Suppressors / TVS Diodes 
+RoHS: Details 
+Polarity: Unidirectional 
+Number of Channels: 1 Channel 
+Working Voltage: 7.5 V 
+Termination Style: SMD/SMT 
+Clamping Voltage: 12.9 V 
+Breakdown Voltage: 8.33 V 
+Package/Case: DO-214AA-2 
+Ipp - Peak Pulse Current: 46.5 A 
+Pppm - Peak Pulse Power Dissipation: 600 W 
+Product Type: TVS Diodes 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 150 C 
+Series: SMBJ_A 
+Packaging: Reel 
+Brand: Vishay General Semiconductor 
+Subcategory: TVS Diodes / ESD Suppression Diodes 
+Tradename: TransZorb 
+Vf - Forward Voltage: 3.5 V
+

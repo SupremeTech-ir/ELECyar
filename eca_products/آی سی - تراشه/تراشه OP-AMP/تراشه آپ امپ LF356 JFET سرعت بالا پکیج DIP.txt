@@ -1,0 +1,51 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/1506-تراشه-آپ-امپ-lf356-jfet-سرعت-بالا-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LF356 JFET سرعت بالا پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LF356 JFET سرعت بالا پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Texas Instruments 
+Product Category: Operational Amplifiers - Op Amps 
+RoHS: Details 
+Mounting Style: Through Hole 
+Package / Case: PDIP-8 
+Supply Voltage - Max: 44 V 
+Number of Channels: 1 Channel 
+GBP - Gain Bandwidth Product: 5 MHz 
+SR - Slew Rate: 12 V/us 
+CMRR - Common Mode Rejection Ratio: 80 dB to 100 dB 
+Ib - Input Bias Current: 50 pA 
+Vos - Input Offset Voltage: 10 mV 
+Supply Voltage - Min: 10 V 
+Operating Supply Current: 5 mA 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Shutdown: No Shutdown 
+Series: LF356 
+Packaging: Tube 
+Height: 3.3 mm 
+Input Type: Rail-to-Rail 
+Length: 9.27 mm 
+Product: Operational Amplifiers 
+Supply Type: Dual 
+Technology: BiFET 
+Width: 6.35 mm 
+Brand: Texas Instruments 
+en - Input Voltage Noise Density: 15 nV/sqrt Hz at +/- 15 V 
+In - Input Noise Current Density: 0.01 pA/sqrt Hz 
+Maximum Dual Supply Voltage: +/- 18 V 
+Minimum Dual Supply Voltage: +/- 5 V 
+Operating Supply Voltage: 10 V to 36 V, +/- 5 V to +/- 18 V 
+Pd - Power Dissipation: 670 mW 
+Product Type: Op Amps - Operational Amplifiers 
+PSRR - Power Supply Rejection Ratio: 80 dB
+

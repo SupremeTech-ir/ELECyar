@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/تراشه-تایمر-و-پالس/13866-تراشه-ساعت-تقویم-mc146818-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ساعت - تقویم MC146818 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی RTC ساعت و تقویم دقیق با حافظه CMOS
+
+توضیحات کامل:
+Specification
+
+Product Category: Real-Time Clock
+Brand: Motorola
+Maximum Operating Temperature: +85°C
+Minimum Operating Temperature: -40°C
+Mounting Style: DIP
+Package / Case: DIP-24
+Operating Supply Voltage: 3.3V
+Part # Aliases: MC146818
+

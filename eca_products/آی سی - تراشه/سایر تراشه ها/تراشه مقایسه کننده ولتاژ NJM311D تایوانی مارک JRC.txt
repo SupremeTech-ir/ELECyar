@@ -1,0 +1,24 @@
+URL: https://eshop.eca.ir/سایر-تراشه-ها/23764-تراشه-مقایسه-کننده-ولتاژ-njm311d-تایوانی-مارک-jrc-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه مقایسه کننده ولتاژ NJM311D تایوانی مارک JRC پکیج DIP
+
+قیمت:
+241,000
+
+توضیحات کوتاه:
+آی سی مقایسه کننده ولتاژ NJM311D تایوانی مارک JRC پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply Voltage: 36 (± 18) V
+Output to Negative Supply Voltage: 40 V
+Ground to Negative Supply Voltage: 30 V
+Differential Input Voltage (VID) ± 30 V
+Input Voltage (VIN) ± 15 V
+Power Dissipation (PD): 500 mW
+Operating Temperature Range Topr: -40~+85 ˚C
+Storage Temperature Range Tstg: -40~+125 ˚C
+

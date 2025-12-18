@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/پل-دیودها/1369-پل-دیود-مربعی-فلزی-1000v-35a-مدل-kbpc3510.html
+================================================================================
+
+عنوان:
+پل دیود مربعی فلزی 1000V / 35A مدل KBPC3510
+
+قیمت:
+490,000
+
+توضیحات کوتاه:
+پل دیود مربعی فلزی 1000ولت 35آمپر 
+
+توضیحات کامل:
+Specification
+
+Product Category: Bridge Rectifiers
+RoHS: Details
+Type: Single Phase Bridge
+Mounting Style: Through Hole
+Termination Style: Quick Connect
+Package / Case: KBPC-4
+If - Forward Current: 35 A
+Peak Reverse Voltage: 1000 V
+Vf - Forward Voltage: 1.1 V
+Max Surge Current: 400 A
+Minimum Operating Temperature: - 55 C
+Maximum Operating Temperature: + 150 C
+Length: 28.8 mm
+Width: 28.8 mm
+Height: 11.23 mm
+Series: KBPC3510
+

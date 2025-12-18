@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/رگولاتور/6965-رگولاتور-33ولت-lm2576t-پکیج-to-220-5.html
+================================================================================
+
+عنوان:
+رگولاتور 3.3+ولت LM2576T پکیج TO-220-5
+
+قیمت:
+199,000
+
+توضیحات کوتاه:
+رگولاتور 3.3+ولت LM2576T پکیج TO-220-5
+
+توضیحات کامل:
+Specification
+
+Product Category : Switching Voltage Regulators         
+Mounting Style : Through Hole     
+Package / Case : TO-220-5     
+Output Voltage : 3.3 V     
+Output Current :3 A     
+Number of Outputs : 1 Output     
+Input Voltage MAX : 40 V     
+Input Voltage MIN : 4 V     
+Switching Frequency : 58 kHz     
+Minimum Operating Temperature : - 40 C     
+Maximum Operating Temperature : + 125 C     
+Series : LM2576     
+Operating Supply Current : 5 mA     
+Factory Pack Quantity:  45
+

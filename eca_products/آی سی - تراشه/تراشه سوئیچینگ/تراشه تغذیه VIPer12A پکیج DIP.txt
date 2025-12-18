@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/تراشه-سوئیچینگ/16597-تراشه-تغذیه-viper12a-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه تغذیه VIPer12A پکیج DIP
+
+قیمت:
+198,000
+
+توضیحات کوتاه:
+کنترلر سوئیچینگ با ترانزیستور داخلی برای منابع تغذیه ایزوله و غیر ایزوله تا توان 13 وات در ولتاژ بالا
+
+توضیحات کامل:
+VIPer12A یک تراشه مجتمع شامل کنترلر PWM جریان‌پایه و ترانزیستور MOSFET قدرت با ولتاژ شکست بالا در یک چیپ می‌باشد. این قطعه برای طراحی منابع تغذیه سوئیچینگ کم‌مصرف در کاربردهای آفلاین نظیر آداپتور شارژرها، منابع کمکی در سیستم‌های کنترلی، یا تغذیه آماده‌به‌کار نمایشگرها استفاده می‌شود. ترکیب کنترلر و ترانزیستور در یک پکیج موجب کاهش فضای موردنیاز و افزایش قابلیت اطمینان می‌شود. VIPer12A با فعال‌سازی خودکار در شرایط بی‌باری (burst mode)، حفاظت در برابر دما، جریان و ولتاژ بیش از حد، و همچنین راه‌اندازی مستقیم از ولتاژ برق شهر، طراحی مدار را ساده و ایمن می‌سازد. عملکرد دقیق در کنترل جریان و ولتاژ از طریق پین فیدبک و قابلیت تنظیم خروجی به کمک اپتوکوپلر، این تراشه را برای کاربردهای حساس نظیر شارژ باتری‌های لیتیومی ایده‌آل می‌سازد.
+
+مشخصات
+
+ولتاژ کاری: 9V تا 38V (پین VDD)
+فرکانس کاری: 60kHz (±10%)
+جریان مصرفی در حالت فعال: حداکثر 4.5mA
+حداکثر ولتاژ درین-سورس: 730V
+حداکثر توان خروجی (DIP-8): 13W (برای 195-265VAC) / 8W (برای 85-265VAC)
+مقاومت روشن ترانزیستور داخلی (rDS(on)): حداکثر 30Ω در 25°C
+محدودکننده جریان پیک: 0.4A (typ.)
+محافظت در برابر دمای بیش از حد: فعال در 140°C تا 170°C
+هسـتریزی ولتاژ VDD: حدود 6.5V
+
+کاربردهای رایج
+
+VIPer12A به دلیل قابلیت راه‌اندازی مستقیم از برق شهر، کنترل جریان دقیق و حفاظت‌های داخلی، در طراحی منابع تغذیه سوئیچینگ کم‌مصرف، ایزوله و غیر ایزوله کاربرد فراوان دارد. در طراحی شارژرها، سیستم‌های آماده‌به‌کار و تغذیه کمکی موتورهای صنعتی نیز مورد استفاده قرار می‌گیرد.
+
+شارژر آداپتورها
+تغذیه آماده‌به‌کار تلویزیون و مانیتور
+منابع تغذیه سوئیچینگ برای لوازم خانگی
+ماژول‌های تغذیه LED
+تغذیه کمکی برای کنترلرهای صنعتی
+منابع تغذیه ایزوله برای تجهیزات پزشکی
+تغذیه DC برای تجهیزات اندازه‌گیری
+درایورهای تغذیه موتورهای کوچک
+پاوربانک‌ها و سیستم‌های شارژ لیتیومی
+مدارات تغذیه سیستم‌های امنیتی و دوربین‌ها
+
+Description
+
+Typical applications cover off line power supplies for battery charger adapters, standby power supplies for TV or monitors, auxiliary supplies for motor control, etc. The internal control circuit offers the following benefits: Large input voltage range on the VDD pin accommodates changes in auxiliary supply voltage (This feature is well adapted to battery charger adapter configurations), automatic burst mode in low load condition and overvoltage protection in HICCUP mode.
+
+Features
+
+Fixed 60 kHz switching frequency
+9 V to 38 V wide range VDD voltage
+Current mode control
+Auxiliary undervoltage lockout with hysteresis
+High voltage start-up current source
+Overtemperature, overcurrent and overvoltage protection with auto-restart
+Typical power capability
+European (195 - 265 Vac) 8 W for SO-8, 13 W for DIP-8
+European (85 - 265 Vac) 5 W for SO-8, 8 W for DIP-8
+

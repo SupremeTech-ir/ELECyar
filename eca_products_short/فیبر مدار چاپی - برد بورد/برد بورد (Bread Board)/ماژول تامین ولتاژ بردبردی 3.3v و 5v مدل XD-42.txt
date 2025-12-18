@@ -1,0 +1,49 @@
+URL: https://eshop.eca.ir/برد-بورد-bread-board/18210-ماژول-تامین-ولتاژ-بردبردی-33v-و-5v-مدل-xd-42.html
+================================================================================
+
+عنوان:
+ماژول تامین ولتاژ بردبردی 3.3v و 5v مدل XD-42
+
+قیمت:
+994,000
+
+توضیحات کوتاه:
+ماژول تامین ولتاژ بردبردی 3.3v و 5v دو کاناله دارای میکرو USB مناسب بردبردهای MB-102
+
+توضیحات کامل:
+بردبردها یکی از اولین وسایل مورد نیاز دانشجو و طراح در زمینه الکترونیک است. بسیار ساده می توان قطعات الکترونیکی را بر روی برد قرار داده و انواع مدارات را سیم بندی نمود.
+ولتاژ استاندارد مورد نیاز بیشتر مدارات الکترونیکی 3.3 و 5 ولت می باشد. طراحان از روش های مختلفی جهت تأمین ولتاژ مورد نیاز خود استفاده می کنند. معمولاً همیشه با مشکل روبرو شده و بعضأ درست نبودن اتصالات باعث ایجاد ولتاژ بیش از حد و صدمه دیدن به مدار می شود.
+این ماژول با نصب ساده بر روی بردبرد و وجود انواع کانکتورهای ورودی و انواع رگولاتور، به کلی می تواند این مشکل را رفع کرده و در هر جایی، با اتصال هر منبع تغذیه و هر ولتاژی بتوانید تغذیه مدار خود را تأمین نمایید.
+
+مشخصات
+
+ولتاژ ورودی : 7 الی 10 ولت DC
+ولتاژ خروجی : 3.3 ولت و 5 ولت
+جریان : حداکثر 700 میلی آمپر
+ابعاد : 53x30x15 میلی متر
+فاصله 2 پین کناری خروجی 42mm
+سازگار با بردبردهای MB-102 و تمام بردبردهای هم سایز
+دارای 6 پین جداگانه برای ولتاژ های 5 ولت و 3.3 ولت 
+دارای دو کلید جداگانه برای تغییر ولتاژ از 3.3 به 5 ولت و بالعکس
+دارای LED نشانگر وضعیت
+دارای میکرو USB برای تامین تغذیه
+
+Introduction
+
+For MB102 bread board, two way independent control, Can be switched to 0V, 3.3V, 5V. On-board Two sets of 3.3V, 5V DC output pins, Facilitate the external leads. A plastic lens is used for high sensitivity. Please Change the jumper cap position to select 5.0V or 3.3V Voltage.
+
+Specification
+Product Name : Breadboard Power Supply Module
+Fit for : MB-102 Breadboard
+Input Voltage : DC 7-10V(Or USB power supply)
+Output Voltage : DC 3.3V 5V
+Material : Plastic, Electronic Part
+Output Current : 700mA(Max)
+Tow ways of up and down independent control, can switchover for 0V、3.3V、5V.
+Two sets of 3.3 V, 5 V DC output pin onboard.
+
+This breadboard power supply module is differ from other power modules in market are follow:
+Recessed design, completely witout wasting breadboard space.
+2 Channel distribution can be disconnected , you can choose 5V, 3.3V voltage.
+Can be powered via USB and DC power head.
+

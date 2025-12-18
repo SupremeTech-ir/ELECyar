@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/18041-ماسفت-22n60nt-نوع-n-channel-تایوانی-مارک-fairchild-پکیج-to-220fp.html
+================================================================================
+
+عنوان:
+ماسفت 22N60NT نوع N-Channel تایوانی مارک FAIRCHILD پکیج TO-220FP
+
+قیمت:
+596,000
+
+توضیحات کوتاه:
+ماسفت 600 ولت 22 آمپر 22N60NT نوع N-Channel مارک FAIRCHILD پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+P/N  : 22N60NT 
+Type of Transistor: MOSFET
+Type of Control Channel: N -Channel
+Maximum Power Dissipation (Pd): 66 W
+Maximum Drain-Source Voltage |Vds|: 600 V
+Maximum Gate-Source Voltage |Vgs|: 45 V
+Maximum Drain Current |Id|: 22 A
+Maximum Junction Temperature (Tj): 150 °C
+Maximum Drain-Source On-State Resistance (Rds): 0.165Ohm
+Package: TO-220
+

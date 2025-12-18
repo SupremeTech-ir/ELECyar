@@ -1,0 +1,47 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/23744-تراشه-آمپلی-فایر-tda7265-مارک-st.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7265 مارک ST
+
+قیمت:
+1,910,000
+
+توضیحات کوتاه:
+آی سی تقویت کننده صوتی آمپلی فایر 25 وات TDA7265
+
+توضیحات کامل:
+Specification
+
+Manufacturer: STMicroelectronics 
+Product Category: Audio Amplifiers 
+Class: Class-AB 
+Output Power: 25 W 
+THD plus Noise: 0.02 % 
+Package/Case: Multiwatt-11 
+Audio - Load Impedance: 8 Ohms 
+Supply Voltage - Min: 5 V 
+Supply Voltage - Max: 25 V 
+Minimum Operating Temperature: - 20 C 
+Maximum Operating Temperature: + 85 C 
+Mounting Style: Through Hole 
+Series: TDA7265 
+Brand: STMicroelectronics 
+Description/Function: Speaker 
+Dual Supply Voltage: +/- 9 V, +/- 12 V, +/- 15 V, +/- 18 V, +/- 24 V 
+Gain: 80 dB 
+Ib - Input Bias Current: 500 nA 
+Maximum Dual Supply Voltage: +/- 25 V 
+Minimum Dual Supply Voltage: +/- 5 V 
+Number of Channels: 2 Channel 
+Operating Supply Current: 4.5 A 
+Operating Supply Voltage: 25 V 
+Output Signal Type: Single 
+Pd - Power Dissipation: 30 W 
+Product: Audio Amplifiers 
+Product Type: Audio Amplifiers 
+PSRR - Power Supply Rejection Ratio: 60 dB 
+Subcategory: Audio ICs 
+Type: 2-Channel Stereo 
+Vos - Input Offset Voltage: 20 mV
+

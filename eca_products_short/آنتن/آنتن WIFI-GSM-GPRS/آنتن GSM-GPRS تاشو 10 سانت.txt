@@ -1,0 +1,26 @@
+URL: https://eshop.eca.ir/آنتن-wifigsmgprs/2176-آنتن-gsmgprs-تاشو-10-سانت.html
+================================================================================
+
+عنوان:
+آنتن GSM/GPRS تاشو 10 سانت
+
+قیمت:
+611,000
+
+توضیحات کوتاه:
+آنتن GSM/GPRS تاشو 10 سانت فرکانس کاری 700-2700MHZ  با کانکتور SMA
+
+توضیحات کامل:
+آنتن GSM/GPRS تاشو 10 سانت
+
+Product Model : GSM glue stick antenna
+Frequency range : 700-2700MHZ
+Standing Wave Ratio/S.W. R : <1.8
+Antenna Gain : 3DB-5DB
+Impedance : 50 Ω
+Antenna Size : 48-108MM
+Wire length (total length)/Length : 5CM-11CM
+Interface Type/Connector Type : SMA interface
+Operation Temperature : -40°C~+85°C
+Storage Temperature : -40°C~+85°C
+

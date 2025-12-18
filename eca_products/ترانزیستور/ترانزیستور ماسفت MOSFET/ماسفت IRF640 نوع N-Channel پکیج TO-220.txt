@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/ترانزیستور-ماسفت-mosfet/2230-ماسفت-irf640-نوع-n-channel-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ماسفت IRF640 نوع N-Channel پکیج TO-220
+
+قیمت:
+213,000
+
+توضیحات کوتاه:
+ماسفت 200 ولت 18 آمپر IRF640 نوع N-Channel  پکیج TO-220
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: N-CHANNEL
+
+توضیحات کامل:
+Specification
+
+Product Category: MOSFET 
+RoHS: No
+Technology: Si 
+Mounting Style: Through Hole 
+Package/Case: TO-220-3 
+Number of Channels: 1 Channel 
+Transistor Polarity: N-Channel 
+Vds - Drain-Source Breakdown Voltage: 200 V 
+Id - Continuous Drain Current: 18 A 
+Rds On - Drain-Source Resistance: 180 mOhms 
+Vgs - Gate-Source Voltage: 20 V 
+Maximum Operating Temperature: + 150 C 
+Fall Time: 36 ns 
+Minimum Operating Temperature: - 55 C 
+Pd - Power Dissipation: 125 W 
+Rise Time: 51 ns 
+Transistor Type: 1 N-Channel 
+Typical Turn-Off Delay Time: 45 ns 
+Typical Turn-On Delay Time: 14 ns 
+Width: 4.7 mm 
+Unit Weight: 6 g
+

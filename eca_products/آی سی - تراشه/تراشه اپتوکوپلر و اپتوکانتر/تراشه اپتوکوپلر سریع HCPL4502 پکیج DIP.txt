@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/14639-تراشه-اپتوکوپلر-سریع-hcpl4502-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر سریع HCPL4502 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر 8 پایه پرسرعت 1Mb/s دوکانال HCPL-4502
+
+توضیحات کامل:
+Specification
+
+Product Category: High Speed Optocouplers 
+Package / Case: PDIP-8 
+Data Rate: 1 Mb/s 
+Number of Channels: 1 Channel 
+Output Type: Phototransistor 
+Isolation Voltage: 3750 Vrms 
+Vf - Forward Voltage: 1.5 V 
+If - Forward Current: 16 mA 
+Vr - Reverse Voltage: 5 V 
+Pd - Power Dissipation: 100 mW 
+Current Transfer Ratio: 25 % 
+Minimum Operating Temperature: 0 C 
+Maximum Operating Temperature: + 70 C 
+Output Current: 8 mA
+

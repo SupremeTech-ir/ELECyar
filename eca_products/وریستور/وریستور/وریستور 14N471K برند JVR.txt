@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/وریستور/23660-وریستور-14n471k-برند-jvr.html
+================================================================================
+
+عنوان:
+وریستور 14N471K برند JVR
+
+قیمت:
+66,700
+
+توضیحات کوتاه:
+وریستور 300 ولت با تلرانس 10 درصد کد JVR 14N471K
+
+توضیحات کامل:
+Specification
+
+Product Category: Varistors 14D471K
+Diameter : 15mm     
+Termination Style: Radial 
+Voltage Rating AC: 300 VAC 
+Voltage Rating DC: 385 VDC 
+Varistor Voltage: 470 V 
+Clamping Voltage: 775 V
+Peak Surge Current: 4500 A 
+Surge Energy Rating: 140 J 
+Capacitance: 390 pF 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 105 C 
+Subcategory: Varistors
+

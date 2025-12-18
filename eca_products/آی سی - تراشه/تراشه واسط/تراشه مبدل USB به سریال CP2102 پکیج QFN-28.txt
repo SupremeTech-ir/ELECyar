@@ -1,0 +1,63 @@
+URL: https://eshop.eca.ir/تراشه-واسط/3488-تراشه-مبدل-usb-به-سریال-cp2102-پکیج-qfn-28.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال CP2102 پکیج QFN-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به UART سریال CP2102 پکیج QFN-28 SMD
+
+توضیحات کامل:
+Specification
+
+Single-Chip USB to UART Data Transfer
+- Integrated USB transceiver; no external resistors
+required
+- Integrated clock; no external crystal required
+- Internal 1024-byte programmable ROM for vendor ID,
+product ID, serial number, power descriptor, release
+number, and product description strings
+- EEPROM (CP2102)
+- EPROM (One-time programmable) (CP2109)
+- On-chip power-on reset circuit
+- On-chip voltage regulator
+- 3.3 V output (CP2102)
+- 3.45 V output (CP2109)
+- 100% pin and software compatible with CP2101
+USB Function Controller
+- USB Specification 2.0 compliant; full-speed (12 Mbps)
+- USB suspend states supported via SUSPEND pins
+Asynchronous Serial Data BUS (UART)
+- All handshaking and modem interface signals
+- Data formats supported:
+- Data bits: 5, 6, 7, and 8
+- Stop bits: 1, 1.5, and 2
+- Parity: odd, even, mark, space, no parity
+- Baud rates: 300 bps to 1 Mbps
+- 576 Byte receive buffer; 640 byte transmit buffer
+- Hardware or X-On/X-Off handshaking supported
+- Event character support
+- Line break transmission
+Virtual COM Port Device Drivers
+- Works with existing COM port PC Applications
+- Royalty-free distribution license
+- Windows 8/7/Vista/Server 2003/XP/2000
+- Mac OS-X/OS-9
+- Linux
+
+Manufacturer: Silicon Laboratories 
+Product Category: USB Interface IC 
+RoHS: Details 
+Mounting Style: SMD/SMT 
+Package / Case: QFN-28 
+Series: CP2102 
+Minimum Operating Temperature: - 55 C 
+Maximum Operating Temperature: + 125 C 
+Packaging: Tube 
+Brand: Silicon Labs 
+Operating Supply Voltage: 3.6 V 
+Product Type: USB Interface IC
+

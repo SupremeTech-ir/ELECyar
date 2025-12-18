@@ -1,0 +1,44 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/3094-ترانزیستور-2n3906-نوع-pnp-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور 2N3906 نوع PNP پکیج TO-92
+
+قیمت:
+7,900
+
+توضیحات کوتاه:
+ترانزیستور 2N3906 نوع PNP پکیج TO-92 ولتآژ 40V جریان 200mA
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification 
+Product Category: Bipolar Transistors - BJT 
+Mounting Style: Through Hole 
+Package / Case: TO-92-3 
+Transistor Polarity: PNP 
+Configuration: Single 
+Collector- Emitter Voltage VCEO Max: 40 V 
+Collector- Base Voltage VCBO: 60 V 
+Emitter- Base Voltage VEBO: 6 V 
+Collector-Emitter Saturation Voltage: 400 mV 
+Maximum DC Collector Current: 200 mA 
+Pd - Power Dissipation: 625 mW 
+Gain Bandwidth Product fT: 250 MHz 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+Series: 2N3906 
+Brand: STMicroelectronics 
+Continuous Collector Current: 200 mA 
+DC Collector/Base Gain hfe Min: 30 
+DC Current Gain hFE Max: 300 
+Height: 4.95 mm 
+Length: 4.95 mm 
+Product Type: BJTs - Bipolar Transistors 
+Subcategory: Transistors 
+Technology: Si 
+Width: 3.94 mm
+

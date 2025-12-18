@@ -1,0 +1,30 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/14382-تراشه-آمپلی-فایر-tda7498mv-پکیج-power-sso-36.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA7498MV پکیج Power SSO-36
+
+قیمت:
+3,090,000
+
+توضیحات کوتاه:
+آی سی تقویت صوتی آمپلی فایر کلاس D مونو 100 وات
+
+توضیحات کامل:
+Introduction
+
+The TDA7498MV is a BTL class-D audio amplifier with single power supply designed for home systems and active speaker applications. It comes in a 36-pin PowerSSO package with exposed pad up (EPU) to facilitate mounting a separate heatsink.
+
+Specification
+
+100 W output power at THD = 10% with RL = 6 Ω and VCC = 36 V
+80 W output power at THD = 10% with RL = 8 Ω and VCC = 34 V
+Wide-range single-supply operation (14 - 39 V)
+High efficiency (η = 90%)
+Four selectable, fixed gain settings of nominally 25.6 dB, 31.6 dB, 35.1 dB and 37.6 dB
+Differential inputs minimize common-mode noise
+Standby and mute features
+Short-circuit protection
+Thermal overload protection
+Externally synchronizable
+

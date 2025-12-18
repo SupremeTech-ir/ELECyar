@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/تراشه-واسط/857-تراشه-مبدل-usb-به-سریال-ft232rl-پکیج-sop-28.html
+================================================================================
+
+عنوان:
+تراشه مبدل USB به سریال FT232RL پکیج SOP-28
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی مبدل USB به سریال FT232RL پکیج SMD SOP-28
+
+توضیحات کامل:
+معرفی
+آی سی FT232RL یک مبدل USB به سریال میباشد که به راحتی از طریق پورت های سریال میکرو (rxd  , txd) میتوان با کامپیوتر تبادل اطلاعات داشت و از طریق ساخت یک پورت مجازی این کار صورت میگیرد.از ویژگیهای بارز این آی سی می توان به تغذیه کاری بین ۴٫۴ تا ۵٫۲۵ ولت،سازگار شده با usb 1.1  و usb 2 و تبادل اطلاعات توسط یک چیپ و با حداقل قطعات جانبی اشاره کرد.
+
+Specification
+Part Status Active 
+Protocol USB 
+Function Bridge, USB to UART 
+Interface UART 
+Standards USB 2.0 
+Voltage - Supply 3.3V ~ 5.25V 
+Current - Supply 15mA 
+Operating Temperature -40°C ~ 85°C 
+Package / Case 28-SSOP (0.209", 5.30mm Width) 
+Supplier Device Package 28-SSOP
+

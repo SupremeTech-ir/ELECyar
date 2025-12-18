@@ -1,0 +1,21 @@
+URL: https://eshop.eca.ir/پتانسیومتر/23153-پتانسیومتر-تریمر-2k-اهم-ایستاده-مدل-evm31g.html
+================================================================================
+
+عنوان:
+پتانسیومتر تریمر 2K اهم ایستاده مدل EVM31G
+
+قیمت:
+52,400
+
+توضیحات کوتاه:
+پتانسیومتر تریمر 470K اهم ایستاده مدل EVM31G مناسب برای مصارف صنعتی
+
+توضیحات کامل:
+Specification
+
+model : EVM31G
+Nominal Total Resistance : 2KΩ
+Total Resistance Tolerance : Within ±10％ of the nominal total resistance
+Operating Temperature Range : -10 to 85℃
+Rated Power : 0.3W
+

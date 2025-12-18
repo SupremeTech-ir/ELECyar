@@ -1,0 +1,64 @@
+URL: https://eshop.eca.ir/atmel/7718-میکروکنترلر-attiny24a-ssu-پکیج-soic-14.html
+================================================================================
+
+عنوان:
+میکروکنترلر ATTINY24A-SSU پکیج SOIC-14
+
+قیمت:
+1,017,000
+
+توضیحات کوتاه:
+میکروکنترلر ATTINY24A-SSU با هسته 8 بیتی AVR (پکیج SOIC-14) با حافظه 2KB، فرکانس کاری 20MHz و 14 پایه ساخت شرکت Microchip 
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر ATTINY24A-SSU دارای هسته پردازنده 8 بیتی AVR (پکیج SOIC-14) توسط شرکت Microchip ساخته شده است و با فرکانس 20 مگاهرتز کار می کند. این میکروکنترلر 2 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر ATTINY24A-SSU دارای 12 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI می باشد.
+
+میکروکنترلر ATTINY24A-SSU دارای ولتاژ کاری 1.8 تا 5.5 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : Microchip 
+سری : ATtiny24
+دارای هسته 8 بیتی AVR
+ولتاژ کاری : 1.8 ولت تا 5.5 ولت
+سرعت: 20 Mhz
+پکیج :  SOIC-14
+تعداد پین ها ورودی/خروجی : 12
+پروتکل های ارتباطی: I2C, SPI
+دمای کاری : -40 تا +85 درجه سانتیگراد
+
+Introduction
+
+The ATTINY24A-SSU is a high-performance picoPower 8-bit AVR RISC-based Microcontroller combines 128B EEPROM, 12 general purpose I/O lines, 32 general purpose working registers, an 8-bit timer/counter with two PWM channels, a 16-bit timer/counter with two PWM channels, internal and external interrupts, an 8-channel 10-bit A/D converter, programmable gain stage (1x, 20x) for 12 differential ADC channel pairs, programmable watchdog timer with internal oscillator, internal calibrated oscillator and four software selectable power saving modes. The device operates between 1.8 to 5.5V. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
+
+Specification
+
+Manufacturer: Microchip
+Product Category: 8-bit Microcontrollers - MCU
+Mounting Style: SMD/SMT
+Package / Case: SOIC-14
+Series: ATTINY 24A
+Core: AVR
+Data Bus Width: 8 bit
+Maximum Clock Frequency: 20 MHz
+Program Memory Size: 2 kB
+Data RAM Size: 128 B
+ADC Resolution: 10 bit
+Number of I/Os: 12 I/O
+Operating Supply Voltage: 1.8 V to 5.5 V
+Maximum Operating Temperature: + 85 C
+Interface Type: SPI, USI
+Packaging: Tube
+Height: 1.75 mm
+Length: 8.74 mm
+Product: MCU
+Program Memory Type: Flash
+Width: 3.99 mm
+Brand: Microchip Technology / Atmel
+Data RAM Type: SRAM
+ Data ROM Size: 128 B 
+Data ROM Type: EEPROM
+Minimum Operating Temperature: - 40 C
+

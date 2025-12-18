@@ -1,0 +1,45 @@
+URL: https://eshop.eca.ir/stm/12880-میکروکنترلر-stm32f103vet6.html
+================================================================================
+
+عنوان:
+میکروکنترلر STM32F103VET6
+
+قیمت:
+2,493,000
+
+توضیحات کوتاه:
+میکروکنترلر STM32F103VET6 با هسته ARM Cortex M3 با حافظه 512KB و فرکانس کاری 72MHz ساخت شرکت ST می باشد
+
+توضیحات کامل:
+معرفی
+
+میکروکنترلر STM32F103VET6 دارای هسته پردازنده 32 بیتی ARM Cortex M3 توسط شرکت STMicroelectronics ساخته شده است و با فرکانس 72 مگاهرتز کار می کند. این میکروکنترلر 512 کیلوبایت حافظه FLASH روی تراشه را فراهم می کند. میکروکنترلر STM32F103VET6 دارای 80 پین ورودی/خروجی و پروتکل های ارتباطی: I2C, SPI UART/USART می باشد.
+میکروکنترلر STM32F103VET6 دارای ولتاژ کاری 2.4 تا 3.6 ولت بوده و در محدود دمایی -40 تا +85 درجه سانتی گراد کار می کند.
+
+مشخصات
+
+سازنده : STMicroelectronics
+سری : STM32F103VE
+دارای هسته 32 بیتی ARM Cortex M3
+ولتاژ کاری : 2.4 ولت تا 3.6 ولت
+سرعت: 72 Mhz
+حافظه: 512 کیلو بایت
+دارای 8 تایمر 16 بیتی
+تعداد پین ها ورودی/خروجی : 80
+پکیج : LQFP-100
+پروتکل های ارتباطی: I2C, SPI, UART/USART
+دمای کاری : -40 تا 85 درجه سانتیگراد
+
+Specification
+Manufacturer STMicroelectronics 
+Type of integrated circuit ARM microcontroller 
+Flash memory capacity 512kB 
+Clock frequency 72MHz 
+Mounting SMD 
+Number of inputs/outputs 80 
+SRAM memory capacity 64kB 
+Case LQFP100 
+Supply voltage 2...3.6V DC 
+Number of 16bit timers 8 
+Kind of architecture Cortex M3
+

@@ -1,0 +1,41 @@
+URL: https://eshop.eca.ir/دیود-زنر-zener/17060-دیود-زنر1sma4746-18v-پکیج-sma-تایوانی.html
+================================================================================
+
+عنوان:
+دیود زنر1SMA4746 18V پکیج SMA تایوانی
+
+قیمت:
+14,200
+
+توضیحات کوتاه:
+دیود زنر 18 ولت 1 وات پکیج SMA تایوانی مارک PANJIT
+
+توضیحات کامل:
+Specification
+
+Manufacturer: Taiwan Semiconductor 
+
+Product Category: Zener Diodes 
+
+Vz - Zener Voltage: 18 V 
+
+Mounting Style: SMD/SMT 
+
+Package / Case: SMA
+
+Pd - Power Dissipation: 1 W 
+
+Voltage Tolerance: 5 % 
+
+Zener Current: 1 uA 
+
+Minimum Operating Temperature: - 55 C 
+
+Maximum Operating Temperature: + 175 C 
+
+Ir - Reverse Current: 1 uA 
+
+Product Type: Zener Diodes 
+
+Subcategory: Diodes & Rectifiers
+

@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/تراشه-واسط/10581-تراشه-ترنسیور-max485epa-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه ترنسیور +MAX485EPA پکیج DIP
+
+قیمت:
+84,900
+
+توضیحات کوتاه:
+آی سی +MAX485EPA انتقال دهنده (Transceivers) Half Duplex برای استانداردهای RS485 و RS422 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Mounting Style: Through Hole
+Package / Case: PDIP-8
+Series: MAX485
+Function: Transceiver
+Data Rate: 2.5 Mb/s
+Number of Drivers: 1 Driver
+Number of Receivers: 1 Receiver
+Operating Supply Voltage: 5 V
+Operating Supply Current: 500 uA
+Minimum Operating Temperature: -40 C
+Maximum Operating Temperature: + 85 C
+Packaging: Tube
+Height: 4.45 mm (Max) 
+Length: 9.91 mm (Max) 
+Width: 7.87 mm (Max)  
+Duplex: Half Duplex
+

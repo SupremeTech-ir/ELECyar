@@ -1,0 +1,28 @@
+URL: https://eshop.eca.ir/igbt/5559-ترانزیستور-irg4ph50udpbf-igbt.html
+================================================================================
+
+عنوان:
+IRG4PH50UDPBF IGBT
+
+قیمت:
+0
+
+توضیحات کامل:
+part number: IRG4PH50UDPBF
+Configuration:     Single     
+Collector- Emitter Voltage VCEO Max:     1.2 kV     
+Collector-Emitter Saturation Voltage:     3.7 V     
+Maximum Gate Emitter Voltage:     +/- 20 V     
+Continuous Collector Current at 25 C:     45 A     
+Pd - Power Dissipation:     200 W     
+Mounting Style:     Through Hole     
+Package / Case:     TO-247-3     
+Maximum Operating Temperature:     + 150 C     
+Packaging:     Tube     
+Continuous Collector Current Ic Max:     45 A     
+Height:     20.3 mm     
+Length:     15.9 mm     
+Minimum Operating Temperature:     - 55 C
+
+datasheet
+

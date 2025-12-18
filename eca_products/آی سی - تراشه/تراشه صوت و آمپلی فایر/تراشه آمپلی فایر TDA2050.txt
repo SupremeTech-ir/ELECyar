@@ -1,0 +1,31 @@
+URL: https://eshop.eca.ir/تراشه-صوت-و-آمپلی-فایر/20225-تراشه-آمپلی-فایر-tda2050.html
+================================================================================
+
+عنوان:
+تراشه آمپلی فایر TDA2050
+
+قیمت:
+201,000
+
+توضیحات کوتاه:
+تراشه آمپلی فایر 32 وات 25 ولت TDA2050
+
+توضیحات کامل:
+Specification
+
+Product Category: Audio Amplifiers
+Series: TDA2050
+Product: Audio Amplifiers
+Output Power: 32 W
+Mounting Style: Through Hole
+Type: Single
+Supply Voltage - Max: ±25 V
+Minimum Operating Temperature: - 40 C
+Maximum Operating Temperature: + 150 C
+Packaging: Tube
+Number of Channels: 1 Channel
+Operating Supply Current: 5 A
+Pd - Power Dissipation: 25 W
+Product Type: Audio Amplifiers
+PSRR - Power Supply Rejection Ratio: 45 dB
+

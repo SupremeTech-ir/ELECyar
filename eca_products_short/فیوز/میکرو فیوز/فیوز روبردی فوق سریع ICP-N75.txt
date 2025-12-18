@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/میکرو-فیوز/12631-فیوز-روبردی-فوق-سریع-icp-n75.html
+================================================================================
+
+عنوان:
+فیوز روبردی فوق سریع ICP-N75
+
+قیمت:
+41,800
+
+توضیحات کوتاه:
+Super Fast Fuse 2.7A 50V Radial for circuit IC Protection
+
+
+توضیحات کامل:
+فیوزهای روبردی که بدون نیاز به هولدر فیوز می توان آن ها را روی برد مونتاژ نمود. کاربرد اصلی این فیوزها برای حفاظت الکتریکی تراشه های مورد استفاده بر روی برد می باشد.
+
+Introduction
+
+Circuit protection elements Rohm's circuit protectors have a very reliable current cut-off capability that protects ICs and their circuits from accidental short circuit loads. Whether operated or DC circuits, these circuit protectors have a very low internal resistance in normal operation, but safely and rapidly break the circuit when the current cutoff level is exceeded.
+
+Specification
+
+Voltage - Rated: 50VAC, 50VDC
+Package / Case: Radial, Box
+Fuse Type: Fast Acting
+Mounting Type: Through Hole
+Type of fuse: fuse     
+Current rating: 2.7A     
+Kind of fuse: semiconductor     
+Terminal pitch: 2.54mm     
+Resistance: 23mΩ 
+Category: Fuses and Circuit Protection
+Manufacturer: American Microsemiconductor
+

@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/تراشه-op-amp/14299-تراشه-آپ-امپ-lm733-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه آپ امپ LM733 پکیج DIP
+
+قیمت:
+0
+
+توضیحات کوتاه:
+آی سی آپ امپ LM733 پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Manufacturer: National Semiconductor
+Product Category: Operational Amplifiers - Op Amps      
+Mounting Style: DIP     
+Package / Case: DIP-14
+Number of Channels: 2 Channel     
+Supply Voltage - Max: 32 V     
+Output Current per Channel: 70 mA     
+SR - Slew Rate: 12 V/us     
+Vos - Input Offset Voltage: 4 mV     
+Supply Voltage - Min: 2.5 V     
+Minimum Operating Temperature: - 40 C     
+Maximum Operating Temperature: + 125 C     
+Ib - Input Bias Current: 2 uA     
+Operating Supply Current: 750 uA     
+Dual Supply Voltage: +/- 3 V, +/- 5 V, +/- 9 V, +/- 12 V, +/- 15 V     
+In - Input Noise Current Density: 1.35 pA/sqrt Hz     
+Maximum Dual Supply Voltage: +/- 16 V     
+Minimum Dual Supply Voltage: +/- 1.25 V     
+Product Type: Op Amps - Operational Amplifiers     
+PSRR - Power Supply Rejection Ratio: 78 dB
+

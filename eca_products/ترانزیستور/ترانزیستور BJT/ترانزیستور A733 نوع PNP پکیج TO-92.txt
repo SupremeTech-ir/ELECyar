@@ -1,0 +1,32 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/510-ترانزیستور-a733-نوع-pnp-پکیج-to-92.html
+================================================================================
+
+عنوان:
+ترانزیستور A733 نوع PNP پکیج TO-92
+
+قیمت:
+6,790
+
+توضیحات کوتاه:
+ترانزیستور A733 نوع PNP پکیج TO-92 ولتاژ 50V جریان 150ma
+
+مشخصات فنی:
+پکیج: TO-92
+پلاریته: PNP
+
+توضیحات کامل:
+Specification
+
+Type Designator: A733
+Material of Transistor: Si
+Polarity: PNP
+Maximum Collector Power Dissipation (Pc): 0.2 W
+Maximum Collector-Base Voltage |Vcb|: 60 V
+Maximum Collector-Emitter Voltage |Vce|: 50 V
+Maximum Emitter-Base Voltage |Veb|: 5 V
+Maximum Collector Current |Ic max|: 0.15 A
+Max. Operating Junction Temperature (Tj): 150 °C
+Transition Frequency (ft): 50 MHz
+Collector Capacitance (Cc): 4.5 pF
+Forward Current Transfer Ratio (hFE), MIN: 120
+

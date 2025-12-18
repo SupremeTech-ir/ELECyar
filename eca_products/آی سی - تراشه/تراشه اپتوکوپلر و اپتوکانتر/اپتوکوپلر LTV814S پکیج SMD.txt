@@ -1,0 +1,58 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/25485-اپتوکوپلر-ltv814s-پکیج-smd.html
+================================================================================
+
+عنوان:
+اپتوکوپلر LTV814S پکیج SMD
+
+قیمت:
+77,400
+
+توضیحات کوتاه:
+اپتوکوپلر LTV814S با ورودی AC/DC و خروجی ترانزیستور NPN، مناسب برای ایزولاسیون سیگنال‌های متناوب و مستقیم در مدارهای صنعتی و کنترلی.
+
+توضیحات کامل:
+اپتوکوپلر LTV814S یک ایزولاتور نوری با ورودی AC و خروجی ترانزیستور NPN است. این قطعه از دو دیود مادون قرمز متصل به‌صورت معکوس موازی در ورودی و یک فوتوترانزیستور سیلیکونی در خروجی تشکیل شده است. این ساختار امکان تشخیص سیگنال‌های متناوب را بدون توجه به قطبیت فراهم می‌سازد و ایزولاسیون الکتریکی موثری بین ورودی و خروجی ایجاد می‌کند. با ولتاژ ایزولاسیون 5000 ولت RMS و جریان خروجی تا 50 میلی‌آمپر، این اپتوکوپلر برای کاربردهایی مانند تشخیص عبور از صفر، ایزولاسیون در ورودی‌های دیجیتال و کنترلرهای صنعتی مناسب است.
+
+مشخصات
+
+ولتاژ شکست کلکتور-امیتر: 35 ولت
+جریان خروجی حداکثر: 50 میلی‌آمپر
+ولتاژ (Vf): حدود 1.2 ولت
+جریان انتقال نوری (CTR): بین 20٪ تا 300٪ در جریان 1 میلی‌آمپر
+ولتاژ ایزولاسیون: 5000 ولت RMS
+زمان روشن/خاموش: حدود 4 میکروثانیه / 3 میکروثانیه
+دمای کاری: از منفی 30 تا مثبت 100 درجه سانتی‌گراد
+پکیج: SMD 
+
+کاربرد
+
+تشخیص عبور از صفر در سیستم‌های کنترل توان
+ایزولاسیون ورودی/خروجی در کنترلرهای منطقی قابل برنامه‌ریزی (PLC)
+ایزولاسیون در مدارهای ابزار دقیق و اندازه‌گیری
+ایزولاسیون سیگنال‌های متناوب و مستقیم در مدارهای صنعتی و کنترلی
+
+Specifications
+
+Product Category: Transistor Output Optocouplers 
+Mounting Style: Through Hole 
+Package/Case: SMD
+Number of Channels: 1 Channel 
+Isolation Voltage: 5000 Vrms 
+Output Type: NPN Phototransistor 
+Current Transfer Ratio - Min: 20 % 
+Current Transfer Ratio - Max: 300 % 
+If - Forward Current: 50 mA 
+Vf - Forward Voltage: 1.4 V 
+Maximum Collector Emitter Voltage: 35 V 
+Maximum Collector Current: 50 mA 
+Maximum Collector Emitter Saturation Voltage: 200 mV 
+Rise Time: 18 us 
+Fall Time: 18 us 
+Pd - Power Dissipation: 200 mW 
+Minimum Operating Temperature: - 30 C 
+Maximum Operating Temperature: + 100 C 
+Configuration: 1 Channel 
+Current Transfer Ratio: 20 %
+Product Type: Transistor Output Optocouplers
+Subcategory: Optocouplers
+

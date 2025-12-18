@@ -1,0 +1,29 @@
+URL: https://eshop.eca.ir/سایر-دیودها/24961-دیود-سوئیچینگ-1n4148w-پکیج-sod-123.html
+================================================================================
+
+عنوان:
+دیود سوئیچینگ 1N4148W پکیج SOD-123
+
+قیمت:
+3,500
+
+توضیحات کوتاه:
+دیود اس ام دی 100 ولت 150 میلی آمپر 1N4148W پکیج SMD SOD-123
+
+توضیحات کامل:
+Specification
+
+Product Category: Diodes - General Purpose, Power, Switching 
+Product: Switching Diodes 
+Mounting Style: SMD/SMT 
+Package / Case: SOD-123 
+Peak Reverse Voltage: 100 V
+If - Forward Current: 150 mA 
+Configuration: Single 
+Recovery Time: 4 ns 
+Vf - Forward Voltage : 1.25 V 
+Ir - Reverse Current: 50 uA 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 150 C 
+Series: 1N4148W T4
+

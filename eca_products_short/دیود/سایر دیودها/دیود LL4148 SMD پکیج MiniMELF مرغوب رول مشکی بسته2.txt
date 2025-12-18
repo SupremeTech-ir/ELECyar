@@ -1,0 +1,54 @@
+URL: https://eshop.eca.ir/سایر-دیودها/24962-دیود-ll4148-smd-پکیج-minimelf-مرغوب-رول-مشکی-بسته2500-تایی.html
+================================================================================
+
+عنوان:
+دیود LL4148 SMD پکیج MiniMELF مرغوب رول مشکی بسته2500 تایی
+
+قیمت:
+7,810,000
+
+توضیحات کوتاه:
+دیدود LL4148 یا 1N4148 با ولتاژ کاری 100 ولت و جریان 0.15 آمپر و افت ولتاژ 1.2 ولت با پکیج SOD-80 (Minimelf)
+
+توضیحات کامل:
+قطعه LL4148 یا 1N4148 یک دیود سریع SMD است که برای کاربردهای سوئیچینگ با فرکانس بالا مورد استفاده قرار می‌گیرد. این دیود با ولتاژ کاری 100 ولت و جریان 0.15 آمپر، عملکردی پایدار و قابل‌اطمینان در مدارهای الکترونیکی ارائه می‌دهد. افت ولتاژ آن 1.2 ولت بوده و به دلیل زمان بازیابی بسیار کوتاه، در مدارهای دیجیتال، مخابراتی و مبدل‌های قدرت کاربرد دارد. این قطعه در پکیج SOD-80 (Minimelf) عرضه می‌شود که نسبت به دیودهای سنتی، ابعاد کوچک‌تر و مقاومت مکانیکی بالاتری دارد.
+
+مشخصات
+
+پارت نامبر دیود: LL4148 یا 1N4148
+نوع: دیود سیگنال سریع (Fast Switching)
+ولتاژ کاری (VR): 100 ولت
+حداکثر جریان مستقیم (IF): 150 میلی آمپر 
+حداکثر جریان لحظه‌ای (IFSM): 2 آمپر
+افت ولتاژ در بایاس مستقیم (VF): 1 ولت در جریان 10 میلی‌آمپر
+زمان بازیابی معکوس (trr): 4 نانوثانیه
+ظرفیت خازنی پیوند (CJ): 4 پیکوفاراد
+ نوع پکیج: SOD-80 (Minimelf)
+
+کاربردها
+
+ مدارهای سوئیچینگ سریع، مخابرات، مبدل‌های قدرت، مدارهای دیجیتال و تقویت‌کننده‌ها
+
+Specification
+
+Product Category: Small Signal Switching Diodes 
+Product: General Purpose Diodes 
+Mounting Style: SMD/SMT 
+Package / Case: SOD-80 (Minimelf) 
+Peak Reverse Voltage: 100 V 
+Max Surge Current: 2 A 
+If - Forward Current: 150 mA 
+Configuration: Single 
+Recovery Time: 4 ns 
+Vf - Forward Voltage: 1 V 
+Ir - Reverse Current: 25 nA 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 175 C 
+Series: LL4148 
+Height: 1.5 mm 
+Length: 3.6 mm 
+Product Type: Diodes - General Purpose, Power, Switching
+Subcategory: Diodes & Rectifiers 
+Type: Small Signal Switching Diode 
+Vr - Reverse Voltage: 100 V
+

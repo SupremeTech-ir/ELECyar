@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/ترانزیستور-bjt/10166-ترانزیستور-d880-نوع-npn-پکیج-to-220.html
+================================================================================
+
+عنوان:
+ترانزیستور D880 نوع NPN پکیج TO-220
+
+قیمت:
+122,000
+
+توضیحات کوتاه:
+ترانزیستور D880 نوع NPN پکیج TO-220 ولتاژ60V جریان 3A
+
+مشخصات فنی:
+پکیج: TO-220
+پلاریته: NPN
+
+توضیحات کامل:
+Specification
+
+Product Category: Bipolar Transistors - BJT
+Mounting Style: Through Hole
+Transistor Polarity: NPN 
+Configuration: Single 
+Collector- Emitter Voltage VCEO Max: 60 V 
+Collector- Base Voltage VCBO: 60 V 
+Emitter- Base Voltage VEBO: 7 V 
+Collector-Emitter Saturation Voltage: 400 mV 
+Maximum DC Collector Current: 3 A 
+Pd - Power Dissipation: 30 W 
+Gain Bandwidth Product fT: 3 MHz
+Maximum Operating Temperature: + 150 C
+Packaging: Tube 
+Brand: onsemi / Fairchild 
+Continuous Collector Current: 3 A 
+DC Collector/Base Gain hfe Min: 60 
+DC Current Gain hFE Max: 300 
+Height: 9.4 mm 
+Length: 10.1 mm 
+Subcategory: Transistors 
+Technology: Si 
+Package / Case: TO-220-3
+

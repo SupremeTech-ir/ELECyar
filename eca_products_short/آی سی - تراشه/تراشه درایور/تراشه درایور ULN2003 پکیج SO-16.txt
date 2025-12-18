@@ -1,0 +1,34 @@
+URL: https://eshop.eca.ir/تراشه-درایور/1510-تراشه-درایور-uln2003-پکیج-so-16.html
+================================================================================
+
+عنوان:
+تراشه درایور ULN2003 پکیج SO-16
+
+قیمت:
+33,900
+
+توضیحات کوتاه:
+آی سی درایور ULN2003 پکیج SMD 
+
+توضیحات کامل:
+Specification
+
+Product Category: Darlington Transistors 
+Configuration: Array 7 
+Transistor Polarity: NPN 
+Collector- Emitter Voltage VCEO Max: 50 V 
+Maximum DC Collector Current: 0.5 A 
+Mounting Style: SMD/SMT 
+Package / Case: SO-16 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 85 C 
+Series: ULN2003 
+Packaging: Cut Tape 
+Packaging: MouseReel 
+Packaging: Reel 
+Height: 1.65 mm 
+Length: 10 mm 
+Width: 4 mm 
+Brand: STMicroelectronics 
+Product Type: Darlington Transistors
+

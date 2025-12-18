@@ -1,0 +1,42 @@
+URL: https://eshop.eca.ir/تراشه-اپتوکوپلر-و-اپتوکانتر/2202-تراشه-اپتوکوپلر-moc3063-پکیج-dip.html
+================================================================================
+
+عنوان:
+تراشه اپتوکوپلر MOC3063 پکیج DIP
+
+قیمت:
+128,000
+
+توضیحات کوتاه:
+آی سی اپتوکوپلر MOC3063 با خروجی فتوترایاک 
+
+توضیحات کامل:
+معرفی
+
+MOC3063 یک اپتوکوپلر با خروجی فتوترایاک می باشد.این قطعه برای راه اندازی موتورهای AC ،رله های حالت جامد و کنترل دما و روشنایی مناسب می باشد.
+
+Specification 
+Manufacturer: Lite-On 
+Product Category: Triac & SCR Output Optocouplers 
+RoHS: Details 
+Package / Case: PDIP-6 
+Zero-Crossing Circuit: With Zero-Crossing Circuit 
+Output Type: PhotoTriac 
+Number of Channels: 1 Channel 
+Isolation Voltage: 5000 Vrms 
+If - Forward Current: 50 mA 
+Vf - Forward Voltage: 1.2 V 
+Pd - Power Dissipation: 250 mW 
+Off-state Output Voltage - VDRM: 600 V 
+Minimum Operating Temperature: - 40 C 
+Maximum Operating Temperature: + 100 C 
+Packaging: Tube 
+Height: 3.5 mm 
+Length: 7.3 mm 
+Width: 6.5 mm 
+Brand: Lite-On 
+Mounting Style: Through Hole 
+Maximum Trigger Current: 5 mA 
+Maximum Turn-On Time: 20 us 
+Product Type: Triac & SCR Output Optocouplers
+

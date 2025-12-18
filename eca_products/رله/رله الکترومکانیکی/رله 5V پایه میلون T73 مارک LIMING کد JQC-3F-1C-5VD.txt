@@ -1,0 +1,35 @@
+URL: https://eshop.eca.ir/رله-الکترومکانیکی/615-رله-5v-پایه-میلون-t73-مارک-liming-کد-jqc-3f-1c-5vdc.html
+================================================================================
+
+عنوان:
+رله 5V پایه میلون T73 مارک LIMING کد JQC-3F-1C-5VDC
+
+قیمت:
+162,000
+
+توضیحات کوتاه:
+رله 7 آمپر 240 ولت AC و 10 آمپر 28 ولت DC دارای 1 کنتاکت 5 پایه لیمینگ Liming
+
+توضیحات کامل:
+Specification
+
+Outline Dimension(L×W×H): 19×15.5×15.5
+Dielectric Strengh Between Open Contact: 750VAC
+Contact Form: 1A,1B,1C
+Between Coil and Contact: 1500VAC
+Contact Resistance: 100 mΩ
+Coil Voltage: 5VDC ~ 48VDC
+Electrical: 10^5
+Mechanical: 10^7
+Pick-up Voltage: ≤75% 
+Temperature Range: -40~ +70℃
+Release Voltage: ≥10%
+Coil Power(W): 0.36
+Contact transfer Current(A): 15A
+Mounting Form: PCB Terminal
+Contact Rating: 10A 120VAC
+7A 240VAC
+10A/15A  28VDC
+Weight: 10g
+Insulation Resistance: 100 MΩ
+

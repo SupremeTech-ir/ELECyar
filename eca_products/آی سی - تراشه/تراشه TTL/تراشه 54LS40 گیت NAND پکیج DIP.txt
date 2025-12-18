@@ -1,0 +1,23 @@
+URL: https://eshop.eca.ir/تراشه-ttl/14627-تراشه-54ls40-پکیچ-dip.html
+================================================================================
+
+عنوان:
+تراشه 54LS40 گیت NAND پکیج DIP
+
+قیمت:
+85,400
+
+توضیحات کوتاه:
+آی سی منطقی 54LS40 شامل 4 ورودی 2 کانال گیت NOT پکیج DIP
+
+توضیحات کامل:
+Specification
+
+Supply voltage: 4.75V to 5.25V
+Input voltage: 0V to 5.25V
+Maximum clock frequency: 33 MHz
+Propagation delay time: 12 ns (typical)
+Output current: -0.4 mA to 8 mA
+Power dissipation: 65 mW
+Operating temperature range: 0°C to 70°C
+

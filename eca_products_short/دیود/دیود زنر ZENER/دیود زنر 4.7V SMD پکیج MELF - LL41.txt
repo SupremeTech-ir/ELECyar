@@ -1,0 +1,36 @@
+URL: https://eshop.eca.ir/دیود-زنر-zener/21479-دیود-زنر-47v-smd-پکیج-melf-ll41.html
+================================================================================
+
+عنوان:
+دیود زنر 4.7V SMD پکیج MELF - LL41
+
+قیمت:
+14,100
+
+توضیحات کوتاه:
+دیود زنر 4.7 ولت 1 وات MELF - LL41
+
+توضیحات کامل:
+Specification
+
+Product Category: Zener Diodes
+Part.Nom: ZM4732A
+Mounting Style: SMD/SMT 
+Package / Case: MELF 
+Vz - Zener Voltage: 4.7 V 
+Voltage Tolerance: 5 % 
+Pd - Power Dissipation: 1 W 
+Zener Current: 10 uA 
+Zz - Zener Impedance: 8 Ohms 
+Minimum Operating Temperature: - 65 C 
+Maximum Operating Temperature: + 175 C 
+Configuration: Single 
+Test Current: 53 mA 
+Packaging: Reel 
+Packaging: Cut Tape 
+Brand: Taiwan Semiconductor 
+Diameter: 2.67 mm 
+Ir - Maximum Reverse Leakage Current: 10 uA 
+Length: 5.5 mm 
+Product Type: Zener Diodes
+
